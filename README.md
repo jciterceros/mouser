@@ -65,6 +65,9 @@ src/
 
 ## 🔍 Funcionalidades Detalhadas
 
+## Link de acesso 
+- Produção: [https://mouser-production.up.railway.app](https://mouser-production.up.railway.app)
+
 ### Sistema de Busca
 - Busca em tempo real
 - Suporte a múltiplos campos de busca
