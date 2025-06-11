@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "VQ",
+    "package": "DFN-4 1x1",
+    "deviceName": "NCP4586DMU25TCG",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp4586_r5_on.pdf"
+  },
+  {
+    "smdCode": "VQ",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K251D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VQ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-20PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  }
+]

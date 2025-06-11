@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "6K",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ256C",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "6K***",
+    "package": "SOT-23",
+    "deviceName": "TP0610K",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tp0610k_vishay.pdf"
+  }
+]

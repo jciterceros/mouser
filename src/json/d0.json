@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "D0",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "D0-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-31PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "D032",
+    "package": "SOT-25",
+    "deviceName": "CM1293-02ST",
+    "manufacturer": "CMD (Now ON)",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293_series_cmd.pdf"
+  },
+  {
+    "smdCode": "D033",
+    "package": "SOT-25",
+    "deviceName": "CM1293-02SO",
+    "manufacturer": "CMD (Now ON)",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293_series_cmd.pdf"
+  },
+  {
+    "smdCode": "D034",
+    "package": "SOT-26",
+    "deviceName": "CM1293-04ST",
+    "manufacturer": "CMD (Now ON)",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293_series_cmd.pdf"
+  },
+  {
+    "smdCode": "D035",
+    "package": "SOT-26",
+    "deviceName": "CM1293-04SO",
+    "manufacturer": "CMD (Now ON)",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293_series_cmd.pdf"
+  },
+  {
+    "smdCode": "D036",
+    "package": "SOT-143",
+    "deviceName": "CM1293-02SR",
+    "manufacturer": "CMD (Now ON)",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293_series_cmd.pdf"
+  },
+  {
+    "smdCode": "D038",
+    "package": "MSOP-10",
+    "deviceName": "CM1293-08MS",
+    "manufacturer": "CMD (Now ON)",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293_series_cmd.pdf"
+  },
+  {
+    "smdCode": "D039",
+    "package": "MSOP-10",
+    "deviceName": "CM1293-08MR",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293-08mr_on.pdf"
+  },
+  {
+    "smdCode": "D040",
+    "package": "MSOP-10",
+    "deviceName": "CM1293-04MS",
+    "manufacturer": "CMD (Now ON)",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293_series_cmd.pdf"
+  },
+  {
+    "smdCode": "D041",
+    "package": "MSOP-10",
+    "deviceName": "CM1293-04MR",
+    "manufacturer": "CMD (Now ON)",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293_series_cmd.pdf"
+  },
+  {
+    "smdCode": "D0=***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-31GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  }
+]

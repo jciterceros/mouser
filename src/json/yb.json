@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "YB",
+    "package": "SOT-23",
+    "deviceName": "CZMK13",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "YB",
+    "package": "SOD-123",
+    "deviceName": "KDZ16B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "YB",
+    "package": "SOD-323",
+    "deviceName": "PZU2.7B2A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "YB",
+    "package": "2-2H1A",
+    "deviceName": "RN2102F",
+    "manufacturer": "Toshiba",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn2101f-rn2106f_toshiba.pdf"
+  },
+  {
+    "smdCode": "YB",
+    "package": "SOT-23",
+    "deviceName": "TZT13CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "YB-***",
+    "package": "SOT-25",
+    "deviceName": "RT9715FPB",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "YB=***",
+    "package": "SOT-25",
+    "deviceName": "RT9715FGB",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "YBs",
+    "package": "SOT-23",
+    "deviceName": "BSS84P",
+    "manufacturer": "Infineon",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84p_infineon.pdf"
+  }
+]

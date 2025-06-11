@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "PF",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q451D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "PF-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C27",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PFKI",
+    "package": "SOT-25",
+    "deviceName": "TPS60400DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps60400%2C_tps60401%2C_tps60402%2C_tps60403_ti.pdf"
+  },
+  {
+    "smdCode": "PFLI",
+    "package": "SOT-25",
+    "deviceName": "TPS60401DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps60400%2C_tps60401%2C_tps60402%2C_tps60403_ti.pdf"
+  },
+  {
+    "smdCode": "PFMI",
+    "package": "SOT-25",
+    "deviceName": "TPS60402DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps60400%2C_tps60401%2C_tps60402%2C_tps60403_ti.pdf"
+  },
+  {
+    "smdCode": "PFNI",
+    "package": "SOT-25",
+    "deviceName": "TPS60403DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps60400%2C_tps60401%2C_tps60402%2C_tps60403_ti.pdf"
+  },
+  {
+    "smdCode": "PFW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C27",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PFp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C27",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PFt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C27",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Pf",
+    "package": "SOT-25",
+    "deviceName": "BD52E58G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

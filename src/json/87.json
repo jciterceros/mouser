@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "87",
+    "package": "SOT-23",
+    "deviceName": "MMBD1703",
+    "manufacturer": "Fairchild",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1701%2C_mmbd1703%2C_mmbd1704%2C_mmbd1705_fairchild.pdf"
+  },
+  {
+    "smdCode": "870B",
+    "package": "QFN-20 3x4",
+    "deviceName": "ISL95870BHRZ",
+    "manufacturer": "Intersil",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl95870%2C_isl95870a%2C_isl95870b_intersil.pdf"
+  },
+  {
+    "smdCode": "870I",
+    "package": "QFN-20 3x4",
+    "deviceName": "ISL95870BIRZ",
+    "manufacturer": "Intersil",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl95870%2C_isl95870a%2C_isl95870b_intersil.pdf"
+  },
+  {
+    "smdCode": "8724",
+    "package": "MLPQ-16 4x4",
+    "deviceName": "SX8724",
+    "manufacturer": "Semtech",
+    "data": "ZoomingADC for Pressure and Temperature Sensing",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/x/sx8724_semtech.pdf"
+  },
+  {
+    "smdCode": "8725",
+    "package": "MLPD-W-12 4x4",
+    "deviceName": "SX8725",
+    "manufacturer": "Semtech",
+    "data": "ZoomingADC for Pressure and Temperature Sensing",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/x/sx8725_semtech.pdf"
+  },
+  {
+    "smdCode": "8731**",
+    "package": "QFN-28 5x5",
+    "deviceName": "MAX8731ETI",
+    "manufacturer": "Maxim",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8731_maxim.pdf"
+  },
+  {
+    "smdCode": "879",
+    "package": "SOT-89",
+    "deviceName": "HM879",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/m/hm879_galaxy.pdf"
+  },
+  {
+    "smdCode": "87A",
+    "package": "SOT-23",
+    "deviceName": "MMBD1703A",
+    "manufacturer": "Fairchild",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1701%2C_mmbd1703%2C_mmbd1704%2C_mmbd1705_fairchild.pdf"
+  },
+  {
+    "smdCode": "87C",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C8V7",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "87C",
+    "package": "SOT-23",
+    "deviceName": "BZX84C8V7-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "NY",
+    "package": "SOT-89",
+    "deviceName": "2SA1213",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1213_galaxy.pdf"
+  },
+  {
+    "smdCode": "NY",
+    "package": "SOT-89",
+    "deviceName": "2SA1213-Y",
+    "manufacturer": "MCC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1213_mcc.pdf"
+  },
+  {
+    "smdCode": "NY",
+    "package": "SOD-323",
+    "deviceName": "PZU5.1B2A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Ny",
+    "package": "SOT-25",
+    "deviceName": "BD52E52G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

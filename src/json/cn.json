@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "CN",
+    "package": "SOT-89",
+    "deviceName": "2SC4548",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4548_galaxy.pdf"
+  },
+  {
+    "smdCode": "CN",
+    "package": "SOT-891",
+    "deviceName": "74AHCT1G126GF",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g126%2C_74ahct1g126_r8_nxp.pdf"
+  },
+  {
+    "smdCode": "CN",
+    "package": "SOT-886",
+    "deviceName": "74AHCT1G126GM",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g126%2C_74ahct1g126_r8_nxp.pdf"
+  },
+  {
+    "smdCode": "CN",
+    "package": "SOT-353",
+    "deviceName": "74AHCT1G126GW",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g126%2C_74ahct1g126_r8_nxp.pdf"
+  },
+  {
+    "smdCode": "CN",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4686-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "CN**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US25D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "Cn",
+    "package": "SOT-25",
+    "deviceName": "BD49E23G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Cn",
+    "package": "SOT-23",
+    "deviceName": "BD49K23G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

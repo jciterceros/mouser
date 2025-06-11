@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "JX",
+    "package": "SOT-23",
+    "deviceName": "BAV170",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav170_galaxy.pdf"
+  },
+  {
+    "smdCode": "JX-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-36PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  }
+]

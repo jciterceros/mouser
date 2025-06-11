@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "X0**",
+    "package": "SOT-23",
+    "deviceName": "AO3400A",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao3400a_r3_ao.pdf"
+  },
+  {
+    "smdCode": "X0-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198T-18PBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198t_richtek.pdf"
+  },
+  {
+    "smdCode": "X01",
+    "package": "SOT-26",
+    "deviceName": "QSX1",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qsx1_rohm.pdf"
+  },
+  {
+    "smdCode": "X02",
+    "package": "SOT-26",
+    "deviceName": "QSX2",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qsx2_rohm.pdf"
+  },
+  {
+    "smdCode": "X05",
+    "package": "SOT-26",
+    "deviceName": "QSX5",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qsx5_rohm.pdf"
+  },
+  {
+    "smdCode": "X06",
+    "package": "SOT-26",
+    "deviceName": "QSX6",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qsx6_rohm.pdf"
+  },
+  {
+    "smdCode": "X07",
+    "package": "SOT-26",
+    "deviceName": "QSX7",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qsx7_rohm.pdf"
+  },
+  {
+    "smdCode": "X08",
+    "package": "SOT-26",
+    "deviceName": "QSX8",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qsx8_rohm.pdf"
+  }
+]

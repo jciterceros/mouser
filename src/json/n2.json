@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "N2",
+    "package": "SOT-26",
+    "deviceName": "BC807DS",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807ds_philips.pdf"
+  },
+  {
+    "smdCode": "N2",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B39",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "N2",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5262",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "N2**",
+    "package": "SOT-23",
+    "deviceName": "AP2302GN",
+    "manufacturer": "Apec",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2302gn_20050114_apec.pdf"
+  },
+  {
+    "smdCode": "N2***",
+    "package": "SOT-23",
+    "deviceName": "Si2302CDS",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2302cds_rd_vishay.pdf"
+  },
+  {
+    "smdCode": "N20",
+    "package": "SOT-23",
+    "deviceName": "BSN20-7",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsn20_r8-2_diodes.pdf"
+  },
+  {
+    "smdCode": "N20",
+    "package": "SOT-23",
+    "deviceName": "BSN20Q-7",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsn20_r8-2_diodes.pdf"
+  },
+  {
+    "smdCode": "N23",
+    "package": "SOT-23",
+    "deviceName": "DDTC115TCA",
+    "manufacturer": "Diodes",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtcxxxtca-series_r9-2_diodes.pdf"
+  },
+  {
+    "smdCode": "N25",
+    "package": "SOT-23",
+    "deviceName": "DDTC125TCA",
+    "manufacturer": "Diodes",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtcxxxtca-series_r9-2_diodes.pdf"
+  }
+]

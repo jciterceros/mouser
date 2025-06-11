@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "1T",
+    "package": "SOT-23",
+    "deviceName": "S9011",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/9/s9011_galaxy.pdf"
+  },
+  {
+    "smdCode": "1T=***",
+    "package": "SOT-25",
+    "deviceName": "RT9715DGB",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "1TIL",
+    "package": "TSOT-25",
+    "deviceName": "ICS5OSK481TILF",
+    "manufacturer": "IDT",
+    "data": "Clock source",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/c/ics5osk481tilf_idt.pdf"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "smdCode": "W2",
+    "package": "TSLP-3-4",
+    "deviceName": "BCR189L3",
+    "manufacturer": "Infineon",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr189_series_infineon.pdf"
+  },
+  {
+    "smdCode": "W2",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C2V7",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "W2",
+    "package": "SOD-123",
+    "deviceName": "BZT52C3V0",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "W2",
+    "package": "SOT-23",
+    "deviceName": "BZX84C2V7",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "W2",
+    "package": "SOT-23",
+    "deviceName": "BZX84C2V7-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "W2**",
+    "package": "QFN-10 3x3",
+    "deviceName": "MP38115DQ",
+    "manufacturer": "MPS",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/p/mp38115_r0.92_mps.pdf"
+  },
+  {
+    "smdCode": "W2***",
+    "package": "SOT-25",
+    "deviceName": "APX823-44W5",
+    "manufacturer": "Diodes",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apx823%2C_apx824%2C_apx825a_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "W2-***",
+    "package": "SOT-25",
+    "deviceName": "RT9818C-30PB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "W24*",
+    "package": "SOT-26",
+    "deviceName": "APW8824CTITRG",
+    "manufacturer": "Anpec",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apw8824_ra.2_anpec.pdf"
+  },
+  {
+    "smdCode": "W25F",
+    "package": "SOT-26",
+    "deviceName": "MIC3291-25YD6",
+    "manufacturer": "Micrel",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic3291_201010_micrel.pdf"
+  },
+  {
+    "smdCode": "W2A",
+    "package": "SOT-323",
+    "deviceName": "PMST3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmst3906_nxp.pdf"
+  },
+  {
+    "smdCode": "W2B",
+    "package": "SOT-23",
+    "deviceName": "PMBT2907",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt2907a%2C_pmbt2907a_nxp.pdf"
+  },
+  {
+    "smdCode": "W2D",
+    "package": "SOT-323",
+    "deviceName": "PMSTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmsta92_nxp.pdf"
+  },
+  {
+    "smdCode": "W2D",
+    "package": "SOT-89",
+    "deviceName": "PXTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/x/pxta92_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "W2E",
+    "package": "SOT-23",
+    "deviceName": "2N7002E",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002e_philips.pdf"
+  },
+  {
+    "smdCode": "W2F",
+    "package": "SOT-23",
+    "deviceName": "PMBT2907A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt2907a%2C_pmbt2907a_nxp.pdf"
+  },
+  {
+    "smdCode": "W2K",
+    "package": "SOT-23",
+    "deviceName": "2N7002K",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_philips.pdf"
+  },
+  {
+    "smdCode": "W2L",
+    "package": "SOT-23",
+    "deviceName": "PMBT5401",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt5401_2004.01.21_nxp.pdf"
+  },
+  {
+    "smdCode": "W2X",
+    "package": "SOT-23",
+    "deviceName": "PMBT4401",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt4401_philips.pdf"
+  },
+  {
+    "smdCode": "W2s",
+    "package": "SOT-23",
+    "deviceName": "BCR189",
+    "manufacturer": "Infineon",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr189_series_infineon.pdf"
+  },
+  {
+    "smdCode": "W2s",
+    "package": "TSLP-3",
+    "deviceName": "BCR189F",
+    "manufacturer": "Infineon",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr189_series_infineon.pdf"
+  },
+  {
+    "smdCode": "W2s",
+    "package": "SOT-523",
+    "deviceName": "BCR189T",
+    "manufacturer": "Infineon",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr189_series_infineon.pdf"
+  },
+  {
+    "smdCode": "W2s",
+    "package": "SOT-523",
+    "deviceName": "BCR189T",
+    "manufacturer": "Infineon",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr189_series_infineon.pdf"
+  }
+]

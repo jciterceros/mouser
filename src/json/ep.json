@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "EP",
+    "package": "SOT-25",
+    "deviceName": "BD4853G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EP",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B51",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "EP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ3L0",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "EP",
+    "package": "SMB",
+    "deviceName": "SMBJ160CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "EP **",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8223LZQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8223l%2C_rt8223m_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "EP*",
+    "package": "SOT-553",
+    "deviceName": "BD4853FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EP*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8016-12PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8016_richtek.pdf"
+  },
+  {
+    "smdCode": "EP**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US30D3-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "EP=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8223LGQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8223l%2C_rt8223m_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "Ep",
+    "package": "SOT-25",
+    "deviceName": "BD49E52G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ep",
+    "package": "SOT-23",
+    "deviceName": "BD49K52G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

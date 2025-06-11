@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "YY",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "YY",
+    "package": "SOD-323",
+    "deviceName": "PZU3.3B2A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "YY1",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA11V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "YY2",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA12V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "YY3",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA13V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "YY4",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA15V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "YY5",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA16V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "YY6",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA18V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "YY7",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA20V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "YY8",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA22V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "YY9",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA24V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  }
+]

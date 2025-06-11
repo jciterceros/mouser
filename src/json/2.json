@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "2",
+    "package": "SOD-323",
+    "deviceName": "BAR64-03W",
+    "manufacturer": "Infineon",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar64_series_infineon.pdf"
+  }
+]

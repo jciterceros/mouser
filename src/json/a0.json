@@ -1,0 +1,178 @@
+[
+  {
+    "smdCode": "A0*",
+    "package": "SOT-23",
+    "deviceName": "HSMS-2800",
+    "manufacturer": "Agilent",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsms-2800_series_agilent.pdf"
+  },
+  {
+    "smdCode": "A0*",
+    "package": "SOT-323",
+    "deviceName": "HSMS-280B",
+    "manufacturer": "Agilent",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsms-2800_series_agilent.pdf"
+  },
+  {
+    "smdCode": "A0*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-DKPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "A0**",
+    "package": "SOT-23",
+    "deviceName": "AO3400",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao3400_r8_ao.pdf"
+  },
+  {
+    "smdCode": "A0-**",
+    "package": "MSOP-10",
+    "deviceName": "RT9026PFP",
+    "manufacturer": "Richtek",
+    "data": "Bus Termination Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9026_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "A0-***",
+    "package": "SOT-25",
+    "deviceName": "RT8008-25PJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8008_richtek.pdf"
+  },
+  {
+    "smdCode": "A0-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-JSPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "A0-***",
+    "package": "SOT-353",
+    "deviceName": "RT9193-17PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "A0-***",
+    "package": "SOT-343",
+    "deviceName": "RT9818E-23PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "A00",
+    "package": "SOT-753",
+    "deviceName": "74AHC1G00GV",
+    "manufacturer": "NXP",
+    "data": "NAND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g00%2C_74ahct1g00_nxp.pdf"
+  },
+  {
+    "smdCode": "A01",
+    "package": "SOT-23",
+    "deviceName": "SST201",
+    "manufacturer": "Calogic Corporation",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/2/j201-j204%2C_sst201-sst204_calogic.pdf"
+  },
+  {
+    "smdCode": "A02",
+    "package": "SOT-23",
+    "deviceName": "SST202",
+    "manufacturer": "Calogic Corporation",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/2/j201-j204%2C_sst201-sst204_calogic.pdf"
+  },
+  {
+    "smdCode": "A03",
+    "package": "SOT-23",
+    "deviceName": "SST203",
+    "manufacturer": "Calogic Corporation",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/2/j201-j204%2C_sst201-sst204_calogic.pdf"
+  },
+  {
+    "smdCode": "A04",
+    "package": "SOT-523F",
+    "deviceName": "MMBT3904T",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904t_r1.0.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "A04",
+    "package": "SOT-23",
+    "deviceName": "SST204",
+    "manufacturer": "Calogic Corporation",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/2/j201-j204%2C_sst201-sst204_calogic.pdf"
+  },
+  {
+    "smdCode": "A06",
+    "package": "SOT-523F",
+    "deviceName": "MMBT3906T",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906t_r1.0.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "A08",
+    "package": "SOT-753",
+    "deviceName": "74AHC1G08GV",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g08%2C_74ahct1g08_r7_nxp.pdf"
+  },
+  {
+    "smdCode": "A09",
+    "package": "SOT-353",
+    "deviceName": "74AHC1G09GV",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g09_nxp.pdf"
+  },
+  {
+    "smdCode": "A09*",
+    "package": "SOT-23",
+    "deviceName": "ELM9709NBA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "A0=**",
+    "package": "WQFN-14 3.5x3.5",
+    "deviceName": "RT8209BGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8209a%2C_rt8209b%2C_rt8209c_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "A0=**",
+    "package": "MSOP-10",
+    "deviceName": "RT9026GFP",
+    "manufacturer": "Richtek",
+    "data": "Bus Termination Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9026_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "A0=***",
+    "package": "SOT-25",
+    "deviceName": "RT8008-25GJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8008_richtek.pdf"
+  }
+]

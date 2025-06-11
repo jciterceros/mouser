@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "E",
+    "package": "SOD-323",
+    "deviceName": "1SS380",
+    "manufacturer": "TIP",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss380_tip.pdf"
+  },
+  {
+    "smdCode": "E",
+    "package": "DSBGA-5",
+    "deviceName": "LM3671TL-ADJ",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "E",
+    "package": "SOT-563",
+    "deviceName": "Si1026X",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1026x_rd_vishay.pdf"
+  }
+]

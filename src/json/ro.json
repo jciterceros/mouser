@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "RO",
+    "package": "SOT-89",
+    "deviceName": "2SA1204",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1204_galaxy.pdf"
+  },
+  {
+    "smdCode": "RO",
+    "package": "SOT-89",
+    "deviceName": "2SA1664",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1664_galaxy.pdf"
+  },
+  {
+    "smdCode": "RO",
+    "package": "SOT-23",
+    "deviceName": "KTC3879",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3879_galaxy.pdf"
+  },
+  {
+    "smdCode": "RO***",
+    "package": "SOT-26",
+    "deviceName": "APE8858Y-HF",
+    "manufacturer": "Apec",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ape8858_apec.pdf"
+  },
+  {
+    "smdCode": "RO1",
+    "package": "SOT-23",
+    "deviceName": "2SC2715",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2715_tip.pdf"
+  },
+  {
+    "smdCode": "RO1A",
+    "package": "SOT-25",
+    "deviceName": "REG101NA-A",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/reg101_rd_ti.pdf"
+  },
+  {
+    "smdCode": "RO1B",
+    "package": "SOT-25",
+    "deviceName": "REG101NA-5",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/reg101_rd_ti.pdf"
+  },
+  {
+    "smdCode": "RO1C",
+    "package": "SOT-25",
+    "deviceName": "REG101NA-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/reg101_rd_ti.pdf"
+  },
+  {
+    "smdCode": "RO1D",
+    "package": "SOT-25",
+    "deviceName": "REG101NA-3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/reg101_rd_ti.pdf"
+  },
+  {
+    "smdCode": "RO1E",
+    "package": "SOT-25",
+    "deviceName": "REG101NA-2.8",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/reg101_rd_ti.pdf"
+  },
+  {
+    "smdCode": "RO1G",
+    "package": "SOT-25",
+    "deviceName": "REG101NA-2.5",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/reg101_rd_ti.pdf"
+  },
+  {
+    "smdCode": "RO1N",
+    "package": "SOT-25",
+    "deviceName": "REG101NA-2.85",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/reg101_rd_ti.pdf"
+  }
+]

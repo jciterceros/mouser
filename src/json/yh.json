@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "YH",
+    "package": "SOT-23",
+    "deviceName": "CZMK24",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "YH",
+    "package": "SOD-323",
+    "deviceName": "PZU22B1A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "YH",
+    "package": "2-2HA1A",
+    "deviceName": "RN2107F",
+    "manufacturer": "Toshiba",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn2107f%2C_rn2108f%2C_rn2109f_toshiba.pdf"
+  },
+  {
+    "smdCode": "YH",
+    "package": "SOT-23",
+    "deviceName": "TZT24CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "YH-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-19PBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  }
+]

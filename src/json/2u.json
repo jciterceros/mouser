@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "2U",
+    "package": "SOT-23",
+    "deviceName": "KST63",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst63%2C_kst64_fairchild.pdf"
+  },
+  {
+    "smdCode": "2U",
+    "package": "SOT-23",
+    "deviceName": "MMBTA63",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta63%2C_mmbta64_galaxy.pdf"
+  }
+]

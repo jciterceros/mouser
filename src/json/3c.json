@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "3C",
+    "package": "SOT-363",
+    "deviceName": "BC857S",
+    "manufacturer": "TIP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc857s_tip.pdf"
+  },
+  {
+    "smdCode": "3C",
+    "package": "SOT-23",
+    "deviceName": "FMMTA20R",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmta20_zetex.pdf"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "05",
+    "package": "SOT-416",
+    "deviceName": "PDTA124EE",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "05",
+    "package": "SOT-23",
+    "deviceName": "PSOT05",
+    "manufacturer": "Protek",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  },
+  {
+    "smdCode": "05",
+    "package": "SOT-23",
+    "deviceName": "SSTPAD5",
+    "manufacturer": "Siliconix (Now Vishay)",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/p/jpad5_jpad50_pad1_pad5_pad50_sstpad5_sstpad100_siliconix.pdf"
+  },
+  {
+    "smdCode": "05",
+    "package": "SOD-323",
+    "deviceName": "UDZS10B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "05*",
+    "package": "WDFN-8 2x3",
+    "deviceName": "RT9526AGQW",
+    "manufacturer": "Richtek",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9526a_r03_richtek.pdf"
+  },
+  {
+    "smdCode": "05**",
+    "package": "SOT-23",
+    "deviceName": "ST2305A",
+    "manufacturer": "Stanson",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st2305a_r1_stanson.pdf"
+  },
+  {
+    "smdCode": "050N03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC050N03LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc050n03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "050N03MS",
+    "package": "TDSON-8",
+    "deviceName": "BSC050N03MS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc050n03msg_infineon.pdf"
+  },
+  {
+    "smdCode": "050N04LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC050N04LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc050n04lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "054N04NS",
+    "package": "TDSON-8",
+    "deviceName": "BSC054N04NS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc054n04nsg_infineon.pdf"
+  },
+  {
+    "smdCode": "056",
+    "package": "SOT-23",
+    "deviceName": "ZXTP25100BFH",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxtp25100bfh_zetex.pdf"
+  },
+  {
+    "smdCode": "057N03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC057N03LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc057n03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "057N03MS",
+    "package": "TDSON-8",
+    "deviceName": "BSC057N03MS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc057n03msg_infineon.pdf"
+  },
+  {
+    "smdCode": "057N08NS",
+    "package": "TDSON-8",
+    "deviceName": "BSC057N08NS3 G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc057n08ns3g_infineon.pdf"
+  },
+  {
+    "smdCode": "059N04LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC059N04LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc059n04lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "05C",
+    "package": "SOT-23",
+    "deviceName": "PSOT05C",
+    "manufacturer": "Protek",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  },
+  {
+    "smdCode": "05F",
+    "package": "SOT-346",
+    "deviceName": "RB400D",
+    "manufacturer": "MCC",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb400d_rb411d_mcc.pdf"
+  },
+  {
+    "smdCode": "05T",
+    "package": "SOT-346",
+    "deviceName": "RB411D",
+    "manufacturer": "MCC",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb400d_rb411d_mcc.pdf"
+  }
+]

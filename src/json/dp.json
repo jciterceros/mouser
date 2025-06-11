@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "DP",
+    "package": "SOT-89",
+    "deviceName": "2SD2195",
+    "manufacturer": "ROHM",
+    "data": "NPN Darlington transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1867%2C_2sd1980%2C_2sd2195_rohm.pdf"
+  },
+  {
+    "smdCode": "DP",
+    "package": "SOT-25",
+    "deviceName": "BD4833G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "DP",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C39",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ2L8",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "DP",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4704-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "DP",
+    "package": "SOT-883",
+    "deviceName": "PDTA143ZM",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta143ze%2C_pdta143zm%2C_pdta143zt%2C_pdta143zu_nxp.pdf"
+  },
+  {
+    "smdCode": "DP",
+    "package": "SMB",
+    "deviceName": "SMBJ70CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "DP",
+    "package": "SOT-363",
+    "deviceName": "SSM6N15FU",
+    "manufacturer": "Toshiba",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ssm6n15fu_20140301_toshiba.pdf"
+  },
+  {
+    "smdCode": "DP",
+    "package": "SOD-123F",
+    "deviceName": "ZT52H-B6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DP*",
+    "package": "SOT-553",
+    "deviceName": "BD4833FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "DP*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-SSPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "DP**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US27D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "DP***",
+    "package": "SOT-25",
+    "deviceName": "AP131-30W",
+    "manufacturer": "Diodes",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap131_r7_diodes.pdf"
+  },
+  {
+    "smdCode": "DP-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-25PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "DP=***",
+    "package": "SOT-26",
+    "deviceName": "R7731AGE",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/7/r7731a_richtek.pdf"
+  },
+  {
+    "smdCode": "Dp",
+    "package": "SOT-25",
+    "deviceName": "BD49E38G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Dp",
+    "package": "SOT-23",
+    "deviceName": "BD49K38G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Dp1",
+    "package": "SOT-363",
+    "deviceName": "PUMD12",
+    "manufacturer": "NXP",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/e/pemd12%2C_pumd12_r4_nxp.pdf"
+  }
+]

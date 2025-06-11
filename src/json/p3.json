@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "P3",
+    "package": "UDFN-14 30x30",
+    "deviceName": "APM8600",
+    "manufacturer": "Diodes",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apm8600_diodes.pdf"
+  },
+  {
+    "smdCode": "P3",
+    "package": "SOT-343R",
+    "deviceName": "BFG403W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg403w_philips.pdf"
+  },
+  {
+    "smdCode": "P3 *",
+    "package": "DFN-8 2x2",
+    "deviceName": "NCP367OPMUEOTBG",
+    "manufacturer": "ON",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp367_r11_on.pdf"
+  },
+  {
+    "smdCode": "P3*",
+    "package": "UDFN-8 1.8x1.2",
+    "deviceName": "NUP8011MU",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup8011mu_on.pdf"
+  },
+  {
+    "smdCode": "P3***",
+    "package": "SOT-23",
+    "deviceName": "Si2323CDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2323cds_vishay.pdf"
+  },
+  {
+    "smdCode": "P33",
+    "package": "SOT-23",
+    "deviceName": "SO5401",
+    "manufacturer": "STMicroelectronics",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/o/so5401_st.pdf"
+  },
+  {
+    "smdCode": "p32",
+    "package": "SOT-23",
+    "deviceName": "PDTC143XT",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143xe%2C_pdtc143xef%2C_pdtc143xk%2C_pdtc143xm%2C_pdtc143xs%2C_pdtc143xt%2C_pdtc143xu_nxp.pdf"
+  },
+  {
+    "smdCode": "p33",
+    "package": "SOT-23",
+    "deviceName": "PDTC143TT",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143t_series_nxp.pdf"
+  }
+]

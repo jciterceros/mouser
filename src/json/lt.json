@@ -1,0 +1,242 @@
+[
+  {
+    "smdCode": "LT",
+    "package": "SMB",
+    "deviceName": "1SMB18AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "LT",
+    "package": "SOD-323",
+    "deviceName": "PZU6.8B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "LT",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ18A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "LT",
+    "package": "SMB",
+    "deviceName": "SMBJ18A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "LT-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819A-36PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "LTADY",
+    "package": "SOT-25",
+    "deviceName": "LTC4054XES5-4.2",
+    "manufacturer": "Linear",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc4054-4.2%2C_ltc4054x-4.2_linear.pdf"
+  },
+  {
+    "smdCode": "LTAFT",
+    "package": "SOT-26",
+    "deviceName": "LT3465A",
+    "manufacturer": "Linear",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt3465%2C_lt3465a_linear.pdf"
+  },
+  {
+    "smdCode": "LTAGN",
+    "package": "SOT-26",
+    "deviceName": "LT1933ES6",
+    "manufacturer": "Linear",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1933_re_linear.pdf"
+  },
+  {
+    "smdCode": "LTAGP",
+    "package": "SOT-26",
+    "deviceName": "LT1933IS6",
+    "manufacturer": "Linear",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1933_re_linear.pdf"
+  },
+  {
+    "smdCode": "LTB2",
+    "package": "MSOP-8",
+    "deviceName": "LT6203CMS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt6202%2C_lt6203%2C_lt6204_linear.pdf"
+  },
+  {
+    "smdCode": "LTB3",
+    "package": "MSOP-8",
+    "deviceName": "LT6203IMS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt6202%2C_lt6203%2C_lt6204_linear.pdf"
+  },
+  {
+    "smdCode": "LTCWK",
+    "package": "SOT-25",
+    "deviceName": "LT6106",
+    "manufacturer": "Linear",
+    "data": "36V Low Cost High Side Current Sense",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt6106_linear.pdf"
+  },
+  {
+    "smdCode": "LTCWY",
+    "package": "MSOP-10",
+    "deviceName": "LTC4151",
+    "manufacturer": "Linear",
+    "data": "Current and voltage monitor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc4151_linear.pdf"
+  },
+  {
+    "smdCode": "LTCXB",
+    "package": "MSOP-10",
+    "deviceName": "LTC4151-1",
+    "manufacturer": "Linear",
+    "data": "Current and voltage monitor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc4151_linear.pdf"
+  },
+  {
+    "smdCode": "LTDDQ",
+    "package": "SOT-26",
+    "deviceName": "LT1933HS6",
+    "manufacturer": "Linear",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1933_re_linear.pdf"
+  },
+  {
+    "smdCode": "LTDWF",
+    "package": "SOT-26",
+    "deviceName": "LTC6246",
+    "manufacturer": "Linear",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc6246%2C_ltc6247%2C_ltc6248_linear.pdf"
+  },
+  {
+    "smdCode": "LTDWH",
+    "package": "MSOP-8",
+    "deviceName": "LTC6247",
+    "manufacturer": "Linear",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc6246%2C_ltc6247%2C_ltc6248_linear.pdf"
+  },
+  {
+    "smdCode": "LTDWK",
+    "package": "SOT-28",
+    "deviceName": "LTC6247",
+    "manufacturer": "Linear",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc6246%2C_ltc6247%2C_ltc6248_linear.pdf"
+  },
+  {
+    "smdCode": "LTDWM",
+    "package": "MSOP-10",
+    "deviceName": "LTC6247",
+    "manufacturer": "Linear",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc6246%2C_ltc6247%2C_ltc6248_linear.pdf"
+  },
+  {
+    "smdCode": "LTG6",
+    "package": "SOT-25",
+    "deviceName": "LT6202CS5",
+    "manufacturer": "Linear",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt6202%2C_lt6203%2C_lt6204_linear.pdf"
+  },
+  {
+    "smdCode": "LTH2",
+    "package": "SOT-26",
+    "deviceName": "LT3465",
+    "manufacturer": "Linear",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt3465%2C_lt3465a_linear.pdf"
+  },
+  {
+    "smdCode": "LTH7",
+    "package": "SOT-25",
+    "deviceName": "LTC4054ES5-4.2",
+    "manufacturer": "Linear",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc4054-4.2%2C_ltc4054x-4.2_linear.pdf"
+  },
+  {
+    "smdCode": "LTJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB33A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LTKX",
+    "package": "SOT-26",
+    "deviceName": "LTC1986ES6",
+    "manufacturer": "Linear",
+    "data": "SIM Power Supply",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1986es6_linear.pdf"
+  },
+  {
+    "smdCode": "LTP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB33A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "LTPG",
+    "package": "MSOP-10",
+    "deviceName": "LTC3401",
+    "manufacturer": "Linear",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc3401_linear.pdf"
+  },
+  {
+    "smdCode": "LTRD",
+    "package": "MSOP-8",
+    "deviceName": "LT1713CMS8",
+    "manufacturer": "Linear",
+    "data": "Rail-to-Rail comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1713%2C_lt1714_linear.pdf"
+  },
+  {
+    "smdCode": "LTUK",
+    "package": "MSOP-8",
+    "deviceName": "LT1713IMS8",
+    "manufacturer": "Linear",
+    "data": "Rail-to-Rail comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1713%2C_lt1714_linear.pdf"
+  },
+  {
+    "smdCode": "LTYD",
+    "package": "SOT-25",
+    "deviceName": "LT1716",
+    "manufacturer": "Linear",
+    "data": "Rail-to-Rail comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1716_linear.pdf"
+  },
+  {
+    "smdCode": "LTYN",
+    "package": "SOT-25",
+    "deviceName": "LT1937ES5",
+    "manufacturer": "Linear",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1937_linear.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "904A",
+    "package": "Micro8",
+    "deviceName": "LM2904ADMG",
+    "manufacturer": "ON",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm258%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904a%2C_lm2904v%2C_ncv2904%2C_ncv2904v_on.pdf"
+  },
+  {
+    "smdCode": "904A",
+    "package": "Micro8",
+    "deviceName": "LM2904ADMR2G",
+    "manufacturer": "ON",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm258%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904a%2C_lm2904v%2C_ncv2904%2C_ncv2904v_on.pdf"
+  },
+  {
+    "smdCode": "904V",
+    "package": "Micro8",
+    "deviceName": "LM2904VDMR2G",
+    "manufacturer": "ON",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm258%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904a%2C_lm2904v%2C_ncv2904%2C_ncv2904v_on.pdf"
+  },
+  {
+    "smdCode": "90T",
+    "package": "SOT-23",
+    "deviceName": "TK71590AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "smdCode": "C5",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C68",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C5",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B3V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "C5",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5225",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "C5",
+    "package": "SOD-323",
+    "deviceName": "UDZS30B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "C5-**",
+    "package": "WDFN-12 3x3",
+    "deviceName": "RT8020DPQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8020_richtek.pdf"
+  },
+  {
+    "smdCode": "C5-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013B-33PU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "C50",
+    "package": "VSSOP-8",
+    "deviceName": "OPA350EA",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/o/p/opa350_opa2350_opa4350_rd_ti.pdf"
+  },
+  {
+    "smdCode": "C5103",
+    "package": "SOT-428",
+    "deviceName": "2SC5103",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5103_rohm.pdf"
+  },
+  {
+    "smdCode": "C5344",
+    "package": "TO-92",
+    "deviceName": "2SC5344",
+    "manufacturer": "AUK",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5344_auk.pdf"
+  },
+  {
+    "smdCode": "C5344",
+    "package": "TO-92",
+    "deviceName": "2SC5344",
+    "manufacturer": "Paco",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5344_paco.pdf"
+  },
+  {
+    "smdCode": "C546A",
+    "package": "SOT-54",
+    "deviceName": "BC546A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C546B",
+    "package": "SOT-54",
+    "deviceName": "BC546B",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C547",
+    "package": "SOT-54",
+    "deviceName": "BC547",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C547B",
+    "package": "SOT-54",
+    "deviceName": "BC547B",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C547C",
+    "package": "SOT-54",
+    "deviceName": "BC547C",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C5591",
+    "package": "TOP-3E",
+    "deviceName": "2SC5591",
+    "manufacturer": "Panasonic",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5591_panasonic.pdf"
+  },
+  {
+    "smdCode": "C5826",
+    "package": "ATV",
+    "deviceName": "2SC5826",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5826_rohm.pdf"
+  },
+  {
+    "smdCode": "C5880",
+    "package": "ATV",
+    "deviceName": "2SC5880",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5880_rohm.pdf"
+  },
+  {
+    "smdCode": "C5=***",
+    "package": "SOT-26",
+    "deviceName": "RT8259GJ6",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8259_richtek.pdf"
+  }
+]

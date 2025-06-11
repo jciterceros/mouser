@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "RD",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K151A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RD**",
+    "package": "SOT-363",
+    "deviceName": "Si1551DL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1551dl_vishay.pdf"
+  },
+  {
+    "smdCode": "RD-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B47",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RD07",
+    "package": "SOT-363",
+    "deviceName": "SDBN500B01",
+    "manufacturer": "Diodes",
+    "data": "NPN transistor + diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sdbn500b01_r3-2_diodes.pdf"
+  },
+  {
+    "smdCode": "RDW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B47",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RDp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B47",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RDt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B47",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Rd",
+    "package": "SOT-25",
+    "deviceName": "BD53E46G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

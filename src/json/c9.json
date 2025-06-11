@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "C9",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B5V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "C9*",
+    "package": "VDFN-6 2x2",
+    "deviceName": "RT9193-33PQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "C9***",
+    "package": "SOT-23",
+    "deviceName": "Si2319DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2319ds_vishay.pdf"
+  },
+  {
+    "smdCode": "C9-***",
+    "package": "SOT-25",
+    "deviceName": "RT9169-15PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "C96",
+    "package": "SOT-143",
+    "deviceName": "BCV64B",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv64b_philips.pdf"
+  },
+  {
+    "smdCode": "C96",
+    "package": "SOT-26",
+    "deviceName": "SU0524A6GTR",
+    "manufacturer": "Silan",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/u/su0524_r1.4_silan.pdf"
+  },
+  {
+    "smdCode": "C96**",
+    "package": "SOT-26",
+    "deviceName": "TVLST2304AD0",
+    "manufacturer": "Inpaq",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/v/tvlst2304ad0_ra8_inpaq.pdf"
+  },
+  {
+    "smdCode": "C9=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-CBGJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  }
+]

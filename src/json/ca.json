@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "CA",
+    "package": "SOT-353",
+    "deviceName": "74AHCT1G00GW",
+    "manufacturer": "NXP",
+    "data": "NAND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g00%2C_74ahct1g00_nxp.pdf"
+  },
+  {
+    "smdCode": "CA",
+    "package": "SOT-89",
+    "deviceName": "BCX68",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx68_infineon.pdf"
+  },
+  {
+    "smdCode": "CA",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4691-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "CA",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5257B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "CA",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q301A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "CA",
+    "package": "SOT-23",
+    "deviceName": "SST4391",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n4391%2C_2n4392%2C_2n4393%2C_pn4391%2C_pn4392%2C_pn4393%2C_sst4391%2C_sst4392%2C_sst4393_vishay.pdf"
+  },
+  {
+    "smdCode": "CA*",
+    "package": "VDFN-6 2x2",
+    "deviceName": "RT8010PQV",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "CA**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US38D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CA**",
+    "package": "SOT-363",
+    "deviceName": "Si1912EDH",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1912edh_vishay.pdf"
+  },
+  {
+    "smdCode": "CA***",
+    "package": "SOT-26",
+    "deviceName": "SY7208",
+    "manufacturer": "Silergy",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy7208%2C_sy7208b_silergy.pdf"
+  },
+  {
+    "smdCode": "CA-***",
+    "package": "SOT-26",
+    "deviceName": "RT9271PE",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9271_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "CA=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-SFGJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "CA=***",
+    "package": "SOT-26",
+    "deviceName": "RT9271GE",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9271_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "CAW",
+    "package": "SON-6 2x2",
+    "deviceName": "TPS61041DRV",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61040%2C_tps61041_rh_ti.pdf"
+  },
+  {
+    "smdCode": "Ca",
+    "package": "SOT-25",
+    "deviceName": "BD48E51G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ca",
+    "package": "SOT-23",
+    "deviceName": "BD48K51G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

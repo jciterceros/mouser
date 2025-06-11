@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "R30A",
+    "package": "SOT-23",
+    "deviceName": "REF3012",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3012%2C_ref3020%2C_ref3025%2C_ref3030%2C_ref3033%2C_ref3040_ti.pdf"
+  },
+  {
+    "smdCode": "R30B",
+    "package": "SOT-23",
+    "deviceName": "REF3020",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3012%2C_ref3020%2C_ref3025%2C_ref3030%2C_ref3033%2C_ref3040_ti.pdf"
+  },
+  {
+    "smdCode": "R30C",
+    "package": "SOT-23",
+    "deviceName": "REF3025",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3012%2C_ref3020%2C_ref3025%2C_ref3030%2C_ref3033%2C_ref3040_ti.pdf"
+  },
+  {
+    "smdCode": "R30D",
+    "package": "SOT-23",
+    "deviceName": "REF3033",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3012%2C_ref3020%2C_ref3025%2C_ref3030%2C_ref3033%2C_ref3040_ti.pdf"
+  },
+  {
+    "smdCode": "R30E",
+    "package": "SOT-23",
+    "deviceName": "REF3040",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3012%2C_ref3020%2C_ref3025%2C_ref3030%2C_ref3033%2C_ref3040_ti.pdf"
+  },
+  {
+    "smdCode": "R30F",
+    "package": "SOT-23",
+    "deviceName": "REF3030",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3012%2C_ref3020%2C_ref3025%2C_ref3030%2C_ref3033%2C_ref3040_ti.pdf"
+  },
+  {
+    "smdCode": "R31A",
+    "package": "SOT-23",
+    "deviceName": "REF3112",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3112%2C_ref3120%2C_ref3125%2C_ref3130%2C_ref3133%2C_ref3140_ti.pdf"
+  },
+  {
+    "smdCode": "R31B",
+    "package": "SOT-23",
+    "deviceName": "REF3120",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3112%2C_ref3120%2C_ref3125%2C_ref3130%2C_ref3133%2C_ref3140_ti.pdf"
+  },
+  {
+    "smdCode": "R31C",
+    "package": "SOT-23",
+    "deviceName": "REF3125",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3112%2C_ref3120%2C_ref3125%2C_ref3130%2C_ref3133%2C_ref3140_ti.pdf"
+  },
+  {
+    "smdCode": "R31D",
+    "package": "SOT-23",
+    "deviceName": "REF3140",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3112%2C_ref3120%2C_ref3125%2C_ref3130%2C_ref3133%2C_ref3140_ti.pdf"
+  },
+  {
+    "smdCode": "R31E",
+    "package": "SOT-23",
+    "deviceName": "REF3130",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3112%2C_ref3120%2C_ref3125%2C_ref3130%2C_ref3133%2C_ref3140_ti.pdf"
+  },
+  {
+    "smdCode": "R31F",
+    "package": "SOT-23",
+    "deviceName": "REF3133",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref3112%2C_ref3120%2C_ref3125%2C_ref3130%2C_ref3133%2C_ref3140_ti.pdf"
+  }
+]

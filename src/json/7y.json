@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "7Y",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2547",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "7Y5",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  }
+]

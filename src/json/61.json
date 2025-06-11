@@ -1,0 +1,258 @@
+[
+  {
+    "smdCode": "61",
+    "package": "SOT-143",
+    "deviceName": "BAR61",
+    "manufacturer": "Siemens",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar60%2C_bar61_siemens.pdf"
+  },
+  {
+    "smdCode": "617",
+    "package": "SOT-23",
+    "deviceName": "FMMT617",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt617%2C_fmmt618%2C_fmmt619%2C_fmmt624%2C_fmmt625_zetex.pdf"
+  },
+  {
+    "smdCode": "618",
+    "package": "SOT-23",
+    "deviceName": "FMMT618",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt617%2C_fmmt618%2C_fmmt619%2C_fmmt624%2C_fmmt625_zetex.pdf"
+  },
+  {
+    "smdCode": "61851ACBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851ACBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851AIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851AIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851BCBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851BCBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851BIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851BIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851CCBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851CCBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851CIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851CIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851DCBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851DCBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851DIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851DIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851ECBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851ECBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851EIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851EIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851FCBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851FCBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851FIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851FIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851GCBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851GCBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851GIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851GIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851HCBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851HCBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851HIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851HIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851ICBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851ICBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851IIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851IIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851JCBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851JCBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851JIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851JIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851KCBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851KCBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851KIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851KIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851LCBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851LCBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "61851LIBZ",
+    "package": "SO-8",
+    "deviceName": "ISL61851LIBZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "619",
+    "package": "SOT-23",
+    "deviceName": "FMMT619",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt617%2C_fmmt618%2C_fmmt619%2C_fmmt624%2C_fmmt625_zetex.pdf"
+  },
+  {
+    "smdCode": "61S",
+    "package": "SOT-23",
+    "deviceName": "MMBF5458",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5457%2C_2n5458%2C_2n5459%2C_mmbf5457%2C_mmbf5458%2C_mmbf5459_fairchild.pdf"
+  },
+  {
+    "smdCode": "61S",
+    "package": "SOT-23",
+    "deviceName": "MMBFJ270",
+    "manufacturer": "Fairchild",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbfj270_fairchild.pdf"
+  },
+  {
+    "smdCode": "61U",
+    "package": "SOT-23",
+    "deviceName": "MMBF5461",
+    "manufacturer": "Fairchild",
+    "data": "P-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5460%2C_2n5461%2C_2n5462%2C_mmbf5460%2C_mmbf5461%2C_mmbf5462_fairchild.pdf"
+  },
+  {
+    "smdCode": "61V",
+    "package": "SOT-23",
+    "deviceName": "MMBF5462",
+    "manufacturer": "Fairchild",
+    "data": "P-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5460%2C_2n5461%2C_2n5462%2C_mmbf5460%2C_mmbf5461%2C_mmbf5462_fairchild.pdf"
+  }
+]

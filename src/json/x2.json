@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "X2",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C56",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "X2",
+    "package": "SOT-89",
+    "deviceName": "BZV49C30",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_zetex.pdf"
+  },
+  {
+    "smdCode": "X2",
+    "package": "SOT-23",
+    "deviceName": "BZX84C56-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "X2",
+    "package": "SOT-23",
+    "deviceName": "BZX99-C13",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx99_philips.pdf"
+  },
+  {
+    "smdCode": "X2",
+    "package": "EMT6",
+    "deviceName": "EMX2",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx2%2C_imx2%2C_umx2n_rohm.pdf"
+  },
+  {
+    "smdCode": "X2",
+    "package": "SOT-26",
+    "deviceName": "IMX2",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx2%2C_imx2%2C_umx2n_rohm.pdf"
+  },
+  {
+    "smdCode": "X2",
+    "package": "SOD-323",
+    "deviceName": "PZU16B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "X2",
+    "package": "SOT-363",
+    "deviceName": "UMX2N",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx2%2C_imx2%2C_umx2n_rohm.pdf"
+  },
+  {
+    "smdCode": "X2-***",
+    "package": "SOT-25",
+    "deviceName": "RT9016-25PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9016_richtek.pdf"
+  },
+  {
+    "smdCode": "X21",
+    "package": "SOT-363",
+    "deviceName": "UMX21N",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/m/umx21n_rohm.pdf"
+  },
+  {
+    "smdCode": "X23",
+    "package": "SOT-416",
+    "deviceName": "DTD543EE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd543ee%2C_dtd543em_rohm.pdf"
+  },
+  {
+    "smdCode": "X23",
+    "package": "VMT3",
+    "deviceName": "DTD543EM",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd543ee%2C_dtd543em_rohm.pdf"
+  },
+  {
+    "smdCode": "X25",
+    "package": "SOT-26",
+    "deviceName": "IMX25",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/m/imx25_rohm.pdf"
+  },
+  {
+    "smdCode": "X26",
+    "package": "EMT6",
+    "deviceName": "EMX26",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx26_rohm.pdf"
+  },
+  {
+    "smdCode": "X28",
+    "package": "EMT6",
+    "deviceName": "EMX28",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx28_rohm.pdf"
+  }
+]

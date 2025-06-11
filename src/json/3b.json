@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "3B",
+    "package": "SOT-23",
+    "deviceName": "FMMT918",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt918_zetex.pdf"
+  },
+  {
+    "smdCode": "3B-",
+    "package": "SOT-23",
+    "deviceName": "BC856B",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3B-",
+    "package": "SOT-323",
+    "deviceName": "BC856BW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3B4",
+    "package": "SOT-23",
+    "deviceName": "ZXMN3B14F",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxmn3b14f_zetex.pdf"
+  },
+  {
+    "smdCode": "3BW",
+    "package": "SOT-23",
+    "deviceName": "BC856B",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3BW",
+    "package": "SOT-323",
+    "deviceName": "BC856BW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Bp",
+    "package": "SOT-23",
+    "deviceName": "BC856B",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Bp",
+    "package": "SOT-323",
+    "deviceName": "BC856BW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Bs",
+    "package": "SOT-23",
+    "deviceName": "BC856B",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856-bc860_infineon.pdf"
+  },
+  {
+    "smdCode": "3Bt",
+    "package": "SOT-23",
+    "deviceName": "BC856B",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Bt",
+    "package": "SOT-323",
+    "deviceName": "BC856BW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  }
+]

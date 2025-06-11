@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "KN",
+    "package": "SOT-323",
+    "deviceName": "2SK3018",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk3018_rohm.pdf"
+  },
+  {
+    "smdCode": "KN",
+    "package": "SOT-523",
+    "deviceName": "2SK3019",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk3019_rohm.pdf"
+  },
+  {
+    "smdCode": "KN",
+    "package": "SOT-523",
+    "deviceName": "2SK3019",
+    "manufacturer": "GME",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk3019_gme.pdf"
+  },
+  {
+    "smdCode": "KN",
+    "package": "SOT-523",
+    "deviceName": "2SK3019",
+    "manufacturer": "Weitron",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk3019_weitron.pdf"
+  },
+  {
+    "smdCode": "KN",
+    "package": "VMT3",
+    "deviceName": "2SK3541",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk3541_rohm.pdf"
+  },
+  {
+    "smdCode": "KN",
+    "package": "SOT-89",
+    "deviceName": "BST84",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-channel D-MOS transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bst84_philips.pdf"
+  },
+  {
+    "smdCode": "KN-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-22PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "KNA",
+    "package": "SOT-23",
+    "deviceName": "ZXMN3F30FH",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxmn3f30fh_r2_zetex.pdf"
+  },
+  {
+    "smdCode": "KND",
+    "package": "SOT-23",
+    "deviceName": "KMB2D0N60SA",
+    "manufacturer": "KEC",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/m/kmb2d0n60sa_kec.pdf"
+  },
+  {
+    "smdCode": "KNJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB10",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "KNM",
+    "package": "SOT-363",
+    "deviceName": "MMDT5451",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdt5451_galaxy.pdf"
+  },
+  {
+    "smdCode": "KNP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB10",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "Kn",
+    "package": "SOT-23",
+    "deviceName": "BD49L31G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

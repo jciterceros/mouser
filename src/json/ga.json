@@ -1,0 +1,154 @@
+[
+  {
+    "smdCode": "GA",
+    "package": "SOT-25",
+    "deviceName": "BD4940G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GA",
+    "package": "SOD-323F",
+    "deviceName": "PZU4.7B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "GA",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q211B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "GA*",
+    "package": "SOT-553",
+    "deviceName": "BD4940FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GA*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8010-18GQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "GA**",
+    "package": "SOT-25",
+    "deviceName": "EUP7965VIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7965_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "GA-",
+    "package": "SOT-89",
+    "deviceName": "RT9161A-25PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "GA-***",
+    "package": "SOT-23",
+    "deviceName": "RT9166-35PVL",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "GA4",
+    "package": "SOT-23",
+    "deviceName": "AZ431AN-BTRG1",
+    "manufacturer": "BCD",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az431-b_bcd.pdf"
+  },
+  {
+    "smdCode": "GA5",
+    "package": "SOT-23",
+    "deviceName": "AZ431BN-BTRE1",
+    "manufacturer": "BCD",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az431-b_bcd.pdf"
+  },
+  {
+    "smdCode": "GAA",
+    "package": "MLF-6 2x2",
+    "deviceName": "MIC5219YMT",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "GAJ",
+    "package": "SOT-23",
+    "deviceName": "BCX70J",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx70j%2C_bcx70k_rohm.pdf"
+  },
+  {
+    "smdCode": "GAK",
+    "package": "SOT-23",
+    "deviceName": "BCX70K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx70j%2C_bcx70k_rohm.pdf"
+  },
+  {
+    "smdCode": "GAV",
+    "package": "µTQFN-16 2.6x1.8",
+    "deviceName": "ISL95870HRUZ",
+    "manufacturer": "Intersil",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl95870%2C_isl95870a%2C_isl95870b_intersil.pdf"
+  },
+  {
+    "smdCode": "GAW",
+    "package": "µTQFN-20 3.2x1.8",
+    "deviceName": "ISL95870AHRUZ",
+    "manufacturer": "Intersil",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl95870%2C_isl95870a%2C_isl95870b_intersil.pdf"
+  },
+  {
+    "smdCode": "GAX",
+    "package": "µTQFN-20 3.2x1.8",
+    "deviceName": "ISL95870AIRUZ",
+    "manufacturer": "Intersil",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl95870%2C_isl95870a%2C_isl95870b_intersil.pdf"
+  },
+  {
+    "smdCode": "GAZ",
+    "package": "µTQFN-16 2.6x1.8",
+    "deviceName": "ISL95870IRUZ",
+    "manufacturer": "Intersil",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl95870%2C_isl95870a%2C_isl95870b_intersil.pdf"
+  },
+  {
+    "smdCode": "Ga",
+    "package": "TDFN-6 2x2",
+    "deviceName": "AX3503Z6",
+    "manufacturer": "Axelite",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax3503_r2.7_axelite.pdf"
+  },
+  {
+    "smdCode": "Ga",
+    "package": "SOT-23",
+    "deviceName": "BD48L31G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

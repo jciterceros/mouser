@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "LM",
+    "package": "SMB",
+    "deviceName": "1SMB15AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "LM",
+    "package": "SOT-23",
+    "deviceName": "BF569R",
+    "manufacturer": "Vishay",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf569%2C_bf569r_vishay.pdf"
+  },
+  {
+    "smdCode": "LM",
+    "package": "SOT-89",
+    "deviceName": "BST120",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bst120_philips.pdf"
+  },
+  {
+    "smdCode": "LM",
+    "package": "SOD-323",
+    "deviceName": "PZU6.2B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "LM",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ15A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "LM",
+    "package": "SMB",
+    "deviceName": "SMBJ15A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "LM-",
+    "package": "SOT-89",
+    "deviceName": "RT9818B-42PX",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "LM-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819B-33PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "LMJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB24A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LMP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB24A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  }
+]

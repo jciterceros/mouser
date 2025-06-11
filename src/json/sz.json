@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "SZ",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B4V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "SZ",
+    "package": "SMA",
+    "deviceName": "SMAJ250A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  }
+]

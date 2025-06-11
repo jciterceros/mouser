@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "V8",
+    "package": "X1-DFN1010-6",
+    "deviceName": "74LVC1G14FW5",
+    "manufacturer": "Diodes",
+    "data": "Schmitt-Trigger Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g14_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "V8",
+    "package": "SOT-23",
+    "deviceName": "DZ23C5V1-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V8",
+    "package": "SOT-23",
+    "deviceName": "TZT5V1CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V8-***",
+    "package": "SOT-25",
+    "deviceName": "RT9284BPB",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "V87",
+    "package": "SOT-23",
+    "deviceName": "TZT8V7CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  }
+]

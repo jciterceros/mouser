@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "F6",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "F6",
+    "package": "EMT6",
+    "deviceName": "EMF6",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emf6_rohm.pdf"
+  },
+  {
+    "smdCode": "F6",
+    "package": "SOT-883",
+    "deviceName": "PDTA115EM",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "F6",
+    "package": "SOD-323F",
+    "deviceName": "PZU3.6B1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "F6",
+    "package": "SOD-882",
+    "deviceName": "RB751CS40",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb751_series_nxp.pdf"
+  },
+  {
+    "smdCode": "F6",
+    "package": "SOT-363",
+    "deviceName": "UMF6N",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/m/umf6n_rohm.pdf"
+  },
+  {
+    "smdCode": "F6*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8016-25PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8016_richtek.pdf"
+  },
+  {
+    "smdCode": "F6**",
+    "package": "SOT-26",
+    "deviceName": "TC1073-5.0VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "F62",
+    "package": "SOT-346",
+    "deviceName": "DTD123YK",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd123yk%2C_dtd123ys_rohm.pdf"
+  },
+  {
+    "smdCode": "F6=***",
+    "package": "SOT-26",
+    "deviceName": "R7732RGE",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/7/r7732_richtek.pdf"
+  }
+]

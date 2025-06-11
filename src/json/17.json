@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "17005E",
+    "package": "QFN-20 4x4",
+    "deviceName": "MAX17005ETP",
+    "manufacturer": "Maxim",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max17005%2C_max17006%2C_max17015_r0_maxim.pdf"
+  },
+  {
+    "smdCode": "17006E",
+    "package": "QFN-20 4x4",
+    "deviceName": "MAX17006ETP",
+    "manufacturer": "Maxim",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max17005%2C_max17006%2C_max17015_r0_maxim.pdf"
+  },
+  {
+    "smdCode": "17015E",
+    "package": "QFN-20 4x4",
+    "deviceName": "MAX17015ETP",
+    "manufacturer": "Maxim",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max17005%2C_max17006%2C_max17015_r0_maxim.pdf"
+  },
+  {
+    "smdCode": "1714",
+    "package": "SSOP-16",
+    "deviceName": "LT1714CGN",
+    "manufacturer": "Linear",
+    "data": "Rail-to-Rail comparators",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1713%2C_lt1714_linear.pdf"
+  },
+  {
+    "smdCode": "1714I",
+    "package": "SSOP-16",
+    "deviceName": "LT1714IGN",
+    "manufacturer": "Linear",
+    "data": "Rail-to-Rail comparators",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1713%2C_lt1714_linear.pdf"
+  },
+  {
+    "smdCode": "17C",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C17",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "17C",
+    "package": "SOT-23",
+    "deviceName": "BZX84C17-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "17N80C3",
+    "package": "TO-220-3-31",
+    "deviceName": "SPA17N80C3",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spa17n80c3%2C_spp17n80c3_infineon.pdf"
+  },
+  {
+    "smdCode": "17N80C3",
+    "package": "TO-220",
+    "deviceName": "SPP17N80C3",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spa17n80c3%2C_spp17n80c3_infineon.pdf"
+  },
+  {
+    "smdCode": "17T",
+    "package": "SOT-23",
+    "deviceName": "TK71517AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "17s",
+    "package": "SOT-143",
+    "deviceName": "BAS125-07",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas125-07_infineon.pdf"
+  }
+]

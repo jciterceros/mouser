@@ -1,0 +1,154 @@
+[
+  {
+    "smdCode": "W6",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C3V9",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "W6",
+    "package": "SOD-123",
+    "deviceName": "BZT52C4V3",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "W6",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V9",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "W6",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V9-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "W6***",
+    "package": "SOT-25",
+    "deviceName": "APX823-26W5",
+    "manufacturer": "Diodes",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apx823%2C_apx824%2C_apx825a_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "W6-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-1HPBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "W60",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "W61",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "W62",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "W63",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "W64",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "W65",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "W66",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "W67",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "W69",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A15",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "W6D",
+    "package": "SOT-323",
+    "deviceName": "2PD601AQW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "W6E",
+    "package": "SOT-323",
+    "deviceName": "2PD601ARW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "W6F",
+    "package": "SOT-323",
+    "deviceName": "2PD601ASW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "W6W",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA3V3",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  }
+]

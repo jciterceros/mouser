@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "7M",
+    "package": "SOT-23",
+    "deviceName": "BCW66HR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw65%2C_bcw66_zetex.pdf"
+  },
+  {
+    "smdCode": "7M",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2530",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "7M9102",
+    "package": "SOT-89",
+    "deviceName": "TQP7M9102",
+    "manufacturer": "TriQuint",
+    "data": "High Linearity Amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/q/tqp7m9102_rk_triquint.pdf"
+  }
+]

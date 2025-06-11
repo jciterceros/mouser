@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "C2",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C51",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C2",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "C2",
+    "package": "SOT-23",
+    "deviceName": "SST112",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/1/j111%2C_j112%2C_j113%2C_sst111%2C_sst112%2C_sst113_vishay.pdf"
+  },
+  {
+    "smdCode": "C2",
+    "package": "SOD-323",
+    "deviceName": "UDZS5.6B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "C2**",
+    "package": "SOT-25",
+    "deviceName": "APS1016ES5-1.5",
+    "manufacturer": "APSemi",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/aps1016_apsemi.pdf"
+  },
+  {
+    "smdCode": "C2**",
+    "package": "SOT-25",
+    "deviceName": "MP2104DJ",
+    "manufacturer": "MPS",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/p/mp2104_mps.pdf"
+  },
+  {
+    "smdCode": "C2-**",
+    "package": "WDFN-12 3x3",
+    "deviceName": "RT8020APQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8020_richtek.pdf"
+  },
+  {
+    "smdCode": "C2-**",
+    "package": "VQFN-24 4x4",
+    "deviceName": "RT9913DPQV",
+    "manufacturer": "Richtek",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9913a%2C_rt9913b_richtek.pdf"
+  },
+  {
+    "smdCode": "C2-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013B-25PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "C2-***",
+    "package": "SOT-23",
+    "deviceName": "RT9161-27PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "C23",
+    "package": "SOT-23",
+    "deviceName": "BSS123",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss123_diodes.pdf"
+  },
+  {
+    "smdCode": "C25",
+    "package": "VSSOP-8",
+    "deviceName": "74AHCT2G125DC",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc2g125%2C_74ahct2g125_nxp.pdf"
+  },
+  {
+    "smdCode": "C25",
+    "package": "TSSOP-8",
+    "deviceName": "74AHCT2G125DP",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc2g125%2C_74ahct2g125_nxp.pdf"
+  },
+  {
+    "smdCode": "C25",
+    "package": "XSON-8",
+    "deviceName": "74AHCT2G125GD",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc2g125%2C_74ahct2g125_nxp.pdf"
+  },
+  {
+    "smdCode": "C26",
+    "package": "SOT-753",
+    "deviceName": "74AHCT1G126GV",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g126%2C_74ahct1g126_r8_nxp.pdf"
+  },
+  {
+    "smdCode": "C2=**",
+    "package": "WDFN-12 3x3",
+    "deviceName": "RT8020AGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8020_richtek.pdf"
+  },
+  {
+    "smdCode": "C2=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-BJGJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "C2J",
+    "package": "SOT-23",
+    "deviceName": "CMPT3640",
+    "manufacturer": "Central",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpt3640_central.pdf"
+  }
+]

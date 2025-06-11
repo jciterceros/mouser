@@ -1,0 +1,202 @@
+[
+  {
+    "smdCode": "DC",
+    "package": "U-DFN2020-6",
+    "deviceName": "AP2311SN",
+    "manufacturer": "Diodes",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2301%2C_ap2311_r5-2_diodes.pdf"
+  },
+  {
+    "smdCode": "DC",
+    "package": "SOT-23",
+    "deviceName": "BCW67C",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw67%2C_bcw68_zetex.pdf"
+  },
+  {
+    "smdCode": "DC",
+    "package": "SOT-23",
+    "deviceName": "BCW67C",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw67%2C_bcw68_galaxy.pdf"
+  },
+  {
+    "smdCode": "DC",
+    "package": "SOT-89",
+    "deviceName": "BF620",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf620_zetex.pdf"
+  },
+  {
+    "smdCode": "DC",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DC",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C13",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DC",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4695-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "DC",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q421A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "DC",
+    "package": "SOT-23",
+    "deviceName": "TZT3V3AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "DC *",
+    "package": "DFN-8 2x2",
+    "deviceName": "NCP367DPMUECTBG",
+    "manufacturer": "ON",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp367_r11_on.pdf"
+  },
+  {
+    "smdCode": "DC*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-BMPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "DC**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US36D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "DC**",
+    "package": "SOT-363",
+    "deviceName": "Si1913DH",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1913dh_vishay.pdf"
+  },
+  {
+    "smdCode": "DC-",
+    "package": "SOT-89",
+    "deviceName": "RT9261-27PX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "DC-***",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9011-NGPQWB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "DC-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-18PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "DC15",
+    "package": "SOT-23",
+    "deviceName": "SDC15",
+    "manufacturer": "Semtech",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sdc15_semtech.pdf"
+  },
+  {
+    "smdCode": "DC=",
+    "package": "SOT-89",
+    "deviceName": "RT9261-27GX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "DC=***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-18GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "DCP",
+    "package": "SOT-89",
+    "deviceName": "2SD1767",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1767%2C_2sd1859_rohm.pdf"
+  },
+  {
+    "smdCode": "DCQ",
+    "package": "SOT-89",
+    "deviceName": "2SD1767",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1767%2C_2sd1859_rohm.pdf"
+  },
+  {
+    "smdCode": "DCR",
+    "package": "SOT-89",
+    "deviceName": "2SD1767",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1767%2C_2sd1859_rohm.pdf"
+  },
+  {
+    "smdCode": "DCR**",
+    "package": "SOT-25",
+    "deviceName": "NCP1402SN40T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1402_on.pdf"
+  },
+  {
+    "smdCode": "Dc",
+    "package": "SOT-25",
+    "deviceName": "BD49E29G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Dc",
+    "package": "SOT-23",
+    "deviceName": "BD49K29G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

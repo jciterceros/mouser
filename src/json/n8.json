@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "N8",
+    "package": "SOT-343R",
+    "deviceName": "BFG540W/XR",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg540w%2C_bfg540w_x%2C_bfg540w_xr_philips.pdf"
+  },
+  {
+    "smdCode": "N8",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B68",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  }
+]

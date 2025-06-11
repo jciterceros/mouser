@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "D9",
+    "package": "SOT-323",
+    "deviceName": "1SS401",
+    "manufacturer": "TIP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss401_tip.pdf"
+  },
+  {
+    "smdCode": "D9",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "D9",
+    "package": "EMT6",
+    "deviceName": "EMD9",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd9%2C_imd9a%2C_umd9n_rohm.pdf"
+  },
+  {
+    "smdCode": "D9",
+    "package": "SOT-26",
+    "deviceName": "IMD9A",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd9%2C_imd9a%2C_umd9n_rohm.pdf"
+  },
+  {
+    "smdCode": "D9",
+    "package": "SOT-363",
+    "deviceName": "UMD9N",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd9%2C_imd9a%2C_umd9n_rohm.pdf"
+  },
+  {
+    "smdCode": "D9*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8010-18PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "D9**",
+    "package": "SOT-26",
+    "deviceName": "AO6409",
+    "manufacturer": "Alpha & Omega",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao6409_r5_ao.pdf"
+  },
+  {
+    "smdCode": "D9***",
+    "package": "SOT-23",
+    "deviceName": "Si2329DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2329ds_vishay.pdf"
+  },
+  {
+    "smdCode": "D9-***",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9011-DDPQWB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "D9.1",
+    "package": "SOT-23",
+    "deviceName": "TZT9V1AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D94",
+    "package": "SOT-23",
+    "deviceName": "BAR42FILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar42film%2C_bar43film%2C_bar43afilm%2C_43cfilm%2C_bar43sfilm_st.pdf"
+  },
+  {
+    "smdCode": "D95",
+    "package": "SOT-23",
+    "deviceName": "BAR43FILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar42film%2C_bar43film%2C_bar43afilm%2C_43cfilm%2C_bar43sfilm_st.pdf"
+  },
+  {
+    "smdCode": "D95",
+    "package": "SOT-143B",
+    "deviceName": "BCV63",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv63%2C_bcv63b_philips.pdf"
+  },
+  {
+    "smdCode": "D96",
+    "package": "SOT-143B",
+    "deviceName": "BCV63B",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv63%2C_bcv63b_philips.pdf"
+  },
+  {
+    "smdCode": "D965",
+    "package": "SOT-89",
+    "deviceName": "2SD965",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd965_galaxy.pdf"
+  }
+]

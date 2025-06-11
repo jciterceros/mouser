@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "T3",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "T3",
+    "package": "EMT6",
+    "deviceName": "EMT3",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emt3%2C_imt3a_rohm.pdf"
+  },
+  {
+    "smdCode": "T3",
+    "package": "SOT-26",
+    "deviceName": "IMT3A",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emt3%2C_imt3a_rohm.pdf"
+  },
+  {
+    "smdCode": "T3",
+    "package": "SOT-23",
+    "deviceName": "MMBD7000",
+    "manufacturer": "Taitron",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd7000_taitron.pdf"
+  },
+  {
+    "smdCode": "T3***",
+    "package": "SOT-25",
+    "deviceName": "APX824-44W5",
+    "manufacturer": "Diodes",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apx823%2C_apx824%2C_apx825a_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "T3-***",
+    "package": "SOT-25",
+    "deviceName": "RT9261B-18PB",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261b_richtek.pdf"
+  },
+  {
+    "smdCode": "T30**",
+    "package": "SOT-25",
+    "deviceName": "R1162N301D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T31**",
+    "package": "SOT-25",
+    "deviceName": "R1162N311D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T32**",
+    "package": "SOT-25",
+    "deviceName": "R1162N321D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T33**",
+    "package": "SOT-25",
+    "deviceName": "R1162N331D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T34**",
+    "package": "SOT-25",
+    "deviceName": "R1162N341D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T35**",
+    "package": "SOT-25",
+    "deviceName": "R1162N351D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T36**",
+    "package": "SOT-25",
+    "deviceName": "R1162N361D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T37**",
+    "package": "SOT-25",
+    "deviceName": "R1162N371D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T38**",
+    "package": "SOT-25",
+    "deviceName": "R1162N381D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T39**",
+    "package": "SOT-25",
+    "deviceName": "R1162N391D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "t32",
+    "package": "SOT-23",
+    "deviceName": "PDTC143XT",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143xe%2C_pdtc143xef%2C_pdtc143xk%2C_pdtc143xm%2C_pdtc143xs%2C_pdtc143xt%2C_pdtc143xu_nxp.pdf"
+  },
+  {
+    "smdCode": "t33",
+    "package": "SOT-23",
+    "deviceName": "PDTC143TT",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143t_series_nxp.pdf"
+  }
+]

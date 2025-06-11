@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "DX",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B15",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DX",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DX",
+    "package": "SOT-883",
+    "deviceName": "PDTC124EM",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DX",
+    "package": "SMB",
+    "deviceName": "SMBJ90CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "DX*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8016-10PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8016_richtek.pdf"
+  },
+  {
+    "smdCode": "DX**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US45D3-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "DX-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-33PBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "DX=***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-33GBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  }
+]

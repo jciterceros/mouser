@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "TP",
+    "package": "SMB",
+    "deviceName": "1SMA70AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "TP",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "TP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ10L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "TP",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K241B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TP*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B222NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  }
+]

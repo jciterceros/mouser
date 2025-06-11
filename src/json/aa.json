@@ -1,0 +1,570 @@
+[
+  {
+    "smdCode": "AA",
+    "package": "SOT-523F",
+    "deviceName": "2N7002T",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002t_fairchild.pdf"
+  },
+  {
+    "smdCode": "AA",
+    "package": "SOT-353",
+    "deviceName": "74AHC1G00GW",
+    "manufacturer": "NXP",
+    "data": "NAND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g00%2C_74ahct1g00_nxp.pdf"
+  },
+  {
+    "smdCode": "AA",
+    "package": "SOT-23",
+    "deviceName": "BCW60A",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw60_zetex.pdf"
+  },
+  {
+    "smdCode": "AA",
+    "package": "SOT-89",
+    "deviceName": "BCX51",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx51-bcx53_zetex.pdf"
+  },
+  {
+    "smdCode": "AA",
+    "package": "µDFN-6",
+    "deviceName": "MAX4599ELT-T",
+    "manufacturer": "Maxim",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max4599_maxim.pdf"
+  },
+  {
+    "smdCode": "AA",
+    "package": "SOT-323",
+    "deviceName": "MIC803-26D2VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AA",
+    "package": "SOT-23",
+    "deviceName": "MIC803-26D2VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AA",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5225B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AA",
+    "package": "SOT-886",
+    "deviceName": "NC7S04L6X",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7s04_fairchild.pdf"
+  },
+  {
+    "smdCode": "AA",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q121A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "AA**",
+    "package": "SOT-25",
+    "deviceName": "BL3406B-1.0V",
+    "manufacturer": "Belling",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/l/bl3406b_belling.pdf"
+  },
+  {
+    "smdCode": "AA**",
+    "package": "SOT-26",
+    "deviceName": "BL9641",
+    "manufacturer": "Belling",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/l/bl9641_r1.0_belling.pdf"
+  },
+  {
+    "smdCode": "AA**",
+    "package": "SOT-26",
+    "deviceName": "LR9641",
+    "manufacturer": "LRC",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9641_r1.2_lrc.pdf"
+  },
+  {
+    "smdCode": "AA**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US50D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "AA**",
+    "package": "SOT-363",
+    "deviceName": "Si1410EDH",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1410edh_vishay.pdf"
+  },
+  {
+    "smdCode": "AA***",
+    "package": "SOT-26",
+    "deviceName": "SG6848T",
+    "manufacturer": "System General",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg6848_r1.2_system_general.pdf"
+  },
+  {
+    "smdCode": "AA***",
+    "package": "SOT-25",
+    "deviceName": "SY8008AAAC",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8008a%2C_sy8008b%2C_sy8008c_silergy.pdf"
+  },
+  {
+    "smdCode": "AA-",
+    "package": "SOT-89",
+    "deviceName": "RT9161-28PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "AA-**",
+    "package": "VDFN-8 3x3",
+    "deviceName": "RT9013-12PQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AA-**",
+    "package": "VDFN-10 3x3",
+    "deviceName": "RT9014-MGPQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "AA-**",
+    "package": "SOT-323",
+    "deviceName": "RT9818A-33PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AA-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-MSPJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AA-***",
+    "package": "SOT-23",
+    "deviceName": "RT9161-28PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "AA-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-15PU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AA-***",
+    "package": "SOT-343",
+    "deviceName": "RT9818E-24PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AA=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-MSGJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AA=***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-15GU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AAA",
+    "package": "SO-8",
+    "deviceName": "SMDA05CDR2G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smda05c_on.pdf"
+  },
+  {
+    "smdCode": "AAA***",
+    "package": "SOT-26",
+    "deviceName": "NCL30100SNT1G",
+    "manufacturer": "ON",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncl30100_r3_on.pdf"
+  },
+  {
+    "smdCode": "AAC",
+    "package": "SO-8",
+    "deviceName": "SMDA12CDR2G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smda05c_on.pdf"
+  },
+  {
+    "smdCode": "AAD",
+    "package": "SO-8",
+    "deviceName": "SMDA15CDR2G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smda05c_on.pdf"
+  },
+  {
+    "smdCode": "AAE",
+    "package": "SO-8",
+    "deviceName": "SMDA24CDR2G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smda05c_on.pdf"
+  },
+  {
+    "smdCode": "AAE**",
+    "package": "SOT-26",
+    "deviceName": "SG5701TZ",
+    "manufacturer": "System General",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg5701_r1.0_system_general.pdf"
+  },
+  {
+    "smdCode": "AAF",
+    "package": "SOT-363",
+    "deviceName": "MAX4599EXT-T",
+    "manufacturer": "Maxim",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max4599_maxim.pdf"
+  },
+  {
+    "smdCode": "AAFI",
+    "package": "S-PBGA-N15",
+    "deviceName": "TPA2005D1ZQYR",
+    "manufacturer": "Texas Instruments",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpa2005d1_ti.pdf"
+  },
+  {
+    "smdCode": "AAG",
+    "package": "SOT-363",
+    "deviceName": "MAX2644",
+    "manufacturer": "Maxim",
+    "data": "Low-Noise Amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max2644_maxim.pdf"
+  },
+  {
+    "smdCode": "AAH**",
+    "package": "SOT-26",
+    "deviceName": "SG6848T1",
+    "manufacturer": "System General",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg6848x1_r1.3_system_general.pdf"
+  },
+  {
+    "smdCode": "AAHC",
+    "package": "SOT-26",
+    "deviceName": "MAX4599EUT-T",
+    "manufacturer": "Maxim",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max4599_maxim.pdf"
+  },
+  {
+    "smdCode": "AAHO",
+    "package": "SOT-26",
+    "deviceName": "MAX1736EUT42-T",
+    "manufacturer": "Maxim",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max1736_r1_maxim.pdf"
+  },
+  {
+    "smdCode": "AAI**",
+    "package": "SSOT-26",
+    "deviceName": "SG6858TZ",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg6858_r1.2.4_fairchild.pdf"
+  },
+  {
+    "smdCode": "AAIK",
+    "package": "SOT-28",
+    "deviceName": "MAX4337EKA-T",
+    "manufacturer": "Maxim",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max4335%2C_max4336%2C_max4337%2C_max4338_maxim.pdf"
+  },
+  {
+    "smdCode": "AAJ**",
+    "package": "SOT-26",
+    "deviceName": "SG6859TZ",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg6859_r1.2.1_fairchild.pdf"
+  },
+  {
+    "smdCode": "AAJ***",
+    "package": "SO-8",
+    "deviceName": "SY6288AFAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "AAJF*",
+    "package": "SOT-26",
+    "deviceName": "SG6859ATZ",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg6859a_r1.0.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "AAJI",
+    "package": "SOT-28",
+    "deviceName": "MAX9360EKA-T",
+    "manufacturer": "Maxim",
+    "data": "LVTTL/TTL/CMOS-to-Differential LVECL/ECL Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max9360%2C_max9361_maxim.pdf"
+  },
+  {
+    "smdCode": "AAJJ",
+    "package": "SOT-28",
+    "deviceName": "MAX9361EKA-T",
+    "manufacturer": "Maxim",
+    "data": "LVTTL/TTL/CMOS-to-Differential LVECL/ECL Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max9360%2C_max9361_maxim.pdf"
+  },
+  {
+    "smdCode": "AAL***",
+    "package": "SO-8",
+    "deviceName": "SY6288BFAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "AAM***",
+    "package": "SO-8",
+    "deviceName": "SY6288CFAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "AAN***",
+    "package": "SO-8",
+    "deviceName": "SY6288DFAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "AANC",
+    "package": "SOT-26",
+    "deviceName": "MAX1736EUT41-T",
+    "manufacturer": "Maxim",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max1736_r1_maxim.pdf"
+  },
+  {
+    "smdCode": "AAP",
+    "package": "TDFN-10 3x3",
+    "deviceName": "MAX4524ETB",
+    "manufacturer": "Maxim",
+    "data": "Multiplexer and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max4524%2C_max4525_maxim.pdf"
+  },
+  {
+    "smdCode": "AAQ",
+    "package": "SOT-346",
+    "deviceName": "2SD1757K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1757k_rohm.pdf"
+  },
+  {
+    "smdCode": "AAQ",
+    "package": "SOT-23",
+    "deviceName": "2SD1757K",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1757k_tip.pdf"
+  },
+  {
+    "smdCode": "AAQ",
+    "package": "TDFN-10 3x3",
+    "deviceName": "MAX4525ETB",
+    "manufacturer": "Maxim",
+    "data": "Multiplexer and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max4524%2C_max4525_maxim.pdf"
+  },
+  {
+    "smdCode": "AAR",
+    "package": "SOT-346",
+    "deviceName": "2SD1757K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1757k_rohm.pdf"
+  },
+  {
+    "smdCode": "AAR",
+    "package": "SOT-23",
+    "deviceName": "2SD1757K",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1757k_tip.pdf"
+  },
+  {
+    "smdCode": "AAS",
+    "package": "SOT-346",
+    "deviceName": "2SD1757K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1757k_rohm.pdf"
+  },
+  {
+    "smdCode": "AAS",
+    "package": "SOT-23",
+    "deviceName": "2SD1757K",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1757k_tip.pdf"
+  },
+  {
+    "smdCode": "AASQ",
+    "package": "SOT-26",
+    "deviceName": "MAX5021EUT",
+    "manufacturer": "Maxim",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max5021%2C_max5022_maxim.pdf"
+  },
+  {
+    "smdCode": "AASR",
+    "package": "SOT-26",
+    "deviceName": "MAX5022EUT",
+    "manufacturer": "Maxim",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max5021%2C_max5022_maxim.pdf"
+  },
+  {
+    "smdCode": "AAT***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN14T1G",
+    "manufacturer": "ON",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  },
+  {
+    "smdCode": "AATJ",
+    "package": "SOT-26",
+    "deviceName": "MAX5025EUT-T",
+    "manufacturer": "Maxim",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max5025-max5028_r2_maxim.pdf"
+  },
+  {
+    "smdCode": "AATK",
+    "package": "SOT-26",
+    "deviceName": "MAX5026EUT-T",
+    "manufacturer": "Maxim",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max5025-max5028_r2_maxim.pdf"
+  },
+  {
+    "smdCode": "AATL",
+    "package": "SOT-26",
+    "deviceName": "MAX5027EUT-T",
+    "manufacturer": "Maxim",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max5025-max5028_r2_maxim.pdf"
+  },
+  {
+    "smdCode": "AATM",
+    "package": "SOT-26",
+    "deviceName": "MAX5028EUT-T",
+    "manufacturer": "Maxim",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max5025-max5028_r2_maxim.pdf"
+  },
+  {
+    "smdCode": "AAU",
+    "package": "SOT-323",
+    "deviceName": "SN74AHC1G00-Q1",
+    "manufacturer": "Texas Instruments",
+    "data": "Single 2-Input Positive-NAND Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74ahc1g00-q1_ti.pdf"
+  },
+  {
+    "smdCode": "AAU**",
+    "package": "SOT-26",
+    "deviceName": "AME8804AEEY",
+    "manufacturer": "AME",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/m/ame8804_rk.04_ame.pdf"
+  },
+  {
+    "smdCode": "AAW",
+    "package": "SOT-363",
+    "deviceName": "MAX4336EXT-T",
+    "manufacturer": "Maxim",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max4335%2C_max4336%2C_max4337%2C_max4338_maxim.pdf"
+  },
+  {
+    "smdCode": "AAX",
+    "package": "SOT-363",
+    "deviceName": "MAX4335EXT-T",
+    "manufacturer": "Maxim",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max4335%2C_max4336%2C_max4337%2C_max4338_maxim.pdf"
+  },
+  {
+    "smdCode": "Aa",
+    "package": "SOT-25",
+    "deviceName": "BD48E23G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Aa",
+    "package": "SOT-23",
+    "deviceName": "BD48K23G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "O1***",
+    "package": "SOT-23",
+    "deviceName": "Si2399DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2399ds_vishay.pdf"
+  },
+  {
+    "smdCode": "O10A",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB82CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "O10B",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB91CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "O10C",
+    "package": "DO-214AA",
+    "deviceName": "1KSMO100CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "O10D",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB110CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "O10E",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB120CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "O10F",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB130CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "O10G",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB150CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "O10H",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB160CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "O171A",
+    "package": "SO-8",
+    "deviceName": "OPA171AID",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/o/p/opa171%2C_opa2171%2C_opa4171_ti.pdf"
+  }
+]

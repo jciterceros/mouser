@@ -1,0 +1,698 @@
+[
+  {
+    "smdCode": "EU",
+    "package": "SOT-323",
+    "deviceName": "2SD2656",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2656_rohm.pdf"
+  },
+  {
+    "smdCode": "EU",
+    "package": "SOT-553",
+    "deviceName": "BD4858FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EU",
+    "package": "SOT-25",
+    "deviceName": "BD4858G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EU",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "EU",
+    "package": "SOD-323",
+    "deviceName": "PZU9.1BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "EU*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-JLPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "EU**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US27D3-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "EU0**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B312MR",
+    "manufacturer": "Torex",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU1**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B322MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU2**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B332MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU3**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B342MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU4**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B352MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU5**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B362MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU6**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B372MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU7**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B382MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU8**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B392MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU9**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B402MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU0*",
+    "package": "USP-4",
+    "deviceName": "XC6215B312GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU0*",
+    "package": "USP-3",
+    "deviceName": "XC6215P312HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU0**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B3127R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU1*",
+    "package": "USP-4",
+    "deviceName": "XC6215B322GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU1*",
+    "package": "USP-3",
+    "deviceName": "XC6215P322HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU1**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B3227R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU2*",
+    "package": "USP-4",
+    "deviceName": "XC6215B332GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU2*",
+    "package": "USP-3",
+    "deviceName": "XC6215P332HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU2**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B3327R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU3*",
+    "package": "USP-4",
+    "deviceName": "XC6215B342GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU3*",
+    "package": "USP-3",
+    "deviceName": "XC6215P342HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU3**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B3427R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU4*",
+    "package": "USP-4",
+    "deviceName": "XC6215B352GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU4*",
+    "package": "USP-3",
+    "deviceName": "XC6215P352HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU4**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B3527R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU5*",
+    "package": "USP-4",
+    "deviceName": "XC6215B362GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU5*",
+    "package": "USP-3",
+    "deviceName": "XC6215P362HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU5**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B3627R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU6*",
+    "package": "USP-4",
+    "deviceName": "XC6215B372GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU6*",
+    "package": "USP-3",
+    "deviceName": "XC6215P372HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU6**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B3727R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU7*",
+    "package": "USP-4",
+    "deviceName": "XC6215B382GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU7*",
+    "package": "USP-3",
+    "deviceName": "XC6215P382HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU7**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B3827R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU8*",
+    "package": "USP-4",
+    "deviceName": "XC6215B392GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU8*",
+    "package": "USP-3",
+    "deviceName": "XC6215P392HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU8**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B3927R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU9*",
+    "package": "USP-4",
+    "deviceName": "XC6215B402GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU9*",
+    "package": "USP-3",
+    "deviceName": "XC6215P402HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EU9**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B4027R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUA*",
+    "package": "USP-4",
+    "deviceName": "XC6215B412GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUA*",
+    "package": "USP-3",
+    "deviceName": "XC6215P412HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUA**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B4127R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUB*",
+    "package": "USP-4",
+    "deviceName": "XC6215B422GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUB*",
+    "package": "USP-3",
+    "deviceName": "XC6215P422HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUB**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B4227R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUC*",
+    "package": "USP-4",
+    "deviceName": "XC6215B432GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUC*",
+    "package": "USP-3",
+    "deviceName": "XC6215P432HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUC**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B4327R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUD*",
+    "package": "USP-4",
+    "deviceName": "XC6215B442GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUD*",
+    "package": "USP-3",
+    "deviceName": "XC6215P442HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUD**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B4427R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUE*",
+    "package": "USP-4",
+    "deviceName": "XC6215B452GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUE*",
+    "package": "USP-3",
+    "deviceName": "XC6215P452HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUE**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B4527R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUF*",
+    "package": "USP-4",
+    "deviceName": "XC6215B462GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUF*",
+    "package": "USP-3",
+    "deviceName": "XC6215P462HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUF**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B4627R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUH*",
+    "package": "USP-4",
+    "deviceName": "XC6215B472GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUH*",
+    "package": "USP-3",
+    "deviceName": "XC6215P472HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUH**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B4727R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUK*",
+    "package": "USP-4",
+    "deviceName": "XC6215B482GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUK*",
+    "package": "USP-3",
+    "deviceName": "XC6215P482HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUK**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B4827R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUL*",
+    "package": "USP-4",
+    "deviceName": "XC6215B492GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUL*",
+    "package": "USP-3",
+    "deviceName": "XC6215P492HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUL**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B4927R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUM*",
+    "package": "USP-4",
+    "deviceName": "XC6215B502GR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUM*",
+    "package": "USP-3",
+    "deviceName": "XC6215P502HR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUM**",
+    "package": "USPN-4",
+    "deviceName": "XC6215B5027R",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUA**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B412MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUB**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B422MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUC**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B432MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUD**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B442MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUE**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B452MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUF**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B462MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUH**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B472MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUK**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B482MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUL**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B492MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "EUM**",
+    "package": "SOT-25",
+    "deviceName": "XC6215B502MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  }
+]

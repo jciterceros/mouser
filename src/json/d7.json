@@ -1,0 +1,162 @@
+[
+  {
+    "smdCode": "D7",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "D7*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8010-12PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "D7**",
+    "package": "SOT-25",
+    "deviceName": "MP2104DJ-1.5",
+    "manufacturer": "MPS",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/p/mp2104_mps.pdf"
+  },
+  {
+    "smdCode": "D7***",
+    "package": "SOT-23",
+    "deviceName": "Si2327DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2327ds_vishay.pdf"
+  },
+  {
+    "smdCode": "D7-",
+    "package": "SOT-363",
+    "deviceName": "PMGD780SN",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmgd780sn_nxp.pdf"
+  },
+  {
+    "smdCode": "D7.5",
+    "package": "SOT-23",
+    "deviceName": "TZT7V5AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D70",
+    "package": "SOT-23",
+    "deviceName": "AZ23B43-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D70",
+    "package": "SOT-23",
+    "deviceName": "AZ23C43-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D71",
+    "package": "SOT-23",
+    "deviceName": "AZ23B47-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D71",
+    "package": "SOT-23",
+    "deviceName": "AZ23C47-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D72",
+    "package": "SOT-23",
+    "deviceName": "AZ23B51-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D72",
+    "package": "SOT-23",
+    "deviceName": "AZ23C51-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D72",
+    "package": "SOD-123",
+    "deviceName": "BAT54ZFILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_st.pdf"
+  },
+  {
+    "smdCode": "D73",
+    "package": "SOT-323",
+    "deviceName": "BAT54WFILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_st.pdf"
+  },
+  {
+    "smdCode": "D74",
+    "package": "SOT-323",
+    "deviceName": "BAT54AWFILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_st.pdf"
+  },
+  {
+    "smdCode": "D77",
+    "package": "SOT-323",
+    "deviceName": "BAT54CWFILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_st.pdf"
+  },
+  {
+    "smdCode": "D78",
+    "package": "SOT-323",
+    "deviceName": "BAT54SWFILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_st.pdf"
+  },
+  {
+    "smdCode": "D7W",
+    "package": "SOT-363",
+    "deviceName": "PMGD780SN",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmgd780sn_nxp.pdf"
+  },
+  {
+    "smdCode": "D7p",
+    "package": "SOT-363",
+    "deviceName": "PMGD780SN",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmgd780sn_nxp.pdf"
+  },
+  {
+    "smdCode": "D7t",
+    "package": "SOT-363",
+    "deviceName": "PMGD780SN",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmgd780sn_nxp.pdf"
+  }
+]

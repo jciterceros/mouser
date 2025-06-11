@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "00**",
+    "package": "SOT-23",
+    "deviceName": "AFN3400",
+    "manufacturer": "Alpha-MOS",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/f/afn3400_alpha-mos.pdf"
+  },
+  {
+    "smdCode": "00**",
+    "package": "SOT-323",
+    "deviceName": "ST7400",
+    "manufacturer": "Stanson",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st7400_r1_stanson.pdf"
+  },
+  {
+    "smdCode": "005",
+    "package": "MSOP-8",
+    "deviceName": "FAN7005MU",
+    "manufacturer": "Fairchild",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/a/fan7005_fairchild.pdf"
+  },
+  {
+    "smdCode": "006R",
+    "package": "MSOP-8",
+    "deviceName": "PACDN006MR",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pacdn006_on.pdf"
+  }
+]

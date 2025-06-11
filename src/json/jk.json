@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "JK",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q491B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "JK-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-15PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JK-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819A-33PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  }
+]

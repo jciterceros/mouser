@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "4F",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z3V3",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "4Fs",
+    "package": "SOT-23",
+    "deviceName": "BC860B",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc857%2C_bc858%2C_bc859%2C_bc860_series_infineon.pdf"
+  },
+  {
+    "smdCode": "4Fs",
+    "package": "SOT-323",
+    "deviceName": "BC860BW",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc857%2C_bc858%2C_bc859%2C_bc860_series_infineon.pdf"
+  }
+]

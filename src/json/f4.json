@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "F4",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "F4",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5239",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "F4",
+    "package": "SOD-323F",
+    "deviceName": "PZU3.0B1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "F4*",
+    "package": "SOT-23",
+    "deviceName": "HSMP-3824",
+    "manufacturer": "Avago",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsmp-382x%2C_482x_avago.pdf"
+  },
+  {
+    "smdCode": "F4**",
+    "package": "SOT-26",
+    "deviceName": "TC1073-3.3VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "F4=**",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8452GQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8452_richtek.pdf"
+  },
+  {
+    "smdCode": "F4=***",
+    "package": "SOT-26",
+    "deviceName": "R7732HGE",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/7/r7732_richtek.pdf"
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "smdCode": "L4",
+    "package": "SOT-23",
+    "deviceName": "2SC1623",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1623_galaxy.pdf"
+  },
+  {
+    "smdCode": "L4",
+    "package": "SOT-323",
+    "deviceName": "2SC1623W",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1623w_galaxy.pdf"
+  },
+  {
+    "smdCode": "L4",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "MCC",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_mcc.pdf"
+  },
+  {
+    "smdCode": "L4",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "WTE",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_wte.pdf"
+  },
+  {
+    "smdCode": "L4",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "Taitron",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_taitron.pdf"
+  },
+  {
+    "smdCode": "L4",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "Vishay",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_vishay.pdf"
+  },
+  {
+    "smdCode": "L4",
+    "package": "SOT-323",
+    "deviceName": "BAT54W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w%2C_bat54aw%2C_bat54cw%2C_bat54sw_philips.pdf"
+  },
+  {
+    "smdCode": "L4",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "L4",
+    "package": "SOT-553",
+    "deviceName": "EML4",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor + diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/eml4%2C_uml4n_rohm.pdf"
+  },
+  {
+    "smdCode": "L4",
+    "package": "SOT-23",
+    "deviceName": "SST504",
+    "manufacturer": "Siliconix (Now Vishay)",
+    "data": "Current regulator diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst502-sst511_siliconix.pdf"
+  },
+  {
+    "smdCode": "L4",
+    "package": "SOT-353",
+    "deviceName": "UML4N",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor + diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/eml4%2C_uml4n_rohm.pdf"
+  },
+  {
+    "smdCode": "L4 *",
+    "package": "SOT-353",
+    "deviceName": "NL17SZ32DFT2",
+    "manufacturer": "ON",
+    "data": "Single 2-Input OR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/l/nl17sz32_on.pdf"
+  },
+  {
+    "smdCode": "L4 *",
+    "package": "SOT-553",
+    "deviceName": "NL17SZ32XV5T2",
+    "manufacturer": "ON",
+    "data": "Single 2-Input OR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/l/nl17sz32_on.pdf"
+  },
+  {
+    "smdCode": "L4***",
+    "package": "SOT-23",
+    "deviceName": "Si2304BDS",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2304bds_vishay.pdf"
+  },
+  {
+    "smdCode": "L4-",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  },
+  {
+    "smdCode": "L4-",
+    "package": "SOT-323",
+    "deviceName": "BAT54W",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "L4-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819E-26PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "L42",
+    "package": "SOT-23",
+    "deviceName": "BAT54A",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54%2C_bat54a%2C_bat54c%2C_bat54s_nxp.pdf"
+  },
+  {
+    "smdCode": "L42",
+    "package": "SOT-23",
+    "deviceName": "BAT54A",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_fairchild.pdf"
+  },
+  {
+    "smdCode": "L42",
+    "package": "SOT-23",
+    "deviceName": "BAT54A",
+    "manufacturer": "MCC",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_mcc.pdf"
+  },
+  {
+    "smdCode": "L42",
+    "package": "SOT-23",
+    "deviceName": "BAT54A",
+    "manufacturer": "WTE",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_wte.pdf"
+  },
+  {
+    "smdCode": "L42",
+    "package": "SOT-23",
+    "deviceName": "BAT54A",
+    "manufacturer": "Taitron",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_taitron.pdf"
+  },
+  {
+    "smdCode": "L42",
+    "package": "SOT-23",
+    "deviceName": "BAT54A",
+    "manufacturer": "Vishay",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_vishay.pdf"
+  },
+  {
+    "smdCode": "L43",
+    "package": "SOT-23",
+    "deviceName": "BAT54C",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54%2C_bat54a%2C_bat54c%2C_bat54s_nxp.pdf"
+  },
+  {
+    "smdCode": "L43",
+    "package": "SOT-23",
+    "deviceName": "BAT54C",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_fairchild.pdf"
+  },
+  {
+    "smdCode": "L43",
+    "package": "SOT-23",
+    "deviceName": "BAT54C",
+    "manufacturer": "MCC",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_mcc.pdf"
+  },
+  {
+    "smdCode": "L43",
+    "package": "SOT-23",
+    "deviceName": "BAT54C",
+    "manufacturer": "WTE",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_wte.pdf"
+  },
+  {
+    "smdCode": "L43",
+    "package": "SOT-23",
+    "deviceName": "BAT54C",
+    "manufacturer": "Taitron",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_taitron.pdf"
+  },
+  {
+    "smdCode": "L43",
+    "package": "SOT-23",
+    "deviceName": "BAT54C",
+    "manufacturer": "Vishay",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_vishay.pdf"
+  },
+  {
+    "smdCode": "L44",
+    "package": "SOT-23",
+    "deviceName": "BAT54S",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54%2C_bat54a%2C_bat54c%2C_bat54s_nxp.pdf"
+  },
+  {
+    "smdCode": "L44",
+    "package": "SOT-23",
+    "deviceName": "BAT54S",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_fairchild.pdf"
+  },
+  {
+    "smdCode": "L44",
+    "package": "SOT-23",
+    "deviceName": "BAT54S",
+    "manufacturer": "MCC",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_mcc.pdf"
+  },
+  {
+    "smdCode": "L44",
+    "package": "SOT-23",
+    "deviceName": "BAT54S",
+    "manufacturer": "WTE",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_wte.pdf"
+  },
+  {
+    "smdCode": "L44",
+    "package": "SOT-23",
+    "deviceName": "BAT54S",
+    "manufacturer": "Taitron",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_taitron.pdf"
+  },
+  {
+    "smdCode": "L44",
+    "package": "SOT-23",
+    "deviceName": "BAT54S",
+    "manufacturer": "Vishay",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_vishay.pdf"
+  },
+  {
+    "smdCode": "L4B",
+    "package": "SOT-26",
+    "deviceName": "ADP3330ART-3",
+    "manufacturer": "Analog Devices",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adp3330_analog.pdf"
+  },
+  {
+    "smdCode": "L4P",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_fairchild.pdf"
+  },
+  {
+    "smdCode": "L4W",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  },
+  {
+    "smdCode": "L4W",
+    "package": "SOT-323",
+    "deviceName": "BAT54W",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "L4p",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  },
+  {
+    "smdCode": "L4p",
+    "package": "SOT-323",
+    "deviceName": "BAT54W",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "L4t",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  },
+  {
+    "smdCode": "L4t",
+    "package": "SOT-323",
+    "deviceName": "BAT54W",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  }
+]

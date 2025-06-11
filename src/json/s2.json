@@ -1,0 +1,210 @@
+[
+  {
+    "smdCode": "S2",
+    "package": "SOD-323",
+    "deviceName": "1N4448WS",
+    "manufacturer": "Fairchild",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/n/1n914bws%2C_1n4148ws%2C_1n4448ws_fairchild.pdf"
+  },
+  {
+    "smdCode": "S2",
+    "package": "SOT-23",
+    "deviceName": "2302",
+    "manufacturer": "HFZT",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/3/2302_hfzt.pdf"
+  },
+  {
+    "smdCode": "S2",
+    "package": "SOT-23",
+    "deviceName": "BBY40",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/b/bby40_zetex.pdf"
+  },
+  {
+    "smdCode": "S2",
+    "package": "SOD-323",
+    "deviceName": "SD101BWS",
+    "manufacturer": "TIP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sd101aws%2C_sd101bws%2C_sd101cws_tip.pdf"
+  },
+  {
+    "smdCode": "S2",
+    "package": "SOD-523",
+    "deviceName": "SDB310Q",
+    "manufacturer": "TIP",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sdb310q_tip.pdf"
+  },
+  {
+    "smdCode": "S2",
+    "package": "SOT-23",
+    "deviceName": "SST200",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst200%2C_sst200a_vishay.pdf"
+  },
+  {
+    "smdCode": "S2**",
+    "package": "SOT-25",
+    "deviceName": "LA9010",
+    "manufacturer": "Inno",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/a/la9010_r01_inno.pdf"
+  },
+  {
+    "smdCode": "S20**",
+    "package": "SOT-25",
+    "deviceName": "R1162N201B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S21",
+    "package": "SOD-323",
+    "deviceName": "SD106WS",
+    "manufacturer": "TIP",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sd106ws_tip.pdf"
+  },
+  {
+    "smdCode": "S21**",
+    "package": "SOT-25",
+    "deviceName": "R1162N211B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S22**",
+    "package": "SOT-25",
+    "deviceName": "R1162N221B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S23",
+    "package": "micro SMD-8",
+    "deviceName": "LM3500TL-21",
+    "manufacturer": "National",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3500_national.pdf"
+  },
+  {
+    "smdCode": "S23**",
+    "package": "SOT-25",
+    "deviceName": "R1162N231B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S23B",
+    "package": "MSOP-8",
+    "deviceName": "LM2788MM-1.8",
+    "manufacturer": "National",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2788mm_national.pdf"
+  },
+  {
+    "smdCode": "S24**",
+    "package": "SOT-25",
+    "deviceName": "R1162N241B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S24B",
+    "package": "MSOP-8",
+    "deviceName": "LM2788MM-2.0",
+    "manufacturer": "National",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2788mm_national.pdf"
+  },
+  {
+    "smdCode": "S25**",
+    "package": "SOT-25",
+    "deviceName": "LR1120G-25-AF5-A-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr1120_20130809_utc.pdf"
+  },
+  {
+    "smdCode": "S25**",
+    "package": "SOT-353",
+    "deviceName": "LR1120G-25-AL5-A-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr1120_20130809_utc.pdf"
+  },
+  {
+    "smdCode": "S25**",
+    "package": "SOT-25",
+    "deviceName": "R1162N251B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S26**",
+    "package": "SOT-25",
+    "deviceName": "R1162N261B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S27**",
+    "package": "SOT-25",
+    "deviceName": "R1162N271B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S28**",
+    "package": "SOT-25",
+    "deviceName": "LR1120G-28-AF5-A-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr1120_20130809_utc.pdf"
+  },
+  {
+    "smdCode": "S28**",
+    "package": "SOT-353",
+    "deviceName": "LR1120G-28-AL5-A-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr1120_20130809_utc.pdf"
+  },
+  {
+    "smdCode": "S28**",
+    "package": "SOT-25",
+    "deviceName": "R1162N281B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S28B",
+    "package": "SOT-25",
+    "deviceName": "LM2704MF-ADJ",
+    "manufacturer": "National",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2704mf_national.pdf"
+  },
+  {
+    "smdCode": "S29**",
+    "package": "SOT-25",
+    "deviceName": "R1162N291B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  }
+]

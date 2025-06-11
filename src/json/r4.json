@@ -1,0 +1,170 @@
+[
+  {
+    "smdCode": "R4**",
+    "package": "SOT-89",
+    "deviceName": "ELM9734CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "R404",
+    "package": "PowerPAK SO-8",
+    "deviceName": "SIR404DP",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/sir404dp_vishay.pdf"
+  },
+  {
+    "smdCode": "R428",
+    "package": "PowerPAK SO-8",
+    "deviceName": "SIR428DP",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/sir428dp_vishay.pdf"
+  },
+  {
+    "smdCode": "R466",
+    "package": "PowerPAK SO-8",
+    "deviceName": "SIR466DP",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/sir466dp_ra_vishay.pdf"
+  },
+  {
+    "smdCode": "R472",
+    "package": "PowerPAK SO-8",
+    "deviceName": "SIR472DP",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/sir472dp_rc_vishay.pdf"
+  },
+  {
+    "smdCode": "R492",
+    "package": "PowerPAK SO-8",
+    "deviceName": "SIR492DP",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/sir492dp_vishay.pdf"
+  },
+  {
+    "smdCode": "R4BA",
+    "package": "SOT-25",
+    "deviceName": "LM4132AMF-2.0",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4BB",
+    "package": "SOT-25",
+    "deviceName": "LM4132BMF-2.0",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4BC",
+    "package": "SOT-25",
+    "deviceName": "LM4132CMF-2.0",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4BD",
+    "package": "SOT-25",
+    "deviceName": "LM4132DMF-2.0",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4BE",
+    "package": "SOT-25",
+    "deviceName": "LM4132EMF-2.0",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4CA",
+    "package": "SOT-25",
+    "deviceName": "LM4132AMF-2.5",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4CB",
+    "package": "SOT-25",
+    "deviceName": "LM4132BMF-2.5",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4CC",
+    "package": "SOT-25",
+    "deviceName": "LM4132CMF-2.5",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4CD",
+    "package": "SOT-25",
+    "deviceName": "LM4132DMF-2.5",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4CE",
+    "package": "SOT-25",
+    "deviceName": "LM4132EMF-2.5",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4FA",
+    "package": "SOT-25",
+    "deviceName": "LM4132AMF-4.1",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4FB",
+    "package": "SOT-25",
+    "deviceName": "LM4132BMF-4.1",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4FC",
+    "package": "SOT-25",
+    "deviceName": "LM4132CMF-4.1",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4FD",
+    "package": "SOT-25",
+    "deviceName": "LM4132DMF-4.1",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  },
+  {
+    "smdCode": "R4FE",
+    "package": "SOT-25",
+    "deviceName": "LM4132EMF-4.1",
+    "manufacturer": "National",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm4132_200509_national.pdf"
+  }
+]

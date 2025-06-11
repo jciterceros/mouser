@@ -1,0 +1,218 @@
+[
+  {
+    "smdCode": "33",
+    "package": "SOT-523",
+    "deviceName": "DTA143XE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143xm_dta143xe_dta143xua_dta143xka_rb_rohm.pdf"
+  },
+  {
+    "smdCode": "33",
+    "package": "SOT-346",
+    "deviceName": "DTA143XKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143xm_dta143xe_dta143xua_dta143xka_rb_rohm.pdf"
+  },
+  {
+    "smdCode": "33",
+    "package": "VMT3",
+    "deviceName": "DTA143XM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143xm_dta143xe_dta143xua_dta143xka_rb_rohm.pdf"
+  },
+  {
+    "smdCode": "33",
+    "package": "SOT-323",
+    "deviceName": "DTA143XUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143xm_dta143xe_dta143xua_dta143xka_rb_rohm.pdf"
+  },
+  {
+    "smdCode": "33",
+    "package": "SOT-23",
+    "deviceName": "ZD33-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "33",
+    "package": "SOD-323",
+    "deviceName": "ZD33-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "33**A",
+    "package": "SOT-25",
+    "deviceName": "ST8433AS",
+    "manufacturer": "Stanson",
+    "data": "Voltage and Current Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st8433_stanson.pdf"
+  },
+  {
+    "smdCode": "33**B",
+    "package": "SOT-25",
+    "deviceName": "ST8433BS",
+    "manufacturer": "Stanson",
+    "data": "Voltage and Current Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st8433_stanson.pdf"
+  },
+  {
+    "smdCode": "33-***",
+    "package": "SOT-26",
+    "deviceName": "RT9269PE",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9269_r12_richtek.pdf"
+  },
+  {
+    "smdCode": "330",
+    "package": "SOT-26",
+    "deviceName": "FDC6330L",
+    "manufacturer": "Fairchild",
+    "data": "Integrated Load Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdc6330l_fairchild.pdf"
+  },
+  {
+    "smdCode": "33063",
+    "package": "SO-8",
+    "deviceName": "MC33063AD",
+    "manufacturer": "ON",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33063a%2C_mc34063a%2C_sc33063a%2C_sc34063a%2C_ncv33063a_r23_on.pdf"
+  },
+  {
+    "smdCode": "33063",
+    "package": "DFN-8 4x4",
+    "deviceName": "MC33063MNTXG",
+    "manufacturer": "ON",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33063a%2C_mc34063a%2C_sc33063a%2C_sc34063a%2C_ncv33063a_r23_on.pdf"
+  },
+  {
+    "smdCode": "33063",
+    "package": "SO-8",
+    "deviceName": "NCV33063AVDR2",
+    "manufacturer": "ON",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33063a%2C_mc34063a%2C_sc33063a%2C_sc34063a%2C_ncv33063a_r23_on.pdf"
+  },
+  {
+    "smdCode": "33063",
+    "package": "SO-8",
+    "deviceName": "SC33063ADR2G",
+    "manufacturer": "ON",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33063a%2C_mc34063a%2C_sc33063a%2C_sc34063a%2C_ncv33063a_r23_on.pdf"
+  },
+  {
+    "smdCode": "33063AP1",
+    "package": "DIP-8",
+    "deviceName": "MC33063AP1",
+    "manufacturer": "ON",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33063a%2C_mc34063a%2C_sc33063a%2C_sc34063a%2C_ncv33063a_r23_on.pdf"
+  },
+  {
+    "smdCode": "33063AVP",
+    "package": "DIP-8",
+    "deviceName": "MC33063AVP",
+    "manufacturer": "ON",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33063a%2C_mc34063a%2C_sc33063a%2C_sc34063a%2C_ncv33063a_r23_on.pdf"
+  },
+  {
+    "smdCode": "33063V",
+    "package": "SO-8",
+    "deviceName": "MC33063AVD",
+    "manufacturer": "ON",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33063a%2C_mc34063a%2C_sc33063a%2C_sc34063a%2C_ncv33063a_r23_on.pdf"
+  },
+  {
+    "smdCode": "33151",
+    "package": "SO-8",
+    "deviceName": "MC33151DG",
+    "manufacturer": "ON",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc34151%2C_mc33151_r9_on.pdf"
+  },
+  {
+    "smdCode": "333",
+    "package": "SOT-363",
+    "deviceName": "STF203-33",
+    "manufacturer": "Semtech",
+    "data": "USB Port Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stf203-15%2C_stf203-22%2C_stf203-33_semtech.pdf"
+  },
+  {
+    "smdCode": "33340",
+    "package": "SO-8",
+    "deviceName": "MC33340D",
+    "manufacturer": "ON",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33340%2C_mc33342_on.pdf"
+  },
+  {
+    "smdCode": "33342",
+    "package": "SO-8",
+    "deviceName": "MC33342D",
+    "manufacturer": "ON",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33340%2C_mc33342_on.pdf"
+  },
+  {
+    "smdCode": "339I",
+    "package": "SO-14",
+    "deviceName": "LMV339IDT",
+    "manufacturer": "STMicroelectronics",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv331%2C_lmv393%2C_lmv339_r3_st.pdf"
+  },
+  {
+    "smdCode": "339I",
+    "package": "TSSOP-14",
+    "deviceName": "LMV339IPT",
+    "manufacturer": "STMicroelectronics",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv331%2C_lmv393%2C_lmv339_r3_st.pdf"
+  },
+  {
+    "smdCode": "33=***",
+    "package": "SOT-26",
+    "deviceName": "RT9269GE",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9269_r12_richtek.pdf"
+  },
+  {
+    "smdCode": "33A",
+    "package": "SMB",
+    "deviceName": "1.5SMC33AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "33T",
+    "package": "SOT-23",
+    "deviceName": "TK71533AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "33Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  }
+]

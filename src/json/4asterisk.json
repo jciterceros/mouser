@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "4*",
+    "package": "SOD-923",
+    "deviceName": "ESD9M5.0ST5G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esd9m5.0st5g_on.pdf"
+  },
+  {
+    "smdCode": "4****",
+    "package": "SOT-26",
+    "deviceName": "RU8205C6",
+    "manufacturer": "Ruichips",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/u/ru8205c6_ra_ruichips.pdf"
+  }
+]

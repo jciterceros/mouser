@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "YN",
+    "package": "SOT-23",
+    "deviceName": "CZMK39",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "YN",
+    "package": "SOD-323",
+    "deviceName": "PZU24B1A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "YN",
+    "package": "SOT-23",
+    "deviceName": "TZT39CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  }
+]

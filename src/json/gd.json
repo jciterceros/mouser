@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "GD",
+    "package": "SOT-25",
+    "deviceName": "BD4943G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GD",
+    "package": "SOD-123",
+    "deviceName": "KDZ36B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "GD",
+    "package": "SOD-323F",
+    "deviceName": "PZU6.2B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "GD",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q241B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "GD*",
+    "package": "SOT-553",
+    "deviceName": "BD4943FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GD*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8010-15GQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "GD-***",
+    "package": "SOT-25",
+    "deviceName": "RT9261A-28PB",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "GD=",
+    "package": "SOT-89",
+    "deviceName": "RT9161A-28GX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "Gd",
+    "package": "SOT-23",
+    "deviceName": "BD48L34G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "6A",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z43",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "6A",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ253A",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "6A**",
+    "package": "SOT-23",
+    "deviceName": "ST6206AS23RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6206_stanson.pdf"
+  },
+  {
+    "smdCode": "6A**",
+    "package": "SOT-323",
+    "deviceName": "ST6206AS32RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6206_stanson.pdf"
+  },
+  {
+    "smdCode": "6A**",
+    "package": "WLBGA-16",
+    "deviceName": "W25Q64FWBYIG",
+    "manufacturer": "Winbond",
+    "data": "Flash Memory",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/w/2/w25q64fw_rd_winbond.pdf"
+  },
+  {
+    "smdCode": "6A**",
+    "package": "WLBGA-16",
+    "deviceName": "W25Q64FWBYIP",
+    "manufacturer": "Winbond",
+    "data": "Flash Memory",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/w/2/w25q64fw_rd_winbond.pdf"
+  },
+  {
+    "smdCode": "6A-",
+    "package": "SOT-23",
+    "deviceName": "BC817-16",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6A-",
+    "package": "SOT-323",
+    "deviceName": "BC817-16W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6A2",
+    "package": "SOT-346",
+    "deviceName": "PZM6.2NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "6A8",
+    "package": "SOT-346",
+    "deviceName": "PZM6.8NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "6AW",
+    "package": "SOT-23",
+    "deviceName": "BC817-16",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6AW",
+    "package": "SOT-323",
+    "deviceName": "BC817-16W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6Ap",
+    "package": "SOT-23",
+    "deviceName": "BC817-16",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6Ap",
+    "package": "SOT-323",
+    "deviceName": "BC817-16W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6At",
+    "package": "SOT-23",
+    "deviceName": "BC817-16",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6At",
+    "package": "SOT-323",
+    "deviceName": "BC817-16W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  }
+]

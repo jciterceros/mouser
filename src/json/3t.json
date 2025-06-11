@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "3T",
+    "package": "SOT-23",
+    "deviceName": "HT3",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/t/ht3_zetex.pdf"
+  },
+  {
+    "smdCode": "3T",
+    "package": "SOT-343",
+    "deviceName": "RB480K",
+    "manufacturer": "TIP",
+    "data": "Schottky barrier diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb480k_tip.pdf"
+  },
+  {
+    "smdCode": "3T=**",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8231BGQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8231a%2C_rt8231b_r05_richtek.pdf"
+  }
+]

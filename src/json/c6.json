@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "C6",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C6",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "C6",
+    "package": "QFN-6 1.45x1",
+    "deviceName": "SN74LVC1G66DRY",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g66_ti.pdf"
+  },
+  {
+    "smdCode": "C6",
+    "package": "µQFN-6 1x1",
+    "deviceName": "SN74LVC1G66DSF",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g66_ti.pdf"
+  },
+  {
+    "smdCode": "C6*",
+    "package": "SOT-323",
+    "deviceName": "SN74LVC1G66DCK",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g66_ti.pdf"
+  },
+  {
+    "smdCode": "C6*",
+    "package": "SOT-553",
+    "deviceName": "SN74LVC1G66DRL",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g66_ti.pdf"
+  },
+  {
+    "smdCode": "C6**",
+    "package": "SOT-25",
+    "deviceName": "MP2105DJ",
+    "manufacturer": "MPS",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/p/mp2105_mps.pdf"
+  },
+  {
+    "smdCode": "C6-",
+    "package": "SOT-89",
+    "deviceName": "RT9169-50PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "C6-**",
+    "package": "WQFN-16 4x4",
+    "deviceName": "RT8202PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8202_series_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "C6-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013B-35PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "C6-***",
+    "package": "SOT-23",
+    "deviceName": "RT9161A-33PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "C6-***",
+    "package": "SOT-25",
+    "deviceName": "RT9169-45PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "C66*",
+    "package": "SOT-23",
+    "deviceName": "SN74LVC1G66DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g66_ti.pdf"
+  },
+  {
+    "smdCode": "C6=",
+    "package": "SOT-89",
+    "deviceName": "RT9169-50GX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "C6=**",
+    "package": "WQFN-16 4x4",
+    "deviceName": "RT8202GQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8202_series_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "C6=***",
+    "package": "SOT-26",
+    "deviceName": "RT9010-13GJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9010_richtek.pdf"
+  },
+  {
+    "smdCode": "C6=***",
+    "package": "SOT-23",
+    "deviceName": "RT9161A-33GV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "C6Z",
+    "package": "SOT-23",
+    "deviceName": "MMBF170",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbf170_diodes.pdf"
+  }
+]

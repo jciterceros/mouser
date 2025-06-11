@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "NN",
+    "package": "USP-6",
+    "deviceName": "EUP7201-3.0/3.0UIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7201_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "NN",
+    "package": "SOD-323",
+    "deviceName": "PZU4.3B1A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "NN****",
+    "package": "SOT-26",
+    "deviceName": "EUP7201-3.0/3.0VIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7201_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "NNJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB170",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "Nn",
+    "package": "SOT-23",
+    "deviceName": "BD49L59G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Nn",
+    "package": "SOT-25",
+    "deviceName": "BD52E49G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

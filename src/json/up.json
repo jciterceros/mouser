@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "UP",
+    "package": "SOT-89",
+    "deviceName": "2SC5824",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5824_rohm.pdf"
+  },
+  {
+    "smdCode": "UP",
+    "package": "X2-DFN1010-6",
+    "deviceName": "74LVC1G14FW4",
+    "manufacturer": "Diodes",
+    "data": "Schmitt-Trigger Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g14_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "UP",
+    "package": "X2-DFN1410-6",
+    "deviceName": "74LVC1G14FZ4",
+    "manufacturer": "Diodes",
+    "data": "Schmitt-Trigger Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g14_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "UP",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C68",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "UP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ11L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "UP",
+    "package": "SOD-323F",
+    "deviceName": "CZRF15VB-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "UP",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K471B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "UP***",
+    "package": "SOT-353",
+    "deviceName": "74LVC1G14SE",
+    "manufacturer": "Diodes",
+    "data": "Schmitt-Trigger Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g14_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "UP***",
+    "package": "SOT-25",
+    "deviceName": "74LVC1G14W5",
+    "manufacturer": "Diodes",
+    "data": "Schmitt-Trigger Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g14_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "UP***",
+    "package": "SOT-553",
+    "deviceName": "74LVC1G14Z",
+    "manufacturer": "Diodes",
+    "data": "Schmitt-Trigger Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g14_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "UP-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UPW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UPp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UPt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

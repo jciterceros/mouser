@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "XV",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B56",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XV",
+    "package": "SOT-23",
+    "deviceName": "BZX99-C8V2",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx99_philips.pdf"
+  },
+  {
+    "smdCode": "XV",
+    "package": "SOD-323",
+    "deviceName": "PZU3.0B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XV",
+    "package": "SMA",
+    "deviceName": "SMAJ20CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  }
+]

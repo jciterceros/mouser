@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "-2A",
+    "package": "SOT-323",
+    "deviceName": "PMST3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmst3906_nxp.pdf"
+  },
+  {
+    "smdCode": "-2B",
+    "package": "SOT-23",
+    "deviceName": "PMBT2907",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt2907a%2C_pmbt2907a_nxp.pdf"
+  },
+  {
+    "smdCode": "-2D",
+    "package": "SOT-323",
+    "deviceName": "PMSTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmsta92_nxp.pdf"
+  },
+  {
+    "smdCode": "-2D",
+    "package": "SOT-89",
+    "deviceName": "PXTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/x/pxta92_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-2E",
+    "package": "SOT-23",
+    "deviceName": "2N7002E",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002e_philips.pdf"
+  },
+  {
+    "smdCode": "-2F",
+    "package": "SOT-23",
+    "deviceName": "PMBT2907A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt2907a%2C_pmbt2907a_nxp.pdf"
+  },
+  {
+    "smdCode": "-2K",
+    "package": "SOT-23",
+    "deviceName": "2N7002K",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_philips.pdf"
+  },
+  {
+    "smdCode": "-2L",
+    "package": "SOT-23",
+    "deviceName": "PMBT5401",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt5401_2004.01.21_nxp.pdf"
+  },
+  {
+    "smdCode": "-2X",
+    "package": "SOT-23",
+    "deviceName": "PMBT4401",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt4401_philips.pdf"
+  }
+]

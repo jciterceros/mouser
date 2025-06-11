@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "JR",
+    "package": "SOD-323",
+    "deviceName": "BAS20H",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas20h_galaxy.pdf"
+  },
+  {
+    "smdCode": "JR *",
+    "package": "SOT-23",
+    "deviceName": "BAS20LT1",
+    "manufacturer": "ON",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas19lt%2C_bas20lt%2C_bas21lt_on.pdf"
+  },
+  {
+    "smdCode": "JR-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-12PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  }
+]

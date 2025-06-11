@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "KK",
+    "package": "SMB",
+    "deviceName": "1SMB6.5AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "KK",
+    "package": "SOD-323F",
+    "deviceName": "PZU22B3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "KK",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ6.5A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "KK",
+    "package": "SMB",
+    "deviceName": "SMBJ6.5A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "KK-",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "KK-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-50PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "KKJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB8.2A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "KKP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB8.2A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "KKW",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "KKp",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "KKt",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "Kk",
+    "package": "SOT-23",
+    "deviceName": "BD49L29G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

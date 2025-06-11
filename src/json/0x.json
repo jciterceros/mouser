@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "0X=***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-36GB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "0X=***",
+    "package": "SOT-26",
+    "deviceName": "RT9526AGE",
+    "manufacturer": "Richtek",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9526a_r03_richtek.pdf"
+  }
+]

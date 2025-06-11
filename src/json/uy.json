@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "UY",
+    "package": "SOD-323F",
+    "deviceName": "CZRF36VB-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "UY",
+    "package": "SOT-89",
+    "deviceName": "KTC4379",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc4379_galaxy.pdf"
+  }
+]

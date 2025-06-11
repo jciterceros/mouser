@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "X8",
+    "package": "SOT-26",
+    "deviceName": "IMX8",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/m/imx8_rohm.pdf"
+  },
+  {
+    "smdCode": "X8",
+    "package": "SOD-323",
+    "deviceName": "PZU2.4BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "X8-",
+    "package": "SOT-323",
+    "deviceName": "2N7002PW",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002pw_nxp.pdf"
+  },
+  {
+    "smdCode": "X8-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-24PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "X8W",
+    "package": "SOT-323",
+    "deviceName": "2N7002PW",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002pw_nxp.pdf"
+  },
+  {
+    "smdCode": "X8p",
+    "package": "SOT-323",
+    "deviceName": "2N7002PW",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002pw_nxp.pdf"
+  },
+  {
+    "smdCode": "X8t",
+    "package": "SOT-323",
+    "deviceName": "2N7002PW",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002pw_nxp.pdf"
+  }
+]

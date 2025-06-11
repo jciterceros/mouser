@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "VS",
+    "package": "TSMT3",
+    "deviceName": "2SC5868",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5868_rohm.pdf"
+  },
+  {
+    "smdCode": "VS",
+    "package": "SOT-323",
+    "deviceName": "2SC5876",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5876_rohm.pdf"
+  },
+  {
+    "smdCode": "VS",
+    "package": "SOD-323",
+    "deviceName": "PZU13B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VS",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K271D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VS-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B10",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VS-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-20PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "VSW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B10",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VSp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B10",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VSt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B10",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

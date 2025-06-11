@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "K9",
+    "package": "SOT-23",
+    "deviceName": "BCV72R",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv71%2C_bcv72_zetex.pdf"
+  },
+  {
+    "smdCode": "K9",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B5V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "K9-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819A-36PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "K994",
+    "package": "DFN-10",
+    "deviceName": "TS4994IQT",
+    "manufacturer": "STMicroelectronics",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts4994_st.pdf"
+  },
+  {
+    "smdCode": "K994",
+    "package": "MiniSO8",
+    "deviceName": "TS4994IST",
+    "manufacturer": "STMicroelectronics",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts4994_st.pdf"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "VX",
+    "package": "SOD-323",
+    "deviceName": "PZU15B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VX",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K311D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VX",
+    "package": "SMA",
+    "deviceName": "SMAJ220CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "VX*",
+    "package": "SOT-353",
+    "deviceName": "MC74VHC1G09DF",
+    "manufacturer": "ON",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc74vhc1g09_on.pdf"
+  },
+  {
+    "smdCode": "VX*",
+    "package": "SOT-25",
+    "deviceName": "MC74VHC1G09DT",
+    "manufacturer": "ON",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc74vhc1g09_on.pdf"
+  },
+  {
+    "smdCode": "VX-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-26PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  }
+]

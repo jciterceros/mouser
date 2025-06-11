@@ -1,0 +1,250 @@
+[
+  {
+    "smdCode": "7002",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "WEJ",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_wej.pdf"
+  },
+  {
+    "smdCode": "7005",
+    "package": "SOP-8",
+    "deviceName": "FAN7005M",
+    "manufacturer": "Fairchild",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/a/fan7005_fairchild.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "National",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7000_2n7002_ndf7000a_nds7002a_national.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_zetex.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "Taitron",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_taitron.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "Central",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_central.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "MegaPower",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_megapower.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7000%2C_2n7002%2C_nds7002a_fairchild.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-363",
+    "deviceName": "2N7002DW",
+    "manufacturer": "Panjit",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002dw_panjit.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "2N7002MTF",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002mtf_fairchild.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "L2N7002LT1G",
+    "manufacturer": "LRC",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/2/l2n7002lt1g_lrc.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "MTN138ZN3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtn138zn3_cystek.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "MTN7002N3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtn7002n3_cystek.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "MTN7002ZHN3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtn7002zhn3_cystek.pdf"
+  },
+  {
+    "smdCode": "702",
+    "package": "SOT-23",
+    "deviceName": "MTNK1N3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtnk1n3_cystek.pdf"
+  },
+  {
+    "smdCode": "702⚫",
+    "package": "SOT-23",
+    "deviceName": "MTNK2N3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtnk2n3_cystek.pdf"
+  },
+  {
+    "smdCode": "702*",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "Supertex",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_supertex.pdf"
+  },
+  {
+    "smdCode": "702*",
+    "package": "SOT-23",
+    "deviceName": "2N7002-G",
+    "manufacturer": "Supertex",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_supertex_1.pdf"
+  },
+  {
+    "smdCode": "702*",
+    "package": "SOT-23",
+    "deviceName": "2N7002L",
+    "manufacturer": "ON",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002l%2C_2v7002l_r7_on.pdf"
+  },
+  {
+    "smdCode": "702*",
+    "package": "SOT-23",
+    "deviceName": "2V7002L",
+    "manufacturer": "ON",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002l%2C_2v7002l_r7_on.pdf"
+  },
+  {
+    "smdCode": "703 *",
+    "package": "SOT-23",
+    "deviceName": "2N7002E",
+    "manufacturer": "ON",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002e_on.pdf"
+  },
+  {
+    "smdCode": "7030L",
+    "package": "SOT-669",
+    "deviceName": "PH7030L",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/h/ph7030l_r05_nxp.pdf"
+  },
+  {
+    "smdCode": "704",
+    "package": "SOT-23",
+    "deviceName": "2N7002K",
+    "manufacturer": "ON",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_2v7002k_on.pdf"
+  },
+  {
+    "smdCode": "704",
+    "package": "SOT-23",
+    "deviceName": "2V7002K",
+    "manufacturer": "ON",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_2v7002k_on.pdf"
+  },
+  {
+    "smdCode": "705",
+    "package": "SOT-89",
+    "deviceName": "FCX705",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP Darlington transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/c/fcx705_zetex.pdf"
+  },
+  {
+    "smdCode": "709",
+    "package": "TDFN-8 2x2",
+    "deviceName": "G709RCUf",
+    "manufacturer": "GMT",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/7/g709_g710_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "709**",
+    "package": "SOT-25",
+    "deviceName": "G709T1Uf",
+    "manufacturer": "GMT",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/7/g709_g710_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "70N10L",
+    "package": "TO-263-3",
+    "deviceName": "SPB70N10L",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spb70n10l%2C_spi70n10l%2C_spp70n10l_infineon.pdf"
+  },
+  {
+    "smdCode": "70N10L",
+    "package": "TO-263-3",
+    "deviceName": "SPI70N10L",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spb70n10l%2C_spi70n10l%2C_spp70n10l_infineon.pdf"
+  },
+  {
+    "smdCode": "70N10L",
+    "package": "TO-220-3-1",
+    "deviceName": "SPP70N10L",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spb70n10l%2C_spi70n10l%2C_spp70n10l_infineon.pdf"
+  },
+  {
+    "smdCode": "70T",
+    "package": "SOT-23",
+    "deviceName": "TK71570AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

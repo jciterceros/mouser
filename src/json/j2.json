@@ -1,0 +1,258 @@
+[
+  {
+    "smdCode": "J2",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5247",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "J2",
+    "package": "SSOP5-P-0.95",
+    "deviceName": "TC7SZ08F",
+    "manufacturer": "Toshiba",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc7sz08f%2C_tc7sz08fu_toshiba.pdf"
+  },
+  {
+    "smdCode": "J2",
+    "package": "SSOP5-P-0.65A",
+    "deviceName": "TC7SZ08FU",
+    "manufacturer": "Toshiba",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc7sz08f%2C_tc7sz08fu_toshiba.pdf"
+  },
+  {
+    "smdCode": "J2",
+    "package": "SOD-323",
+    "deviceName": "UDZS8.2B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "J2-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-35PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "J200",
+    "package": "SC-65",
+    "deviceName": "2SJ200",
+    "manufacturer": "Toshiba",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sj200_toshiba.pdf"
+  },
+  {
+    "smdCode": "J21",
+    "package": "TSST8",
+    "deviceName": "TT8J21",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/t/tt8j21_rohm.pdf"
+  },
+  {
+    "smdCode": "J2A",
+    "package": "SOT-23",
+    "deviceName": "ZC833A",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J2A**",
+    "package": "SOT-25",
+    "deviceName": "RP130N341D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2B",
+    "package": "SOT-23",
+    "deviceName": "ZC833B",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J2B**",
+    "package": "SOT-25",
+    "deviceName": "RP130N351D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2C**",
+    "package": "SOT-25",
+    "deviceName": "RP130N361D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2D**",
+    "package": "SOT-25",
+    "deviceName": "RP130N371D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2E**",
+    "package": "SOT-25",
+    "deviceName": "RP130N381D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2F**",
+    "package": "SOT-25",
+    "deviceName": "RP130N391D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2G**",
+    "package": "SOT-25",
+    "deviceName": "RP130N401D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2H**",
+    "package": "SOT-25",
+    "deviceName": "RP130N411D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2J**",
+    "package": "SOT-25",
+    "deviceName": "RP130N421D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2K**",
+    "package": "SOT-25",
+    "deviceName": "RP130N431D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2L**",
+    "package": "SOT-25",
+    "deviceName": "RP130N441D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2M**",
+    "package": "SOT-25",
+    "deviceName": "RP130N451D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2N**",
+    "package": "SOT-25",
+    "deviceName": "RP130N461D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2P**",
+    "package": "SOT-25",
+    "deviceName": "RP130N471D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2Q**",
+    "package": "SOT-25",
+    "deviceName": "RP130N481D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2R**",
+    "package": "SOT-25",
+    "deviceName": "RP130N491D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2S",
+    "package": "SOT-23",
+    "deviceName": "ZC833",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J2S**",
+    "package": "SOT-25",
+    "deviceName": "NCP4586DSN50T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp4586_r5_on.pdf"
+  },
+  {
+    "smdCode": "J2S**",
+    "package": "SOT-25",
+    "deviceName": "RP130N501D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2U**",
+    "package": "SOT-25",
+    "deviceName": "RP130N121D5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2V**",
+    "package": "SOT-25",
+    "deviceName": "RP130N511D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2W**",
+    "package": "SOT-25",
+    "deviceName": "RP130N521D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J2X**",
+    "package": "SOT-25",
+    "deviceName": "RP130N531D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  }
+]

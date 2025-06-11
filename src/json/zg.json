@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "ZG",
+    "package": "SOT-666",
+    "deviceName": "2N7002BKV",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002bkv_nxp.pdf"
+  },
+  {
+    "smdCode": "ZG",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C13",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZG",
+    "package": "SOT-23",
+    "deviceName": "CZMK3.6",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "ZG",
+    "package": "SOT-89",
+    "deviceName": "KTD1898",
+    "manufacturer": "KEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktd1898_kec.pdf"
+  },
+  {
+    "smdCode": "ZG",
+    "package": "SOT-89",
+    "deviceName": "KTD1898",
+    "manufacturer": "WEITRON",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktd1898_weitron.pdf"
+  },
+  {
+    "smdCode": "ZG",
+    "package": "SOT-89",
+    "deviceName": "KTD1898-GR",
+    "manufacturer": "Secos",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktd1898_secos.pdf"
+  },
+  {
+    "smdCode": "ZG",
+    "package": "SOT-23",
+    "deviceName": "KTN2222AS",
+    "manufacturer": "KEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktn2222as%2C_ktn2222s_r2_kec.pdf"
+  },
+  {
+    "smdCode": "ZG",
+    "package": "SOD-323",
+    "deviceName": "PDZ11B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZG",
+    "package": "SMA",
+    "deviceName": "SMAJ58CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "ZG",
+    "package": "X2SON-4 1x1",
+    "deviceName": "TPS3839G33DQNR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps3831%2C_tps3839_rd_ti.pdf"
+  },
+  {
+    "smdCode": "ZG",
+    "package": "SOT-23",
+    "deviceName": "TZT3V6CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "ZG-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-50PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  }
+]

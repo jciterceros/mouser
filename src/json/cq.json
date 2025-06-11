@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "CQ",
+    "package": "SOT-23",
+    "deviceName": "2SC2411",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2411_galaxy.pdf"
+  },
+  {
+    "smdCode": "CQ",
+    "package": "SOT-346",
+    "deviceName": "2SC2411K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2411k_rohm.pdf"
+  },
+  {
+    "smdCode": "CQ*",
+    "package": "WQFN-12 2x2",
+    "deviceName": "RT8228AGQW",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8228a_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "CQ*",
+    "package": "WQFN-12 2x2",
+    "deviceName": "RT8228AZQW",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8228a_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "CQ**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US48D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  }
+]

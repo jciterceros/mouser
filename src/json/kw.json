@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "KW-***",
+    "package": "SOT-23",
+    "deviceName": "RT9161-42PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "KWJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB15",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "KWP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB15",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  }
+]

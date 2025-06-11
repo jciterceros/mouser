@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "4M",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z4V7",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "4M=**",
+    "package": "UQFN-16 3x3",
+    "deviceName": "RT7291BGQUF",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt7291a%2C_rt7291b_r02_richtek.pdf"
+  }
+]

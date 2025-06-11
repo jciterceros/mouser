@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "UM",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C5V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "UM",
+    "package": "SOD-323F",
+    "deviceName": "CZRF12VB-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "UM",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K451B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "UM",
+    "package": "SMA",
+    "deviceName": "SMAJ440CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "UM*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B502NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "UM-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UMW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UMp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UMt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

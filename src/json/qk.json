@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "QK",
+    "package": "SMB",
+    "deviceName": "1SMA6.5AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "Qk",
+    "package": "SOT-25",
+    "deviceName": "BD53E37G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

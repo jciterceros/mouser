@@ -1,0 +1,170 @@
+[
+  {
+    "smdCode": "46",
+    "package": "SOT-23",
+    "deviceName": "BAS40-06",
+    "manufacturer": "Diotec",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_20150512_diotec.pdf"
+  },
+  {
+    "smdCode": "46",
+    "package": "SOT-23",
+    "deviceName": "BAS40-06",
+    "manufacturer": "Vishay",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_r2.0_vishay.pdf"
+  },
+  {
+    "smdCode": "46",
+    "package": "SOT-23",
+    "deviceName": "BAS40-06",
+    "manufacturer": "MCC",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40%2C_bas70_series_rd_mcc.pdf"
+  },
+  {
+    "smdCode": "46",
+    "package": "SOT-523",
+    "deviceName": "BAS40-06T",
+    "manufacturer": "Secos",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40t_series_secos.pdf"
+  },
+  {
+    "smdCode": "46",
+    "package": "SOT-523",
+    "deviceName": "PDTC115EE",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "46**",
+    "package": "SOT-26",
+    "deviceName": "STN3446",
+    "manufacturer": "Stanson",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stn3446_stanson.pdf"
+  },
+  {
+    "smdCode": "46-",
+    "package": "SOT-23",
+    "deviceName": "BAS40-06",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "4604",
+    "package": "SO-8",
+    "deviceName": "AO4604",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao4604_ao.pdf"
+  },
+  {
+    "smdCode": "4634",
+    "package": "SO-8",
+    "deviceName": "Si4634DY",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si4634dy_rb_vishay.pdf"
+  },
+  {
+    "smdCode": "46D",
+    "package": "DIP-8",
+    "deviceName": "AT93C46D-PU",
+    "manufacturer": "Atmel",
+    "data": "EEPROM",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at93c46d_atmel.pdf"
+  },
+  {
+    "smdCode": "46D",
+    "package": "TSSOP-8",
+    "deviceName": "AT93C46D-TH",
+    "manufacturer": "Atmel",
+    "data": "EEPROM",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at93c46d_atmel.pdf"
+  },
+  {
+    "smdCode": "46D",
+    "package": "SO-8",
+    "deviceName": "AT93C46DN-SH",
+    "manufacturer": "Atmel",
+    "data": "EEPROM",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at93c46d_atmel.pdf"
+  },
+  {
+    "smdCode": "46D",
+    "package": "dBGA2",
+    "deviceName": "AT93C46DU3-UU",
+    "manufacturer": "Atmel",
+    "data": "EEPROM",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at93c46d_atmel.pdf"
+  },
+  {
+    "smdCode": "46D",
+    "package": "MLP-8 2x3",
+    "deviceName": "AT93C46DY6-YH",
+    "manufacturer": "Atmel",
+    "data": "EEPROM",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at93c46d_atmel.pdf"
+  },
+  {
+    "smdCode": "46N02KS",
+    "package": "TDSON-8",
+    "deviceName": "BSC046N02KS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc046n02ksg_infineon.pdf"
+  },
+  {
+    "smdCode": "46T",
+    "package": "SOT-23",
+    "deviceName": "TK71546AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "46W",
+    "package": "SOT-23",
+    "deviceName": "BAS40-06",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "46p",
+    "package": "SOT-23",
+    "deviceName": "BAS40-06",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "46s",
+    "package": "SOT-23",
+    "deviceName": "BAS40-06",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series%2C_bas140_infineon.pdf"
+  },
+  {
+    "smdCode": "46s",
+    "package": "SOT-323",
+    "deviceName": "BAS40-06W",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series%2C_bas140_infineon.pdf"
+  },
+  {
+    "smdCode": "46t",
+    "package": "SOT-23",
+    "deviceName": "BAS40-06",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "P5",
+    "package": "SOT-343R",
+    "deviceName": "BFG425W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg425w_philips.pdf"
+  },
+  {
+    "smdCode": "P5**",
+    "package": "SOT-89",
+    "deviceName": "ELM9725CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "P52",
+    "package": "SOT-26",
+    "deviceName": "ZVP4525E6",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/v/zvp4525e6_zetex.pdf"
+  },
+  {
+    "smdCode": "P5NK50Z",
+    "package": "TO-220",
+    "deviceName": "STP5NK50Z",
+    "manufacturer": "STMicroelectronics",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stb5nk50z%2C_std5nk50z%2C_stp5nk50z%2C_stp5nk50zfp_st.pdf"
+  },
+  {
+    "smdCode": "P5NK50ZFP",
+    "package": "TO-220FP",
+    "deviceName": "STP5NK50ZFP",
+    "manufacturer": "STMicroelectronics",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stb5nk50z%2C_std5nk50z%2C_stp5nk50z%2C_stp5nk50zfp_st.pdf"
+  },
+  {
+    "smdCode": "p50",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p51",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p52",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p52",
+    "package": "SOT-323",
+    "deviceName": "PDTC143TU",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143t_series_nxp.pdf"
+  },
+  {
+    "smdCode": "p53",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p53",
+    "package": "SOT-323",
+    "deviceName": "PDTC143XU",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143xe%2C_pdtc143xef%2C_pdtc143xk%2C_pdtc143xm%2C_pdtc143xs%2C_pdtc143xt%2C_pdtc143xu_nxp.pdf"
+  },
+  {
+    "smdCode": "p55",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p56",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A4V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p57",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p58",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A5V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p59",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A5V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

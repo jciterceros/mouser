@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "67",
+    "package": "SOT-666",
+    "deviceName": "BAS40-07V",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "67",
+    "package": "SOT-26",
+    "deviceName": "NUP4302MR6",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup4302mr6_on.pdf"
+  },
+  {
+    "smdCode": "67**",
+    "package": "SOT-26",
+    "deviceName": "STP3467",
+    "manufacturer": "Stanson",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stp3467_stanson.pdf"
+  },
+  {
+    "smdCode": "6721",
+    "package": "DirectFET",
+    "deviceName": "IRF6721SPbF",
+    "manufacturer": "IRF",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/r/irf6721spbf_irf.pdf"
+  },
+  {
+    "smdCode": "6741",
+    "package": "SOP-8",
+    "deviceName": "SG6741SY",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg6741_fairchild.pdf"
+  },
+  {
+    "smdCode": "6741A",
+    "package": "SOP-8",
+    "deviceName": "SG6741A",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg6741a_fairchild.pdf"
+  },
+  {
+    "smdCode": "6742HL",
+    "package": "SOP-8",
+    "deviceName": "SG6742HL",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg6742hl%2C_sg6742hr_fairchild.pdf"
+  },
+  {
+    "smdCode": "6742HR",
+    "package": "SOP-8",
+    "deviceName": "SG6742HR",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg6742hl%2C_sg6742hr_fairchild.pdf"
+  },
+  {
+    "smdCode": "6742ML",
+    "package": "SOP-8",
+    "deviceName": "SG6742ML",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg6742ml%2C_sg6742mr_fairchild.pdf"
+  },
+  {
+    "smdCode": "6742MR",
+    "package": "SOP-8",
+    "deviceName": "SG6742MR",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sg6742ml%2C_sg6742mr_fairchild.pdf"
+  },
+  {
+    "smdCode": "6747",
+    "package": "SO-8",
+    "deviceName": "FAN6747",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/a/fan6747_fairchild.pdf"
+  },
+  {
+    "smdCode": "6749ML",
+    "package": "SOP-8",
+    "deviceName": "FAN6749MLM",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/a/fan6749_fairchild.pdf"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "JW *",
+    "package": "SOT-23",
+    "deviceName": "MDC3105",
+    "manufacturer": "ON",
+    "data": "Integrated Relay, Inductive Load Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/d/mdc3105_on.pdf"
+  },
+  {
+    "smdCode": "JW *",
+    "package": "SOT-26",
+    "deviceName": "MDC3105",
+    "manufacturer": "ON",
+    "data": "Integrated Relay, Inductive Load Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/d/mdc3105_on.pdf"
+  },
+  {
+    "smdCode": "JW-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-45PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "JW-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-23PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "JW=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-45GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  }
+]

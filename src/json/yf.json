@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "YF",
+    "package": "SOT-23",
+    "deviceName": "CZMK20",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "YF",
+    "package": "SOD-323",
+    "deviceName": "PZU20B3A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "YF",
+    "package": "2-2H1A",
+    "deviceName": "RN2106F",
+    "manufacturer": "Toshiba",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn2101f-rn2106f_toshiba.pdf"
+  },
+  {
+    "smdCode": "YF",
+    "package": "SOT-26",
+    "deviceName": "RZQ050P01",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/z/rzq050p01_rohm.pdf"
+  },
+  {
+    "smdCode": "YF",
+    "package": "SOT-23",
+    "deviceName": "TZT20CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "YF08E",
+    "package": "TSSOP-20",
+    "deviceName": "TXS0108EPWR",
+    "manufacturer": "ROHM",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txs0108e_texas_instruments.pdf"
+  },
+  {
+    "smdCode": "YF08E",
+    "package": "QFN-20",
+    "deviceName": "TXS0108ERGYR",
+    "manufacturer": "ROHM",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txs0108e_texas_instruments.pdf"
+  },
+  {
+    "smdCode": "YF08E",
+    "package": "UFBGA - ZXY",
+    "deviceName": "TXS0108EZXYR",
+    "manufacturer": "ROHM",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txs0108e_texas_instruments.pdf"
+  }
+]

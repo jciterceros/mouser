@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "N6",
+    "package": "SOT-23",
+    "deviceName": "2SC1654",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1654_galaxy.pdf"
+  },
+  {
+    "smdCode": "N6",
+    "package": "SOT-343N",
+    "deviceName": "BFG25AW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg25aw_philips.pdf"
+  },
+  {
+    "smdCode": "N6",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B56",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  }
+]

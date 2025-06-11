@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "6X",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2510",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "6X*",
+    "package": "SOT-323",
+    "deviceName": "NSQA12VAW5T2",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/s/nsqa6v8aw5t2%2C_nsqa12vaw5t2_on.pdf"
+  }
+]

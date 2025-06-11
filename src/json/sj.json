@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "SJ",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K421A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "SJEB",
+    "package": "SOT-25",
+    "deviceName": "LM3671MF-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "SJRB",
+    "package": "SOT-25",
+    "deviceName": "LM3671MF-2.5",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "SJSB",
+    "package": "SOT-25",
+    "deviceName": "LM3671MF-2.8",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  }
+]

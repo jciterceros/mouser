@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "94",
+    "package": "SOT-416",
+    "deviceName": "DTA114TE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114te%2C_dta114tka%2C_dta114tm%2C_dta114tsa%2C_dta114tua_rohm.pdf"
+  },
+  {
+    "smdCode": "94",
+    "package": "SOT-490",
+    "deviceName": "DTA114TEB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114teb_rohm.pdf"
+  },
+  {
+    "smdCode": "94",
+    "package": "SOT-346",
+    "deviceName": "DTA114TKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114te%2C_dta114tka%2C_dta114tm%2C_dta114tsa%2C_dta114tua_rohm.pdf"
+  },
+  {
+    "smdCode": "94",
+    "package": "VMT3",
+    "deviceName": "DTA114TM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114te%2C_dta114tka%2C_dta114tm%2C_dta114tsa%2C_dta114tua_rohm.pdf"
+  },
+  {
+    "smdCode": "94",
+    "package": "SOT-323",
+    "deviceName": "DTA114TUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114te%2C_dta114tka%2C_dta114tm%2C_dta114tsa%2C_dta114tua_rohm.pdf"
+  },
+  {
+    "smdCode": "94",
+    "package": "UMT3F",
+    "deviceName": "DTA114TUB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114tub_rohm.pdf"
+  },
+  {
+    "smdCode": "94N03S",
+    "package": "TDSON-8",
+    "deviceName": "BSC094N03S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc094n03sg_infineon.pdf"
+  }
+]

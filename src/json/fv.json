@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "FV",
+    "package": "SOT-89",
+    "deviceName": "2SB1697",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1697_rohm.pdf"
+  },
+  {
+    "smdCode": "FV",
+    "package": "SOT-553",
+    "deviceName": "BD4939FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "FV",
+    "package": "SOT-25",
+    "deviceName": "BD4939G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "FV*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9012-MGGQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9012_richtek.pdf"
+  },
+  {
+    "smdCode": "FV**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US26D4-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "FV-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-26PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "FV=***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-26GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  }
+]

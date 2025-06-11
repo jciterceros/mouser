@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "KJ",
+    "package": "SOD-323F",
+    "deviceName": "PZU20B3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "KJ-",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A30",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "KJ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-33PBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "KJ-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-47PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "KJA",
+    "package": "SOT-363",
+    "deviceName": "BAV70DW",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70dw_galaxy.pdf"
+  },
+  {
+    "smdCode": "KJC",
+    "package": "SOT-363",
+    "deviceName": "BAW56DW",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw56dw_galaxy.pdf"
+  },
+  {
+    "smdCode": "KJC",
+    "package": "SOT-323",
+    "deviceName": "BAW56W",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw56w_galaxy.pdf"
+  },
+  {
+    "smdCode": "KJE",
+    "package": "SOT-23",
+    "deviceName": "BAV99",
+    "manufacturer": "Diodes",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99_diodes.pdf"
+  },
+  {
+    "smdCode": "KJE",
+    "package": "SOT-23",
+    "deviceName": "BAV99",
+    "manufacturer": "Vishay",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99_vishay_1.pdf"
+  },
+  {
+    "smdCode": "KJG",
+    "package": "SOT-363",
+    "deviceName": "BAV99DW",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99dw_galaxy.pdf"
+  },
+  {
+    "smdCode": "KJG",
+    "package": "SOT-323",
+    "deviceName": "BAV99W",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99w_galaxy.pdf"
+  },
+  {
+    "smdCode": "KJJ",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "Diodes",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_r22-2_diodes.pdf"
+  },
+  {
+    "smdCode": "KJW",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A30",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "KJp",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A30",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "KJt",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A30",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

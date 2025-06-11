@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "2Q",
+    "package": "SOT-23",
+    "deviceName": "FMMT5209",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt5209%2C_fmmt5210_zetex.pdf"
+  },
+  {
+    "smdCode": "2Q",
+    "package": "SOT-23",
+    "deviceName": "KST5087",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst5086%2C_kst5087_fairchild.pdf"
+  },
+  {
+    "smdCode": "2Q",
+    "package": "SOT-23",
+    "deviceName": "MMBT5087",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5086%2C_2n5087%2C_mmbt5087_fairchild.pdf"
+  }
+]

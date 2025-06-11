@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "47-",
+    "package": "SOT-143B",
+    "deviceName": "BAS40-07",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "4712",
+    "package": "SO-8",
+    "deviceName": "AO4712",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao4712_ao.pdf"
+  },
+  {
+    "smdCode": "4770",
+    "package": "SSOP-16",
+    "deviceName": "IP4770CZ16",
+    "manufacturer": "NXP",
+    "data": "Video Interface",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ip4770cz16%2C_ip4771cz16%2C_ip4772cz16_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "4771",
+    "package": "SSOP-16",
+    "deviceName": "IP4771CZ16",
+    "manufacturer": "NXP",
+    "data": "Video Interface",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ip4770cz16%2C_ip4771cz16%2C_ip4772cz16_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "4772",
+    "package": "SSOP-16",
+    "deviceName": "IP4772CZ16",
+    "manufacturer": "NXP",
+    "data": "Video Interface",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ip4770cz16%2C_ip4771cz16%2C_ip4772cz16_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "47A",
+    "package": "SMB",
+    "deviceName": "1.5SMC47AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "47T",
+    "package": "SOT-23",
+    "deviceName": "TK71547AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "47W",
+    "package": "SOT-143B",
+    "deviceName": "BAS40-07",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "47Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C47",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "47p",
+    "package": "SOT-143B",
+    "deviceName": "BAS40-07",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "47s",
+    "package": "SOT-143",
+    "deviceName": "BAS40-07",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series%2C_bas140_infineon.pdf"
+  },
+  {
+    "smdCode": "47s",
+    "package": "SOT-343",
+    "deviceName": "BAS40-07W",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series%2C_bas140_infineon.pdf"
+  },
+  {
+    "smdCode": "47t",
+    "package": "SOT-143B",
+    "deviceName": "BAS40-07",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  }
+]

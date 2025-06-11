@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "7P",
+    "package": "SOT-23",
+    "deviceName": "BCW66FR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw65%2C_bcw66_zetex.pdf"
+  },
+  {
+    "smdCode": "7P",
+    "package": "SOD-323",
+    "deviceName": "CMDZ33L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "7P",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2536",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "7P6",
+    "package": "SOT-23",
+    "deviceName": "ZXMP6A13F",
+    "manufacturer": "Diodes",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxmp6a13f_diodes.pdf"
+  }
+]

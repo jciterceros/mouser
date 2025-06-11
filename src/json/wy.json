@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "WY",
+    "package": "TSLP-3-4",
+    "deviceName": "BCR139L3",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr139f_bcr139l3_bcr139t_20060601_infineon.pdf"
+  },
+  {
+    "smdCode": "WY",
+    "package": "SOT-523",
+    "deviceName": "BCR139T",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr139f_bcr139l3_bcr139t_20060601_infineon.pdf"
+  },
+  {
+    "smdCode": "WY",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C43",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WY",
+    "package": "SOD-123",
+    "deviceName": "BZT52C2V0",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "WY",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WY",
+    "package": "SOT-23",
+    "deviceName": "BZX84C43-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WY",
+    "package": "SOT-89",
+    "deviceName": "KTA1666",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta1666_galaxy.pdf"
+  },
+  {
+    "smdCode": "WY",
+    "package": "SOT-323",
+    "deviceName": "KTC4076",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc4076_galaxy.pdf"
+  },
+  {
+    "smdCode": "WY",
+    "package": "SOD-323",
+    "deviceName": "PZU15B3A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WY■",
+    "package": "SOT-23",
+    "deviceName": "KTC3876",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3876_galaxy.pdf"
+  },
+  {
+    "smdCode": "WY***",
+    "package": "SOT-23",
+    "deviceName": "AX5505R40",
+    "manufacturer": "Axelite",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax5505_r1.1_axelite.pdf"
+  },
+  {
+    "smdCode": "WY-***",
+    "package": "SOT-25",
+    "deviceName": "RT9818A-37PB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "WY1",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WY2",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WY=***",
+    "package": "SOT-25",
+    "deviceName": "RT9818A-37GB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "WYs",
+    "package": "TSFP-3",
+    "deviceName": "BCR139F",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr139f_bcr139l3_bcr139t_20060601_infineon.pdf"
+  }
+]

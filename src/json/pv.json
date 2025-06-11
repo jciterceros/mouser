@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "PV",
+    "package": "SMF",
+    "deviceName": "SMF45A-M",
+    "manufacturer": "Vishay",
+    "data": "ESD Protection Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smf5v0a-m-smf51a-m_vishay.pdf"
+  },
+  {
+    "smdCode": "PV-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B22",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PVW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B22",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PVp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B22",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PVt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B22",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "pV0",
+    "package": "SOT-23",
+    "deviceName": "BAV23A",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav23%2C_bav23a%2C_bav23c%2C_bav23s_nxp.pdf"
+  },
+  {
+    "smdCode": "pV3",
+    "package": "SOT-23",
+    "deviceName": "BAT54A",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  },
+  {
+    "smdCode": "pV4",
+    "package": "SOT-23",
+    "deviceName": "BAT54S",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  },
+  {
+    "smdCode": "pV5",
+    "package": "SOT-23",
+    "deviceName": "BAV23S",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav23%2C_bav23a%2C_bav23c%2C_bav23s_nxp.pdf"
+  },
+  {
+    "smdCode": "pV9",
+    "package": "SOT-23",
+    "deviceName": "BAV23C",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav23%2C_bav23a%2C_bav23c%2C_bav23s_nxp.pdf"
+  },
+  {
+    "smdCode": "pVY",
+    "package": "SOT-363",
+    "deviceName": "BSS84AKS",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84aks_r1_nxp.pdf"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "D8",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "D8*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8010-15PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "D8**",
+    "package": "SOT-25",
+    "deviceName": "MP2104DJ-1.8",
+    "manufacturer": "MPS",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/p/mp2104_mps.pdf"
+  },
+  {
+    "smdCode": "D8***",
+    "package": "SOT-23",
+    "deviceName": "SI2328DS",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2328ds_vishay.pdf"
+  },
+  {
+    "smdCode": "D8.2",
+    "package": "SOT-23",
+    "deviceName": "TZT8V2AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D84",
+    "package": "SOT-23",
+    "deviceName": "BAT54AFILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_st.pdf"
+  },
+  {
+    "smdCode": "D84",
+    "package": "XQFN-10 1,55x2",
+    "deviceName": "NX3L4684GM",
+    "manufacturer": "NXP",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/x/nx3l4684_r8_nxp.pdf"
+  },
+  {
+    "smdCode": "D84",
+    "package": "HVSON-10 3x3",
+    "deviceName": "NX3L4684TK",
+    "manufacturer": "NXP",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/x/nx3l4684_r8_nxp.pdf"
+  },
+  {
+    "smdCode": "D86",
+    "package": "SOT-23",
+    "deviceName": "BAT54FILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_st.pdf"
+  },
+  {
+    "smdCode": "D87",
+    "package": "SOT-23",
+    "deviceName": "BAT54CFILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_st.pdf"
+  },
+  {
+    "smdCode": "D87",
+    "package": "SOT-23",
+    "deviceName": "TZT8V7AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D88",
+    "package": "SOT-23",
+    "deviceName": "BAT54SFILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_st.pdf"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "EO",
+    "package": "SOT-23",
+    "deviceName": "KTC3265",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3265_galaxy.pdf"
+  },
+  {
+    "smdCode": "EO",
+    "package": "SOT-23",
+    "deviceName": "KTC3265",
+    "manufacturer": "KEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3265_kec.pdf"
+  },
+  {
+    "smdCode": "EO**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US31D3-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "86",
+    "package": "SOD-323",
+    "deviceName": "BAT54JFILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_st.pdf"
+  },
+  {
+    "smdCode": "86",
+    "package": "SOD-523",
+    "deviceName": "BAT54KFILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_st.pdf"
+  },
+  {
+    "smdCode": "86",
+    "package": "SOT-416",
+    "deviceName": "DTC144WE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114we%2C_dtc114wka%2C_dtc114wsa%2C_dtc114wua_rohm.pdf"
+  },
+  {
+    "smdCode": "86",
+    "package": "SOT-346",
+    "deviceName": "DTC144WKA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114we%2C_dtc114wka%2C_dtc114wsa%2C_dtc114wua_rohm.pdf"
+  },
+  {
+    "smdCode": "86",
+    "package": "SOT-323",
+    "deviceName": "DTC144WUA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114we%2C_dtc114wka%2C_dtc114wsa%2C_dtc114wua_rohm.pdf"
+  },
+  {
+    "smdCode": "86102LZ",
+    "package": "SOT-223",
+    "deviceName": "FDT86102LZ",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdt86102lz_fairchild.pdf"
+  },
+  {
+    "smdCode": "8632E",
+    "package": "QFN-28 5x5",
+    "deviceName": "MAX8632ETI",
+    "manufacturer": "Maxim",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8632_r1_maxim.pdf"
+  },
+  {
+    "smdCode": "86963UT",
+    "package": "TQFN-18 5x5",
+    "deviceName": "MP86963DUT",
+    "manufacturer": "MPS",
+    "data": "Half-H Drivers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/p/mp86963_r1.22_mps.pdf"
+  }
+]

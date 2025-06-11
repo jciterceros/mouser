@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "T8",
+    "package": "SOT-23",
+    "deviceName": "BSR16",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr16_fairchild.pdf"
+  },
+  {
+    "smdCode": "T8",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "T8",
+    "package": "SOT-23",
+    "deviceName": "SST4118",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n4117a%2C_2n4118a%2C_2n4119a%2C_pn4117a%2C_pn4118a%2C_pn4119a%2C_sst4117%2C_sst4118%2C_sst4119_vishay.pdf"
+  },
+  {
+    "smdCode": "T8",
+    "package": "SOT-323",
+    "deviceName": "ZUMT807-25",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/u/zumt807-25%2C_zumt807-40_zetex.pdf"
+  },
+  {
+    "smdCode": "T8*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B092NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "T8***",
+    "package": "SOT-25",
+    "deviceName": "APX824-23W5",
+    "manufacturer": "Diodes",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apx823%2C_apx824%2C_apx825a_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "T8-",
+    "package": "SOT-23",
+    "deviceName": "BSR16",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr15%2C_bsr16_nxp.pdf"
+  },
+  {
+    "smdCode": "T8W",
+    "package": "SOT-23",
+    "deviceName": "BSR16",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr15%2C_bsr16_nxp.pdf"
+  },
+  {
+    "smdCode": "T8p",
+    "package": "SOT-23",
+    "deviceName": "BSR16",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr15%2C_bsr16_nxp.pdf"
+  },
+  {
+    "smdCode": "T8t",
+    "package": "SOT-23",
+    "deviceName": "BSR16",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr15%2C_bsr16_nxp.pdf"
+  },
+  {
+    "smdCode": "t86",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

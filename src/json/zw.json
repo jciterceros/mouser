@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "ZW",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C62",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZW",
+    "package": "SOT-23",
+    "deviceName": "CZMK9.1",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "ZW",
+    "package": "SOT-23",
+    "deviceName": "TZT9V1CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  }
+]

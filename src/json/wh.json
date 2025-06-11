@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "WH",
+    "package": "TSLP-3-4",
+    "deviceName": "BCR108L3",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr108%2C_semh10_infineon.pdf"
+  },
+  {
+    "smdCode": "WH",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C11",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WH",
+    "package": "SOD-123",
+    "deviceName": "BZT52C12",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "WH",
+    "package": "SOT-23",
+    "deviceName": "BZX84C11",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "WH",
+    "package": "SOT-23",
+    "deviceName": "BZX84C11-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WH",
+    "package": "SOD-323",
+    "deviceName": "PZU11B3A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WH",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K411D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "WH",
+    "package": "SOT-666",
+    "deviceName": "SEMH10",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr108%2C_semh10_infineon.pdf"
+  },
+  {
+    "smdCode": "WH***",
+    "package": "SOT-23",
+    "deviceName": "AX5505R25",
+    "manufacturer": "Axelite",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax5505_r1.1_axelite.pdf"
+  },
+  {
+    "smdCode": "WH-***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-25PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "WH=***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-25GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "WHs",
+    "package": "SOT-23",
+    "deviceName": "BCR108",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr108%2C_semh10_infineon.pdf"
+  },
+  {
+    "smdCode": "WHs",
+    "package": "TSFP-3",
+    "deviceName": "BCR108F",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr108%2C_semh10_infineon.pdf"
+  },
+  {
+    "smdCode": "WHs",
+    "package": "SOT-363",
+    "deviceName": "BCR108S",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr108%2C_semh10_infineon.pdf"
+  },
+  {
+    "smdCode": "WHs",
+    "package": "SOT-416",
+    "deviceName": "BCR108T",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr108%2C_semh10_infineon.pdf"
+  },
+  {
+    "smdCode": "WHs",
+    "package": "SOT-323",
+    "deviceName": "BCR108W",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr108%2C_semh10_infineon.pdf"
+  },
+  {
+    "smdCode": "Wh***",
+    "package": "SOT-23",
+    "deviceName": "AX5505R49",
+    "manufacturer": "Axelite",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax5505_r1.1_axelite.pdf"
+  }
+]

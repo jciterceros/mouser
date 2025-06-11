@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "X5",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C75",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "X5",
+    "package": "SOT-89",
+    "deviceName": "BZV49C39",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_zetex.pdf"
+  },
+  {
+    "smdCode": "X5",
+    "package": "SOT-23",
+    "deviceName": "BZX84C75-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "X5",
+    "package": "EMT6",
+    "deviceName": "EMX5",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx5%2C_imx5%2C_umx5n_rohm.pdf"
+  },
+  {
+    "smdCode": "X5",
+    "package": "SOT-26",
+    "deviceName": "IMX5",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx5%2C_imx5%2C_umx5n_rohm.pdf"
+  },
+  {
+    "smdCode": "X5",
+    "package": "SOD-323",
+    "deviceName": "PZU18B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "X5",
+    "package": "SOT-363",
+    "deviceName": "UMX5N",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx5%2C_imx5%2C_umx5n_rohm.pdf"
+  },
+  {
+    "smdCode": "X5-***",
+    "package": "SOT-25",
+    "deviceName": "RT8008-18PB",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8008_richtek.pdf"
+  },
+  {
+    "smdCode": "X53",
+    "package": "SOT-416",
+    "deviceName": "DTB523YE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb523ye%2C_dtb523ym_rohm.pdf"
+  },
+  {
+    "smdCode": "X53",
+    "package": "VMT3",
+    "deviceName": "DTB523YM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb523ye%2C_dtb523ym_rohm.pdf"
+  }
+]

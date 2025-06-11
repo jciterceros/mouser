@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "XN",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B27",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XN",
+    "package": "SOT-23",
+    "deviceName": "BZX99-C3V0",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx99_philips.pdf"
+  },
+  {
+    "smdCode": "XN",
+    "package": "SOD-323",
+    "deviceName": "PZU24B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  }
+]

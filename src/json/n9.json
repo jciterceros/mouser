@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "N9",
+    "package": "SOT-343N",
+    "deviceName": "BFG540W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg540w%2C_bfg540w_x%2C_bfg540w_xr_philips.pdf"
+  },
+  {
+    "smdCode": "N9",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "N9*",
+    "package": "SOT-416",
+    "deviceName": "DAN222",
+    "manufacturer": "ON",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dan222_on.pdf"
+  },
+  {
+    "smdCode": "N9**",
+    "package": "SOT-23",
+    "deviceName": "AP2307GN-HF-3",
+    "manufacturer": "Apec",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2307gn-hf-3_20100315_apec.pdf"
+  },
+  {
+    "smdCode": "N9***",
+    "package": "SOT-23",
+    "deviceName": "Si2309CDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2309cds_vishay.pdf"
+  }
+]

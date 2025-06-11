@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "EK",
+    "package": "SOT-23",
+    "deviceName": "BCX41",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx41_zetex.pdf"
+  },
+  {
+    "smdCode": "EK",
+    "package": "SOT-25",
+    "deviceName": "BD4849G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EK",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "EK",
+    "package": "SMB",
+    "deviceName": "SMBJ130CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "EK **",
+    "package": "WQFN-16 4x4",
+    "deviceName": "RT8202LZQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8202l%2C_rt8202m_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "EK*",
+    "package": "SOT-553",
+    "deviceName": "BD4849FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EK*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-NGPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "EK**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US35D3-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "EK=**",
+    "package": "WQFN-16 4x4",
+    "deviceName": "RT8202LGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8202l%2C_rt8202m_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "Ek",
+    "package": "SOT-25",
+    "deviceName": "BD49E49G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ek",
+    "package": "SOT-23",
+    "deviceName": "BD49K49G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

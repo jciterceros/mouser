@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "OD**",
+    "package": "SOT-363",
+    "deviceName": "Si1403BDL",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1403bdl_vishay.pdf"
+  },
+  {
+    "smdCode": "ODK",
+    "package": "SOT-25",
+    "deviceName": "TLV70018DDCR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "ODL",
+    "package": "SOT-25",
+    "deviceName": "TLV70028DDCR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "ODM",
+    "package": "SOT-25",
+    "deviceName": "TLV70030DDCR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "ODN",
+    "package": "SOT-25",
+    "deviceName": "TLV70033DDCR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "ODO",
+    "package": "SOT-25",
+    "deviceName": "TLV70012DDCR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "ODP",
+    "package": "SOT-25",
+    "deviceName": "TLV70015DDCR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "ODR",
+    "package": "SOT-353",
+    "deviceName": "TLV70030DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "ODS",
+    "package": "SOT-353",
+    "deviceName": "TLV70033DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "ODT",
+    "package": "SOT-353",
+    "deviceName": "TLV70012DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "ODU",
+    "package": "SOT-353",
+    "deviceName": "TLV70015DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "ODV",
+    "package": "SOT-353",
+    "deviceName": "TLV70018DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "ODW",
+    "package": "SOT-353",
+    "deviceName": "TLV70028DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  }
+]

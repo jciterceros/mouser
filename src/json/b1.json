@@ -1,0 +1,266 @@
+[
+  {
+    "smdCode": "B1",
+    "package": "SOT-23",
+    "deviceName": "BAS40",
+    "manufacturer": "Citc",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_citc.pdf"
+  },
+  {
+    "smdCode": "B1",
+    "package": "SOT-25",
+    "deviceName": "BD4745G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "B1",
+    "package": "SOT-23",
+    "deviceName": "SST5461",
+    "manufacturer": "Vishay",
+    "data": "P-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5460%2C_2n5461%2C_2n5462%2C_sst5460%2C_sst5461%2C_sst5462_vishay.pdf"
+  },
+  {
+    "smdCode": "B1*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-GSGQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "B1**",
+    "package": "SOT-23",
+    "deviceName": "ELM9711NBA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "B1-",
+    "package": "SOT-89",
+    "deviceName": "RT9169-12PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "B1-**",
+    "package": "VDFN-10 3x3",
+    "deviceName": "RT9014A-PGPQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "B1-**",
+    "package": "VQFN-24 4x4",
+    "deviceName": "RT9903PQV",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9903_richtek.pdf"
+  },
+  {
+    "smdCode": "B1-***",
+    "package": "SOT-26",
+    "deviceName": "RT9010-12PJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9010_richtek.pdf"
+  },
+  {
+    "smdCode": "B1-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-33PU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "B1-***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-12PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "B10",
+    "package": "EMT6",
+    "deviceName": "EMB10",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emb10%2C_imb10a%2C_umb10n_rohm.pdf"
+  },
+  {
+    "smdCode": "B10",
+    "package": "SOT-26",
+    "deviceName": "IMB10A",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emb10%2C_imb10a%2C_umb10n_rohm.pdf"
+  },
+  {
+    "smdCode": "B10",
+    "package": "SOT-363",
+    "deviceName": "UMB10N",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emb10%2C_imb10a%2C_umb10n_rohm.pdf"
+  },
+  {
+    "smdCode": "B10A",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB82A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "B10B",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB91A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "B10C",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB100A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "B10D",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB110A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "B10E",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB120A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "B10F",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB130A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "B10G",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB150A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "B10H",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB160A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "B11",
+    "package": "EMT6",
+    "deviceName": "EMB11",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emb11%2C_imb11a%2C_umb11n_rohm.pdf"
+  },
+  {
+    "smdCode": "B11",
+    "package": "SOT-26",
+    "deviceName": "IMB11A",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emb11%2C_imb11a%2C_umb11n_rohm.pdf"
+  },
+  {
+    "smdCode": "B11",
+    "package": "SOT-363",
+    "deviceName": "UMB11N",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emb11%2C_imb11a%2C_umb11n_rohm.pdf"
+  },
+  {
+    "smdCode": "B113ZS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTB113ZS",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb113zk%2C_dtb113zs_rohm.pdf"
+  },
+  {
+    "smdCode": "B1237",
+    "package": "ATV",
+    "deviceName": "2SB1237",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1515s%2C_2sb1132%2C_2sb1237_rohm.pdf"
+  },
+  {
+    "smdCode": "B1=***",
+    "package": "SOT-26",
+    "deviceName": "RT9010-12GJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9010_richtek.pdf"
+  },
+  {
+    "smdCode": "B1=***",
+    "package": "SOT-143",
+    "deviceName": "RT9013A-33GY",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013a_richtek.pdf"
+  },
+  {
+    "smdCode": "B1=***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-12GV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "B1G***",
+    "package": "SOT-26",
+    "deviceName": "FR9801S6CTR",
+    "manufacturer": "Fiti",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/r/fr9801_r0.1_fiti.pdf"
+  },
+  {
+    "smdCode": "B1O",
+    "package": "SOT-23",
+    "deviceName": "KSC2715",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2715_fairchild.pdf"
+  },
+  {
+    "smdCode": "B1Y",
+    "package": "SOT-23",
+    "deviceName": "KSC2715",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2715_fairchild.pdf"
+  }
+]

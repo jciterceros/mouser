@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "TJ",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K191B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TJ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9261B-33PB",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261b_richtek.pdf"
+  }
+]

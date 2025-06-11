@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "8050",
+    "package": "SOT-89",
+    "deviceName": "PXT8050",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/x/pxt8050_galaxy.pdf"
+  },
+  {
+    "smdCode": "80T",
+    "package": "SOT-23",
+    "deviceName": "TK71580AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

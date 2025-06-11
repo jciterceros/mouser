@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "4A",
+    "package": "SOT-89",
+    "deviceName": "BGA6489",
+    "manufacturer": "NXP",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/g/bga6489_nxp.pdf"
+  },
+  {
+    "smdCode": "4A",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z2V0",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "4A3",
+    "package": "SOT-346",
+    "deviceName": "PZM4.3NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "4A7",
+    "package": "SOT-346",
+    "deviceName": "PZM4.7NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "4As",
+    "package": "SOT-23",
+    "deviceName": "BC859A",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856-bc860_infineon.pdf"
+  }
+]

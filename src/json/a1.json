@@ -1,0 +1,690 @@
+[
+  {
+    "smdCode": "A1",
+    "package": "SOT-343R",
+    "deviceName": "BGA2001",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/g/bga2001_philips.pdf"
+  },
+  {
+    "smdCode": "A1",
+    "package": "SOT-753",
+    "deviceName": "FMA1A",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fma1a%2C_uma1n_rohm.pdf"
+  },
+  {
+    "smdCode": "A1",
+    "package": "SOT-353",
+    "deviceName": "UMA1N",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fma1a%2C_uma1n_rohm.pdf"
+  },
+  {
+    "smdCode": "A1 GN*",
+    "package": "DFN-8 3x3",
+    "deviceName": "P2003BEA",
+    "manufacturer": "Unikc",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/2/p2003bea_r1.2_unikc.pdf"
+  },
+  {
+    "smdCode": "A1*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-KNPQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "A1**",
+    "package": "SOT-23",
+    "deviceName": "AO3401L",
+    "manufacturer": "Alpha & Omega",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao3401_ao.pdf"
+  },
+  {
+    "smdCode": "A1**",
+    "package": "SOT-25",
+    "deviceName": "APS1006ET5",
+    "manufacturer": "APSemi",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/aps1006_apsemi.pdf"
+  },
+  {
+    "smdCode": "A1**",
+    "package": "SOT-25",
+    "deviceName": "N6200M5G",
+    "manufacturer": "NIKO-SEM",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/6/n6200_niko-sem.pdf"
+  },
+  {
+    "smdCode": "A1***",
+    "package": "SOT-23",
+    "deviceName": "Si2301DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2301ds_vishay.pdf"
+  },
+  {
+    "smdCode": "A1-***",
+    "package": "SOT-353",
+    "deviceName": "RT9193-33PU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "A1-***",
+    "package": "SOT-343",
+    "deviceName": "RT9198-18PY",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "A1-***",
+    "package": "SOT-25",
+    "deviceName": "RT9261-50PB",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "A1-***",
+    "package": "SOT-26",
+    "deviceName": "RT9284A-15PJ6",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "A1-***",
+    "package": "SOT-25",
+    "deviceName": "RT9284APJ5",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "A10*",
+    "package": "SOT-23",
+    "deviceName": "ELM9710NBA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "A1013",
+    "package": "TO-92",
+    "deviceName": "2SA1013",
+    "manufacturer": "Toshiba",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1013_toshiba.pdf"
+  },
+  {
+    "smdCode": "A1038S",
+    "package": "SPT / SC-72",
+    "deviceName": "2SA1038S",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1038s%2C_2sa1514k%2C_2sa1579_rohm.pdf"
+  },
+  {
+    "smdCode": "A10A",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB6.8A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10B",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB7.5A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10C",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB8.2A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10D",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB9.1A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10E",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB10A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10F",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB11A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10G",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB12A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10H",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB13A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10I",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB15A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10J",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB16A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10K",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB18A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10L",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB20A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10M",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB22A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10N",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB24A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10O",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB27A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10P",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB30A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10Q",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB33A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10R",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB36A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10S",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB39A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10T",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB43A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10U",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB47A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10V",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB51A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10W",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB56A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10X",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB62A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10Y",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB68A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A10Z",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB75A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "A11",
+    "package": "SOT-26",
+    "deviceName": "ADT7110",
+    "manufacturer": "AD-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adt7110_r0.1_ad-tech.pdf"
+  },
+  {
+    "smdCode": "A11",
+    "package": "SOT-23",
+    "deviceName": "MMBD1501A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1501a%2C_mmbd1503a%2C_mmbd1504a%2C_mmbd-1505a_galaxy.pdf"
+  },
+  {
+    "smdCode": "A11",
+    "package": "SOT-23",
+    "deviceName": "MMBD1501A",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1501%2C_mmbd1503%2C_mmbd1504%2C_mmbd1505_fairchild.pdf"
+  },
+  {
+    "smdCode": "A11*",
+    "package": "SOT-23",
+    "deviceName": "ELM9711NBA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "A113ZS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA113ZSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta113ze%2C_dta113zka%2C_dta113zsa%2C_dta113zua_rohm.pdf"
+  },
+  {
+    "smdCode": "A114GS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA114GSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114gka%2C_dta114gsa%2C_dta114gua_rohm.pdf"
+  },
+  {
+    "smdCode": "A114TS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA114TSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114te%2C_dta114tka%2C_dta114tm%2C_dta114tsa%2C_dta114tua_rohm.pdf"
+  },
+  {
+    "smdCode": "A114WS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA114WSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114we%2C_dta114wka%2C_dta114wsa%2C_dta114wua_rohm.pdf"
+  },
+  {
+    "smdCode": "A114YS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA114YM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114ye%2C_dta114yka%2C_dta114ym%2C_dta114ysa%2C_dta114yua_rohm.pdf"
+  },
+  {
+    "smdCode": "A115ES",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA115ESA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115ee%2C_dta115eka%2C_dta115em%2C_dta115esa%2C_dta115eua_rohm.pdf"
+  },
+  {
+    "smdCode": "A115TS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA115TSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115te%2C_dta115tka%2C_dta115tm%2C_dta115tsa%2C_dta115tua_rohm.pdf"
+  },
+  {
+    "smdCode": "A123JS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA123JSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123je%2C_dta123jka%2C_dta123jm%2C_dta123jsa%2C_dta123jua_rohm.pdf"
+  },
+  {
+    "smdCode": "A123YS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA123YSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123ye%2C_dta123yka%2C_dta123ysa%2C_dta123yua_rohm.pdf"
+  },
+  {
+    "smdCode": "A124ES",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA124ESA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124ee%2C_dta124eka%2C_dta124em%2C_dta124esa%2C_dta124eua_rohm.pdf"
+  },
+  {
+    "smdCode": "A124GS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA124GSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124gka%2C_dta124gsa_rohm.pdf"
+  },
+  {
+    "smdCode": "A124TS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA124TSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124te%2C_dta124tka%2C_dta124tm%2C_dta124tsa%2C_dta124tua_rohm.pdf"
+  },
+  {
+    "smdCode": "A124XS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA124XSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124xe%2C_dta124xka%2C_dta124xm%2C_dta124xsa%2C_dta124xua_rohm.pdf"
+  },
+  {
+    "smdCode": "A125TS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA125TSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta125tka%2C_dta125tsa%2C_dta125tua_rohm.pdf"
+  },
+  {
+    "smdCode": "A13",
+    "package": "SOT-23",
+    "deviceName": "MMBD1503A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1501a%2C_mmbd1503a%2C_mmbd1504a%2C_mmbd-1505a_galaxy.pdf"
+  },
+  {
+    "smdCode": "A13",
+    "package": "SOT-23",
+    "deviceName": "MMBD1503A",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1501%2C_mmbd1503%2C_mmbd1504%2C_mmbd1505_fairchild.pdf"
+  },
+  {
+    "smdCode": "A14",
+    "package": "SOT-23",
+    "deviceName": "MMBD1504A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1501a%2C_mmbd1503a%2C_mmbd1504a%2C_mmbd-1505a_galaxy.pdf"
+  },
+  {
+    "smdCode": "A14",
+    "package": "SOT-23",
+    "deviceName": "MMBD1504A",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1501%2C_mmbd1503%2C_mmbd1504%2C_mmbd1505_fairchild.pdf"
+  },
+  {
+    "smdCode": "A143ES",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA143ESA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143ee%2C_dta143eka%2C_dta143em%2C_dta143esa%2C_dta143eua_rohm.pdf"
+  },
+  {
+    "smdCode": "A143XS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA143XSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143xm_dta143xe_dta143xua_dta143xka_dta143xsa_rohm.pdf"
+  },
+  {
+    "smdCode": "A144ES",
+    "package": "TO-92S",
+    "deviceName": "DTA144ESA",
+    "manufacturer": "Secos",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta144e_series_secos.pdf"
+  },
+  {
+    "smdCode": "A144VS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTA144VSA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta144vka%2C_dta144vsa_rohm.pdf"
+  },
+  {
+    "smdCode": "A15",
+    "package": "SOT-23",
+    "deviceName": "MMBD1505A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1501a%2C_mmbd1503a%2C_mmbd1504a%2C_mmbd-1505a_galaxy.pdf"
+  },
+  {
+    "smdCode": "A15",
+    "package": "SOT-23",
+    "deviceName": "MMBD1505A",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1501%2C_mmbd1503%2C_mmbd1504%2C_mmbd1505_fairchild.pdf"
+  },
+  {
+    "smdCode": "A1515S",
+    "package": "SPT / SC-72",
+    "deviceName": "2SA1515S",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1515s%2C_2sb1132%2C_2sb1237_rohm.pdf"
+  },
+  {
+    "smdCode": "A1585S",
+    "package": "SPT / SC-72",
+    "deviceName": "2SA1585S",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1424%2C_2sa1585s_rohm.pdf"
+  },
+  {
+    "smdCode": "A16*",
+    "package": "SOT-25",
+    "deviceName": "KB3426-ADJ",
+    "manufacturer": "Kingbor",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/b/kb3426_kingbor.pdf"
+  },
+  {
+    "smdCode": "A17",
+    "package": "SOT-23",
+    "deviceName": "2SK436",
+    "manufacturer": "Sanyo  (Now Panasonic)",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk436_sanyo.pdf"
+  },
+  {
+    "smdCode": "A17*",
+    "package": "SOT-25",
+    "deviceName": "KB3426-ADJ",
+    "manufacturer": "Kingbor",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/b/kb3426_kingbor.pdf"
+  },
+  {
+    "smdCode": "A1727",
+    "package": "SOT-428",
+    "deviceName": "2SA1727",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1727%2C_2sa1776%2C_2sa1812_rohm.pdf"
+  },
+  {
+    "smdCode": "A1776",
+    "package": "ATV",
+    "deviceName": "2SA1776",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1727%2C_2sa1776%2C_2sa1812_rohm.pdf"
+  },
+  {
+    "smdCode": "A18",
+    "package": "SOT-23",
+    "deviceName": "2SK436",
+    "manufacturer": "Sanyo  (Now Panasonic)",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk436_sanyo.pdf"
+  },
+  {
+    "smdCode": "A1862",
+    "package": "SOT-428",
+    "deviceName": "2SA1862",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1862_rohm.pdf"
+  },
+  {
+    "smdCode": "A19",
+    "package": "SOT-23",
+    "deviceName": "2SK436",
+    "manufacturer": "Sanyo  (Now Panasonic)",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk436_sanyo.pdf"
+  },
+  {
+    "smdCode": "A1=***",
+    "package": "SOT-353",
+    "deviceName": "RT9193-33GU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "A1C",
+    "package": "LFCSP_VD 3x3",
+    "deviceName": "SSM2301CPZ",
+    "manufacturer": "Analog Devices",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ssm2301_analog.pdf"
+  },
+  {
+    "smdCode": "A1C",
+    "package": "MSOP-8",
+    "deviceName": "SSM2301RMZ",
+    "manufacturer": "Analog Devices",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ssm2301_analog.pdf"
+  },
+  {
+    "smdCode": "A1O*",
+    "package": "SOT-89",
+    "deviceName": "STB1132",
+    "manufacturer": "AUK",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stb1132_auk.pdf"
+  },
+  {
+    "smdCode": "A1Y*",
+    "package": "SOT-89",
+    "deviceName": "STB1132",
+    "manufacturer": "AUK",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stb1132_auk.pdf"
+  }
+]

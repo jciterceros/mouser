@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "FX-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-30PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "FX=***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-30GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  }
+]

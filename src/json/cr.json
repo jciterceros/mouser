@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "CR",
+    "package": "SOT-23",
+    "deviceName": "2SC2411",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2411_galaxy.pdf"
+  },
+  {
+    "smdCode": "CR",
+    "package": "SOT-346",
+    "deviceName": "2SC2411K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2411k_rohm.pdf"
+  },
+  {
+    "smdCode": "CR",
+    "package": "SOT-23",
+    "deviceName": "2SC945",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc945_galaxy.pdf"
+  },
+  {
+    "smdCode": "CR",
+    "package": "SOT-23",
+    "deviceName": "BCR1002N3",
+    "manufacturer": "CYStech",
+    "data": "Silicon-controlled rectifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr1002n3_cystek.pdf"
+  },
+  {
+    "smdCode": "CR",
+    "package": "SOT-23",
+    "deviceName": "BCW60AR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw60_zetex.pdf"
+  },
+  {
+    "smdCode": "CR",
+    "package": "SOD-323",
+    "deviceName": "PZU8.2B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "CR",
+    "package": "SMA",
+    "deviceName": "SMAJ40A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "CR",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ40A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "CR",
+    "package": "SMB",
+    "deviceName": "SMBJ40CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "CR**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US47D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "Cr",
+    "package": "SOT-25",
+    "deviceName": "BD49E25G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Cr",
+    "package": "SOT-23",
+    "deviceName": "BD49K25G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

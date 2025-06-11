@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "X3",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C62",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "X3",
+    "package": "SOT-23",
+    "deviceName": "BZX84C62-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "X3",
+    "package": "SOT-23",
+    "deviceName": "BZX99-C15",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx99_philips.pdf"
+  },
+  {
+    "smdCode": "X3",
+    "package": "EMT6",
+    "deviceName": "EMX3",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx3%2C_imx3%2C_umx3n_rohm.pdf"
+  },
+  {
+    "smdCode": "X3",
+    "package": "SOT-26",
+    "deviceName": "IMX3",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx3%2C_imx3%2C_umx3n_rohm.pdf"
+  },
+  {
+    "smdCode": "X3",
+    "package": "SOD-323",
+    "deviceName": "PZU16B3A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "X3",
+    "package": "SOT-363",
+    "deviceName": "UMX3N",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx3%2C_imx3%2C_umx3n_rohm.pdf"
+  },
+  {
+    "smdCode": "X33",
+    "package": "SOT-416",
+    "deviceName": "DTB543XE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb543xe%2C_dtb543xm_rohm.pdf"
+  },
+  {
+    "smdCode": "X33",
+    "package": "VMT3",
+    "deviceName": "DTB543XM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb543xe%2C_dtb543xm_rohm.pdf"
+  }
+]

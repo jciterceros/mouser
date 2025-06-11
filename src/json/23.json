@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "23",
+    "package": "SOT-23",
+    "deviceName": "DTC143ECA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114eca%2C_dtc124eca%2C_dtc143eca%2C_dtc144eca_galaxy.pdf"
+  },
+  {
+    "smdCode": "23",
+    "package": "SOT-323",
+    "deviceName": "DTC143EUA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114eua%2C_dtc124eua%2C_dtc143eua%2C_dtc144eua_galaxy.pdf"
+  },
+  {
+    "smdCode": "23-",
+    "package": "SOT-23",
+    "deviceName": "BF547",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf547_philips.pdf"
+  },
+  {
+    "smdCode": "2302",
+    "package": "SOT-23",
+    "deviceName": "MTN2302N3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtn2302n3_cystek_1.pdf"
+  },
+  {
+    "smdCode": "2305-1",
+    "package": "QFN-16",
+    "deviceName": "EMC2305-1",
+    "manufacturer": "SMSC",
+    "data": "Fan Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emc2305_smsc.pdf"
+  },
+  {
+    "smdCode": "2306",
+    "package": "SOT-23",
+    "deviceName": "MTA90N03ZN3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mta90n03zn3_cystek.pdf"
+  },
+  {
+    "smdCode": "2306A",
+    "package": "SOT-23",
+    "deviceName": "MTN2306AN3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtn2306an3_cystek.pdf"
+  },
+  {
+    "smdCode": "2306D**",
+    "package": "WDFN-12 3x3",
+    "deviceName": "PAM2306D",
+    "manufacturer": "Diodes",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pam2306d_diodes.pdf"
+  },
+  {
+    "smdCode": "231*",
+    "package": "SOT-23",
+    "deviceName": "CM1213A-01SO",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1213a_on.pdf"
+  },
+  {
+    "smdCode": "2310",
+    "package": "SOT-23",
+    "deviceName": "MTN2310N3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtn2310n3_cystek.pdf"
+  },
+  {
+    "smdCode": "2311",
+    "package": "SOT-23",
+    "deviceName": "MTP2311N3",
+    "manufacturer": "CYStech",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtp2311n3_cystek.pdf"
+  },
+  {
+    "smdCode": "233*",
+    "package": "SOT-26",
+    "deviceName": "CM1213A-02SO",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1213a_on.pdf"
+  },
+  {
+    "smdCode": "234*",
+    "package": "SOT-26",
+    "deviceName": "CM1213A-04SO",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1213a-04so_on.pdf"
+  },
+  {
+    "smdCode": "238*",
+    "package": "WDFN-16 4x1.6",
+    "deviceName": "ESD4238",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esd4238_on.pdf"
+  },
+  {
+    "smdCode": "23T",
+    "package": "SOT-23",
+    "deviceName": "TK71523AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "23W",
+    "package": "SOT-23",
+    "deviceName": "BF547",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf547_philips.pdf"
+  },
+  {
+    "smdCode": "23p",
+    "package": "SOT-23",
+    "deviceName": "BF547",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf547_philips.pdf"
+  },
+  {
+    "smdCode": "23t",
+    "package": "SOT-23",
+    "deviceName": "BF547",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf547_philips.pdf"
+  }
+]

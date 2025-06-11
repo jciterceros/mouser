@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "3E",
+    "package": "SOT-23",
+    "deviceName": "KST10",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst10_fairchild.pdf"
+  },
+  {
+    "smdCode": "3E-",
+    "package": "SOT-23",
+    "deviceName": "BC857A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3E-",
+    "package": "SOT-323",
+    "deviceName": "BC857AW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3EM",
+    "package": "SOT-23",
+    "deviceName": "MMBTH10",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbth10_galaxy.pdf"
+  },
+  {
+    "smdCode": "3EW",
+    "package": "SOT-23",
+    "deviceName": "BC857A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3EW",
+    "package": "SOT-323",
+    "deviceName": "BC857AW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3EZ",
+    "package": "SOT-23",
+    "deviceName": "FMMTH10",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmth10_zetex.pdf"
+  },
+  {
+    "smdCode": "3Ep",
+    "package": "SOT-23",
+    "deviceName": "BC857A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Ep",
+    "package": "SOT-323",
+    "deviceName": "BC857AW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Es",
+    "package": "SOT-23",
+    "deviceName": "BC857A",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc857%2C_bc858%2C_bc859%2C_bc860_series_infineon.pdf"
+  },
+  {
+    "smdCode": "3Et",
+    "package": "SOT-23",
+    "deviceName": "BC857A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Et",
+    "package": "SOT-323",
+    "deviceName": "BC857AW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  }
+]

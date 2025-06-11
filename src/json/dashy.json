@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "-Y1",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-Y2",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

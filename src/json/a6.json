@@ -1,0 +1,298 @@
+[
+  {
+    "smdCode": "A6",
+    "package": "SOT-323",
+    "deviceName": "1SS304",
+    "manufacturer": "TIP",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss304_tip.pdf"
+  },
+  {
+    "smdCode": "A6",
+    "package": "SOT-23",
+    "deviceName": "BAS16",
+    "manufacturer": "Fairchild",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas16_fairchild.pdf"
+  },
+  {
+    "smdCode": "A6",
+    "package": "SOT-343R",
+    "deviceName": "BGU2003",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/g/bgu2003_philips.pdf"
+  },
+  {
+    "smdCode": "A6",
+    "package": "SOT-323",
+    "deviceName": "MIC803-40D4VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "A6",
+    "package": "SOT-23",
+    "deviceName": "MIC803-40D4VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "A6",
+    "package": "SOT-523",
+    "deviceName": "MMBD4448HTA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd4448ht_series_galaxy.pdf"
+  },
+  {
+    "smdCode": "A6",
+    "package": "X2SON-4 1x1",
+    "deviceName": "TPS3831G18DQNR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps3831%2C_tps3839_rd_ti.pdf"
+  },
+  {
+    "smdCode": "A6*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-MSPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "A6**",
+    "package": "SOT-25",
+    "deviceName": "Si9183DT-30-T1",
+    "manufacturer": "Vishay",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9183_vishay.pdf"
+  },
+  {
+    "smdCode": "A6-",
+    "package": "SOT-363",
+    "deviceName": "BGA2012",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/g/bga2012_philips.pdf"
+  },
+  {
+    "smdCode": "A6-",
+    "package": "SOT-89",
+    "deviceName": "RT9161-39PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "A6-**",
+    "package": "VQFN-16 4x4",
+    "deviceName": "RT8004PQV",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8004_richtek.pdf"
+  },
+  {
+    "smdCode": "A6-**",
+    "package": "SOT-323",
+    "deviceName": "RT9818A-42PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "A6-***",
+    "package": "SOT-25",
+    "deviceName": "RT8008-33PJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8008_richtek.pdf"
+  },
+  {
+    "smdCode": "A6-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-KNPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "A6-***",
+    "package": "SOT-343",
+    "deviceName": "RT9198-15PY",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "A6-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-25PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "A6051M",
+    "package": "DIP-7",
+    "deviceName": "STR-A6051M",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A6052M",
+    "package": "DIP-7",
+    "deviceName": "STR-A6052M",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A6053M",
+    "package": "DIP-7",
+    "deviceName": "STR-A6053M",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A6059H",
+    "package": "DIP-7",
+    "deviceName": "STR-A6059H",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A6061H",
+    "package": "DIP-7",
+    "deviceName": "STR-A6061H",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A6061HD",
+    "package": "DIP-7",
+    "deviceName": "STR-A6061HD",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A6062H",
+    "package": "DIP-7",
+    "deviceName": "STR-A6062H",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A6062HD",
+    "package": "DIP-7",
+    "deviceName": "STR-A6062HD",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A6063HD",
+    "package": "DIP-7",
+    "deviceName": "STR-A6063HD",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A6069H",
+    "package": "DIP-7",
+    "deviceName": "STR-A6069H",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A6069HD",
+    "package": "DIP-7",
+    "deviceName": "STR-A6069HD",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A6079M",
+    "package": "DIP-7",
+    "deviceName": "STR-A6079M",
+    "manufacturer": "SanKen",
+    "data": "PWM Controller and Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str-a6000_series_r4.4_sanken.pdf"
+  },
+  {
+    "smdCode": "A61",
+    "package": "SOT-23",
+    "deviceName": "1S2838",
+    "manufacturer": "TIP",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1s2837%2C_1s2838_tip.pdf"
+  },
+  {
+    "smdCode": "A61",
+    "package": "SOT-23",
+    "deviceName": "MMBD2838",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd2837%2C_mmbd2838_galaxy.pdf"
+  },
+  {
+    "smdCode": "A63",
+    "package": "SOT-89",
+    "deviceName": "SGA-6389",
+    "manufacturer": "Sirenza (Now RFMD)",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sga-6389%2C_sga-6389z_sirenza.pdf"
+  },
+  {
+    "smdCode": "A63Z",
+    "package": "SOT-89",
+    "deviceName": "SGA-6389Z",
+    "manufacturer": "Sirenza (Now RFMD)",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sga-6389%2C_sga-6389z_sirenza.pdf"
+  },
+  {
+    "smdCode": "A64",
+    "package": "SOT-89",
+    "deviceName": "SGA-6489",
+    "manufacturer": "Sirenza (Now RFMD)",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sga-6489%2C_sga-6489z_sirenza.pdf"
+  },
+  {
+    "smdCode": "A64Z",
+    "package": "SOT-89",
+    "deviceName": "SGA-6489Z",
+    "manufacturer": "Sirenza (Now RFMD)",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sga-6489%2C_sga-6489z_sirenza.pdf"
+  },
+  {
+    "smdCode": "A6=**",
+    "package": "VQFN-16 4x4",
+    "deviceName": "RT8004GQV",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8004_richtek.pdf"
+  },
+  {
+    "smdCode": "A6=***",
+    "package": "SOT-343",
+    "deviceName": "RT9198-15GY",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "YR",
+    "package": "SOT-323",
+    "deviceName": "2SD1484K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1484k%2C_2sd1949_rohm.pdf"
+  },
+  {
+    "smdCode": "YR",
+    "package": "SOT-89",
+    "deviceName": "2SD874A",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd874a_tip.pdf"
+  },
+  {
+    "smdCode": "YR",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "YR",
+    "package": "SOD-323",
+    "deviceName": "PZU24B3A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "YR",
+    "package": "SMA",
+    "deviceName": "SMAJ40CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "YR=***",
+    "package": "SOT-25",
+    "deviceName": "RT9169H-26GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  }
+]

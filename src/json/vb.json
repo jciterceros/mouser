@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "VB",
+    "package": "SOD-123",
+    "deviceName": "KDZ12B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "VB",
+    "package": "SOD-323",
+    "deviceName": "PZU10B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VB",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K131D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VB",
+    "package": "SOT-23",
+    "deviceName": "TZT17CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "VB-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VB-***",
+    "package": "SOT-25",
+    "deviceName": "RT9170-15PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9170_richtek.pdf"
+  },
+  {
+    "smdCode": "VBW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VBp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VBt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

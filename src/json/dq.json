@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "DQ",
+    "package": "SOT-553",
+    "deviceName": "BD4834FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "DQ",
+    "package": "SOT-25",
+    "deviceName": "BD4834G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "DQ",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DQ**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US26D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "DQ***",
+    "package": "SOT-26",
+    "deviceName": "SY7201",
+    "manufacturer": "Silergy",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy7201_silergy.pdf"
+  },
+  {
+    "smdCode": "DQ-**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9014-JNPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "DQ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-28PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "DQQ",
+    "package": "SOT-89",
+    "deviceName": "2SD2211",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1857a%2C_2sd1918%2C_2sd2211_rohm.pdf"
+  },
+  {
+    "smdCode": "DQR",
+    "package": "SOT-89",
+    "deviceName": "2SD2211",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1857a%2C_2sd1918%2C_2sd2211_rohm.pdf"
+  }
+]

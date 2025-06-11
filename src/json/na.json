@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "NA",
+    "package": "USP-6",
+    "deviceName": "EUP7201-1.8/2.8UIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7201_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "NA",
+    "package": "SOT-23",
+    "deviceName": "FMMTA05R",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmta05%2C_fmmta06_zetex.pdf"
+  },
+  {
+    "smdCode": "NA",
+    "package": "SOT-23",
+    "deviceName": "KRC101S",
+    "manufacturer": "Kexin",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/r/krc101s-krc106s_kexin.pdf"
+  },
+  {
+    "smdCode": "NA",
+    "package": "SOT-23",
+    "deviceName": "KRC101S",
+    "manufacturer": "KEC",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/r/krc101s-krc106s_r2_kec.pdf"
+  },
+  {
+    "smdCode": "NA",
+    "package": "SOT-343R",
+    "deviceName": "NCP4586DSQ30T1G",
+    "manufacturer": "ON",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp4586_r5_on.pdf"
+  },
+  {
+    "smdCode": "NA",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q301D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "NA****",
+    "package": "SOT-26",
+    "deviceName": "EUP7201-1.8/2.8VIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7201_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "Na",
+    "package": "SOT-23",
+    "deviceName": "BD49L49G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Na",
+    "package": "SOT-25",
+    "deviceName": "BD52E39G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

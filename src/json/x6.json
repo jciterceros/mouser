@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "X6",
+    "package": "SOT-89",
+    "deviceName": "BZV49C43",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_zetex.pdf"
+  },
+  {
+    "smdCode": "X6",
+    "package": "SOT-416",
+    "deviceName": "DTD523YE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd523ye%2C_dtd523ym_rohm.pdf"
+  },
+  {
+    "smdCode": "X6",
+    "package": "VMT3",
+    "deviceName": "DTD523YM",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd523ye%2C_dtd523ym_rohm.pdf"
+  },
+  {
+    "smdCode": "X6",
+    "package": "SOD-323",
+    "deviceName": "PZU18B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "X6-***",
+    "package": "SOT-25",
+    "deviceName": "RT8008-25PB",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8008_richtek.pdf"
+  },
+  {
+    "smdCode": "X60",
+    "package": "SOD-323F",
+    "deviceName": "RB751V-40X",
+    "manufacturer": "Panjit",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb751v-40x_panjit.pdf"
+  },
+  {
+    "smdCode": "X6=***",
+    "package": "SOT-25",
+    "deviceName": "RT8008-25GB",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8008_richtek.pdf"
+  }
+]

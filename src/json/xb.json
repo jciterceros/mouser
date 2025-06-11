@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "XB",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XB",
+    "package": "SOT-23",
+    "deviceName": "BZX99-C5V1",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx99_philips.pdf"
+  },
+  {
+    "smdCode": "XB",
+    "package": "SOD-123",
+    "deviceName": "KDZ15B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "XB",
+    "package": "SOD-323",
+    "deviceName": "PZU2.7B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XB",
+    "package": "2-2H1A",
+    "deviceName": "RN1102F",
+    "manufacturer": "Toshiba",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn1101f-rn1106f_toshiba.pdf"
+  },
+  {
+    "smdCode": "XB-***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-18PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "XB=***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-18GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "PE",
+    "package": "SMB",
+    "deviceName": "1SMB110AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "PE",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q441D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "PE",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ110A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "PE",
+    "package": "SMB",
+    "deviceName": "SMBJ110A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "PE",
+    "package": "SMF",
+    "deviceName": "SMF26A-M",
+    "manufacturer": "Vishay",
+    "data": "ESD Protection Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smf5v0a-m-smf51a-m_vishay.pdf"
+  },
+  {
+    "smdCode": "PE *",
+    "package": "DFN-8 2x2",
+    "deviceName": "NCP367DPMEBTBG",
+    "manufacturer": "ON",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp367_r11_on.pdf"
+  },
+  {
+    "smdCode": "PE-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C24",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PEII",
+    "package": "SOT-23",
+    "deviceName": "TPS72115DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps72101%2C_tps72115%2C_tps72116%2C_tps72118_ti.pdf"
+  },
+  {
+    "smdCode": "PEJI",
+    "package": "SOT-23",
+    "deviceName": "TPS72118DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps72101%2C_tps72115%2C_tps72116%2C_tps72118_ti.pdf"
+  },
+  {
+    "smdCode": "PEKI",
+    "package": "SOT-23",
+    "deviceName": "TPS72101DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps72101%2C_tps72115%2C_tps72116%2C_tps72118_ti.pdf"
+  },
+  {
+    "smdCode": "PETI",
+    "package": "SOT-25",
+    "deviceName": "TPS73047DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps730_rj_ti.pdf"
+  },
+  {
+    "smdCode": "PEW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C24",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PEp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C24",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PEt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C24",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Pe",
+    "package": "SOT-25",
+    "deviceName": "BD52E57G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

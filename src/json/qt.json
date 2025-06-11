@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "QT",
+    "package": "SMB",
+    "deviceName": "1SMA8.5AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "QT",
+    "package": "SOT-23",
+    "deviceName": "MCP809T-315",
+    "manufacturer": "Microchip",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mcp809%2C_mcp810_microchip.pdf"
+  },
+  {
+    "smdCode": "QTP",
+    "package": "SOT-353",
+    "deviceName": "TLV70025DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  }
+]

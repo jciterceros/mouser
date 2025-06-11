@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "E*",
+    "package": "Flip Chip-5",
+    "deviceName": "NUP4103FC",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup4103fct1_on.pdf"
+  },
+  {
+    "smdCode": "E****",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "IRF",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_irf.pdf"
+  },
+  {
+    "smdCode": "E****",
+    "package": "SOT-23",
+    "deviceName": "IRLML6402",
+    "manufacturer": "IRF",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/r/irlml6402_irf.pdf"
+  },
+  {
+    "smdCode": "E****",
+    "package": "SOT-23",
+    "deviceName": "IRLML6402PbF",
+    "manufacturer": "IRF",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/r/irlml6402pbf_irf.pdf"
+  }
+]

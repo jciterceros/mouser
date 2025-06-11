@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "1Y",
+    "package": "SOT-23",
+    "deviceName": "BF823",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf821%2C_bf823_general.pdf"
+  },
+  {
+    "smdCode": "1Y=***",
+    "package": "SOT-25",
+    "deviceName": "RT9724GB",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9724_r02_richtek.pdf"
+  }
+]

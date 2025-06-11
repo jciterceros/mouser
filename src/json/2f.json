@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "2F",
+    "package": "SOT-23",
+    "deviceName": "FMMT2907A",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt2907%2C_fmmt2907a_zetex.pdf"
+  },
+  {
+    "smdCode": "2F",
+    "package": "SOT-23",
+    "deviceName": "KST2907A",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst2907a_fairchild.pdf"
+  },
+  {
+    "smdCode": "2F",
+    "package": "SOT-23",
+    "deviceName": "MMBT2907A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2907a_galaxy.pdf"
+  },
+  {
+    "smdCode": "2F",
+    "package": "SOT-523",
+    "deviceName": "MMBT2907AT",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2907at_galaxy.pdf"
+  },
+  {
+    "smdCode": "2F-",
+    "package": "SOT-23",
+    "deviceName": "2SA1036KPT",
+    "manufacturer": "Chenmko",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1036kpt_chenmko.pdf"
+  },
+  {
+    "smdCode": "2F-",
+    "package": "SOT-323",
+    "deviceName": "BC850BW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2F=***",
+    "package": "SOT-25",
+    "deviceName": "RT9715GGBR",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "2FW",
+    "package": "SOT-323",
+    "deviceName": "BC850BW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2Fp",
+    "package": "SOT-323",
+    "deviceName": "BC850BW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2Fs",
+    "package": "SOT-23",
+    "deviceName": "BC850B",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "2Fs",
+    "package": "SOT-323",
+    "deviceName": "BC850BW",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "2Ft",
+    "package": "SOT-323",
+    "deviceName": "BC850BW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  }
+]

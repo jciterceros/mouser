@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "MK",
+    "package": "SMB",
+    "deviceName": "1SMB30AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "MK",
+    "package": "X2-DFN1409-6",
+    "deviceName": "74LVC1G34FX4-7",
+    "manufacturer": "Diodes",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g34_r6-2_diodes.pdf"
+  },
+  {
+    "smdCode": "MK",
+    "package": "SOD-323",
+    "deviceName": "PZU33BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MK",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q291D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "MK",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ30A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "MK",
+    "package": "SMB",
+    "deviceName": "SMBJ30A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "MK73-1",
+    "package": "SO-8",
+    "deviceName": "MK9173-01CS08",
+    "manufacturer": "IDT",
+    "data": "Video Genlock PLL",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/v/av9173%2C_mk9173_idt.pdf"
+  },
+  {
+    "smdCode": "MK73-15",
+    "package": "SO-8",
+    "deviceName": "MK9173-15CS08",
+    "manufacturer": "IDT",
+    "data": "Video Genlock PLL",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/v/av9173%2C_mk9173_idt.pdf"
+  },
+  {
+    "smdCode": "MK=***",
+    "package": "SOT-23",
+    "deviceName": "RT9161A-25GV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "MKJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB56A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "Mk",
+    "package": "SOT-23",
+    "deviceName": "BD49L43G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Mk",
+    "package": "SOT-25",
+    "deviceName": "BD52E33G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

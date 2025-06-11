@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "MP",
+    "package": "SMB",
+    "deviceName": "1SMB36AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "MP",
+    "package": "SOD-323",
+    "deviceName": "PZU4.3B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MP",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ36A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "MP",
+    "package": "SMB",
+    "deviceName": "SMBJ36A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "MP=**",
+    "package": "MSOP-8",
+    "deviceName": "RT9715GGF",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "MP=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-36GVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "MPAS",
+    "package": "SOT-23",
+    "deviceName": "MI2303",
+    "manufacturer": "MegaPower",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi2303_megapower.pdf"
+  },
+  {
+    "smdCode": "MPDS",
+    "package": "SOT-23",
+    "deviceName": "MI2312",
+    "manufacturer": "MegaPower",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi2312_megapower.pdf"
+  },
+  {
+    "smdCode": "MPJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB68A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "MPLS",
+    "package": "SOT-23",
+    "deviceName": "MI2305",
+    "manufacturer": "MegaPower",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi2305_megapower.pdf"
+  },
+  {
+    "smdCode": "MPOS",
+    "package": "SOT-23",
+    "deviceName": "MI3415",
+    "manufacturer": "MegaPower",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi3415_megapower.pdf"
+  },
+  {
+    "smdCode": "Mp",
+    "package": "SOT-23",
+    "deviceName": "BD49L46G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Mp",
+    "package": "SOT-25",
+    "deviceName": "BD52E36G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

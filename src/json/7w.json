@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "7W02",
+    "package": "SSOP8-P-0.65",
+    "deviceName": "TC07W02FU",
+    "manufacturer": "Toshiba",
+    "data": "NOR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc7w02f%2C_tc7w02fu%2C_tc7w02fk_20010531_toshiba.pdf"
+  },
+  {
+    "smdCode": "7W02F",
+    "package": "SOP-8",
+    "deviceName": "TC07W02F",
+    "manufacturer": "Toshiba",
+    "data": "NOR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc7w02f%2C_tc7w02fu%2C_tc7w02fk_20010531_toshiba.pdf"
+  },
+  {
+    "smdCode": "7W08",
+    "package": "SSOP8-P-0.65",
+    "deviceName": "TC7W08FU",
+    "manufacturer": "Toshiba",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc7w08f_19980924_toshiba.pdf"
+  },
+  {
+    "smdCode": "7W08F",
+    "package": "SOP-8",
+    "deviceName": "TC7W08F",
+    "manufacturer": "Toshiba",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc7w08f_19980924_toshiba.pdf"
+  }
+]

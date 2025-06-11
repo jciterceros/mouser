@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "O",
+    "package": "TSLP-2-7",
+    "deviceName": "BAR64-02LRH",
+    "manufacturer": "Infineon",
+    "data": "PIN diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar64_series_infineon.pdf"
+  },
+  {
+    "smdCode": "O",
+    "package": "SOD-523",
+    "deviceName": "BAR64-02V",
+    "manufacturer": "Infineon",
+    "data": "PIN diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar64_series_infineon.pdf"
+  }
+]

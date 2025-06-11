@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "QY",
+    "package": "2-2H1A",
+    "deviceName": "2SC4915",
+    "manufacturer": "Toshiba",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4915_toshiba.pdf"
+  },
+  {
+    "smdCode": "QY",
+    "package": "SOT-89",
+    "deviceName": "KTB1260",
+    "manufacturer": "KEC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktb1260_kec.pdf"
+  },
+  {
+    "smdCode": "QY",
+    "package": "TSMT3",
+    "deviceName": "RSR025N03",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/s/rsr025n03_rohm.pdf"
+  },
+  {
+    "smdCode": "QY",
+    "package": "WSON-6 1,5x1,5",
+    "deviceName": "TLV70025DSER",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "Qy",
+    "package": "SOT-25",
+    "deviceName": "BD53E42G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

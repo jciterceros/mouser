@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "RU",
+    "package": "SOT-23",
+    "deviceName": "MCP810T-450",
+    "manufacturer": "Microchip",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mcp809%2C_mcp810_microchip.pdf"
+  },
+  {
+    "smdCode": "RU",
+    "package": "SOD-323",
+    "deviceName": "PZU6.8B3A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RU",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K281A5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  }
+]

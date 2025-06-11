@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "6Z",
+    "package": "SOT-23",
+    "deviceName": "MMBF170",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bs170%2C_mmbf170_re2_fairchild.pdf"
+  },
+  {
+    "smdCode": "6Z",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2512",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "smdCode": "A8",
+    "package": "SOT-23",
+    "deviceName": "BAS19",
+    "manufacturer": "TSC",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas19%2C_bas20%2C_bas21_tsc.pdf"
+  },
+  {
+    "smdCode": "A8",
+    "package": "SOT-23",
+    "deviceName": "BAS19",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas19_ra_fairchild.pdf"
+  },
+  {
+    "smdCode": "A8",
+    "package": "X2SON-4 1x1",
+    "deviceName": "TPS3831K33DQNR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps3831%2C_tps3839_rd_ti.pdf"
+  },
+  {
+    "smdCode": "A8*",
+    "package": "SOT-143",
+    "deviceName": "HSMS-2808",
+    "manufacturer": "Agilent",
+    "data": "Schottky barrier diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsms-2800_series_agilent.pdf"
+  },
+  {
+    "smdCode": "A8*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-CSPQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "A8**",
+    "package": "SOT-25",
+    "deviceName": "Si9183DT-50-T1",
+    "manufacturer": "Vishay",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9183_vishay.pdf"
+  },
+  {
+    "smdCode": "A8***",
+    "package": "SOT-23",
+    "deviceName": "Si2308DS",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2308ds_vishay.pdf"
+  },
+  {
+    "smdCode": "A8-***",
+    "package": "SOT-25",
+    "deviceName": "RT8008-18PJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8008_richtek.pdf"
+  },
+  {
+    "smdCode": "A8-***",
+    "package": "MSOP-10",
+    "deviceName": "RT8011PF",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8011%2C_rt8011a_richtek.pdf"
+  },
+  {
+    "smdCode": "A8-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-NNPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "A8-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-30PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "A8-***",
+    "package": "SOT-343",
+    "deviceName": "RT9818E-21PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "A81",
+    "package": "SOT-23",
+    "deviceName": "BAS20",
+    "manufacturer": "TSC",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas19%2C_bas20%2C_bas21_tsc.pdf"
+  },
+  {
+    "smdCode": "A8160A",
+    "package": "SOT-26",
+    "deviceName": "A8160AE6R",
+    "manufacturer": "AiT",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/8/a8160a_r1.2_ait.pdf"
+  },
+  {
+    "smdCode": "A82",
+    "package": "SOT-23",
+    "deviceName": "BAS21",
+    "manufacturer": "TSC",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas19%2C_bas20%2C_bas21_tsc.pdf"
+  },
+  {
+    "smdCode": "A82A",
+    "package": "MSOP-8",
+    "deviceName": "LMV342MM",
+    "manufacturer": "National",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv341%2C_lmv342%2C_lmv344_national.pdf"
+  },
+  {
+    "smdCode": "A85",
+    "package": "Flip Chip-15",
+    "deviceName": "TS4985EIJT",
+    "manufacturer": "STMicroelectronics",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts4985_st.pdf"
+  },
+  {
+    "smdCode": "A86A",
+    "package": "MSOP-8",
+    "deviceName": "LMV932MM",
+    "manufacturer": "National",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv931%2C_lmv932%2C_lmv934_national.pdf"
+  },
+  {
+    "smdCode": "A8=***",
+    "package": "MSOP-10",
+    "deviceName": "RT8011GF",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8011%2C_rt8011a_richtek.pdf"
+  },
+  {
+    "smdCode": "A8=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-NNGJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "A8=***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-30GU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  }
+]

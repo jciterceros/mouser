@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "26",
+    "package": "VMN3",
+    "deviceName": "DTC144EB",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144eb%2C_dtc144ee%2C_dtc144eka%2C_dtc144em%2C_dtc144eua_rohm.pdf"
+  },
+  {
+    "smdCode": "26",
+    "package": "SOT-23",
+    "deviceName": "DTC144ECA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114eca%2C_dtc124eca%2C_dtc143eca%2C_dtc144eca_galaxy.pdf"
+  },
+  {
+    "smdCode": "26",
+    "package": "SOT-416",
+    "deviceName": "DTC144EE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144eb%2C_dtc144ee%2C_dtc144eka%2C_dtc144em%2C_dtc144eua_rohm.pdf"
+  },
+  {
+    "smdCode": "26",
+    "package": "SOT-490",
+    "deviceName": "DTC144EEB",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144eeb_rohm.pdf"
+  },
+  {
+    "smdCode": "26",
+    "package": "SOT-346",
+    "deviceName": "DTC144EKA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144eb%2C_dtc144ee%2C_dtc144eka%2C_dtc144em%2C_dtc144eua_rohm.pdf"
+  },
+  {
+    "smdCode": "26",
+    "package": "VMT3",
+    "deviceName": "DTC144EM",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144eb%2C_dtc144ee%2C_dtc144eka%2C_dtc144em%2C_dtc144eua_rohm.pdf"
+  },
+  {
+    "smdCode": "26",
+    "package": "SOT-323",
+    "deviceName": "DTC144EUA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144eb%2C_dtc144ee%2C_dtc144eka%2C_dtc144em%2C_dtc144eua_rohm.pdf"
+  },
+  {
+    "smdCode": "26",
+    "package": "SOT-323",
+    "deviceName": "DTC144EUA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114eua%2C_dtc124eua%2C_dtc143eua%2C_dtc144eua_galaxy.pdf"
+  },
+  {
+    "smdCode": "26",
+    "package": "UMT3F",
+    "deviceName": "DTC144EUB",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144eub_rohm.pdf"
+  },
+  {
+    "smdCode": "26",
+    "package": "SOT-346",
+    "deviceName": "PDTC143XK",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143xe%2C_pdtc143xef%2C_pdtc143xk%2C_pdtc143xm%2C_pdtc143xs%2C_pdtc143xt%2C_pdtc143xu_nxp.pdf"
+  },
+  {
+    "smdCode": "26***",
+    "package": "SOT-23",
+    "deviceName": "MTF44P03N3",
+    "manufacturer": "CYStech",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtf44p03n3_cystek.pdf"
+  },
+  {
+    "smdCode": "26***",
+    "package": "SOT-23",
+    "deviceName": "TSM260P02CX",
+    "manufacturer": "TS",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/tsm260p02_rb15_ts.pdf"
+  },
+  {
+    "smdCode": "26***",
+    "package": "SOT-26",
+    "deviceName": "TSM260P02CX6",
+    "manufacturer": "TS",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/tsm260p02_rb15_ts.pdf"
+  },
+  {
+    "smdCode": "2603",
+    "package": "SOT-26",
+    "deviceName": "SC2603SKTRT",
+    "manufacturer": "Semtech",
+    "data": "Step-Up Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/c/sc2603_20061114_semtech.pdf"
+  },
+  {
+    "smdCode": "2611",
+    "package": "QFN-14 3x4",
+    "deviceName": "MP2611GL",
+    "manufacturer": "MPS",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/p/mp2611_r1.12_mps.pdf"
+  },
+  {
+    "smdCode": "265N10LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC265N10LSF G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc265n10lsfg_infineon.pdf"
+  },
+  {
+    "smdCode": "26N02KS",
+    "package": "TDSON-8",
+    "deviceName": "BSC026N02KS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc026n02ksg_infineon.pdf"
+  },
+  {
+    "smdCode": "26T",
+    "package": "SOT-23",
+    "deviceName": "TK71526AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

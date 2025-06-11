@@ -1,0 +1,162 @@
+[
+  {
+    "smdCode": "M3",
+    "package": "SOT-23",
+    "deviceName": "2SA812",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa812_tip.pdf"
+  },
+  {
+    "smdCode": "M3",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B16",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "M3",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5258",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "M3*",
+    "package": "VSSOP-8",
+    "deviceName": "LM258ADGKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "M3002N",
+    "package": "DFN-8 3x3",
+    "deviceName": "QM3002N3",
+    "manufacturer": "Ubiq",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/m/qm3002n3_ra.03_ubiq.pdf"
+  },
+  {
+    "smdCode": "M3014M",
+    "package": "PRPAK5X6",
+    "deviceName": "QM3014M6",
+    "manufacturer": "Ubiq",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/m/qm3014m6%2C_qm3014n6_ubiq.pdf"
+  },
+  {
+    "smdCode": "M3014N",
+    "package": "PRPAK5X6",
+    "deviceName": "QM3014N6",
+    "manufacturer": "Ubiq",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/m/qm3014m6%2C_qm3014n6_ubiq.pdf"
+  },
+  {
+    "smdCode": "M3016M",
+    "package": "PRPAK5X6",
+    "deviceName": "QM3016M6",
+    "manufacturer": "Ubiq",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/m/qm3016m6%2C_qm3016n6_ubiq.pdf"
+  },
+  {
+    "smdCode": "M3016N",
+    "package": "PRPAK5X6",
+    "deviceName": "QM3016N6",
+    "manufacturer": "Ubiq",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/m/qm3016m6%2C_qm3016n6_ubiq.pdf"
+  },
+  {
+    "smdCode": "M3018M",
+    "package": "PRPAK5X6",
+    "deviceName": "QM3018M6",
+    "manufacturer": "Ubiq",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/m/qm3018m6%2C_qm3018n6_ubiq.pdf"
+  },
+  {
+    "smdCode": "M3018N",
+    "package": "PRPAK5X6",
+    "deviceName": "QM3018N6",
+    "manufacturer": "Ubiq",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/m/qm3018m6%2C_qm3018n6_ubiq.pdf"
+  },
+  {
+    "smdCode": "M3022M",
+    "package": "PRPAK5X6",
+    "deviceName": "QM3022M6",
+    "manufacturer": "Ubiq",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/m/qm3022m6_ubiq.pdf"
+  },
+  {
+    "smdCode": "M33",
+    "package": "SOT-416",
+    "deviceName": "DTB743XE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb743xe%2C_dtb743xm_rohm.pdf"
+  },
+  {
+    "smdCode": "M33",
+    "package": "VMT3",
+    "deviceName": "DTB743XM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb743xe%2C_dtb743xm_rohm.pdf"
+  },
+  {
+    "smdCode": "M36",
+    "package": "SOT-23",
+    "deviceName": "SM36",
+    "manufacturer": "Semtech",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/sm05-sm36_20040712_semtech.pdf"
+  },
+  {
+    "smdCode": "M3=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818D-13GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "M3T",
+    "package": "SOT-323",
+    "deviceName": "ADM1813-10AKS",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M3T",
+    "package": "SOT-23",
+    "deviceName": "ADM1813-10ART",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M3V",
+    "package": "SOT-323",
+    "deviceName": "ADM1813-5AKS",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M3V",
+    "package": "SOT-23",
+    "deviceName": "ADM1813-5ART",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  }
+]

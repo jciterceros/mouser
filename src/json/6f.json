@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "6F",
+    "package": "SOT-323",
+    "deviceName": "2PD601AW",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601aw_galaxy.pdf"
+  },
+  {
+    "smdCode": "6F",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z68",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "6F",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ254H",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "6F**",
+    "package": "SOT-23",
+    "deviceName": "ST6206FS23RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6206_stanson.pdf"
+  },
+  {
+    "smdCode": "6F**",
+    "package": "SOT-323",
+    "deviceName": "ST6206FS32RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6206_stanson.pdf"
+  }
+]

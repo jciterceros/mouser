@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "85",
+    "package": "SOT-23",
+    "deviceName": "MMBD1701",
+    "manufacturer": "Fairchild",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1701%2C_mmbd1703%2C_mmbd1704%2C_mmbd1705_fairchild.pdf"
+  },
+  {
+    "smdCode": "85",
+    "package": "SOD-323",
+    "deviceName": "UDZS22B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "8510",
+    "package": "DFN-10 3x3",
+    "deviceName": "CHL8510CRT",
+    "manufacturer": "IRF",
+    "data": "Gate driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/r/ir3537_chl8510_r1.2_irf.pdf"
+  },
+  {
+    "smdCode": "853**",
+    "package": "SOT-26",
+    "deviceName": "SP6853S26RG",
+    "manufacturer": "SYNC Power",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6853_syncpower.pdf"
+  },
+  {
+    "smdCode": "853**",
+    "package": "SOT-26",
+    "deviceName": "ST8835",
+    "manufacturer": "Stanson",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st8835_stanson.pdf"
+  },
+  {
+    "smdCode": "8550",
+    "package": "SOT-89",
+    "deviceName": "PXT8550",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/x/pxt8550_galaxy.pdf"
+  },
+  {
+    "smdCode": "85A",
+    "package": "SOT-23",
+    "deviceName": "MMBD1701A",
+    "manufacturer": "Fairchild",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1701%2C_mmbd1703%2C_mmbd1704%2C_mmbd1705_fairchild.pdf"
+  },
+  {
+    "smdCode": "85N025S",
+    "package": "TDSON-8",
+    "deviceName": "BSC085N025S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc085n025sg_infineon.pdf"
+  }
+]

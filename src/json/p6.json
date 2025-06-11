@@ -1,0 +1,202 @@
+[
+  {
+    "smdCode": "P6",
+    "package": "SOT-343R",
+    "deviceName": "BFG480W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg480w_nxp.pdf"
+  },
+  {
+    "smdCode": "P6***",
+    "package": "SOT-23",
+    "deviceName": "Si2365EDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2365eds_vishay.pdf"
+  },
+  {
+    "smdCode": "P6***",
+    "package": "SOT-23",
+    "deviceName": "Si2377EDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2377eds_vishay.pdf"
+  },
+  {
+    "smdCode": "P60",
+    "package": "SOT-23",
+    "deviceName": "DDTB113EC",
+    "manufacturer": "Diodes",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtbxxxxc_series_diodes.pdf"
+  },
+  {
+    "smdCode": "P60",
+    "package": "SOD-323F",
+    "deviceName": "RB751V-40",
+    "manufacturer": "Panjit",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb751v-40_panjit.pdf"
+  },
+  {
+    "smdCode": "P61",
+    "package": "SOT-23",
+    "deviceName": "DDTB123EC",
+    "manufacturer": "Diodes",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtbxxxxc_series_diodes.pdf"
+  },
+  {
+    "smdCode": "P62",
+    "package": "SOT-23",
+    "deviceName": "DDTB143EC",
+    "manufacturer": "Diodes",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtbxxxxc_series_diodes.pdf"
+  },
+  {
+    "smdCode": "P63",
+    "package": "SOT-23",
+    "deviceName": "DDTB114EC",
+    "manufacturer": "Diodes",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtbxxxxc_series_diodes.pdf"
+  },
+  {
+    "smdCode": "P64",
+    "package": "SOT-23",
+    "deviceName": "DDTB122JC",
+    "manufacturer": "Diodes",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtbxxxxc_series_diodes.pdf"
+  },
+  {
+    "smdCode": "P65",
+    "package": "SOT-23",
+    "deviceName": "DDTB113ZC",
+    "manufacturer": "Diodes",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtbxxxxc_series_diodes.pdf"
+  },
+  {
+    "smdCode": "P66",
+    "package": "SOT-23",
+    "deviceName": "DDTB123YC",
+    "manufacturer": "Diodes",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtbxxxxc_series_diodes.pdf"
+  },
+  {
+    "smdCode": "P67",
+    "package": "SOT-23",
+    "deviceName": "DDTB133HC",
+    "manufacturer": "Diodes",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtbxxxxc_series_diodes.pdf"
+  },
+  {
+    "smdCode": "P69",
+    "package": "SOT-23",
+    "deviceName": "DDTB123TC",
+    "manufacturer": "Diodes",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtbxxxxc_series_diodes.pdf"
+  },
+  {
+    "smdCode": "p60",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p61",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p62",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p63",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p64",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p65",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p66",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p67",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p69",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A15",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p6D",
+    "package": "SOT-323",
+    "deviceName": "2PD601AQW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "p6E",
+    "package": "SOT-323",
+    "deviceName": "2PD601ARW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "p6F",
+    "package": "SOT-323",
+    "deviceName": "2PD601ASW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  }
+]

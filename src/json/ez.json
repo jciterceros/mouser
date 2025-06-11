@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "EZ*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9013-27PQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "EZ**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US48D4-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "EZ**",
+    "package": "SOT-26",
+    "deviceName": "TC1072-2.8VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "EZ=**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9297GQW",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9297_r02_richtek.pdf"
+  }
+]

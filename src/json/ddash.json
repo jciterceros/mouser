@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "D-1",
+    "package": "SOT-363",
+    "deviceName": "PUMD12",
+    "manufacturer": "NXP",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/e/pemd12%2C_pumd12_r4_nxp.pdf"
+  }
+]

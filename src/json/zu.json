@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "ZU",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C51",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZU",
+    "package": "SOD-323",
+    "deviceName": "PDZ36B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZU**",
+    "package": "SOT-25",
+    "deviceName": "PI5A122CEX",
+    "manufacturer": "Pericom",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/i/pi5a121%2C_pi5a122%2C_pi5a124_2009.10.23_pericom.pdf"
+  },
+  {
+    "smdCode": "ZU**",
+    "package": "SOT-25",
+    "deviceName": "PI5A122TEX",
+    "manufacturer": "Pericom",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/i/pi5a121%2C_pi5a122%2C_pi5a124_2009.10.23_pericom.pdf"
+  },
+  {
+    "smdCode": "ZU-***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-13PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "ZU=***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-13GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  }
+]

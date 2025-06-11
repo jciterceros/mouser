@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "OP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ6L2",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "OP",
+    "package": "SMF",
+    "deviceName": "SMF16A-M",
+    "manufacturer": "Vishay",
+    "data": "ESD Protection Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smf5v0a-m-smf51a-m_vishay.pdf"
+  },
+  {
+    "smdCode": "OP=***",
+    "package": "SOT-26",
+    "deviceName": "R7730GE",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/7/r7730_richtek.pdf"
+  },
+  {
+    "smdCode": "OPMI",
+    "package": "MSOP-8",
+    "deviceName": "OPA2171AIDGK",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/o/p/opa171%2C_opa2171%2C_opa4171_ti.pdf"
+  },
+  {
+    "smdCode": "OPOC",
+    "package": "VSSOP-8",
+    "deviceName": "OPA2171AIDCUT",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/o/p/opa171%2C_opa2171%2C_opa4171_ti.pdf"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "AW*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-PPPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AW-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-18PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AW-***",
+    "package": "SOT-23",
+    "deviceName": "RT9161-50PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "AW-***",
+    "package": "SOT-26",
+    "deviceName": "RT9284A-20PJ6E",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "AW-***",
+    "package": "SOT-343",
+    "deviceName": "RT9818E-25PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AW0*",
+    "package": "SOT-89",
+    "deviceName": "ELM9730CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "AW2*",
+    "package": "SOT-89",
+    "deviceName": "ELM9732CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "AW4*",
+    "package": "SOT-89",
+    "deviceName": "ELM9734CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "AW=***",
+    "package": "SOT-23",
+    "deviceName": "RT9161-50GV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "AW=***",
+    "package": "SOT-26",
+    "deviceName": "RT9284A-20GJ6E",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  }
+]

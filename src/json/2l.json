@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "2L",
+    "package": "SOT-23",
+    "deviceName": "FMMT4403",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt4402%2C_fmmt4403_zetex.pdf"
+  },
+  {
+    "smdCode": "2L",
+    "package": "SOT-23",
+    "deviceName": "KMMBT5401",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt5401_fairchild.pdf"
+  },
+  {
+    "smdCode": "2L",
+    "package": "SOT-23",
+    "deviceName": "KST5401",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst5401_fairchild.pdf"
+  },
+  {
+    "smdCode": "2L",
+    "package": "SOT-23",
+    "deviceName": "MMBT5401",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt5401_galaxy.pdf"
+  },
+  {
+    "smdCode": "2L",
+    "package": "SOT-23",
+    "deviceName": "MMBT5401LT1",
+    "manufacturer": "Motorola",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt5401lt1_motorola.pdf"
+  }
+]

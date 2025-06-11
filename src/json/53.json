@@ -1,0 +1,330 @@
+[
+  {
+    "smdCode": "53",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z3V3",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "53",
+    "package": "SOD-523",
+    "deviceName": "ZV953V2TA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Varactor Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsd273ta%2C_zmdc953ta%2C_zv950v2ta%2C_zv952v2ta%2C_zv953v2ta_zetex.pdf"
+  },
+  {
+    "smdCode": "53**",
+    "package": "SOT-363",
+    "deviceName": "STN6303",
+    "manufacturer": "Stanson",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stn6303_r1_stanson.pdf"
+  },
+  {
+    "smdCode": "5316",
+    "package": "TQFN-20 3x3",
+    "deviceName": "G5316RZ1D",
+    "manufacturer": "GMT",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5316_r0.9_gmt.pdf"
+  },
+  {
+    "smdCode": "5316",
+    "package": "TQFN-20 3x3",
+    "deviceName": "G5316RZ1U",
+    "manufacturer": "GMT",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5316_r0.9_gmt.pdf"
+  },
+  {
+    "smdCode": "5343",
+    "package": "SOT-23",
+    "deviceName": "2SC5343",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5343_galaxy.pdf"
+  },
+  {
+    "smdCode": "5345",
+    "package": "SOT-23",
+    "deviceName": "2SC5345",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5345_galaxy.pdf"
+  },
+  {
+    "smdCode": "5350",
+    "package": "MLP-6 3x3",
+    "deviceName": "FAN5350MPX",
+    "manufacturer": "Fairchild",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/a/fan5350_r1.0.5_fairchild.pdf"
+  },
+  {
+    "smdCode": "53AC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853ACRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53AI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853AIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53BC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853BCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53BI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853BIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53CC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853CCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53CI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853CIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53DC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853DCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53DI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853DIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53EC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853ECRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53EI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853EIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53FC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853FCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53FI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853FIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53GC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853GCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53GI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853GIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53HC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853HCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53HI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853HIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53IC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853ICRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53II",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853IIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53JC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853JCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53JI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853JIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53KC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853KCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53KI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853KIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53LC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853LCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53LI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853LIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53MC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853MCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53MI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853MIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53NC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853NCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53NI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853NIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53OC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853OCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53OI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853OIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53PC",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853PCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53PI",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL61853PIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "53s",
+    "package": "SOT-23",
+    "deviceName": "BAT17",
+    "manufacturer": "Infineon",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat17_series_infineon.pdf"
+  }
+]

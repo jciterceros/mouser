@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "M01",
+    "package": "EMT6",
+    "deviceName": "EM6M1",
+    "manufacturer": "ROHM",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/em6m1_rohm.pdf"
+  },
+  {
+    "smdCode": "M01",
+    "package": "TUMT6",
+    "deviceName": "US6M1",
+    "manufacturer": "ROHM",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us6m1_rohm.pdf"
+  },
+  {
+    "smdCode": "M01*",
+    "package": "SOT-23",
+    "deviceName": "APM2301A",
+    "manufacturer": "Anpec",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apm2301a_anpec.pdf"
+  },
+  {
+    "smdCode": "M01S",
+    "package": "SOT-23",
+    "deviceName": "MI3470",
+    "manufacturer": "MegaPower",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi3470_megapower.pdf"
+  },
+  {
+    "smdCode": "M02",
+    "package": "TUMT6",
+    "deviceName": "US6M2",
+    "manufacturer": "ROHM",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us6m2_rohm.pdf"
+  },
+  {
+    "smdCode": "M02S",
+    "package": "SOT-23",
+    "deviceName": "MI3471",
+    "manufacturer": "MegaPower",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi3471_megapower.pdf"
+  },
+  {
+    "smdCode": "M03",
+    "package": "SOT-26",
+    "deviceName": "QS6M3",
+    "manufacturer": "ROHM",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs6m3_rohm.pdf"
+  },
+  {
+    "smdCode": "M03S",
+    "package": "SOT-23",
+    "deviceName": "MI3472",
+    "manufacturer": "MegaPower",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi3472_megapower.pdf"
+  },
+  {
+    "smdCode": "M04",
+    "package": "SOT-26",
+    "deviceName": "QS6M4",
+    "manufacturer": "ROHM",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs6m4_rohm.pdf"
+  },
+  {
+    "smdCode": "M04S",
+    "package": "SOT-23",
+    "deviceName": "MI3473",
+    "manufacturer": "MegaPower",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi3473_megapower.pdf"
+  },
+  {
+    "smdCode": "M05",
+    "package": "SOT-23",
+    "deviceName": "SM05",
+    "manufacturer": "Semtech",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/sm05-sm36_20040712_semtech.pdf"
+  },
+  {
+    "smdCode": "M05S",
+    "package": "SOT-23",
+    "deviceName": "MI3474",
+    "manufacturer": "MegaPower",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi3474_megapower.pdf"
+  },
+  {
+    "smdCode": "M06S",
+    "package": "SOT-23",
+    "deviceName": "MI3475",
+    "manufacturer": "MegaPower",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi3475_megapower.pdf"
+  },
+  {
+    "smdCode": "M0=***",
+    "package": "SOT-23",
+    "deviceName": "RT9161A-28GV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  }
+]

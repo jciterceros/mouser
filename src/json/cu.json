@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "CU",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4689-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "CU",
+    "package": "SOD-323",
+    "deviceName": "PZU9.1BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "CU**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US44D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CU***",
+    "package": "SOT-26",
+    "deviceName": "SY8009BABC",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8009a%2C_sy8009b_r1.0_silergy.pdf"
+  },
+  {
+    "smdCode": "CU-",
+    "package": "SOT-89",
+    "deviceName": "RT9161-50PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "CU-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-2HPB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "CU=***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-2HGB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  }
+]

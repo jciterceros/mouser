@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "F0",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C5V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "F0*",
+    "package": "SOT-23",
+    "deviceName": "HSMP-3820",
+    "manufacturer": "Avago",
+    "data": "PIN diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsmp-382x%2C_482x_avago.pdf"
+  },
+  {
+    "smdCode": "F0**",
+    "package": "SOT-26",
+    "deviceName": "TC1073-4.0VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "F00",
+    "package": "MLPD-8 2x2",
+    "deviceName": "SC4509WL",
+    "manufacturer": "Semtech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/c/sc4509_semtech.pdf"
+  },
+  {
+    "smdCode": "F02",
+    "package": "SOT-346",
+    "deviceName": "DTD123TK",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd123tk%2C_dtd123ts_rohm.pdf"
+  },
+  {
+    "smdCode": "F03",
+    "package": "SOT-346",
+    "deviceName": "DTD143TK",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd143tk_rohm.pdf"
+  },
+  {
+    "smdCode": "F0=***",
+    "package": "SOT-26",
+    "deviceName": "R7732GGE",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/7/r7732_richtek.pdf"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "TA",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "TA",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K121B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TA*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B112NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "TA***",
+    "package": "SOT-26",
+    "deviceName": "APX825A-44W6",
+    "manufacturer": "Diodes",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apx823%2C_apx824%2C_apx825a_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "TA115E",
+    "package": "SOT-54",
+    "deviceName": "PDTA115ES",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "TA7",
+    "package": "SOT-23",
+    "deviceName": "MMBZ27VDA-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz27vda-v_vishay.pdf"
+  },
+  {
+    "smdCode": "tA1",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "tAB",
+    "package": "SOT-143B",
+    "deviceName": "BAW101",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw101_nxp.pdf"
+  },
+  {
+    "smdCode": "tAB",
+    "package": "SOT-23",
+    "deviceName": "PDTA115ET",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta115e_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "L7",
+    "package": "SOT-23",
+    "deviceName": "2SC1623",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1623_galaxy.pdf"
+  },
+  {
+    "smdCode": "L7",
+    "package": "SOT-23",
+    "deviceName": "2SC1623",
+    "manufacturer": "WEITRON",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1623_weitron.pdf"
+  },
+  {
+    "smdCode": "L7",
+    "package": "SOT-323",
+    "deviceName": "2SC1623W",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1623w_galaxy.pdf"
+  },
+  {
+    "smdCode": "L7",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "L7",
+    "package": "SOT-23",
+    "deviceName": "SST507",
+    "manufacturer": "Siliconix (Now Vishay)",
+    "data": "Current regulator diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst502-sst511_siliconix.pdf"
+  },
+  {
+    "smdCode": "L7*",
+    "package": "SOT-723",
+    "deviceName": "ESD7M5.0DT5G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esd7m5.0dt5g_on.pdf"
+  },
+  {
+    "smdCode": "L7***",
+    "package": "SOT-23",
+    "deviceName": "Si2307BDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2307bds_vishay.pdf"
+  },
+  {
+    "smdCode": "L7-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-28PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "L7-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818E-12PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "L77",
+    "package": "SOT-23",
+    "deviceName": "FMMTL717",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmtl717_zetex.pdf"
+  }
+]

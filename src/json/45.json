@@ -1,0 +1,186 @@
+[
+  {
+    "smdCode": "45",
+    "package": "SOT-416",
+    "deviceName": "1PS75SB45",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "45",
+    "package": "SOT-23",
+    "deviceName": "BAS40-05",
+    "manufacturer": "Diotec",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_20150512_diotec.pdf"
+  },
+  {
+    "smdCode": "45",
+    "package": "SOT-23",
+    "deviceName": "BAS40-05",
+    "manufacturer": "Citc",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_citc.pdf"
+  },
+  {
+    "smdCode": "45",
+    "package": "SOT-23",
+    "deviceName": "BAS40-05",
+    "manufacturer": "Vishay",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_r2.0_vishay.pdf"
+  },
+  {
+    "smdCode": "45",
+    "package": "SOT-23",
+    "deviceName": "BAS40-05",
+    "manufacturer": "MCC",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40%2C_bas70_series_rd_mcc.pdf"
+  },
+  {
+    "smdCode": "45",
+    "package": "SOT-523",
+    "deviceName": "BAS40-05T",
+    "manufacturer": "Secos",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40t_series_secos.pdf"
+  },
+  {
+    "smdCode": "45",
+    "package": "SOT-416",
+    "deviceName": "DTC124XE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124xe%2C_dtc124xka%2C_dtc124xm%2C_dtc124xsa%2C_dtc124xua_rohm.pdf"
+  },
+  {
+    "smdCode": "45",
+    "package": "SOT-346",
+    "deviceName": "DTC124XKA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124xe%2C_dtc124xka%2C_dtc124xm%2C_dtc124xsa%2C_dtc124xua_rohm.pdf"
+  },
+  {
+    "smdCode": "45",
+    "package": "VMT3",
+    "deviceName": "DTC124XM",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124xe%2C_dtc124xka%2C_dtc124xm%2C_dtc124xsa%2C_dtc124xua_rohm.pdf"
+  },
+  {
+    "smdCode": "45",
+    "package": "SOT-323",
+    "deviceName": "DTC124XUA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124xe%2C_dtc124xka%2C_dtc124xm%2C_dtc124xsa%2C_dtc124xua_rohm.pdf"
+  },
+  {
+    "smdCode": "45",
+    "package": "SOD-323",
+    "deviceName": "UDZS15B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "45-",
+    "package": "SOT-23",
+    "deviceName": "BAS40-05",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "4500GM",
+    "package": "SO-8",
+    "deviceName": "AP4500GM",
+    "manufacturer": "Apec",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4500gm_20060903_apec.pdf"
+  },
+  {
+    "smdCode": "4502C",
+    "package": "SOP-8",
+    "deviceName": "AF4502C",
+    "manufacturer": "Anachip",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/f/af4502c_anachip.pdf"
+  },
+  {
+    "smdCode": "4556",
+    "package": "QFN-24 4x4",
+    "deviceName": "LTC4556EUF",
+    "manufacturer": "Linear",
+    "data": "Smart Card Interface",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc4556euf_linear.pdf"
+  },
+  {
+    "smdCode": "458",
+    "package": "SOT-23",
+    "deviceName": "FMMT558",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt458_zetex.pdf"
+  },
+  {
+    "smdCode": "459",
+    "package": "SOT-23",
+    "deviceName": "FMMT459",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt459_zetex.pdf"
+  },
+  {
+    "smdCode": "45T",
+    "package": "SOT-23",
+    "deviceName": "TK71545AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "45W",
+    "package": "SOT-23",
+    "deviceName": "BAS40-05",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "45p",
+    "package": "SOT-23",
+    "deviceName": "BAS40-05",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "45s",
+    "package": "SOT-23",
+    "deviceName": "BAS40-05",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series%2C_bas140_infineon.pdf"
+  },
+  {
+    "smdCode": "45s",
+    "package": "SOT-323",
+    "deviceName": "BAS40-05W",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series%2C_bas140_infineon.pdf"
+  },
+  {
+    "smdCode": "45t",
+    "package": "SOT-23",
+    "deviceName": "BAS40-05",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  }
+]

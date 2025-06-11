@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "4V",
+    "package": "SOT-23",
+    "deviceName": "BCW65AR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw65%2C_bcw66_zetex.pdf"
+  }
+]

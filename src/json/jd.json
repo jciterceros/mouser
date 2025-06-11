@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "JD",
+    "package": "SOT-523",
+    "deviceName": "BAW56T",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw56t_galaxy.pdf"
+  },
+  {
+    "smdCode": "JD",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q431B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "JD **",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8239CZQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8239a%2C_rt8239b%2C_rt8239c_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "JD-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-25PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JD-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-30PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "JD-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-30PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JD=",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-25GXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JD=**",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8239CGQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8239a%2C_rt8239b%2C_rt8239c_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "JD=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-30GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "JD=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-30GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JD_",
+    "package": "SOT-353",
+    "deviceName": "TS5A1066",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts5a1066_ti.pdf"
+  },
+  {
+    "smdCode": "JD_",
+    "package": "WCSP (DSBGA)",
+    "deviceName": "TS5A1066",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts5a1066_ti.pdf"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "08",
+    "package": "SOT-23",
+    "deviceName": "PSOT08",
+    "manufacturer": "Protek",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  },
+  {
+    "smdCode": "08**",
+    "package": "SOT-363",
+    "deviceName": "STP6308",
+    "manufacturer": "Stanson",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stp6308_stanson.pdf"
+  },
+  {
+    "smdCode": "080N03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC080N03LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc080n03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "080N03MS",
+    "package": "TDSON-8",
+    "deviceName": "BSC080N03MS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc080n03msg_infineon.pdf"
+  },
+  {
+    "smdCode": "080P03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC080P03LS G",
+    "manufacturer": "Infineon",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc080p03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "081AC",
+    "package": "SO-8",
+    "deviceName": "TL081ACD",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl081%2C_tl082%2C_tl084-series_ri_ti.pdf"
+  },
+  {
+    "smdCode": "081BC",
+    "package": "SO-8",
+    "deviceName": "TL081BCD",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl081%2C_tl082%2C_tl084-series_ri_ti.pdf"
+  },
+  {
+    "smdCode": "082AC",
+    "package": "SO-8",
+    "deviceName": "TL082ACD",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl081%2C_tl082%2C_tl084-series_ri_ti.pdf"
+  },
+  {
+    "smdCode": "082BC",
+    "package": "SO-8",
+    "deviceName": "TL082BCD",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl081%2C_tl082%2C_tl084-series_ri_ti.pdf"
+  },
+  {
+    "smdCode": "082N10LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC082N10LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc082n10lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "08C",
+    "package": "SOT-23",
+    "deviceName": "PSOT08C",
+    "manufacturer": "Protek",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  }
+]

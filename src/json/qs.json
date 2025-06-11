@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "QS",
+    "package": "SOT-89",
+    "deviceName": "2SC4536",
+    "manufacturer": "NEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4536_nec.pdf"
+  },
+  {
+    "smdCode": "QS",
+    "package": "SOT-23",
+    "deviceName": "MCP809T-300",
+    "manufacturer": "Microchip",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mcp809%2C_mcp810_microchip.pdf"
+  }
+]

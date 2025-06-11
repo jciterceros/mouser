@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "B8",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "B8",
+    "package": "SOT-26",
+    "deviceName": "PBSS4160DS",
+    "manufacturer": "NXP",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/b/pbss4160ds_nxp.pdf"
+  },
+  {
+    "smdCode": "B8*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-MSGQWC",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "B8*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9013-2HPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "B8-**",
+    "package": "VQFN-24 4x4",
+    "deviceName": "RT9903BPQV",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9903b_richtek.pdf"
+  },
+  {
+    "smdCode": "B8-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-JPPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "B8-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-32PU5R",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "B835L",
+    "package": "SOT-428",
+    "deviceName": "MBRD835L",
+    "manufacturer": "ON",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/b/mbrd835l_on.pdf"
+  },
+  {
+    "smdCode": "B8=***",
+    "package": "TSOT-25",
+    "deviceName": "RT9198-25GJ5R",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "B8=***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-32GU5R",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "B8=***",
+    "package": "SOT-143",
+    "deviceName": "RT9818E-27GY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

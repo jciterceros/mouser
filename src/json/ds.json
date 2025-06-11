@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "DS",
+    "package": "SOT-553",
+    "deviceName": "BD4836FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "DS",
+    "package": "SOT-25",
+    "deviceName": "BD4836G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "DS",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DS",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C47",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DS",
+    "package": "SOT-883",
+    "deviceName": "PDTC114EM",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc114ee%2C_pdtc114em%2C_pdtc114et%2C_pdtc114eu_nxp.pdf"
+  },
+  {
+    "smdCode": "DS**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US50D3-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "DS***",
+    "package": "SOT-25",
+    "deviceName": "AP131-33W",
+    "manufacturer": "Diodes",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap131_r7_diodes.pdf"
+  },
+  {
+    "smdCode": "DS***",
+    "package": "SOT-25",
+    "deviceName": "SY6288D1AAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "DS-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-15PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "DS=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8223BGQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8223a%2C_rt8223b_richtek.pdf"
+  },
+  {
+    "smdCode": "DS=***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-15GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  }
+]

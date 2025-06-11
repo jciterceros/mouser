@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "PA",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q401D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "PA**",
+    "package": "SOT-363",
+    "deviceName": "Si1902DL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1902dl_vishay.pdf"
+  },
+  {
+    "smdCode": "PAB **",
+    "package": "SOT-26",
+    "deviceName": "DMP2004DMK",
+    "manufacturer": "Diodes",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/m/dmp2004dmk_r4.2_diodes.pdf"
+  },
+  {
+    "smdCode": "PAZI",
+    "package": "SOT-25",
+    "deviceName": "TPS76301DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps76301-tps76350_ti.pdf"
+  },
+  {
+    "smdCode": "Pa",
+    "package": "SOT-25",
+    "deviceName": "BD52E53G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  },
+  {
+    "smdCode": "pA1",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pAB",
+    "package": "SOT-143B",
+    "deviceName": "BAW101",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw101_nxp.pdf"
+  },
+  {
+    "smdCode": "pAB",
+    "package": "SOT-23",
+    "deviceName": "PDTA115ET",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta115e_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "4",
+    "package": "SOD-323",
+    "deviceName": "BAS140W",
+    "manufacturer": "Infineon",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series%2C_bas140_infineon.pdf"
+  }
+]

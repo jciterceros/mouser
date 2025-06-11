@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "3S",
+    "package": "SOT-23",
+    "deviceName": "MMBT5551",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5551%2C_mmbt5551_fairchild.pdf"
+  },
+  {
+    "smdCode": "3S**",
+    "package": "SOT-23",
+    "deviceName": "GSM9107ZF",
+    "manufacturer": "GS",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/s/gsm9107_gs-power.pdf"
+  }
+]

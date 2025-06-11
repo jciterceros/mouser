@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "S8",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "S8",
+    "package": "Small 8-Bump micro SMD",
+    "deviceName": "LM2787BP",
+    "manufacturer": "National",
+    "data": "Voltage Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2787bp_national.pdf"
+  },
+  {
+    "smdCode": "S8",
+    "package": "SOD-123",
+    "deviceName": "SD103CW",
+    "manufacturer": "Vishay",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sd103aw%2C_sd103bw%2C_sd103cw_vishay.pdf"
+  },
+  {
+    "smdCode": "S8**",
+    "package": "SOT-89",
+    "deviceName": "ELM9748CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "S82B",
+    "package": "SOT-25",
+    "deviceName": "LM3670MF-1.5",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3670_rf_ti.pdf"
+  }
+]

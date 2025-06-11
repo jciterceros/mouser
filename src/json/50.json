@@ -1,0 +1,570 @@
+[
+  {
+    "smdCode": "50",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z2V4",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "50",
+    "package": "SOD-523",
+    "deviceName": "ZV950V2TA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Varactor Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsd273ta%2C_zmdc953ta%2C_zv950v2ta%2C_zv952v2ta%2C_zv953v2ta_zetex.pdf"
+  },
+  {
+    "smdCode": "5030AL",
+    "package": "SOT-669",
+    "deviceName": "PH5030AL",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/h/ph5030al_r03_nxp.pdf"
+  },
+  {
+    "smdCode": "5033SD",
+    "package": "WSON-10 4x4",
+    "deviceName": "LM5033SD",
+    "manufacturer": "Texas Instruments",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm5033_rb_ti.pdf"
+  },
+  {
+    "smdCode": "504",
+    "package": "SOT-143",
+    "deviceName": "S504T",
+    "manufacturer": "Vishay",
+    "data": "MOSMIC for TV-Tuner",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/5/s504t%2C_s504tr%2C_s504trw_vishay.pdf"
+  },
+  {
+    "smdCode": "50A1*",
+    "package": "SOT-25",
+    "deviceName": "G5250A1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50A1*",
+    "package": "SOT-25",
+    "deviceName": "G5250A1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50A2*",
+    "package": "SOT-25",
+    "deviceName": "G5250A2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50A2*",
+    "package": "SOT-25",
+    "deviceName": "G5250A2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50B1*",
+    "package": "SOT-25",
+    "deviceName": "G5250B1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50B1*",
+    "package": "SOT-25",
+    "deviceName": "G5250B1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50B2*",
+    "package": "SOT-25",
+    "deviceName": "G5250B2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50B2*",
+    "package": "SOT-25",
+    "deviceName": "G5250B2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50C1*",
+    "package": "SOT-25",
+    "deviceName": "G5250C1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50C1*",
+    "package": "SOT-25",
+    "deviceName": "G5250C1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50C2*",
+    "package": "SOT-25",
+    "deviceName": "G5250C2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50C2*",
+    "package": "SOT-25",
+    "deviceName": "G5250C2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50D1*",
+    "package": "SOT-25",
+    "deviceName": "G5250D1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50D1*",
+    "package": "SOT-25",
+    "deviceName": "G5250D1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50D2*",
+    "package": "SOT-25",
+    "deviceName": "G5250D2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50D2*",
+    "package": "SOT-25",
+    "deviceName": "G5250D2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50E1*",
+    "package": "SOT-25",
+    "deviceName": "G5250E1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50E1*",
+    "package": "SOT-25",
+    "deviceName": "G5250E1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50E2*",
+    "package": "SOT-25",
+    "deviceName": "G5250E2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50E2*",
+    "package": "SOT-25",
+    "deviceName": "G5250E2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50F1*",
+    "package": "SOT-25",
+    "deviceName": "G5250F1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50F1*",
+    "package": "SOT-25",
+    "deviceName": "G5250F1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50F2*",
+    "package": "SOT-25",
+    "deviceName": "G5250F2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50F2*",
+    "package": "SOT-25",
+    "deviceName": "G5250F2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50G1*",
+    "package": "SOT-25",
+    "deviceName": "G5250G1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50G1*",
+    "package": "SOT-25",
+    "deviceName": "G5250G1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50G2*",
+    "package": "SOT-25",
+    "deviceName": "G5250G2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50G2*",
+    "package": "SOT-25",
+    "deviceName": "G5250G2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50H1*",
+    "package": "SOT-25",
+    "deviceName": "G5250H1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50H1*",
+    "package": "SOT-25",
+    "deviceName": "G5250H1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50H2*",
+    "package": "SOT-25",
+    "deviceName": "G5250H2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50H2*",
+    "package": "SOT-25",
+    "deviceName": "G5250H2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50I1*",
+    "package": "SOT-25",
+    "deviceName": "G5250I1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50I1*",
+    "package": "SOT-25",
+    "deviceName": "G5250I1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50I2*",
+    "package": "SOT-25",
+    "deviceName": "G5250I2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50I2*",
+    "package": "SOT-25",
+    "deviceName": "G5250I2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50J1*",
+    "package": "SOT-25",
+    "deviceName": "G5250J1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50J1*",
+    "package": "SOT-25",
+    "deviceName": "G5250J1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50J2*",
+    "package": "SOT-25",
+    "deviceName": "G5250J2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50J2*",
+    "package": "SOT-25",
+    "deviceName": "G5250J2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50K1*",
+    "package": "SOT-25",
+    "deviceName": "G5250K1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50K1*",
+    "package": "SOT-25",
+    "deviceName": "G5250K1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50K2*",
+    "package": "SOT-25",
+    "deviceName": "G5250K2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50K2*",
+    "package": "SOT-25",
+    "deviceName": "G5250K2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50L1*",
+    "package": "SOT-25",
+    "deviceName": "G5250L1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50L1*",
+    "package": "SOT-25",
+    "deviceName": "G5250L1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50L2*",
+    "package": "SOT-25",
+    "deviceName": "G5250L2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50L2*",
+    "package": "SOT-25",
+    "deviceName": "G5250L2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50M1*",
+    "package": "SOT-25",
+    "deviceName": "G5250M1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50M1*",
+    "package": "SOT-25",
+    "deviceName": "G5250M1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50M2*",
+    "package": "SOT-25",
+    "deviceName": "G5250M2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50M2*",
+    "package": "SOT-25",
+    "deviceName": "G5250M2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50N",
+    "package": "SOT-23",
+    "deviceName": "ZTR500F02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/t/ztr250%2C_ztr500_zetex.pdf"
+  },
+  {
+    "smdCode": "50N",
+    "package": "SOT-89",
+    "deviceName": "ZTR500Z02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/t/ztr250%2C_ztr500_zetex.pdf"
+  },
+  {
+    "smdCode": "50N1*",
+    "package": "SOT-25",
+    "deviceName": "G5250N1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50N1*",
+    "package": "SOT-25",
+    "deviceName": "G5250N1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50N2*",
+    "package": "SOT-25",
+    "deviceName": "G5250N2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50N2*",
+    "package": "SOT-25",
+    "deviceName": "G5250N2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50P",
+    "package": "SOT-23",
+    "deviceName": "ZRC500F03",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "50P1*",
+    "package": "SOT-25",
+    "deviceName": "G5250P1T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50P1*",
+    "package": "SOT-25",
+    "deviceName": "G5250P1TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50P2*",
+    "package": "SOT-25",
+    "deviceName": "G5250P2T1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50P2*",
+    "package": "SOT-25",
+    "deviceName": "G5250P2TOU",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5250_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "50T",
+    "package": "SOT-23",
+    "deviceName": "TK71550AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "50T",
+    "package": "SOT-23",
+    "deviceName": "ZRC500F02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "50X",
+    "package": "SOT-23",
+    "deviceName": "ZRC500F01",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  }
+]

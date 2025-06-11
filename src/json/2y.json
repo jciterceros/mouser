@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "2Y4",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "2Y7",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "2YA*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4000M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2YB*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4025M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2YC*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4050M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2YD*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4075M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2YE*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4100M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2YF*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4125M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2YH*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4150M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2YK*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4175M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2YL*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4200M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2YM*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4225M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2YN*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4250M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2YP*",
+    "package": "SOT-25",
+    "deviceName": "AP4054Y4275M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  }
+]

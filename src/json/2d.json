@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "2D",
+    "package": "SOT-23",
+    "deviceName": "KST92",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst92%2C_kst93_fairchild.pdf"
+  },
+  {
+    "smdCode": "2D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA92",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta92%2C_mpsa92%2C_pzta92_fairchild.pdf"
+  },
+  {
+    "smdCode": "2D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA92",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta92_galaxy.pdf"
+  }
+]

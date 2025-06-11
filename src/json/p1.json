@@ -1,0 +1,178 @@
+[
+  {
+    "smdCode": "P1",
+    "package": "SOT-343R",
+    "deviceName": "BFG21W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg21w_nxp.pdf"
+  },
+  {
+    "smdCode": "P1",
+    "package": "SOT-89",
+    "deviceName": "FCX591",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/c/fcx591_galaxy.pdf"
+  },
+  {
+    "smdCode": "P1",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5266",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "P1",
+    "package": "SOT-25",
+    "deviceName": "SP6641AEK-5.0",
+    "manufacturer": "Sipex",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6641a%2C_sp6641b_sipex.pdf"
+  },
+  {
+    "smdCode": "P1",
+    "package": "SOT-23",
+    "deviceName": "SST201",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/2/j201%2C_j202%2C_j203%2C_sst201%2C_sst202%2C_sst204_vishay.pdf"
+  },
+  {
+    "smdCode": "P1 *",
+    "package": "SOT-323",
+    "deviceName": "MMBT2222AWT1",
+    "manufacturer": "ON",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222awt1_on.pdf"
+  },
+  {
+    "smdCode": "P1***",
+    "package": "SOT-23",
+    "deviceName": "Si2343CDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2343cds_vishay.pdf"
+  },
+  {
+    "smdCode": "P11",
+    "package": "SOT-523",
+    "deviceName": "DTB713ZE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb713ze%2C_dtb713zm_rohm.pdf"
+  },
+  {
+    "smdCode": "P11",
+    "package": "VMT3",
+    "deviceName": "DTB713ZM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb713ze%2C_dtb713zm_rohm.pdf"
+  },
+  {
+    "smdCode": "P120",
+    "package": "SOT-25",
+    "deviceName": "ZXMP2120E5",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxmp2120e5_zetex.pdf"
+  },
+  {
+    "smdCode": "P13",
+    "package": "SOT-523",
+    "deviceName": "DTB743ZE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb743ze%2C_dtb743zm_rohm.pdf"
+  },
+  {
+    "smdCode": "P13",
+    "package": "VMT3",
+    "deviceName": "DTB743ZM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb743ze%2C_dtb743zm_rohm.pdf"
+  },
+  {
+    "smdCode": "P1766",
+    "package": "SOT-89",
+    "deviceName": "2SC1766",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1766_galaxy.pdf"
+  },
+  {
+    "smdCode": "P1F",
+    "package": "SOT-89",
+    "deviceName": "PZT2222AT1G",
+    "manufacturer": "ON",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzt2222a_r9_on.pdf"
+  },
+  {
+    "smdCode": "P1p",
+    "package": "SOT-23",
+    "deviceName": "BFR92",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr92_philips.pdf"
+  },
+  {
+    "smdCode": "p15",
+    "package": "SOT-323",
+    "deviceName": "PDTC115EU",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "p16",
+    "package": "SOT-23",
+    "deviceName": "PDTC114ET",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc114ee%2C_pdtc114em%2C_pdtc114et%2C_pdtc114eu_nxp.pdf"
+  },
+  {
+    "smdCode": "p17",
+    "package": "SOT-23",
+    "deviceName": "PDTC124ET",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "p19",
+    "package": "SOT-23",
+    "deviceName": "PDTA143ZT",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta143ze%2C_pdta143zm%2C_pdta143zt%2C_pdta143zu_nxp.pdf"
+  },
+  {
+    "smdCode": "p1A",
+    "package": "SOT-323",
+    "deviceName": "PMST3904",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmst3904_nxp.pdf"
+  },
+  {
+    "smdCode": "p1D",
+    "package": "SOT-23",
+    "deviceName": "PMBTA42",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbta42_philips.pdf"
+  },
+  {
+    "smdCode": "p1T",
+    "package": "SOT-23",
+    "deviceName": "PDTD123TT",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtd123tk%2C_pdtd123ts%2C_pdtd123tt_nxp.pdf"
+  }
+]

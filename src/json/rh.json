@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "RH",
+    "package": "SMA",
+    "deviceName": "1SMA14AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "RH",
+    "package": "SOT-89",
+    "deviceName": "2SC3357",
+    "manufacturer": "NEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3357_nec.pdf"
+  },
+  {
+    "smdCode": "RH",
+    "package": "SOT-89",
+    "deviceName": "2SC3357",
+    "manufacturer": "Kexin",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3357_kexin.pdf"
+  },
+  {
+    "smdCode": "RH",
+    "package": "SOT-89",
+    "deviceName": "2SC3357",
+    "manufacturer": "Renesas",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3357_renesas.pdf"
+  },
+  {
+    "smdCode": "RH",
+    "package": "SOD-323",
+    "deviceName": "PZU5.6B2A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RH",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K181A5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RH-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B68",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RH-***",
+    "package": "SOT-25",
+    "deviceName": "RT9170-30PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9170_richtek.pdf"
+  },
+  {
+    "smdCode": "RHW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B68",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RHp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B68",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RHs",
+    "package": "SOT-143",
+    "deviceName": "BFP183",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfp183_infineon.pdf"
+  },
+  {
+    "smdCode": "RHs",
+    "package": "SOT-23",
+    "deviceName": "BFR183",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr183_infineon.pdf"
+  },
+  {
+    "smdCode": "RHt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B68",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Rh",
+    "package": "SOT-25",
+    "deviceName": "BD53E50G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

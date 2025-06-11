@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "1X",
+    "package": "SOT-23",
+    "deviceName": "BF822",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf820%2C_bf822_general.pdf"
+  }
+]

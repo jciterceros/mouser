@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "HL",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C39",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "HL",
+    "package": "SOD-323F",
+    "deviceName": "PZU15B2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "HL-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819D-27PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  }
+]

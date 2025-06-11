@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "5F",
+    "package": "SOT-23",
+    "deviceName": "BC808-25",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807%2C_bc808_general.pdf"
+  },
+  {
+    "smdCode": "5F",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z15",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "5F",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z10V",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "5F**",
+    "package": "SOT-23",
+    "deviceName": "ST6205FS23RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6205_stanson.pdf"
+  },
+  {
+    "smdCode": "5F**",
+    "package": "SOT-323",
+    "deviceName": "ST6205FS32RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6205_stanson.pdf"
+  }
+]

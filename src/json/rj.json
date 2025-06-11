@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "RJ",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K191A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RJ-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B75",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RJW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B75",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RJp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B75",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RJt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B75",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "HY",
+    "package": "SOT-89",
+    "deviceName": "KTA1663",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta1663_tip.pdf"
+  },
+  {
+    "smdCode": "HY",
+    "package": "SOD-323F",
+    "deviceName": "PZU7.5B3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "HY-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-12PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "HY1",
+    "package": "SOT-89",
+    "deviceName": "2SA1203",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1203_galaxy.pdf"
+  },
+  {
+    "smdCode": "HY4B",
+    "package": "SOT-23",
+    "deviceName": "3CG8550M",
+    "manufacturer": "Lzg",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/3/c/3cg8550m%2C_s8550m_lzg.pdf"
+  },
+  {
+    "smdCode": "HY4B",
+    "package": "SOT-23",
+    "deviceName": "S8050M",
+    "manufacturer": "Lzg",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/3/c/3cg8550m%2C_s8550m_lzg.pdf"
+  },
+  {
+    "smdCode": "HY4C",
+    "package": "SOT-23",
+    "deviceName": "3CG8550M",
+    "manufacturer": "Lzg",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/3/c/3cg8550m%2C_s8550m_lzg.pdf"
+  },
+  {
+    "smdCode": "HY4C",
+    "package": "SOT-23",
+    "deviceName": "S8050M",
+    "manufacturer": "Lzg",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/3/c/3cg8550m%2C_s8550m_lzg.pdf"
+  },
+  {
+    "smdCode": "HY4D",
+    "package": "SOT-23",
+    "deviceName": "3CG8550M",
+    "manufacturer": "Lzg",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/3/c/3cg8550m%2C_s8550m_lzg.pdf"
+  },
+  {
+    "smdCode": "HY4D",
+    "package": "SOT-23",
+    "deviceName": "S8050M",
+    "manufacturer": "Lzg",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/3/c/3cg8550m%2C_s8550m_lzg.pdf"
+  },
+  {
+    "smdCode": "Hy",
+    "package": "SOT-23",
+    "deviceName": "BD48L58G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

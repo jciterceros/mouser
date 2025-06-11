@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "MG",
+    "package": "SMB",
+    "deviceName": "1SMB28AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "MG",
+    "package": "SOT-23",
+    "deviceName": "2SA1235A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1235a_galaxy.pdf"
+  },
+  {
+    "smdCode": "MG",
+    "package": "X2-DFN1409-6",
+    "deviceName": "74LVC1G14FX4",
+    "manufacturer": "Diodes",
+    "data": "Schmitt-Trigger Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g14_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "MG",
+    "package": "SOD-323",
+    "deviceName": "PZU3.9B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MG",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q271D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "MG",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ28A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "MG",
+    "package": "SMB",
+    "deviceName": "SMBJ28A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "MG-",
+    "package": "SOT-23",
+    "deviceName": "NX2301P",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/x/nx2301p_nxp.pdf"
+  },
+  {
+    "smdCode": "MG=***",
+    "package": "SOT-23",
+    "deviceName": "RT9819B-20GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "MGJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB51A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "MGW",
+    "package": "SOT-23",
+    "deviceName": "NX2301P",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/x/nx2301p_nxp.pdf"
+  },
+  {
+    "smdCode": "MGp",
+    "package": "SOT-23",
+    "deviceName": "NX2301P",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/x/nx2301p_nxp.pdf"
+  },
+  {
+    "smdCode": "MGt",
+    "package": "SOT-23",
+    "deviceName": "NX2301P",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/x/nx2301p_nxp.pdf"
+  },
+  {
+    "smdCode": "Mg",
+    "package": "SOT-23",
+    "deviceName": "BD49L41G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Mg",
+    "package": "SOT-25",
+    "deviceName": "BD52E31G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "DF",
+    "package": "SOT-89",
+    "deviceName": "2SD1898",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1733%2C_2sd1768s%2C_2sd1863%2C_2sd1898_rohm.pdf"
+  },
+  {
+    "smdCode": "DF",
+    "package": "SOT-23",
+    "deviceName": "BCW68F",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw67%2C_bcw68_zetex.pdf"
+  },
+  {
+    "smdCode": "DF",
+    "package": "SOT-23",
+    "deviceName": "BCW68F",
+    "manufacturer": "KEC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw68_kec.pdf"
+  },
+  {
+    "smdCode": "DF",
+    "package": "SOT-23",
+    "deviceName": "BCW68F",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw67%2C_bcw68_galaxy.pdf"
+  },
+  {
+    "smdCode": "DF",
+    "package": "SOT-25",
+    "deviceName": "BD4825G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "DF",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DF",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C18",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DF",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4698-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "DF",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q451A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "DF",
+    "package": "SOT-23",
+    "deviceName": "TZT4V3AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "DF*",
+    "package": "SOT-553",
+    "deviceName": "BD4825FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "DF*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9193-35PQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "DF***",
+    "package": "SOT-25",
+    "deviceName": "AP131-20W",
+    "manufacturer": "Diodes",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap131_r7_diodes.pdf"
+  },
+  {
+    "smdCode": "DF***",
+    "package": "SOT-25",
+    "deviceName": "SY6288CAAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "DF-",
+    "package": "SOT-89",
+    "deviceName": "RT9261-30PX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "DF=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT9953GQW",
+    "manufacturer": "Richtek",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9953_richtek.pdf"
+  },
+  {
+    "smdCode": "Df",
+    "package": "SOT-25",
+    "deviceName": "BD49E32G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Df",
+    "package": "SOT-23",
+    "deviceName": "BD49K32G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

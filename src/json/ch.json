@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "CH",
+    "package": "SOT-89",
+    "deviceName": "2SC4272",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4272_galaxy.pdf"
+  },
+  {
+    "smdCode": "CH",
+    "package": "SOT-89",
+    "deviceName": "BCX69-25",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx69-10%2C_bcx69-16%2C_bcx69-25_infineon.pdf"
+  },
+  {
+    "smdCode": "CH",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4682-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "CH",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q371A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "CH*",
+    "package": "TDFN-8 2x2",
+    "deviceName": "PAM2316",
+    "manufacturer": "Diodes",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pam2316_diodes.pdf"
+  },
+  {
+    "smdCode": "CH*",
+    "package": "VDFN-6 2x2",
+    "deviceName": "RT9193T-33PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193t_richtek.pdf"
+  },
+  {
+    "smdCode": "CH**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US31D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CH-***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-25PVL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "CH=***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-13GU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "Ch",
+    "package": "SOT-25",
+    "deviceName": "BD48E58G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ch",
+    "package": "SOT-23",
+    "deviceName": "BD48K58G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

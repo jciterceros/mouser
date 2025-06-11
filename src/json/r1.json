@@ -1,0 +1,210 @@
+[
+  {
+    "smdCode": "R1002",
+    "package": "TO-92",
+    "deviceName": "BCR1002A3",
+    "manufacturer": "CYStech",
+    "data": "Silicon-controlled rectifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr1002a3_cystek.pdf"
+  },
+  {
+    "smdCode": "R110",
+    "package": "SOT-25",
+    "deviceName": "LR9101G-10-AE5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R110",
+    "package": "SOT-353",
+    "deviceName": "LR9101G-10-AL5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R112",
+    "package": "SOT-25",
+    "deviceName": "LR9101G-12-AE5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R112",
+    "package": "SOT-353",
+    "deviceName": "LR9101G-12-AL5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R118",
+    "package": "SOT-25",
+    "deviceName": "LR9101G-18-AE5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R118",
+    "package": "SOT-353",
+    "deviceName": "LR9101G-18-AL5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R125",
+    "package": "SOT-25",
+    "deviceName": "LR9101G-25-AE5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R125",
+    "package": "SOT-353",
+    "deviceName": "LR9101G-25-AL5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R127",
+    "package": "SOT-25",
+    "deviceName": "LR9101G-27-AE5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R127",
+    "package": "SOT-353",
+    "deviceName": "LR9101G-27-AL5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R128",
+    "package": "SOT-25",
+    "deviceName": "LR9101G-28-AE5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R128",
+    "package": "SOT-353",
+    "deviceName": "LR9101G-28-AL5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R133",
+    "package": "SOT-25",
+    "deviceName": "LR9101G-33-AE5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R133",
+    "package": "SOT-353",
+    "deviceName": "LR9101G-33-AL5-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "R166",
+    "package": "PowerPAK SO-8",
+    "deviceName": "SIR166DP",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/sir166dp_ra_vishay.pdf"
+  },
+  {
+    "smdCode": "R1A",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "Diodes",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904_diodes_1.pdf"
+  },
+  {
+    "smdCode": "R1A",
+    "package": "SOT-346",
+    "deviceName": "MMST3904",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst3904%2C_sst3904%2C_umt3904_rohm.pdf"
+  },
+  {
+    "smdCode": "R1A",
+    "package": "SOT-23",
+    "deviceName": "SST3904",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst3904%2C_sst3904%2C_umt3904_rohm.pdf"
+  },
+  {
+    "smdCode": "R1A",
+    "package": "SOT-323",
+    "deviceName": "UMT3904",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst3904%2C_sst3904%2C_umt3904_rohm.pdf"
+  },
+  {
+    "smdCode": "R1G",
+    "package": "SOT-346",
+    "deviceName": "MMSTA06",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsta06%2C_ssta06_rohm.pdf"
+  },
+  {
+    "smdCode": "R1G",
+    "package": "SOT-23",
+    "deviceName": "SSTA06",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsta06%2C_ssta06_rohm.pdf"
+  },
+  {
+    "smdCode": "R1M",
+    "package": "SOT-346",
+    "deviceName": "MMSTA13",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsta13_rohm.pdf"
+  },
+  {
+    "smdCode": "R1P",
+    "package": "SOT-346",
+    "deviceName": "MMST2222A",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst2222a%2C_sst2222a%2C_umt2222a_rohm.pdf"
+  },
+  {
+    "smdCode": "R1P",
+    "package": "SOT-23",
+    "deviceName": "SST2222A",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst2222a%2C_sst2222a%2C_umt2222a_rohm.pdf"
+  },
+  {
+    "smdCode": "R1P",
+    "package": "SOT-323",
+    "deviceName": "UMT2222A",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst2222a%2C_sst2222a%2C_umt2222a_rohm.pdf"
+  }
+]

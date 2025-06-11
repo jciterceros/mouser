@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "FW",
+    "package": "SOT-346",
+    "deviceName": "2SD2653K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2653k_rohm.pdf"
+  },
+  {
+    "smdCode": "FW",
+    "package": "SOT-89",
+    "deviceName": "2SD2661",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2661_rohm.pdf"
+  },
+  {
+    "smdCode": "FW**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US25D4-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "FW-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-29PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "FW=***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-29GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  }
+]

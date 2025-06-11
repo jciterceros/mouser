@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "-01",
+    "package": "SOT-23",
+    "deviceName": "PDTA143ET",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta143et_philips.pdf"
+  },
+  {
+    "smdCode": "-02",
+    "package": "SOT-23",
+    "deviceName": "PDTC143ET",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143et_philips.pdf"
+  },
+  {
+    "smdCode": "-03",
+    "package": "SOT-23",
+    "deviceName": "PDTA114ET",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta114e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "-03",
+    "package": "SOT-323",
+    "deviceName": "PDTA114EU",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta114e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "-04",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A11",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-04",
+    "package": "SOT-323",
+    "deviceName": "PMSS3904",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmss3904_nxp.pdf"
+  },
+  {
+    "smdCode": "-05",
+    "package": "SOT-23",
+    "deviceName": "PDTA124ET",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "-05",
+    "package": "SOT-323",
+    "deviceName": "PDTA124EU",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "-06",
+    "package": "SOT-323",
+    "deviceName": "PDTC124EU",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "-08",
+    "package": "SOT-23",
+    "deviceName": "PDTC144ET",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc144et_philips.pdf"
+  },
+  {
+    "smdCode": "-09",
+    "package": "SOT-323",
+    "deviceName": "PDTC114EU",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc114ee%2C_pdtc114em%2C_pdtc114et%2C_pdtc114eu_nxp.pdf"
+  }
+]

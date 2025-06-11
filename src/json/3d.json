@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "3D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA44",
+    "manufacturer": "JCST",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta44_201010_jcst.pdf"
+  },
+  {
+    "smdCode": "3D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA44",
+    "manufacturer": "WEITRON",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta44_20010903_weitron.pdf"
+  },
+  {
+    "smdCode": "3D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA44",
+    "manufacturer": "GME",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta44_ra_gme.pdf"
+  },
+  {
+    "smdCode": "3D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA44",
+    "manufacturer": "MCC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta44_rd_mcc.pdf"
+  },
+  {
+    "smdCode": "3D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA44",
+    "manufacturer": "Secos",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta44_rd_secos.pdf"
+  },
+  {
+    "smdCode": "3D",
+    "package": "SOT-323",
+    "deviceName": "RB715F",
+    "manufacturer": "ROHM",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb715f_rohm.pdf"
+  },
+  {
+    "smdCode": "3D",
+    "package": "SOT-323",
+    "deviceName": "RB715F",
+    "manufacturer": "GME",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb715f_gme.pdf"
+  },
+  {
+    "smdCode": "3D-",
+    "package": "SOT-23",
+    "deviceName": "BC856",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3D-",
+    "package": "SOT-323",
+    "deviceName": "BC856W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3DG",
+    "package": "SOT-23",
+    "deviceName": "MMBTA44G",
+    "manufacturer": "UTC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta44%2C_mmbta45_20141030_utc.pdf"
+  },
+  {
+    "smdCode": "3DW",
+    "package": "SOT-23",
+    "deviceName": "BC856",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3DW",
+    "package": "SOT-323",
+    "deviceName": "BC856W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Dp",
+    "package": "SOT-23",
+    "deviceName": "BC856",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Dp",
+    "package": "SOT-323",
+    "deviceName": "BC856W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Dt",
+    "package": "SOT-23",
+    "deviceName": "BC856",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Dt",
+    "package": "SOT-323",
+    "deviceName": "BC856W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  }
+]

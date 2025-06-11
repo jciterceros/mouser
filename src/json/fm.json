@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "FM",
+    "package": "SOT-25",
+    "deviceName": "BD4931G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "FM",
+    "package": "SOD-323F",
+    "deviceName": "PZU15B1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "FM*",
+    "package": "SOT-553",
+    "deviceName": "BD4931FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "FM*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9293AGQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9293_richtek.pdf"
+  },
+  {
+    "smdCode": "FM*",
+    "package": "SOT-23",
+    "deviceName": "V6319MSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "FM**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US35D4-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "FM=",
+    "package": "SOT-89",
+    "deviceName": "RT9261B-36GX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261b_richtek.pdf"
+  },
+  {
+    "smdCode": "Fm",
+    "package": "SOT-23",
+    "deviceName": "BD48L26G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

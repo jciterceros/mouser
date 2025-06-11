@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "FO",
+    "package": "SOT-89",
+    "deviceName": "2SA1662",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1662_galaxy.pdf"
+  },
+  {
+    "smdCode": "FO**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US33D4-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  }
+]

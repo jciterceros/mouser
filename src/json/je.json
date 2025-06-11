@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "JE",
+    "package": "SOT-23",
+    "deviceName": "BAV99",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bal99%2C_bav99_general.pdf"
+  },
+  {
+    "smdCode": "JE",
+    "package": "SOT-23",
+    "deviceName": "BAV99",
+    "manufacturer": "Vishay",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99_vishay.pdf"
+  },
+  {
+    "smdCode": "JE",
+    "package": "SOT-523",
+    "deviceName": "BAV99T",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99t_galaxy.pdf"
+  },
+  {
+    "smdCode": "JE",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q441B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "JE-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-33PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JE-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-29PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "JE-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-18PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JE=",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-33GXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JE=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-18GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

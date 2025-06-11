@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "6L",
+    "package": "SOT-23",
+    "deviceName": "MMBF5459",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5457%2C_2n5458%2C_2n5459%2C_mmbf5457%2C_mmbf5458%2C_mmbf5459_fairchild.pdf"
+  },
+  {
+    "smdCode": "6L*",
+    "package": "DFN-8 2x2",
+    "deviceName": "MC100EL1648",
+    "manufacturer": "ON",
+    "data": "Voltage controlled oscillator amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc100el1648_on.pdf"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "SD",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B16",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "SD",
+    "package": "SOT-89",
+    "deviceName": "KTC4377",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc4377_tip.pdf"
+  },
+  {
+    "smdCode": "SD",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K371A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "SD",
+    "package": "SOD-123",
+    "deviceName": "SS0520",
+    "manufacturer": "WTE",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ss0520-ss0540_wte.pdf"
+  },
+  {
+    "smdCode": "SDBB",
+    "package": "SOT-25",
+    "deviceName": "LM3670MF-1.6",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3670_rf_ti.pdf"
+  },
+  {
+    "smdCode": "SDCB",
+    "package": "SOT-25",
+    "deviceName": "LM3670MF-1.8",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3670_rf_ti.pdf"
+  },
+  {
+    "smdCode": "SDEB",
+    "package": "SOT-25",
+    "deviceName": "LM3670MF-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3670_rf_ti.pdf"
+  },
+  {
+    "smdCode": "SDFB",
+    "package": "SOT-25",
+    "deviceName": "LM3670MF-ADJ",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3670_rf_ti.pdf"
+  },
+  {
+    "smdCode": "SDO",
+    "package": "SOT-25",
+    "deviceName": "TLV70012QDDCRQ1",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv70018-q1%2C_tlv70012-q1_rb_ti.pdf"
+  },
+  {
+    "smdCode": "SDRB",
+    "package": "SOT-25",
+    "deviceName": "LM3671MF-1.25",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "SDUB",
+    "package": "SOT-25",
+    "deviceName": "LM3671MF-1.6",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "SDVB",
+    "package": "SOT-25",
+    "deviceName": "LM3671MF-1.875",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  }
+]

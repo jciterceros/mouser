@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "RF",
+    "package": "SOT-89",
+    "deviceName": "2SC3357",
+    "manufacturer": "NEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3357_nec.pdf"
+  },
+  {
+    "smdCode": "RF",
+    "package": "SOT-89",
+    "deviceName": "2SC3357",
+    "manufacturer": "Kexin",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3357_kexin.pdf"
+  },
+  {
+    "smdCode": "RF",
+    "package": "SOT-89",
+    "deviceName": "2SC3357",
+    "manufacturer": "Renesas",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3357_renesas.pdf"
+  },
+  {
+    "smdCode": "RF",
+    "package": "SOD-323",
+    "deviceName": "PZU5.6BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RF",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K171A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RF***",
+    "package": "SOT-26",
+    "deviceName": "TS19702CX6",
+    "manufacturer": "TS",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts19702_ra12_ts.pdf"
+  },
+  {
+    "smdCode": "RF-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B56",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RFQ",
+    "package": "SOT-23",
+    "deviceName": "SST6839",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst6839_rohm.pdf"
+  },
+  {
+    "smdCode": "RFW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B56",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RFp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B56",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RFs",
+    "package": "SOT-23",
+    "deviceName": "BFR181",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr181_infineon.pdf"
+  },
+  {
+    "smdCode": "RFs",
+    "package": "SOT-416",
+    "deviceName": "BFR181T",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr181t_infineon.pdf"
+  },
+  {
+    "smdCode": "RFs",
+    "package": "SOT-323",
+    "deviceName": "BFR181W",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr181w_infineon.pdf"
+  },
+  {
+    "smdCode": "RFs",
+    "package": "SOT-363",
+    "deviceName": "BFS481",
+    "manufacturer": "Infineon",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs481_infineon.pdf"
+  },
+  {
+    "smdCode": "RFt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B56",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Rf",
+    "package": "SOT-25",
+    "deviceName": "BD53E48G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

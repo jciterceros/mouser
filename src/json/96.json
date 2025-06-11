@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "96",
+    "package": "SOT-23",
+    "deviceName": "DTC144TCA",
+    "manufacturer": "TIP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144tca%2C_dtc144te%2C_dtc144tka%2C_dtc144tm%2C_dtc144tsa%2C_dtc144tua_tip.pdf"
+  },
+  {
+    "smdCode": "96",
+    "package": "SOT-523",
+    "deviceName": "DTC144TE",
+    "manufacturer": "TIP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144tca%2C_dtc144te%2C_dtc144tka%2C_dtc144tm%2C_dtc144tsa%2C_dtc144tua_tip.pdf"
+  },
+  {
+    "smdCode": "96",
+    "package": "SOT-23",
+    "deviceName": "DTC144TKA",
+    "manufacturer": "TIP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144tca%2C_dtc144te%2C_dtc144tka%2C_dtc144tm%2C_dtc144tsa%2C_dtc144tua_tip.pdf"
+  },
+  {
+    "smdCode": "96",
+    "package": "SOT-523",
+    "deviceName": "DTC144TM",
+    "manufacturer": "TIP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144tca%2C_dtc144te%2C_dtc144tka%2C_dtc144tm%2C_dtc144tsa%2C_dtc144tua_tip.pdf"
+  },
+  {
+    "smdCode": "96",
+    "package": "SOT-323",
+    "deviceName": "DTC144TUA",
+    "manufacturer": "TIP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144tca%2C_dtc144te%2C_dtc144tka%2C_dtc144tm%2C_dtc144tsa%2C_dtc144tua_tip.pdf"
+  },
+  {
+    "smdCode": "961Ax",
+    "package": "SOT-26",
+    "deviceName": "G9661-25ADJTP",
+    "manufacturer": "GMT",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g9661_r0.93_gmt.pdf"
+  },
+  {
+    "smdCode": "9661-25",
+    "package": "SOP-8",
+    "deviceName": "G9661-25ADJF1",
+    "manufacturer": "GMT",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g9661_r0.93_gmt.pdf"
+  },
+  {
+    "smdCode": "9661-25",
+    "package": "MSOP-10",
+    "deviceName": "G9661-25ADJF6",
+    "manufacturer": "GMT",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g9661_r0.93_gmt.pdf"
+  },
+  {
+    "smdCode": "9661A",
+    "package": "TDFN-10 3x3",
+    "deviceName": "G9661-25ADJRE",
+    "manufacturer": "GMT",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g9661_r0.93_gmt.pdf"
+  },
+  {
+    "smdCode": "966TQ1",
+    "package": "WSON-14 3x2",
+    "deviceName": "TPS22966TDPURQ1",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps22966-q1_ra_ti.pdf"
+  }
+]

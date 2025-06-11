@@ -1,0 +1,154 @@
+[
+  {
+    "smdCode": "L3",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "L3",
+    "package": "SOT-223",
+    "deviceName": "LM317DCY",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm317_ti.pdf"
+  },
+  {
+    "smdCode": "L3",
+    "package": "SOT-490",
+    "deviceName": "NZL7V5AXV3T1",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/z/nzl5v6axv3t1%2C_nzl6v8axv3t1%2C_nzl7v5axv3t1_on.pdf"
+  },
+  {
+    "smdCode": "L3",
+    "package": "SOT-23",
+    "deviceName": "SST503",
+    "manufacturer": "Siliconix (Now Vishay)",
+    "data": "Current regulator diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst502-sst511_siliconix.pdf"
+  },
+  {
+    "smdCode": "L3 *",
+    "package": "SOT-723",
+    "deviceName": "mESD6.0DT5G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/e/uesd3.3dt5g%2C_uesd5.0dt5g%2C_uesd6.0dt5g_on.pdf"
+  },
+  {
+    "smdCode": "L3***",
+    "package": "SOT-23",
+    "deviceName": "Si2303BDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2303bds_vishay.pdf"
+  },
+  {
+    "smdCode": "L3-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819E-25PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "L30",
+    "package": "SOT-23",
+    "deviceName": "BAV23S",
+    "manufacturer": "Fairchild",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav23s_fairchild.pdf"
+  },
+  {
+    "smdCode": "L324",
+    "package": "TSSOP-14",
+    "deviceName": "LM324PW",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm124%2C_lm224%2C_lm324%2C_lm2902_ti.pdf"
+  },
+  {
+    "smdCode": "L324A",
+    "package": "TSSOP-14",
+    "deviceName": "LM324APW",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm124%2C_lm224%2C_lm324%2C_lm2902_ti.pdf"
+  },
+  {
+    "smdCode": "L324K",
+    "package": "TSSOP-14",
+    "deviceName": "LM324KPW",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm124%2C_lm224%2C_lm324%2C_lm2902_ti.pdf"
+  },
+  {
+    "smdCode": "L324KA",
+    "package": "TSSOP-14",
+    "deviceName": "LM324KAPW",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm124%2C_lm224%2C_lm324%2C_lm2902_ti.pdf"
+  },
+  {
+    "smdCode": "L3533",
+    "package": "TDFN-14 2x3",
+    "deviceName": "APL3533QB",
+    "manufacturer": "Anpec",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl3533_ra.2_anpec.pdf"
+  },
+  {
+    "smdCode": "L358",
+    "package": "SO-8",
+    "deviceName": "LM358PSR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "L358",
+    "package": "TSSOP-8",
+    "deviceName": "LM358PW",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "L358A",
+    "package": "TSSOP-8",
+    "deviceName": "LM358APW",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "L37A",
+    "package": "SOT-25",
+    "deviceName": "LP2980AIM5-4.7",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2980-n_ti.pdf"
+  },
+  {
+    "smdCode": "L37B",
+    "package": "SOT-25",
+    "deviceName": "LP2980IM5-4.7",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2980-n_ti.pdf"
+  },
+  {
+    "smdCode": "L3B",
+    "package": "SOT-26",
+    "deviceName": "ADP3330ART-2.85",
+    "manufacturer": "Analog Devices",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adp3330_analog.pdf"
+  }
+]

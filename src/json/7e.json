@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "7E",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2519",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "7E**",
+    "package": "SOT-23",
+    "deviceName": "2N7002E",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002e_vishay.pdf"
+  },
+  {
+    "smdCode": "7E-",
+    "package": "SOT-23",
+    "deviceName": "MMBTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta92_nxp.pdf"
+  },
+  {
+    "smdCode": "7EW",
+    "package": "SOT-23",
+    "deviceName": "MMBTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta92_nxp.pdf"
+  },
+  {
+    "smdCode": "7Ep",
+    "package": "SOT-23",
+    "deviceName": "MMBTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta92_nxp.pdf"
+  },
+  {
+    "smdCode": "7Et",
+    "package": "SOT-23",
+    "deviceName": "MMBTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta92_nxp.pdf"
+  }
+]

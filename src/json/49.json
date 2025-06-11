@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "49",
+    "package": "SOT-490",
+    "deviceName": "PDTC115EEF",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "49 ***",
+    "package": "SOT-26",
+    "deviceName": "XN1049TP",
+    "manufacturer": "Innuovo",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/n/xn1049_innuovo.pdf"
+  },
+  {
+    "smdCode": "491",
+    "package": "SOT-23",
+    "deviceName": "FMMT491",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt491_galaxy.pdf"
+  },
+  {
+    "smdCode": "4914",
+    "package": "SO-8",
+    "deviceName": "AO4914",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao4914_r11_ao.pdf"
+  },
+  {
+    "smdCode": "4914",
+    "package": "SO-8",
+    "deviceName": "Si4914DY",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si4914dy_rc_vishay.pdf"
+  },
+  {
+    "smdCode": "4940",
+    "package": "SO-8",
+    "deviceName": "SQ4940EY",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/q/sq4940ey_vishay.pdf"
+  },
+  {
+    "smdCode": "4955N",
+    "package": "SO-8 FL",
+    "deviceName": "NTMFS4955NT1G",
+    "manufacturer": "ON",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/t/ntmfs4955n_r7_on.pdf"
+  },
+  {
+    "smdCode": "4988ET",
+    "package": "QFN-28 5x5",
+    "deviceName": "A4988SETTR-T",
+    "manufacturer": "Allegro",
+    "data": "Motor driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/4/a4988_r5_allegro.pdf"
+  },
+  {
+    "smdCode": "49T",
+    "package": "SOT-23",
+    "deviceName": "TK71549AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

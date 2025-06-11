@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "30",
+    "package": "SOT-26",
+    "deviceName": "BCR320U",
+    "manufacturer": "Infineon",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr320u%2C_bcr321u_infineon.pdf"
+  },
+  {
+    "smdCode": "30",
+    "package": "SOT-23",
+    "deviceName": "ZD30-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "30",
+    "package": "SOD-323",
+    "deviceName": "ZD30-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "30***",
+    "package": "SOT-26",
+    "deviceName": "SF1530LGT",
+    "manufacturer": "SiFirst",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/f/sf1530_sifirst.pdf"
+  },
+  {
+    "smdCode": "3003",
+    "package": "SOT-26",
+    "deviceName": "ZXGD3006E6TA",
+    "manufacturer": "Diodes",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxgd3006e6_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "301",
+    "package": "SOT-26",
+    "deviceName": "FDC6301N",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdc6301n_fairchild.pdf"
+  },
+  {
+    "smdCode": "301",
+    "package": "SOT-23",
+    "deviceName": "FDV301N",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdv301n_fairchild.pdf"
+  },
+  {
+    "smdCode": "305",
+    "package": "SOT-26",
+    "deviceName": "FDC6305N",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdc6305n_rc_fairchild.pdf"
+  },
+  {
+    "smdCode": "305",
+    "package": "SOT-23",
+    "deviceName": "FDV305N",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdv305n_rd_fairchild.pdf"
+  },
+  {
+    "smdCode": "305*",
+    "package": "SOT-143",
+    "deviceName": "AT-30511",
+    "manufacturer": "Avago",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at-30511%2C_at-30533_avago.pdf"
+  },
+  {
+    "smdCode": "305*",
+    "package": "SOT-23",
+    "deviceName": "AT-30533",
+    "manufacturer": "Avago",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at-30511%2C_at-30533_avago.pdf"
+  },
+  {
+    "smdCode": "3055L",
+    "package": "SOT-223",
+    "deviceName": "NTF3055L108",
+    "manufacturer": "ON",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/t/ntf3055l108_on.pdf"
+  },
+  {
+    "smdCode": "3064",
+    "package": "SO-8",
+    "deviceName": "NCP3064DR2G",
+    "manufacturer": "ON",
+    "data": "Step-Up/Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp3064%2C_ncp3064b%2C_ncv3064_r8_on.pdf"
+  },
+  {
+    "smdCode": "3064B",
+    "package": "SO-8",
+    "deviceName": "NCP3064BDR2G",
+    "manufacturer": "ON",
+    "data": "Step-Up/Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp3064%2C_ncp3064b%2C_ncv3064_r8_on.pdf"
+  },
+  {
+    "smdCode": "30A",
+    "package": "SMB",
+    "deviceName": "1.5SMC30AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "30T",
+    "package": "SOT-23",
+    "deviceName": "TK71530AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "30Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C30",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  }
+]

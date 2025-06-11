@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "HE",
+    "package": "SOT-353",
+    "deviceName": "74HC1G08GW",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74hc1g08%2C_74hct1g08_r04_nxp.pdf"
+  },
+  {
+    "smdCode": "HE",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C24",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "HE",
+    "package": "UMLP-10 1,4x1,8",
+    "deviceName": "FSUSB42UMX",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "USB Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsusb42_r1.25_fairchild.pdf"
+  },
+  {
+    "smdCode": "HE",
+    "package": "SOD-323F",
+    "deviceName": "PZU9.1B2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "HE",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q341B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "HE*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9013-12GQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "HE-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-29PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "He",
+    "package": "SOT-23",
+    "deviceName": "BD48L49G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

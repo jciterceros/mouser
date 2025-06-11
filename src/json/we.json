@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "WE",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C8V2",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WE",
+    "package": "SOD-123",
+    "deviceName": "BZT52C9V1",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "WE",
+    "package": "SOT-23",
+    "deviceName": "BZX84C8V2",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "WE",
+    "package": "SOT-23",
+    "deviceName": "BZX84C8V2-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WE",
+    "package": "SOD-323",
+    "deviceName": "PZU11BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WE",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K381D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "WE",
+    "package": "SMA",
+    "deviceName": "SMAJ5.0CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "WE***",
+    "package": "SOT-23",
+    "deviceName": "AX5505R22",
+    "manufacturer": "Axelite",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax5505_r1.1_axelite.pdf"
+  },
+  {
+    "smdCode": "WE-***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-12PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "WE1",
+    "package": "SOT-323",
+    "deviceName": "BFS17W",
+    "manufacturer": "Vishay",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs17%2C_bfs17r%2C_bfs17w_vishay.pdf"
+  },
+  {
+    "smdCode": "WE=***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-12GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "WEs",
+    "package": "SOT-23",
+    "deviceName": "BCR148",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr148_infineon.pdf"
+  },
+  {
+    "smdCode": "WEs",
+    "package": "SOT-363",
+    "deviceName": "BCR148S",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr148s_infineon.pdf"
+  },
+  {
+    "smdCode": "WEs",
+    "package": "SOT-416",
+    "deviceName": "BCR148T",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr148t_infineon.pdf"
+  },
+  {
+    "smdCode": "WEs",
+    "package": "SOT-26",
+    "deviceName": "BCR148U",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr148u_infineon.pdf"
+  },
+  {
+    "smdCode": "WEs",
+    "package": "SOT-323",
+    "deviceName": "BCR148W",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr148w_infineon.pdf"
+  },
+  {
+    "smdCode": "We***",
+    "package": "SOT-23",
+    "deviceName": "AX5505R46",
+    "manufacturer": "Axelite",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax5505_r1.1_axelite.pdf"
+  }
+]

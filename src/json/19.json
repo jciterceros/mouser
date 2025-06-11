@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "19",
+    "package": "SOT-416",
+    "deviceName": "DTA115EE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115ee%2C_dta115eka%2C_dta115em%2C_dta115esa%2C_dta115eua_rohm.pdf"
+  },
+  {
+    "smdCode": "19",
+    "package": "SOT-490",
+    "deviceName": "DTA115EEB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115eeb_rohm.pdf"
+  },
+  {
+    "smdCode": "19",
+    "package": "SOT-346",
+    "deviceName": "DTA115EKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115ee%2C_dta115eka%2C_dta115em%2C_dta115esa%2C_dta115eua_rohm.pdf"
+  },
+  {
+    "smdCode": "19",
+    "package": "VMT3",
+    "deviceName": "DTA115EM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115ee%2C_dta115eka%2C_dta115em%2C_dta115esa%2C_dta115eua_rohm.pdf"
+  },
+  {
+    "smdCode": "19",
+    "package": "SOT-323",
+    "deviceName": "DTA115EUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115ee%2C_dta115eka%2C_dta115em%2C_dta115esa%2C_dta115eua_rohm.pdf"
+  },
+  {
+    "smdCode": "196N10NS",
+    "package": "TDSON-8",
+    "deviceName": "BSC196N10NS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc196n10nsg_infineon.pdf"
+  },
+  {
+    "smdCode": "19T",
+    "package": "SOT-23",
+    "deviceName": "TK71519AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "E7",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "E7",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B11",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "E7",
+    "package": "SOT-346",
+    "deviceName": "PDTD123YK",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtd123yk%2C_pdtd123ys%2C_pdtd123yt_nxp.pdf"
+  },
+  {
+    "smdCode": "E7*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-GLPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "E7***",
+    "package": "SOT-23",
+    "deviceName": "Si2337DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2337ds_vishay.pdf"
+  }
+]

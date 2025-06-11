@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "02",
+    "package": "SOT-23",
+    "deviceName": "MTN2302N3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtn2302n3_cystek.pdf"
+  },
+  {
+    "smdCode": "02",
+    "package": "SOT-416",
+    "deviceName": "PDTC143EE",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143ee_philips.pdf"
+  },
+  {
+    "smdCode": "02**",
+    "package": "SOT-26",
+    "deviceName": "STC6602",
+    "manufacturer": "Stanson",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stc6602_stanson.pdf"
+  },
+  {
+    "smdCode": "020N03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC020N03LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc020n03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "020N03MS",
+    "package": "TDSON-8",
+    "deviceName": "BSC020N03MS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc020n03msg_infineon.pdf"
+  },
+  {
+    "smdCode": "024",
+    "package": "10MLP",
+    "deviceName": "FAN7024MP",
+    "manufacturer": "Fairchild",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/a/fan7024_fairchild.pdf"
+  },
+  {
+    "smdCode": "024",
+    "package": "MSOP-8",
+    "deviceName": "FAN7024MU",
+    "manufacturer": "Fairchild",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/a/fan7024_fairchild.pdf"
+  },
+  {
+    "smdCode": "025N03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC025N03LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc025n03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "025N03MS",
+    "package": "TDSON-8",
+    "deviceName": "BSC025N03MS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc025n03msg_infineon.pdf"
+  },
+  {
+    "smdCode": "026",
+    "package": "SOT-23",
+    "deviceName": "ZXTP25140BFH",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxtp25140bfh_zetex.pdf"
+  },
+  {
+    "smdCode": "027N04LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC027N04LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc027n04lsg_infineon.pdf"
+  }
+]

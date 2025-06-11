@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "82",
+    "package": "SOD-323",
+    "deviceName": "UDZS4.3B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "8205G",
+    "package": "SOT-26",
+    "deviceName": "UT8205AG-AG6-R",
+    "manufacturer": "UTC",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/t/ut8205a_20160111_utc.pdf"
+  },
+  {
+    "smdCode": "8212",
+    "package": "MSOP-8",
+    "deviceName": "Si9182DH-12-T1",
+    "manufacturer": "Vishay",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9182_vishay.pdf"
+  },
+  {
+    "smdCode": "8215",
+    "package": "MSOP-8",
+    "deviceName": "Si9182DH-15-T1",
+    "manufacturer": "Vishay",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9182_vishay.pdf"
+  },
+  {
+    "smdCode": "8218",
+    "package": "MSOP-8",
+    "deviceName": "Si9182DH-18-T1",
+    "manufacturer": "Vishay",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9182_vishay.pdf"
+  },
+  {
+    "smdCode": "8225",
+    "package": "MSOP-8",
+    "deviceName": "Si9182DH-25-T1",
+    "manufacturer": "Vishay",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9182_vishay.pdf"
+  },
+  {
+    "smdCode": "8228",
+    "package": "MSOP-8",
+    "deviceName": "Si9182DH-28-T1",
+    "manufacturer": "Vishay",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9182_vishay.pdf"
+  },
+  {
+    "smdCode": "8229",
+    "package": "MSOP-8",
+    "deviceName": "Si9182DH-29-T1",
+    "manufacturer": "Vishay",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9182_vishay.pdf"
+  },
+  {
+    "smdCode": "8230",
+    "package": "MSOP-8",
+    "deviceName": "Si9182DH-30-T1",
+    "manufacturer": "Vishay",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9182_vishay.pdf"
+  },
+  {
+    "smdCode": "8233",
+    "package": "MSOP-8",
+    "deviceName": "Si9182DH-33-T1",
+    "manufacturer": "Vishay",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9182_vishay.pdf"
+  },
+  {
+    "smdCode": "8250",
+    "package": "MSOP-8",
+    "deviceName": "Si9182DH-50-T1",
+    "manufacturer": "Vishay",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9182_vishay.pdf"
+  },
+  {
+    "smdCode": "82A",
+    "package": "SMB",
+    "deviceName": "1.5SMC82AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "82AD",
+    "package": "MSOP-8",
+    "deviceName": "Si9182DH-AD-T1",
+    "manufacturer": "Vishay",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9182_vishay.pdf"
+  }
+]

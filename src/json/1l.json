@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "1L",
+    "package": "SOT-89",
+    "deviceName": "2SB1140-R",
+    "manufacturer": "MCC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1140_mcc.pdf"
+  },
+  {
+    "smdCode": "1L",
+    "package": "SOT-89",
+    "deviceName": "2SB1140-S",
+    "manufacturer": "MCC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1140_mcc.pdf"
+  },
+  {
+    "smdCode": "1L",
+    "package": "SOT-89",
+    "deviceName": "2SB1440",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1440_galaxy.pdf"
+  },
+  {
+    "smdCode": "1L",
+    "package": "SOT-23",
+    "deviceName": "BC848C",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc846-bc849_general.pdf"
+  },
+  {
+    "smdCode": "1L",
+    "package": "SOT-23",
+    "deviceName": "FMMT4401",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt4400%2C_fmmt4401_zetex.pdf"
+  },
+  {
+    "smdCode": "1L-",
+    "package": "SOT-143B",
+    "deviceName": "BCV61C",
+    "manufacturer": "NXP",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv61_r04_nxp.pdf"
+  },
+  {
+    "smdCode": "1L=***",
+    "package": "SOT-25",
+    "deviceName": "RT9715DGBG",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "1LW",
+    "package": "SOT-143B",
+    "deviceName": "BCV61C",
+    "manufacturer": "NXP",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv61_r04_nxp.pdf"
+  },
+  {
+    "smdCode": "1Lp",
+    "package": "SOT-143B",
+    "deviceName": "BCV61C",
+    "manufacturer": "NXP",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv61_r04_nxp.pdf"
+  },
+  {
+    "smdCode": "1Ls",
+    "package": "SOT-23",
+    "deviceName": "BC848C",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "1Ls",
+    "package": "SOT-323",
+    "deviceName": "BC848CW",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "1Ls",
+    "package": "SOT-143",
+    "deviceName": "BCV61C",
+    "manufacturer": "Infineon",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv61_infineon.pdf"
+  },
+  {
+    "smdCode": "1Lt",
+    "package": "SOT-143B",
+    "deviceName": "BCV61C",
+    "manufacturer": "NXP",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv61_r04_nxp.pdf"
+  }
+]

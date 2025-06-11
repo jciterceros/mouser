@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "AV",
+    "package": "SOT-323",
+    "deviceName": "MIC803-30D2VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AV",
+    "package": "SOT-23",
+    "deviceName": "MIC803-30D2VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AV",
+    "package": "SMA",
+    "deviceName": "SMAJ9.0A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "AV",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ9.0A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "AV",
+    "package": "SMB",
+    "deviceName": "SMBJ9.0CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "AV*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-KSGQWC",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AV*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-PMPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AV-",
+    "package": "SOT-89",
+    "deviceName": "RT9261-50PX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "AV-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-15PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AV-***",
+    "package": "SOT-26",
+    "deviceName": "RT9284A-15PJ6E",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "AV5A",
+    "package": "MSOP-8",
+    "deviceName": "LMP2022MM",
+    "manufacturer": "National",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmp2021%2C_lmp2022_national.pdf"
+  },
+  {
+    "smdCode": "AV73-15",
+    "package": "SO-8",
+    "deviceName": "AV9173-15CS08",
+    "manufacturer": "IDT",
+    "data": "Video Genlock PLL",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/v/av9173%2C_mk9173_idt.pdf"
+  },
+  {
+    "smdCode": "AV=***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-15GU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  }
+]

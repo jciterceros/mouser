@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "ZY",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZY",
+    "package": "SOT-23",
+    "deviceName": "CZMK11",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "ZY",
+    "package": "SOT-323",
+    "deviceName": "KTA2015",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta2015_galaxy.pdf"
+  },
+  {
+    "smdCode": "ZY",
+    "package": "SOT-89",
+    "deviceName": "KTD1898",
+    "manufacturer": "KEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktd1898_kec.pdf"
+  },
+  {
+    "smdCode": "ZY",
+    "package": "SOT-89",
+    "deviceName": "KTD1898",
+    "manufacturer": "Weitron",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktd1898_weitron.pdf"
+  },
+  {
+    "smdCode": "ZY",
+    "package": "SOT-89",
+    "deviceName": "KTD1898-Y",
+    "manufacturer": "Secos",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktd1898_secos.pdf"
+  },
+  {
+    "smdCode": "ZY",
+    "package": "SOT-23",
+    "deviceName": "TZT11CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "ZY-",
+    "package": "SOT-23",
+    "deviceName": "2SK3000",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk3000_renesas.pdf"
+  },
+  {
+    "smdCode": "ZY-***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-16PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "smdCode": "57",
+    "package": "SOT-323",
+    "deviceName": "FSD273TA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Varactor Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsd273ta%2C_zmdc953ta%2C_zv950v2ta%2C_zv952v2ta%2C_zv953v2ta_zetex.pdf"
+  },
+  {
+    "smdCode": "57",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z4V7",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "57",
+    "package": "SOT-346",
+    "deviceName": "PDTC323TK",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc323tk_nxp.pdf"
+  },
+  {
+    "smdCode": "57-",
+    "package": "SOT-23",
+    "deviceName": "BSR19A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr19%2C_bsr19a_philips.pdf"
+  },
+  {
+    "smdCode": "5754",
+    "package": "SOT-25",
+    "deviceName": "EMC5754-00VF05GRR",
+    "manufacturer": "ESMT",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emc5754_r3.5_esmt.pdf"
+  },
+  {
+    "smdCode": "5754",
+    "package": "SOT-25",
+    "deviceName": "EMC5754-4DVF05GRR",
+    "manufacturer": "ESMT",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emc5754_r3.5_esmt.pdf"
+  },
+  {
+    "smdCode": "57EA*",
+    "package": "SOT-26",
+    "deviceName": "G547E1TB1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "57EB*",
+    "package": "SOT-26",
+    "deviceName": "G547E2TB1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "57FA*",
+    "package": "SOT-26",
+    "deviceName": "G547F1TB1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "57FB*",
+    "package": "SOT-26",
+    "deviceName": "G547F2TB1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "57GA*",
+    "package": "SOT-26",
+    "deviceName": "G547G1TB1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "57GB*",
+    "package": "SOT-26",
+    "deviceName": "G547G2TB1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "57HA*",
+    "package": "SOT-26",
+    "deviceName": "G547H1TB1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "57HB*",
+    "package": "SOT-26",
+    "deviceName": "G547H2TB1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "57MA*",
+    "package": "SOT-26",
+    "deviceName": "G547M1TB1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "57MB*",
+    "package": "SOT-26",
+    "deviceName": "G547M2TB1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "57W",
+    "package": "SOT-23",
+    "deviceName": "BSR19A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr19%2C_bsr19a_philips.pdf"
+  },
+  {
+    "smdCode": "57p",
+    "package": "SOT-23",
+    "deviceName": "BSR19A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr19%2C_bsr19a_philips.pdf"
+  },
+  {
+    "smdCode": "57s",
+    "package": "SOT-143",
+    "deviceName": "BAT17-07",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat17_series_infineon.pdf"
+  },
+  {
+    "smdCode": "57t",
+    "package": "SOT-23",
+    "deviceName": "BSR19A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr19%2C_bsr19a_philips.pdf"
+  }
+]

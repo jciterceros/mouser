@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "RL",
+    "package": "SOD-323",
+    "deviceName": "PZU6.2BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RL",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K211A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  }
+]

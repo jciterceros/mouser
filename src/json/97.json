@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "97-",
+    "package": "SOT-143B",
+    "deviceName": "BCV65",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv65_philips.pdf"
+  },
+  {
+    "smdCode": "97374M",
+    "package": "SON-18 3,5x4,5",
+    "deviceName": "CSD97374Q4M",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/s/csd97374q4m_rc_ti.pdf"
+  },
+  {
+    "smdCode": "97374M",
+    "package": "SON-18 3,5x4,5",
+    "deviceName": "FX021",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/s/csd97374q4m_rc_ti.pdf"
+  },
+  {
+    "smdCode": "97K**",
+    "package": "SOT-26",
+    "deviceName": "AF1937KS26RG",
+    "manufacturer": "Alpha-MOS",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/f/af1937k_ra_alpha-mos.pdf"
+  },
+  {
+    "smdCode": "97W",
+    "package": "SOT-143B",
+    "deviceName": "BCV65",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv65_philips.pdf"
+  },
+  {
+    "smdCode": "97p",
+    "package": "SOT-143B",
+    "deviceName": "BCV65",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv65_philips.pdf"
+  },
+  {
+    "smdCode": "97t",
+    "package": "SOT-143B",
+    "deviceName": "BCV65",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv65_philips.pdf"
+  }
+]

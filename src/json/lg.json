@@ -1,0 +1,250 @@
+[
+  {
+    "smdCode": "LG",
+    "package": "SMB",
+    "deviceName": "1SMB13AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "LG",
+    "package": "SOT-23",
+    "deviceName": "2SC3052",
+    "manufacturer": "GME",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3052_ra_gme.pdf"
+  },
+  {
+    "smdCode": "LG",
+    "package": "SOT-343R",
+    "deviceName": "NCP4586DSQ18T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp4586_r5_on.pdf"
+  },
+  {
+    "smdCode": "LG",
+    "package": "SOD-323",
+    "deviceName": "PZU5.6B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "LG",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q181D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "LG",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ13A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "LG",
+    "package": "SMB",
+    "deviceName": "SMBJ13A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "LG*",
+    "package": "QFN-6 2x2",
+    "deviceName": "NCP500SQL28T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LG-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-28PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "LG25",
+    "package": "SOT-25",
+    "deviceName": "MIC5219-2.5BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LG26",
+    "package": "SOT-25",
+    "deviceName": "MIC5219-2.6BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LG27",
+    "package": "SOT-25",
+    "deviceName": "MIC5219-2.7BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LG28",
+    "package": "SOT-25",
+    "deviceName": "MIC5219-2.8BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LG29",
+    "package": "SOT-25",
+    "deviceName": "MIC5219-2.9BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LG2J",
+    "package": "SOT-25",
+    "deviceName": "MIC5219-2.85BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LG30",
+    "package": "SOT-25",
+    "deviceName": "MIC5219-3.0BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LG31",
+    "package": "SOT-25",
+    "deviceName": "MIC5219-3.1BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LG33",
+    "package": "SOT-25",
+    "deviceName": "MIC5219-3.3BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LG36",
+    "package": "SOT-25",
+    "deviceName": "MIC5219-3.6BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LG50",
+    "package": "SOT-25",
+    "deviceName": "MIC5219-5.0BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LGA***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN18T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  },
+  {
+    "smdCode": "LGAA",
+    "package": "SOT-25",
+    "deviceName": "MIC5219BM5",
+    "manufacturer": "Micrel",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5219_200907_micrel.pdf"
+  },
+  {
+    "smdCode": "LGB***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN25T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  },
+  {
+    "smdCode": "LGC***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN27T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  },
+  {
+    "smdCode": "LGD***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN28T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  },
+  {
+    "smdCode": "LGE***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN30T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  },
+  {
+    "smdCode": "LGF***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN50T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  },
+  {
+    "smdCode": "LGG***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN33T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  },
+  {
+    "smdCode": "LGJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB20A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LGP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB20A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "LGR",
+    "package": "SOT-23",
+    "deviceName": "KTC4075",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc4075_galaxy.pdf"
+  }
+]

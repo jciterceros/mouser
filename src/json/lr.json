@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "LR",
+    "package": "SMB",
+    "deviceName": "1SMB17AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "LR",
+    "package": "SOT-353",
+    "deviceName": "NL17SZ16DFT2",
+    "manufacturer": "ON",
+    "data": "Single Input Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/l/nl17sz16_on.pdf"
+  },
+  {
+    "smdCode": "LR",
+    "package": "SOT-553",
+    "deviceName": "NL17SZ16XV5T2",
+    "manufacturer": "ON",
+    "data": "Single Input Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/l/nl17sz16_on.pdf"
+  },
+  {
+    "smdCode": "LR",
+    "package": "SOD-323",
+    "deviceName": "PZU6.8BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "LR",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ17A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "LR",
+    "package": "SMB",
+    "deviceName": "SMBJ17A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "LR-",
+    "package": "SOT-89",
+    "deviceName": "RT9818C-27PX",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "LR-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-13PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "LR1G",
+    "package": "SOT-25",
+    "deviceName": "LP2985A-50DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985_ro_ti.pdf"
+  },
+  {
+    "smdCode": "LR1L",
+    "package": "SOT-25",
+    "deviceName": "LP2985A-50DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985_ro_ti.pdf"
+  },
+  {
+    "smdCode": "LRAG",
+    "package": "SOT-25",
+    "deviceName": "LP2985A-30DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985_ro_ti.pdf"
+  },
+  {
+    "smdCode": "LRAL",
+    "package": "SOT-25",
+    "deviceName": "LP2985A-30DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985_ro_ti.pdf"
+  },
+  {
+    "smdCode": "LRCG",
+    "package": "SOT-25",
+    "deviceName": "LP2985-10DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985_ro_ti.pdf"
+  },
+  {
+    "smdCode": "LRDG",
+    "package": "SOT-25",
+    "deviceName": "LP2985A-10DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985_ro_ti.pdf"
+  },
+  {
+    "smdCode": "LRJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB30A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LRP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB30A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "LRs",
+    "package": "SOT-23",
+    "deviceName": "BF517",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf517_infineon.pdf"
+  },
+  {
+    "smdCode": "Lr",
+    "package": "SOT-25",
+    "deviceName": "BD52E23G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "Q1",
+    "package": "SOT-25",
+    "deviceName": "SP6641BEK-5.0",
+    "manufacturer": "Sipex",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6641a%2C_sp6641b_sipex.pdf"
+  },
+  {
+    "smdCode": "Q1766",
+    "package": "SOT-89",
+    "deviceName": "2SC1766",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1766_galaxy.pdf"
+  }
+]

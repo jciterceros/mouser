@@ -1,0 +1,154 @@
+[
+  {
+    "smdCode": "H4",
+    "package": "SOT-23",
+    "deviceName": "BCW69R",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw69%2C_bcw69r%2C_bcw70%2C_bcw70r_zetex.pdf"
+  },
+  {
+    "smdCode": "H4",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "H4",
+    "package": "EMT6",
+    "deviceName": "EMH4",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh4%2C_imh4a%2C_umh4n_rohm.pdf"
+  },
+  {
+    "smdCode": "H4",
+    "package": "SOT-26",
+    "deviceName": "IMH4A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh4%2C_imh4a%2C_umh4n_rohm.pdf"
+  },
+  {
+    "smdCode": "H4",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5244",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "H4",
+    "package": "SOD-323F",
+    "deviceName": "PZU3.6B2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "H4",
+    "package": "SOT-23",
+    "deviceName": "SST5484",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5484%2C_2n5485%2C_2n5486%2C_sst5484%2C_sst5485%2C_sst5486_vishay.pdf"
+  },
+  {
+    "smdCode": "H4",
+    "package": "SOT-363",
+    "deviceName": "UMH4N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh4%2C_imh4a%2C_umh4n_rohm.pdf"
+  },
+  {
+    "smdCode": "H4*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9013-30GQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "H4**",
+    "package": "SOT-25",
+    "deviceName": "TC1189-QECT",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1188%2C_tc1189_20121026_microchip.pdf"
+  },
+  {
+    "smdCode": "H4033",
+    "package": "SOT-89",
+    "deviceName": "HM4033",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/m/hm4033_galaxy.pdf"
+  },
+  {
+    "smdCode": "H40B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D401B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H40D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D401D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H414",
+    "package": "SO-8",
+    "deviceName": "HMC414MS8G",
+    "manufacturer": "Hittite Microwave",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/m/hmc414ms8g%2C_hmc414ms8ge_hittite.pdf"
+  },
+  {
+    "smdCode": "H41B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D181B5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H41D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D181D5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H41E**",
+    "package": "SOT-563",
+    "deviceName": "R1162D281E5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H42B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D281B5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H42D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D281D5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "I333",
+    "package": "MSOP-8",
+    "deviceName": "INA333",
+    "manufacturer": "Texas Instruments",
+    "data": "Rail-to-Rail Out Instrumentation Amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/n/ina333_ti.pdf"
+  },
+  {
+    "smdCode": "I333A",
+    "package": "DFN-8 3x3",
+    "deviceName": "INA333",
+    "manufacturer": "Texas Instruments",
+    "data": "Rail-to-Rail Out Instrumentation Amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/n/ina333_ti.pdf"
+  }
+]

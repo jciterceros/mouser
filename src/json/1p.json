@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "1P",
+    "package": "SOD-323",
+    "deviceName": "CMDZ18L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "1P",
+    "package": "SOT-23",
+    "deviceName": "FMMT2222A",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt2222%2C_fmmt2222a%2C_fmmt2222ar%2C_fmmt2222r_zetex.pdf"
+  },
+  {
+    "smdCode": "1P",
+    "package": "SOT-23",
+    "deviceName": "KST2222A",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst2222a_fairchild.pdf"
+  },
+  {
+    "smdCode": "1P",
+    "package": "SOT-23",
+    "deviceName": "MMBT2222A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222a_galaxy.pdf"
+  },
+  {
+    "smdCode": "1P",
+    "package": "SOT-23",
+    "deviceName": "MMBT2222A",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222a%2C_pzt2222a_r1.1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "1P",
+    "package": "SOT-523",
+    "deviceName": "MMBT2222AT",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222at_galaxy.pdf"
+  }
+]

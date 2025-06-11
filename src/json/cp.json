@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "CP",
+    "package": "SOT-23",
+    "deviceName": "2SC2411",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2411_galaxy.pdf"
+  },
+  {
+    "smdCode": "CP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ2L7",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "CP",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4687-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "CP",
+    "package": "SMA",
+    "deviceName": "SMAJ36A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "CP",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ36A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "CP",
+    "package": "SMB",
+    "deviceName": "SMBJ36CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "CP**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US49D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CP=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8207GQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8207_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "CP=***",
+    "package": "SOT-353",
+    "deviceName": "RT9013A-28GU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013a_richtek.pdf"
+  },
+  {
+    "smdCode": "Cp",
+    "package": "SOT-25",
+    "deviceName": "BD49E24G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Cp",
+    "package": "SOT-23",
+    "deviceName": "BD49K24G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

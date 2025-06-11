@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "NS",
+    "package": "SOD-323",
+    "deviceName": "PZU4.7BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "NSJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB200",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "smdCode": "V2",
+    "package": "SOT-23",
+    "deviceName": "BFQ67",
+    "manufacturer": "Vishay",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfq67%2C_bfq67r%2C_bfq67w_vishay.pdf"
+  },
+  {
+    "smdCode": "V2",
+    "package": "SOT-23",
+    "deviceName": "DZ23C3V0-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V2",
+    "package": "SOT-23",
+    "deviceName": "TZT3V0CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V2*",
+    "package": "SOT-353",
+    "deviceName": "MC74VHC1G08DFT1G",
+    "manufacturer": "ON",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc74vhc1g08_on.pdf"
+  },
+  {
+    "smdCode": "V2*",
+    "package": "SOT-25",
+    "deviceName": "MC74VHC1G08DTT1G",
+    "manufacturer": "ON",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc74vhc1g08_on.pdf"
+  },
+  {
+    "smdCode": "V2*",
+    "package": "SOT-353",
+    "deviceName": "NLVVHC1G08DFT1G",
+    "manufacturer": "ON",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc74vhc1g08_on.pdf"
+  },
+  {
+    "smdCode": "V2**",
+    "package": "SOT-25",
+    "deviceName": "TC74A2-3.3VCT",
+    "manufacturer": "Microchip",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc74_microchip.pdf"
+  },
+  {
+    "smdCode": "V20",
+    "package": "SOT-23",
+    "deviceName": "DZ23B16-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V20",
+    "package": "SOT-23",
+    "deviceName": "TZT16CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V21",
+    "package": "SOT-23",
+    "deviceName": "DZ23B18-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V21",
+    "package": "SOT-23",
+    "deviceName": "TZT18CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V22",
+    "package": "SOT-23",
+    "deviceName": "DZ23B20-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V22",
+    "package": "SOT-23",
+    "deviceName": "TZT20CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V23",
+    "package": "SOT-23",
+    "deviceName": "DZ23B22-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V23",
+    "package": "SOT-23",
+    "deviceName": "TZT22CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V24",
+    "package": "SOT-23",
+    "deviceName": "DZ23B24-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V24",
+    "package": "SOT-23",
+    "deviceName": "TZT24CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V25",
+    "package": "SOT-23",
+    "deviceName": "DZ23B27-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V25",
+    "package": "SOT-23",
+    "deviceName": "TZT27CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V26",
+    "package": "SOT-765",
+    "deviceName": "74LVC2G126DC",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc2g126_r12_nxp.pdf"
+  },
+  {
+    "smdCode": "V26",
+    "package": "SOT-505",
+    "deviceName": "74LVC2G126DP",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc2g126_r12_nxp.pdf"
+  },
+  {
+    "smdCode": "V26",
+    "package": "SOT-996",
+    "deviceName": "74LVC2G126GD",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc2g126_r12_nxp.pdf"
+  },
+  {
+    "smdCode": "V26",
+    "package": "SOT-902",
+    "deviceName": "74LVC2G126GM",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc2g126_r12_nxp.pdf"
+  },
+  {
+    "smdCode": "V26",
+    "package": "SOT-883",
+    "deviceName": "74LVC2G126GT",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc2g126_r12_nxp.pdf"
+  },
+  {
+    "smdCode": "V26",
+    "package": "SOT-143R",
+    "deviceName": "BFG67/XR",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg67_series_nxp.pdf"
+  },
+  {
+    "smdCode": "V26",
+    "package": "SOT-23",
+    "deviceName": "DZ23B30-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V26",
+    "package": "SOT-23",
+    "deviceName": "TZT30CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V27",
+    "package": "SOT-23",
+    "deviceName": "DZ23B33-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V27",
+    "package": "SOT-23",
+    "deviceName": "TZT33CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V28",
+    "package": "SOT-23",
+    "deviceName": "DZ23B36-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V28",
+    "package": "SOT-23",
+    "deviceName": "TZT36CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V29",
+    "package": "SOT-23",
+    "deviceName": "DZ23B39-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V29",
+    "package": "SOT-23",
+    "deviceName": "TZT39CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  }
+]

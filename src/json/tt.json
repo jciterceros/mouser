@@ -1,0 +1,154 @@
+[
+  {
+    "smdCode": "TT",
+    "package": "SOD-323",
+    "deviceName": "1SV302",
+    "manufacturer": "Kexin",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1sv302_kexin.pdf"
+  },
+  {
+    "smdCode": "TT",
+    "package": "SOT-23",
+    "deviceName": "2SA1036KPT",
+    "manufacturer": "Chenmko",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1036kpt_chenmko.pdf"
+  },
+  {
+    "smdCode": "TT",
+    "package": "SOT-23",
+    "deviceName": "2SC2406",
+    "manufacturer": "Panasonic",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2405%2C_2sc2406_panasonic.pdf"
+  },
+  {
+    "smdCode": "TT",
+    "package": "SOT-323",
+    "deviceName": "2SC3929A",
+    "manufacturer": "Panasonic",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3929%2C_2sc3929a_panasonic.pdf"
+  },
+  {
+    "smdCode": "TT",
+    "package": "SOT-523F",
+    "deviceName": "2SC5437",
+    "manufacturer": "Renesas",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5437_renesas.pdf"
+  },
+  {
+    "smdCode": "TT",
+    "package": "SOT-416",
+    "deviceName": "BAT54TAPT",
+    "manufacturer": "Chenmko",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54tapt_schenmko.pdf"
+  },
+  {
+    "smdCode": "TT",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "TT",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K281B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TT*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B252NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "TTT",
+    "package": "SOT-363",
+    "deviceName": "RT3TTM",
+    "manufacturer": "Isahaya",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt3tttm_isahaya.pdf"
+  },
+  {
+    "smdCode": "tT1",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "tT2",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C27",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "tT3",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "tT4",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "tT5",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C30",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "tT6",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "tT7",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "tT8",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C39",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "tT9",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

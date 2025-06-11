@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "MW",
+    "package": "SOD-323",
+    "deviceName": "PZU5.1BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MWJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB100",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "D*",
+    "package": "TDFN-4 1,2x1,6",
+    "deviceName": "SiP32431DNP3",
+    "manufacturer": "Vishay",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/sip32431_rc_vishay.pdf"
+  }
+]

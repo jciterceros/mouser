@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "14",
+    "package": "VMN3",
+    "deviceName": "DTA114EB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114eb%2C_dta114ee%2C_dta114eka%2C_dta114em%2C_dta114eua_rohm.pdf"
+  },
+  {
+    "smdCode": "14",
+    "package": "SOT-416",
+    "deviceName": "DTA114EE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114eb%2C_dta114ee%2C_dta114eka%2C_dta114em%2C_dta114eua_rohm.pdf"
+  },
+  {
+    "smdCode": "14",
+    "package": "SOT-490",
+    "deviceName": "DTA114EEB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114eeb_rohm.pdf"
+  },
+  {
+    "smdCode": "14",
+    "package": "SOT-346",
+    "deviceName": "DTA114EKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114eb%2C_dta114ee%2C_dta114eka%2C_dta114em%2C_dta114eua_rohm.pdf"
+  },
+  {
+    "smdCode": "14",
+    "package": "VMT3",
+    "deviceName": "DTA114EM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114eb%2C_dta114ee%2C_dta114eka%2C_dta114em%2C_dta114eua_rohm.pdf"
+  },
+  {
+    "smdCode": "14",
+    "package": "SOT-323",
+    "deviceName": "DTA114EUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114eb%2C_dta114ee%2C_dta114eka%2C_dta114em%2C_dta114eua_rohm.pdf"
+  },
+  {
+    "smdCode": "14",
+    "package": "UMT3F",
+    "deviceName": "DTA114EUB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114eub_rohm.pdf"
+  },
+  {
+    "smdCode": "14",
+    "package": "SOT-23",
+    "deviceName": "MMBD1504",
+    "manufacturer": "Fairchild",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1501%2C_mmbd1503%2C_mmbd1504%2C_mmbd1505_fairchild.pdf"
+  },
+  {
+    "smdCode": "14*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT8511AGQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8511a_r05_richtek.pdf"
+  },
+  {
+    "smdCode": "1455B",
+    "package": "SO-8",
+    "deviceName": "MC1455BD",
+    "manufacturer": "ON",
+    "data": "Timer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc1455%2C_mc1455b%2C_ncv1455b_on.pdf"
+  },
+  {
+    "smdCode": "1455V",
+    "package": "SO-8",
+    "deviceName": "MC1455D",
+    "manufacturer": "ON",
+    "data": "Timer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc1455%2C_mc1455b%2C_ncv1455b_on.pdf"
+  },
+  {
+    "smdCode": "1461",
+    "package": "SOT-26",
+    "deviceName": "TRI1461GB05RADJ",
+    "manufacturer": "Fiti",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/r/tri1461_r1.3_fiti.pdf"
+  },
+  {
+    "smdCode": "14W",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA39V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "PP",
+    "package": "SMB",
+    "deviceName": "1SMB160AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "PP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ6L8",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "PP",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ160A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "PP",
+    "package": "SMB",
+    "deviceName": "SMBJ160A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "PP",
+    "package": "SMF",
+    "deviceName": "SMF36A-M",
+    "manufacturer": "Vishay",
+    "data": "ESD Protection Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smf5v0a-m-smf51a-m_vishay.pdf"
+  },
+  {
+    "smdCode": "PP-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C56",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PPW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C56",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PPp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C56",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PPs",
+    "package": "SOT-23",
+    "deviceName": "BAR64-04",
+    "manufacturer": "Infineon",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar64_series_infineon.pdf"
+  },
+  {
+    "smdCode": "PPs",
+    "package": "SOT-416",
+    "deviceName": "BAR64-04T",
+    "manufacturer": "Infineon",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar64_series_infineon.pdf"
+  },
+  {
+    "smdCode": "PPs",
+    "package": "SOT-323",
+    "deviceName": "BAR64-04W",
+    "manufacturer": "Infineon",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar64_series_infineon.pdf"
+  },
+  {
+    "smdCode": "PPt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C56",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Pp",
+    "package": "SOT-25",
+    "deviceName": "BD53E26G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

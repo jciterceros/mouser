@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "8R",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5241",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "8R",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5241B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "8R",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ25B8",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  }
+]

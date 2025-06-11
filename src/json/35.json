@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "35",
+    "package": "SOT-416",
+    "deviceName": "DTA124XE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124xe%2C_dta124xka%2C_dta124xm%2C_dta124xsa%2C_dta124xua_rohm.pdf"
+  },
+  {
+    "smdCode": "35",
+    "package": "SOT-346",
+    "deviceName": "DTA124XKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124xe%2C_dta124xka%2C_dta124xm%2C_dta124xsa%2C_dta124xua_rohm.pdf"
+  },
+  {
+    "smdCode": "35",
+    "package": "VMT3",
+    "deviceName": "DTA124XM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124xe%2C_dta124xka%2C_dta124xm%2C_dta124xsa%2C_dta124xua_rohm.pdf"
+  },
+  {
+    "smdCode": "35",
+    "package": "SOT-323",
+    "deviceName": "DTA124XUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124xe%2C_dta124xka%2C_dta124xm%2C_dta124xsa%2C_dta124xua_rohm.pdf"
+  },
+  {
+    "smdCode": "35",
+    "package": "SOD-323",
+    "deviceName": "UDZS13B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "35**",
+    "package": "SOT-363",
+    "deviceName": "STN6335",
+    "manufacturer": "Stanson",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stn6335_stanson.pdf"
+  },
+  {
+    "smdCode": "3526M-H",
+    "package": "SO-8",
+    "deviceName": "LM3526M-H",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3526_re_ti.pdf"
+  },
+  {
+    "smdCode": "3526M-H",
+    "package": "SO-8",
+    "deviceName": "LM3526MX-H",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3526_re_ti.pdf"
+  },
+  {
+    "smdCode": "3526M-L",
+    "package": "SO-8",
+    "deviceName": "LM3526M-L",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3526_re_ti.pdf"
+  },
+  {
+    "smdCode": "3526M-L",
+    "package": "SO-8",
+    "deviceName": "LM3526MX-L",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3526_re_ti.pdf"
+  },
+  {
+    "smdCode": "3537",
+    "package": "DFN-10 3x3",
+    "deviceName": "IR3537MTR",
+    "manufacturer": "IRF",
+    "data": "Gate driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/r/ir3537_chl8510_r1.2_irf.pdf"
+  },
+  {
+    "smdCode": "358",
+    "package": "Micro8",
+    "deviceName": "LM358DMR2G",
+    "manufacturer": "ON",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm258%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904a%2C_lm2904v%2C_ncv2904%2C_ncv2904v_on.pdf"
+  },
+  {
+    "smdCode": "35G",
+    "package": "SOT-23",
+    "deviceName": "MMBTA45G",
+    "manufacturer": "UTC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta44%2C_mmbta45_20141030_utc.pdf"
+  },
+  {
+    "smdCode": "35HZG",
+    "package": "SOT-23",
+    "deviceName": "UT9435HZG-AE3-R",
+    "manufacturer": "UTC",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/t/ut9435hz_20150422_utc.pdf"
+  },
+  {
+    "smdCode": "35HZG",
+    "package": "SOT-26",
+    "deviceName": "UT9435HZG-AG6-R",
+    "manufacturer": "UTC",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/t/ut9435hz_20150422_utc.pdf"
+  },
+  {
+    "smdCode": "35T",
+    "package": "SOT-23",
+    "deviceName": "TK71535AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

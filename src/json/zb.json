@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "ZB",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZB",
+    "package": "SOD-123",
+    "deviceName": "KDZ18B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "ZB",
+    "package": "SOT-23",
+    "deviceName": "KTN2222S",
+    "manufacturer": "KEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktn2222as%2C_ktn2222s_r2_kec.pdf"
+  },
+  {
+    "smdCode": "ZB",
+    "package": "SOD-323",
+    "deviceName": "PDZ6.8B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  }
+]

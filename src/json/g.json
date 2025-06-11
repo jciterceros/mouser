@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "G",
+    "package": "SOD-523",
+    "deviceName": "1SS387",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss387_galaxy.pdf"
+  },
+  {
+    "smdCode": "G",
+    "package": "TSLP-2-1",
+    "deviceName": "BAR63-02L",
+    "manufacturer": "Infineon",
+    "data": "PIN diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar63_series_infineon.pdf"
+  },
+  {
+    "smdCode": "G",
+    "package": "SOD-523",
+    "deviceName": "BAR63-02V",
+    "manufacturer": "Infineon",
+    "data": "PIN diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar63_series_infineon.pdf"
+  },
+  {
+    "smdCode": "G",
+    "package": "SOD-323",
+    "deviceName": "BAR63-03W",
+    "manufacturer": "Infineon",
+    "data": "PIN diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar63_series_infineon.pdf"
+  }
+]

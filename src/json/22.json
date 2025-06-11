@@ -1,0 +1,186 @@
+[
+  {
+    "smdCode": "22",
+    "package": "SOT-353",
+    "deviceName": "AZV331KSTR-E1",
+    "manufacturer": "Diodes",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/azv331_r2-0_diodes.pdf"
+  },
+  {
+    "smdCode": "22",
+    "package": "SOT-666",
+    "deviceName": "PBSS4140V",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/b/pbss4140v_philips.pdf"
+  },
+  {
+    "smdCode": "22",
+    "package": "SOT-23",
+    "deviceName": "ZD22-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "22",
+    "package": "SOD-323",
+    "deviceName": "ZD22-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "22-",
+    "package": "SOT-23",
+    "deviceName": "BF545C",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  },
+  {
+    "smdCode": "220",
+    "package": "SOT-23",
+    "deviceName": "KTY82/220",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "221",
+    "package": "SOT-23",
+    "deviceName": "KTY82/221",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "222",
+    "package": "SOT-23",
+    "deviceName": "KTY82/222",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "2222A",
+    "package": "SOT-223",
+    "deviceName": "PZT2222A",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222a%2C_pzt2222a_r1.1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "2231-2",
+    "package": "QFN-20 4x4",
+    "deviceName": "TPS2231MRGPR-2",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2231%2C_tps2236_ti.pdf"
+  },
+  {
+    "smdCode": "2231-3",
+    "package": "QFN-20 4x4",
+    "deviceName": "TPS2231MRGPR-3",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2231%2C_tps2236_ti.pdf"
+  },
+  {
+    "smdCode": "2231M",
+    "package": "QFN-20 4x4",
+    "deviceName": "TPS2231MRGPR",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2231%2C_tps2236_ti.pdf"
+  },
+  {
+    "smdCode": "2240",
+    "package": "DFN-6 2x2",
+    "deviceName": "AON2240",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/aon2240_r0_ao.pdf"
+  },
+  {
+    "smdCode": "22=**",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT8511AGQWA",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8511a_r05_richtek.pdf"
+  },
+  {
+    "smdCode": "22A",
+    "package": "SMB",
+    "deviceName": "1.5SMC22AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "22CF07OD",
+    "package": "Power 56",
+    "deviceName": "FDMS3660S",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdms3660s_rc3_fairchild.pdf"
+  },
+  {
+    "smdCode": "22CF21CD",
+    "package": "Power 56",
+    "deviceName": "FDMS3668S",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdms3668s_rc3_fairchild.pdf"
+  },
+  {
+    "smdCode": "22N03S",
+    "package": "TDSON-8",
+    "deviceName": "BSC022N03S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc022n03sg_infineon.pdf"
+  },
+  {
+    "smdCode": "22T",
+    "package": "SOT-23",
+    "deviceName": "TK71522AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "22W",
+    "package": "SOT-23",
+    "deviceName": "BF545C",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  },
+  {
+    "smdCode": "22Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C22",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "22p",
+    "package": "SOT-23",
+    "deviceName": "BF545C",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  },
+  {
+    "smdCode": "22t",
+    "package": "SOT-23",
+    "deviceName": "BF545C",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  }
+]

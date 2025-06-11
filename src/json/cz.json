@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "CZ",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4694-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "CZ",
+    "package": "SMA",
+    "deviceName": "SMAJ51A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "CZ",
+    "package": "SMB",
+    "deviceName": "SMBJ51CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "CZ**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US39D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CZ-***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-50PV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "CZ=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8561AGQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8561a_richtek.pdf"
+  },
+  {
+    "smdCode": "CZ=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-50GBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  }
+]

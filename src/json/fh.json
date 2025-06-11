@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "FH",
+    "package": "SOT-25",
+    "deviceName": "BD4927G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "FH",
+    "package": "SOD-323F",
+    "deviceName": "PZU10B1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "FH",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q181B5",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "FH **",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8209AZQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8209a%2C_rt8209b%2C_rt8209c_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "FH*",
+    "package": "SOT-553",
+    "deviceName": "BD4927FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "FH**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US40D4-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "FH-***",
+    "package": "SOT-25",
+    "deviceName": "RT9261-32PB",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "FH=**",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8209AGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8209a%2C_rt8209b%2C_rt8209c_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "Fh",
+    "package": "SOT-23",
+    "deviceName": "BD48L24G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

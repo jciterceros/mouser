@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "H6",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "H6",
+    "package": "EMT6",
+    "deviceName": "EMH6",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh6%2C_imh6a%2C_umh6n_rohm.pdf"
+  },
+  {
+    "smdCode": "H6",
+    "package": "SOT-26",
+    "deviceName": "IMH6A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh6%2C_imh6a%2C_umh6n_rohm.pdf"
+  },
+  {
+    "smdCode": "H6",
+    "package": "SOD-323F",
+    "deviceName": "PZU4.3B2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "H6",
+    "package": "SOT-23",
+    "deviceName": "SST5486",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5484%2C_2n5485%2C_2n5486%2C_sst5484%2C_sst5485%2C_sst5486_vishay.pdf"
+  },
+  {
+    "smdCode": "H6",
+    "package": "SOT-363",
+    "deviceName": "UMH6N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh6%2C_imh6a%2C_umh6n_rohm.pdf"
+  },
+  {
+    "smdCode": "H6*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9293BGQWA",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9293_richtek.pdf"
+  },
+  {
+    "smdCode": "H6-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-23PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

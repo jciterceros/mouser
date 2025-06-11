@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "72",
+    "package": "SOT-523",
+    "deviceName": "2N7002T",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002t_galaxy.pdf"
+  },
+  {
+    "smdCode": "72",
+    "package": "SOT-523",
+    "deviceName": "2N7002TB",
+    "manufacturer": "Panjit",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002tb_panjit.pdf"
+  },
+  {
+    "smdCode": "72",
+    "package": "SOD-323",
+    "deviceName": "UDZS3.9B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "72*",
+    "package": "WQFN-12 2x2",
+    "deviceName": "RT8237DZQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8237c%2C_rt8237d_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "72***",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7000_2n7002_bs170_vq1000j_vq1000p_vishay.pdf"
+  },
+  {
+    "smdCode": "720",
+    "package": "SOT-23",
+    "deviceName": "FMMT720",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt717%2C_fmmt718%2C_fmmt720%2C_fmmt722%2C_fmmt723_zetex.pdf"
+  },
+  {
+    "smdCode": "7200",
+    "package": "DFN-8 3x3",
+    "deviceName": "AON7200",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/aon7200_r5_ao.pdf"
+  },
+  {
+    "smdCode": "7201A",
+    "package": "TDFN-6 3x3",
+    "deviceName": "EUP7201-1.8/2.8JIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7201_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "7212",
+    "package": "TDFN-8 2x2",
+    "deviceName": "APW7212QB",
+    "manufacturer": "Anpec",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apw7212_r2.a_anpec.pdf"
+  },
+  {
+    "smdCode": "7217-33",
+    "package": "SOP-8",
+    "deviceName": "AP7217-33SG-13",
+    "manufacturer": "Diodes",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap7217_diodes.pdf"
+  },
+  {
+    "smdCode": "722",
+    "package": "SOT-23",
+    "deviceName": "FMMT722",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt717%2C_fmmt718%2C_fmmt720%2C_fmmt722%2C_fmmt723_zetex.pdf"
+  },
+  {
+    "smdCode": "723",
+    "package": "SOT-23",
+    "deviceName": "FMMT723",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt717%2C_fmmt718%2C_fmmt720%2C_fmmt722%2C_fmmt723_zetex.pdf"
+  },
+  {
+    "smdCode": "72N025S",
+    "package": "TDSON-8",
+    "deviceName": "BSC072N025S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc072n025sg_infineon.pdf"
+  },
+  {
+    "smdCode": "72W",
+    "package": "SOT-323",
+    "deviceName": "2N7002W",
+    "manufacturer": "Panjit",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002w_panjit.pdf"
+  }
+]

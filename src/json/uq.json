@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "UQ",
+    "package": "SOD-323F",
+    "deviceName": "CZRF16VB-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "UQ",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K481B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  }
+]

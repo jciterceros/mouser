@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "W0-***",
+    "package": "SOT-25",
+    "deviceName": "RT9169-12PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "W01",
+    "package": "SOT-23",
+    "deviceName": "PDTA143ET",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta143et_philips.pdf"
+  },
+  {
+    "smdCode": "W02",
+    "package": "SOT-23",
+    "deviceName": "PDTC143ET",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143et_philips.pdf"
+  },
+  {
+    "smdCode": "W02",
+    "package": "SSOP8-P-0.50A",
+    "deviceName": "TC07W02FK",
+    "manufacturer": "Toshiba",
+    "data": "NOR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc7w02f%2C_tc7w02fu%2C_tc7w02fk_20010531_toshiba.pdf"
+  },
+  {
+    "smdCode": "W03",
+    "package": "SOT-23",
+    "deviceName": "PDTA114ET",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta114e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W03",
+    "package": "SOT-323",
+    "deviceName": "PDTA114EU",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta114e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W04",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A11",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "W04",
+    "package": "SOT-343R",
+    "deviceName": "S504TRW",
+    "manufacturer": "Vishay",
+    "data": "MOSMIC for TV-Tuner",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/5/s504t%2C_s504tr%2C_s504trw_vishay.pdf"
+  },
+  {
+    "smdCode": "W05",
+    "package": "SOT-23",
+    "deviceName": "PDTA124ET",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W05",
+    "package": "SOT-323",
+    "deviceName": "PDTA124EU",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W06",
+    "package": "SOT-323",
+    "deviceName": "PDTC124EU",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W08",
+    "package": "SOT-23",
+    "deviceName": "PDTC144ET",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc144et_philips.pdf"
+  },
+  {
+    "smdCode": "W08",
+    "package": "SSOP8-P-0.50A",
+    "deviceName": "TC7W08FK",
+    "manufacturer": "Toshiba",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc7w08f_19980924_toshiba.pdf"
+  },
+  {
+    "smdCode": "W08*",
+    "package": "SOT-26",
+    "deviceName": "APW7208C",
+    "manufacturer": "Anpec",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apw7208_ra.4_anpec.pdf"
+  },
+  {
+    "smdCode": "W09*",
+    "package": "SOT-26",
+    "deviceName": "APW7209C",
+    "manufacturer": "Anpec",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apw7209_ra.8_anpec.pdf"
+  },
+  {
+    "smdCode": "W0=***",
+    "package": "SOT-25",
+    "deviceName": "RT9169-12GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "w04",
+    "package": "SOT-323",
+    "deviceName": "PMSS3904",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmss3904_nxp.pdf"
+  },
+  {
+    "smdCode": "w09",
+    "package": "SOT-323",
+    "deviceName": "PDTC114EU",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc114ee%2C_pdtc114em%2C_pdtc114et%2C_pdtc114eu_nxp.pdf"
+  }
+]

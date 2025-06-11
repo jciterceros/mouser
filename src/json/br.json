@@ -1,0 +1,226 @@
+[
+  {
+    "smdCode": "BR",
+    "package": "SOT-89",
+    "deviceName": "2SB766A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb766a_galaxy.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "SOT-346",
+    "deviceName": "2SC2412K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1740s%2C_2sc2412k%2C_2sc4081%2C_2sc4617%2C_2sc5658_rohm.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "SOT-323",
+    "deviceName": "2SC4081",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1740s%2C_2sc2412k%2C_2sc4081%2C_2sc4617%2C_2sc5658_rohm.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "UMT3F",
+    "deviceName": "2SC4081UB",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4081ub_rohm.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "SOT-523",
+    "deviceName": "2SC4617",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1740s%2C_2sc2412k%2C_2sc4081%2C_2sc4617%2C_2sc5658_rohm.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "SOT-523",
+    "deviceName": "2SC4617",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4617_tip.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "VMT3",
+    "deviceName": "2SC5658",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1740s%2C_2sc2412k%2C_2sc4081%2C_2sc4617%2C_2sc5658_rohm.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "SOT-23",
+    "deviceName": "BCW60DR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw60_zetex.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "SOT-25",
+    "deviceName": "BD4736G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C20",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "SOD-323",
+    "deviceName": "CMDZ47L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5253B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "SMA",
+    "deviceName": "SMAJ17A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "BR",
+    "package": "SMB",
+    "deviceName": "SMBJ17CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "BR-**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT8011PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8011%2C_rt8011a_richtek.pdf"
+  },
+  {
+    "smdCode": "BR-**",
+    "package": "VQFN-24 4x4",
+    "deviceName": "RT8805CPQVA",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8805c_richtek.pdf"
+  },
+  {
+    "smdCode": "BR-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-15PU5R",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "BR1",
+    "package": "SOT-323",
+    "deviceName": "2SB1218A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1218a_galaxy.pdf"
+  },
+  {
+    "smdCode": "BR1",
+    "package": "SOT-23",
+    "deviceName": "2SB709A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb709a_galaxy.pdf"
+  },
+  {
+    "smdCode": "BR=**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT8011GQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8011%2C_rt8011a_richtek.pdf"
+  },
+  {
+    "smdCode": "BR=**",
+    "package": "VQFN-24 4x4",
+    "deviceName": "RT8805CGQVA",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8805c_richtek.pdf"
+  },
+  {
+    "smdCode": "BRD",
+    "package": "QFN-10",
+    "deviceName": "TPS61026DRC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61020%2C_tps61024%2C_tps61025%2C_tps61026%2C_tps61027%2C_tps61028%2C_tps61029_ti.pdf"
+  },
+  {
+    "smdCode": "BRF",
+    "package": "QFN-10",
+    "deviceName": "TPS61029DRC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61020%2C_tps61024%2C_tps61025%2C_tps61026%2C_tps61027%2C_tps61028%2C_tps61029_ti.pdf"
+  },
+  {
+    "smdCode": "BRN",
+    "package": "QFN-10",
+    "deviceName": "TPS62401DRC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62400%2C_tps62401%2C_tps62402%2C_tps62403_ti.pdf"
+  },
+  {
+    "smdCode": "BRU",
+    "package": "BGA-16 1.9x1.9",
+    "deviceName": "TPA6130A2YZH",
+    "manufacturer": "Texas Instruments",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpa6130a2_rb_ti.pdf"
+  },
+  {
+    "smdCode": "BRZ",
+    "package": "SOT-25",
+    "deviceName": "TPS62227DDC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62220%2C_tps62221%2C_tps62222%2C_tps62223%2C_tps62224%2C_tps62227%2C_tps62228%2C_tps62229_ti.pdf"
+  },
+  {
+    "smdCode": "Br",
+    "package": "SOT-25",
+    "deviceName": "BD48E49G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Br",
+    "package": "SOT-23",
+    "deviceName": "BD48K49G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

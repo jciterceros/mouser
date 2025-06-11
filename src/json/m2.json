@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "M2",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B15",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "M2",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5257",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "M2*",
+    "package": "VSSOP-8",
+    "deviceName": "LM258DGKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "M2***",
+    "package": "SOT-23",
+    "deviceName": "Si2312BDS",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2312bds_vishay.pdf"
+  },
+  {
+    "smdCode": "M23",
+    "package": "SOT-416",
+    "deviceName": "DTD743EE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd743ee%2C_dtd743em_rohm.pdf"
+  },
+  {
+    "smdCode": "M23",
+    "package": "VMT3",
+    "deviceName": "DTD743EM",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd743ee%2C_dtd743em_rohm.pdf"
+  },
+  {
+    "smdCode": "M24",
+    "package": "SOT-23",
+    "deviceName": "SM24",
+    "manufacturer": "Semtech",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/sm05-sm36_20040712_semtech.pdf"
+  },
+  {
+    "smdCode": "M2=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-33GVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "M2A",
+    "package": "SOT-23",
+    "deviceName": "MMBT2222A",
+    "manufacturer": "Compact Technology",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222a_compact.pdf"
+  },
+  {
+    "smdCode": "M2B",
+    "package": "SOT-23",
+    "deviceName": "MMBT2907",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2907_galaxy.pdf"
+  },
+  {
+    "smdCode": "M2LZ47",
+    "package": "13-10H1A",
+    "deviceName": "SM2LZ47",
+    "manufacturer": "Toshiba",
+    "data": "Bi-Directional Triode Thyristor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/sm2lz47_toshiba.pdf"
+  }
+]

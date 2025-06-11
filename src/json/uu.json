@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "UU",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "UU",
+    "package": "SOD-323F",
+    "deviceName": "CZRF24VB-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "UU",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP131K121B5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "UU-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C12",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UUW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C12",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UUp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C12",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UUt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C12",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

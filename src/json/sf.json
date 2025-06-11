@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "SF",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B20",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "SF",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K391A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "SF",
+    "package": "SOD-123",
+    "deviceName": "SS0540",
+    "manufacturer": "WTE",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ss0520-ss0540_wte.pdf"
+  },
+  {
+    "smdCode": "SFDB",
+    "package": "SOT-26",
+    "deviceName": "LM2734XMK",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2734_rj_ti.pdf"
+  },
+  {
+    "smdCode": "SFEB",
+    "package": "SOT-26",
+    "deviceName": "LM2734YMK",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2734_rj_ti.pdf"
+  }
+]

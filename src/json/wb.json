@@ -1,0 +1,210 @@
+[
+  {
+    "smdCode": "WB",
+    "package": "SOT-23",
+    "deviceName": "2N7002A",
+    "manufacturer": "KEC",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002a_r7_kec.pdf"
+  },
+  {
+    "smdCode": "WB",
+    "package": "SOT-346",
+    "deviceName": "2SD1383K",
+    "manufacturer": "ROHM",
+    "data": "PNP Darlington transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1383k_rohm.pdf"
+  },
+  {
+    "smdCode": "WB",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C6V2",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WB",
+    "package": "SOD-123",
+    "deviceName": "BZT52C6V8",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "WB",
+    "package": "SOT-23",
+    "deviceName": "BZX84C6V2",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "WB",
+    "package": "SOT-23",
+    "deviceName": "BZX84C6V2-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WB",
+    "package": "SOD-123",
+    "deviceName": "KDZ13B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "WB",
+    "package": "SOT-323",
+    "deviceName": "MRF1047T1",
+    "manufacturer": "Motorola",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/r/mrf1047t1_motorola.pdf"
+  },
+  {
+    "smdCode": "WB",
+    "package": "SOD-323",
+    "deviceName": "PZU10B1A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WB",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K351D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "WB-***",
+    "package": "SOT-25",
+    "deviceName": "RT9818A-26PB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "WB0",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C68",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WB1",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WB2",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C3V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WB3",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WB4",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C43",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WB5",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C47",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WB6",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C4V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WB7",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C51",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WB8",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C56",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WB9",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C62",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WB=***",
+    "package": "SOT-25",
+    "deviceName": "RT9818A-26GB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "WBC",
+    "package": "SOT-23",
+    "deviceName": "BC847B/DG",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WBF",
+    "package": "MLF-8 2x2",
+    "deviceName": "MIC3291-25YML",
+    "manufacturer": "Micrel",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic3291_201010_micrel.pdf"
+  },
+  {
+    "smdCode": "WBM**",
+    "package": "SOT-26",
+    "deviceName": "AAT1217",
+    "manufacturer": "AAT",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/a/aat1217_analogic.pdf"
+  },
+  {
+    "smdCode": "Wb***",
+    "package": "SOT-23",
+    "deviceName": "AX5505R43",
+    "manufacturer": "Axelite",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax5505_r1.1_axelite.pdf"
+  }
+]

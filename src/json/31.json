@@ -1,0 +1,474 @@
+[
+  {
+    "smdCode": "31",
+    "package": "SOT-26",
+    "deviceName": "BCR321U",
+    "manufacturer": "Infineon",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr320u%2C_bcr321u_infineon.pdf"
+  },
+  {
+    "smdCode": "31-***",
+    "package": "SOT-26",
+    "deviceName": "RT9266PE",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9266_r16_richtek.pdf"
+  },
+  {
+    "smdCode": "315",
+    "package": "SOT-363",
+    "deviceName": "STF203-15",
+    "manufacturer": "Semtech",
+    "data": "USB Port Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stf203-15%2C_stf203-22%2C_stf203-33_semtech.pdf"
+  },
+  {
+    "smdCode": "3151V",
+    "package": "SO-8",
+    "deviceName": "MC33151VDR2G",
+    "manufacturer": "ON",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc34151%2C_mc33151_r9_on.pdf"
+  },
+  {
+    "smdCode": "317",
+    "package": "SOT-23",
+    "deviceName": "ZXTP23015CFHTA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxtp23015cfh_zetex.pdf"
+  },
+  {
+    "smdCode": "317*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-13A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "317*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-13B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "318*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-14A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "318*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-14B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "319*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-15A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "319*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-15B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31=***",
+    "package": "SOT-26",
+    "deviceName": "RT9266GE",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9266_r16_richtek.pdf"
+  },
+  {
+    "smdCode": "31A*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-16A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31A*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-16B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31B*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-17A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31B*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-17B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31C*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-18A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31C*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-18B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31D*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-19A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31D*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-19B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31E*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-20A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31E*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-20B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31F*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-21A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31F*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-21B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31G*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-22A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31G*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-22B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31H*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-23A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31H*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-23B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31I*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-24A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31I*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-24B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31J*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-25A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31J*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-25B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31K*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-26A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31K*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-26B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31L*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-27A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31L*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-27B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31M*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-28A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31M*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-28B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31N*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-29A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31N*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-29B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31O*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-30A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31O*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-30B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31P*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-31A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31P*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-31B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31Q*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-32A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31Q*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-32B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31R*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-33A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31R*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-33B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31S*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-34A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31S*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-34B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31T",
+    "package": "SOT-23",
+    "deviceName": "TK71531AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "31T*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-35A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31T*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-35B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31X*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-48A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31X*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-48B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31Y*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-49A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31Y*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-49B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31Z*",
+    "package": "SOT-23",
+    "deviceName": "APL5301-50A",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  },
+  {
+    "smdCode": "31Z*",
+    "package": "SOT-25",
+    "deviceName": "APL5301-50B",
+    "manufacturer": "Anpec",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5301%2C_apl5302_ra.11_anpec.pdf"
+  }
+]

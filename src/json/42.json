@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "42",
+    "package": "SOT-323",
+    "deviceName": "BAT54AW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w%2C_bat54aw%2C_bat54cw%2C_bat54sw_philips.pdf"
+  },
+  {
+    "smdCode": "42",
+    "package": "SOT-553",
+    "deviceName": "ESD5V0L4",
+    "manufacturer": "CTS",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esd5v0l4_cts.pdf"
+  },
+  {
+    "smdCode": "42",
+    "package": "SOT-553",
+    "deviceName": "ESD5V0L4",
+    "manufacturer": "Intersemi",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esd5v0l4_intersemi.pdf"
+  },
+  {
+    "smdCode": "42**",
+    "package": "SOT-26",
+    "deviceName": "AO6402A",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao6402a_ao.pdf"
+  },
+  {
+    "smdCode": "42-",
+    "package": "SOT-323",
+    "deviceName": "BAT54AW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "420",
+    "package": "SOT-26",
+    "deviceName": "FDC6420C",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdc6420c_rc_fairchild.pdf"
+  },
+  {
+    "smdCode": "421NL",
+    "package": "SO-8",
+    "deviceName": "SST421NL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst421nl%2C_sst423nl_vishay.pdf"
+  },
+  {
+    "smdCode": "4232BGM",
+    "package": "SO-8",
+    "deviceName": "AP4232BGM-HF",
+    "manufacturer": "Apec",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4232bgm-hf_apec.pdf"
+  },
+  {
+    "smdCode": "4232BGM",
+    "package": "SO-8",
+    "deviceName": "AP4232BGM-HF-3",
+    "manufacturer": "Apec",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4232bgm-hf-3_apec.pdf"
+  },
+  {
+    "smdCode": "423NL",
+    "package": "SO-8",
+    "deviceName": "SST423NL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst421nl%2C_sst423nl_vishay.pdf"
+  },
+  {
+    "smdCode": "42=***",
+    "package": "SOT-26",
+    "deviceName": "RT9728CHGE",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9728c_r00_richtek.pdf"
+  },
+  {
+    "smdCode": "42N03S",
+    "package": "TDSON-8",
+    "deviceName": "BSC042N03S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc042n03sg_infineon.pdf"
+  },
+  {
+    "smdCode": "42T",
+    "package": "SOT-23",
+    "deviceName": "TK71542AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "42W",
+    "package": "SOT-323",
+    "deviceName": "BAT54AW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "42p",
+    "package": "SOT-323",
+    "deviceName": "BAT54AW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "42t",
+    "package": "SOT-323",
+    "deviceName": "BAT54AW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  }
+]

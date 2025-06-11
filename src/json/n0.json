@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "N0",
+    "package": "SOT-416",
+    "deviceName": "BFR505T",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr505t_philips.pdf"
+  },
+  {
+    "smdCode": "N0",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "N00A",
+    "package": "SOT-223",
+    "deviceName": "LM340MP-5.0",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm340-n_lm78xx_rj_ti.pdf"
+  },
+  {
+    "smdCode": "N00A",
+    "package": "SOT-223",
+    "deviceName": "LM340MPX-5.0",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm340-n_lm78xx_rj_ti.pdf"
+  },
+  {
+    "smdCode": "N01",
+    "package": "SOT-23",
+    "deviceName": "DDTC113TCA",
+    "manufacturer": "Diodes",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtcxxxtca-series_r9-2_diodes.pdf"
+  },
+  {
+    "smdCode": "N03",
+    "package": "SOT-23",
+    "deviceName": "DDTC123TCA",
+    "manufacturer": "Diodes",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtcxxxtca-series_r9-2_diodes.pdf"
+  },
+  {
+    "smdCode": "N07",
+    "package": "SOT-23",
+    "deviceName": "DDTC143TCA",
+    "manufacturer": "Diodes",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtcxxxtca-series_r9-2_diodes.pdf"
+  },
+  {
+    "smdCode": "N0C*",
+    "package": "SOT-25",
+    "deviceName": "TC52N3027ECTTR",
+    "manufacturer": "Microchip",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc52_20150213_microchip.pdf"
+  },
+  {
+    "smdCode": "N0P*",
+    "package": "SOT-25",
+    "deviceName": "TC52N4527ECTTR",
+    "manufacturer": "Microchip",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc52_20150213_microchip.pdf"
+  }
+]

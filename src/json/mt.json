@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "MT",
+    "package": "SMB",
+    "deviceName": "1SMB43AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "MT",
+    "package": "SOT-323",
+    "deviceName": "M1MA141WK",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/1/m1ma141wk%2C_m1ma142wk_galaxy.pdf"
+  },
+  {
+    "smdCode": "MT",
+    "package": "SOT-563",
+    "deviceName": "NUP4060AXV6",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup4060axv6_on.pdf"
+  },
+  {
+    "smdCode": "MT",
+    "package": "SOD-323",
+    "deviceName": "PZU4.7B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MT",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ43A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "MT",
+    "package": "SMB",
+    "deviceName": "SMBJ43A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "MT=**",
+    "package": "MSOP-8",
+    "deviceName": "RT9715DGF",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "MT=***",
+    "package": "SOT-23",
+    "deviceName": "RT9819E-18GVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "MTJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB82A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "MTT",
+    "package": "SOT-323",
+    "deviceName": "ADM1812-10AKS",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "MTT",
+    "package": "SOT-23",
+    "deviceName": "ADM1812-10ART",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "MTV",
+    "package": "SOT-323",
+    "deviceName": "ADM1812-5AKS",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "MTV",
+    "package": "SOT-23",
+    "deviceName": "ADM1812-5ART",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  }
+]

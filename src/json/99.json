@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "99",
+    "package": "SOT-416",
+    "deviceName": "DTA115TE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115te%2C_dta115tka%2C_dta115tm%2C_dta115tsa%2C_dta115tua_rohm.pdf"
+  },
+  {
+    "smdCode": "99",
+    "package": "SOT-346",
+    "deviceName": "DTA115TKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115te%2C_dta115tka%2C_dta115tm%2C_dta115tsa%2C_dta115tua_rohm.pdf"
+  },
+  {
+    "smdCode": "99",
+    "package": "VMT3",
+    "deviceName": "DTA115TM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115te%2C_dta115tka%2C_dta115tm%2C_dta115tsa%2C_dta115tua_rohm.pdf"
+  },
+  {
+    "smdCode": "99",
+    "package": "SOT-323",
+    "deviceName": "DTA115TUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115te%2C_dta115tka%2C_dta115tm%2C_dta115tsa%2C_dta115tua_rohm.pdf"
+  }
+]

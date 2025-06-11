@@ -1,0 +1,250 @@
+[
+  {
+    "smdCode": "D2",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5227",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "D2",
+    "package": "SOT-666",
+    "deviceName": "PEMD12",
+    "manufacturer": "NXP",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/e/pemd12%2C_pumd12_r4_nxp.pdf"
+  },
+  {
+    "smdCode": "D2*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9012-NNPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9012_richtek.pdf"
+  },
+  {
+    "smdCode": "D2**",
+    "package": "DFN-10",
+    "deviceName": "APS1026EDJ",
+    "manufacturer": "APSemi",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/aps1026_apsemi.pdf"
+  },
+  {
+    "smdCode": "D2-***",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9011-SNPQWB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "D20",
+    "package": "SOT-23",
+    "deviceName": "TZT16AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D20",
+    "package": "SOT-23",
+    "deviceName": "TZT20AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D21",
+    "package": "SOT-23",
+    "deviceName": "TZT18AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D210",
+    "package": "TO-252",
+    "deviceName": "AOD210",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/aod210_r0_ao.pdf"
+  },
+  {
+    "smdCode": "D2118",
+    "package": "SOT-428",
+    "deviceName": "2SD2118",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2098%2C_2sd2118_rohm.pdf"
+  },
+  {
+    "smdCode": "D213",
+    "package": "CASE 846-01",
+    "deviceName": "MOCD213",
+    "manufacturer": "Motorola",
+    "data": "Optoisolator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/o/mocd213_motorola.pdf"
+  },
+  {
+    "smdCode": "D2143",
+    "package": "SOT-428",
+    "deviceName": "2SD2143",
+    "manufacturer": "ROHM",
+    "data": "NPN Darlington transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1866%2C_2sd2143%2C_2sd2212_rohm.pdf"
+  },
+  {
+    "smdCode": "D22",
+    "package": "EMT6",
+    "deviceName": "EMD22",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd22%2C_umd22n_rohm.pdf"
+  },
+  {
+    "smdCode": "D22",
+    "package": "SOT-23",
+    "deviceName": "TZT20AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D22",
+    "package": "SOT-23",
+    "deviceName": "TZT22AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D22",
+    "package": "SOT-363",
+    "deviceName": "UMD22N",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd22%2C_umd22n_rohm.pdf"
+  },
+  {
+    "smdCode": "D23",
+    "package": "SOT-23",
+    "deviceName": "TZT22AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D232",
+    "package": "SOT-143",
+    "deviceName": "CM1213A-02SR",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1213a_on.pdf"
+  },
+  {
+    "smdCode": "D238",
+    "package": "MSOP-10",
+    "deviceName": "CM1213A-04MR",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1213a_on.pdf"
+  },
+  {
+    "smdCode": "D24",
+    "package": "SOT-23",
+    "deviceName": "TZT24AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D24",
+    "package": "SOT-23",
+    "deviceName": "TZT24AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D2498",
+    "package": "2-16E3A",
+    "deviceName": "2SD2498",
+    "manufacturer": "Toshiba",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2498_toshiba.pdf"
+  },
+  {
+    "smdCode": "D25",
+    "package": "SOT-23",
+    "deviceName": "TZT27AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D26",
+    "package": "SOT-23",
+    "deviceName": "TZT30AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D27",
+    "package": "SOT-23",
+    "deviceName": "TZT27AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D27",
+    "package": "SOT-23",
+    "deviceName": "TZT33AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D28",
+    "package": "EMT6",
+    "deviceName": "EMD28",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd28_rohm.pdf"
+  },
+  {
+    "smdCode": "D28",
+    "package": "SOT-23",
+    "deviceName": "TZT36AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D29",
+    "package": "EMT6",
+    "deviceName": "EMD29",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd29_rohm.pdf"
+  },
+  {
+    "smdCode": "D29",
+    "package": "SOT-23",
+    "deviceName": "TZT39AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D2E",
+    "package": "SOT-23",
+    "deviceName": "RB491D",
+    "manufacturer": "TIP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb491d_tip.pdf"
+  }
+]

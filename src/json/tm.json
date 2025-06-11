@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "TM",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "TM",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K221B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TM",
+    "package": "SMA",
+    "deviceName": "SMAJ440A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "TM*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B202NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "tM9",
+    "package": "SOT-23",
+    "deviceName": "PMV65XP",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmv65xp_nxp.pdf"
+  },
+  {
+    "smdCode": "tME",
+    "package": "SOT-143B",
+    "deviceName": "BFG505",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg505%2C_bfg505_x_nxp.pdf"
+  },
+  {
+    "smdCode": "tMG",
+    "package": "SOT-143B",
+    "deviceName": "BFG540",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg540_series_nxp.pdf"
+  },
+  {
+    "smdCode": "tMH",
+    "package": "SOT-143B",
+    "deviceName": "BFG590",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg590%2C_bfg590_x_nxp.pdf"
+  },
+  {
+    "smdCode": "tMK",
+    "package": "SOT-143B",
+    "deviceName": "BFG505/X",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg505%2C_bfg505_x_nxp.pdf"
+  },
+  {
+    "smdCode": "tMM",
+    "package": "SOT-143B",
+    "deviceName": "BFG540/X",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg540_series_nxp.pdf"
+  },
+  {
+    "smdCode": "tMN",
+    "package": "SOT-143B",
+    "deviceName": "BFG590/X",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg590%2C_bfg590_x_nxp.pdf"
+  },
+  {
+    "smdCode": "tMR",
+    "package": "SOT-143R",
+    "deviceName": "BFG540/XR",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg540_series_nxp.pdf"
+  },
+  {
+    "smdCode": "tMS",
+    "package": "SOT-143",
+    "deviceName": "BFG10",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg10_series_nxp.pdf"
+  },
+  {
+    "smdCode": "tMT",
+    "package": "SOT-143",
+    "deviceName": "BFG10/X",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg10_series_nxp.pdf"
+  },
+  {
+    "smdCode": "tMU",
+    "package": "SOT-143B",
+    "deviceName": "BFG25A/X",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg25a_x_nxp.pdf"
+  },
+  {
+    "smdCode": "tMV",
+    "package": "SOT-143B",
+    "deviceName": "BFG67/X",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg67_series_nxp.pdf"
+  },
+  {
+    "smdCode": "tMW",
+    "package": "SOT-143B",
+    "deviceName": "BFG92A/X",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg92a_x_nxp.pdf"
+  }
+]

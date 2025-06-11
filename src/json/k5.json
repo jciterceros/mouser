@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "K5",
+    "package": "SOT-23",
+    "deviceName": "BCW72R",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw71%2C_bcw72_zetex.pdf"
+  },
+  {
+    "smdCode": "K5",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B3V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "K5",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5255",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "K5-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-20PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "K50",
+    "package": "SOT-353",
+    "deviceName": "LMV331ICT",
+    "manufacturer": "STMicroelectronics",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv331%2C_lmv393%2C_lmv339_r3_st.pdf"
+  },
+  {
+    "smdCode": "K503",
+    "package": "SOT-25",
+    "deviceName": "LMV331ILT",
+    "manufacturer": "STMicroelectronics",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv331%2C_lmv393%2C_lmv339_r3_st.pdf"
+  },
+  {
+    "smdCode": "K508",
+    "package": "MiniSO8",
+    "deviceName": "LMV393IST",
+    "manufacturer": "STMicroelectronics",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv331%2C_lmv393%2C_lmv339_r3_st.pdf"
+  },
+  {
+    "smdCode": "K52",
+    "package": "SOT-23",
+    "deviceName": "BAV199",
+    "manufacturer": "Diodes",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav199_r9-2_diodes.pdf"
+  },
+  {
+    "smdCode": "K52",
+    "package": "SOT-363",
+    "deviceName": "BAV199DW",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav199dw_galaxy.pdf"
+  },
+  {
+    "smdCode": "K5A",
+    "package": "SOT-323",
+    "deviceName": "BC807-16W",
+    "manufacturer": "Diodes",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807-16w%2C_bc807-25w%2C_bc807-40w_diodes.pdf"
+  },
+  {
+    "smdCode": "K5B",
+    "package": "SOT-323",
+    "deviceName": "BC807-25W",
+    "manufacturer": "Diodes",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807-16w%2C_bc807-25w%2C_bc807-40w_diodes.pdf"
+  },
+  {
+    "smdCode": "K5C",
+    "package": "SOT-323",
+    "deviceName": "BC807-40W",
+    "manufacturer": "Diodes",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807-16w%2C_bc807-25w%2C_bc807-40w_diodes.pdf"
+  },
+  {
+    "smdCode": "K5N",
+    "package": "SOT-323",
+    "deviceName": "MMST3906",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst3906_galaxy.pdf"
+  }
+]

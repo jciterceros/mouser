@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "5P",
+    "package": "SOD-323",
+    "deviceName": "CMDZ27L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "5P",
+    "package": "SOT-23",
+    "deviceName": "FMMT2907AR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt2907%2C_fmmt2907a_zetex.pdf"
+  },
+  {
+    "smdCode": "5P",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z27",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "5P",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z22V",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "5P",
+    "package": "SOT-553",
+    "deviceName": "NZQA5V6AXV5",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/z/nzqa5v6axv5%2C_nzqa6v8axv5_on.pdf"
+  }
+]

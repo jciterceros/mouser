@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "7T",
+    "package": "SOT-23",
+    "deviceName": "BCW68FR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw67%2C_bcw68_zetex.pdf"
+  }
+]

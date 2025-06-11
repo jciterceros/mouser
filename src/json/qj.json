@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "QJ",
+    "package": "WSON-6 1,5x1,5",
+    "deviceName": "TLV70029DSER",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  }
+]

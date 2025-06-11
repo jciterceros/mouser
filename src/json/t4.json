@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "T4",
+    "package": "SOD-123",
+    "deviceName": "1N4148W",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/n/1n4148w_galaxy.pdf"
+  },
+  {
+    "smdCode": "T4",
+    "package": "SOD-123",
+    "deviceName": "1N4148W",
+    "manufacturer": "Diodes",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/n/1n4148w%2C_bav16w_r24-2_diodes.pdf"
+  },
+  {
+    "smdCode": "T4",
+    "package": "SOD-323",
+    "deviceName": "1N4148WS",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/n/1n4148ws_galaxy.pdf"
+  },
+  {
+    "smdCode": "T4",
+    "package": "SOD-523",
+    "deviceName": "1N4148WT",
+    "manufacturer": "Diodes",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/n/1n4148wt_diodes.pdf"
+  },
+  {
+    "smdCode": "T4",
+    "package": "SOD-123",
+    "deviceName": "BAV16W",
+    "manufacturer": "Diodes",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/n/1n4148w%2C_bav16w_r24-2_diodes.pdf"
+  },
+  {
+    "smdCode": "T4",
+    "package": "SOT-23",
+    "deviceName": "BCX17R",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx17%2C_bcx17r_zetex.pdf"
+  },
+  {
+    "smdCode": "T4",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "T4",
+    "package": "SOT-26",
+    "deviceName": "IMT4",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/m/imt4_rohm.pdf"
+  },
+  {
+    "smdCode": "T4■",
+    "package": "SOT-23",
+    "deviceName": "MMBD6100",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd6100_galaxy.pdf"
+  },
+  {
+    "smdCode": "T4***",
+    "package": "SOT-25",
+    "deviceName": "APX824-40W5",
+    "manufacturer": "Diodes",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apx823%2C_apx824%2C_apx825a_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "T40**",
+    "package": "SOT-25",
+    "deviceName": "R1162N401D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T41**",
+    "package": "SOT-25",
+    "deviceName": "R1162N181D5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T42**",
+    "package": "SOT-25",
+    "deviceName": "R1162N181D5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "t44",
+    "package": "SOT-23",
+    "deviceName": "PDTC115ET",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "t47",
+    "package": "SOT-323",
+    "deviceName": "PDTA143ZU",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta143ze%2C_pdta143zm%2C_pdta143zt%2C_pdta143zu_nxp.pdf"
+  },
+  {
+    "smdCode": "t4S",
+    "package": "SOT-23",
+    "deviceName": "BSN20BK",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsn20bk_20141218_nxp.pdf"
+  }
+]

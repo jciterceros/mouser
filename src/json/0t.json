@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "0T=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8811AGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8811a_r02_richtek.pdf"
+  },
+  {
+    "smdCode": "0T=***",
+    "package": "SOT-25",
+    "deviceName": "RT9715GGB",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  }
+]

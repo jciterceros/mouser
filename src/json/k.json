@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "K",
+    "package": "SOT-323",
+    "deviceName": "DA204U",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/da204u_galaxy.pdf"
+  },
+  {
+    "smdCode": "K",
+    "package": "SOT-523",
+    "deviceName": "DA221",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/da221_galaxy.pdf"
+  },
+  {
+    "smdCode": "K",
+    "package": "DSBGA-5",
+    "deviceName": "LM3671TL-2.8",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  }
+]

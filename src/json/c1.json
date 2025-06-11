@@ -1,0 +1,362 @@
+[
+  {
+    "smdCode": "C1",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C47",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C1",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "C1",
+    "package": "SOT-23",
+    "deviceName": "SST111",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/1/j111%2C_j112%2C_j113%2C_sst111%2C_sst112%2C_sst113_vishay.pdf"
+  },
+  {
+    "smdCode": "C1*",
+    "package": "VDFN-6 2x2",
+    "deviceName": "RT9193-18PQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "C1**",
+    "package": "SOT-25",
+    "deviceName": "APS1016ES5",
+    "manufacturer": "APSemi",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/aps1016_apsemi.pdf"
+  },
+  {
+    "smdCode": "C1-",
+    "package": "SOT-363",
+    "deviceName": "BGM1011",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/g/bgm1011_philips.pdf"
+  },
+  {
+    "smdCode": "C1-",
+    "package": "SOT-89",
+    "deviceName": "RT9161-21PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "C1-**",
+    "package": "WDFN-12 3x3",
+    "deviceName": "RT8020PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8020_richtek.pdf"
+  },
+  {
+    "smdCode": "C1-**",
+    "package": "VQFN-24 4x4",
+    "deviceName": "RT9913CPQV",
+    "manufacturer": "Richtek",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9913a%2C_rt9913b_richtek.pdf"
+  },
+  {
+    "smdCode": "C1-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013B-18PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "C1-***",
+    "package": "SOT-23",
+    "deviceName": "RT9161-25PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "C1-***",
+    "package": "SOT-25",
+    "deviceName": "RT9169-25PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "C101",
+    "package": "TO-92",
+    "deviceName": "KRC101",
+    "manufacturer": "KEC",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/r/krc101-krc106_r0_kec.pdf"
+  },
+  {
+    "smdCode": "C102",
+    "package": "TO-92",
+    "deviceName": "KRC102",
+    "manufacturer": "KEC",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/r/krc101-krc106_r0_kec.pdf"
+  },
+  {
+    "smdCode": "C103",
+    "package": "TO-92",
+    "deviceName": "KRC103",
+    "manufacturer": "KEC",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/r/krc101-krc106_r0_kec.pdf"
+  },
+  {
+    "smdCode": "C104",
+    "package": "TO-92",
+    "deviceName": "KRC104",
+    "manufacturer": "KEC",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/r/krc101-krc106_r0_kec.pdf"
+  },
+  {
+    "smdCode": "C105",
+    "package": "TO-92",
+    "deviceName": "KRC105",
+    "manufacturer": "KEC",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/r/krc101-krc106_r0_kec.pdf"
+  },
+  {
+    "smdCode": "C106",
+    "package": "TO-92",
+    "deviceName": "KRC106",
+    "manufacturer": "KEC",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/r/krc101-krc106_r0_kec.pdf"
+  },
+  {
+    "smdCode": "C114TS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTC114TSA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114tca_dtc114te_dtc114tka_dtc114tsa_dtc114tua_rohm.pdf"
+  },
+  {
+    "smdCode": "C114YS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTC114YSA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114ye%2C_dtc114yka%2C_dtc114ysa%2C_dtc114yua_rohm.pdf"
+  },
+  {
+    "smdCode": "C124ES",
+    "package": "SPT / SC-72",
+    "deviceName": "DTC124ESA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124eca%2C_dtc124ee%2C_dtc124eka%2C_dtc124esa%2C_dtc124eua_rohm.pdf"
+  },
+  {
+    "smdCode": "C124XS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTC124XSA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124xe%2C_dtc124xka%2C_dtc124xm%2C_dtc124xsa%2C_dtc124xua_rohm.pdf"
+  },
+  {
+    "smdCode": "C125TS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTC125TSA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc125tka_dtc125tsa_dtc125tua_rohm.pdf"
+  },
+  {
+    "smdCode": "C142",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G14DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "C144GS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTC144GSA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144ge%2C_dtc144gka%2C_dtc144gsa%2C_dtc144gua_rohm.pdf"
+  },
+  {
+    "smdCode": "C144TS",
+    "package": "TO-92",
+    "deviceName": "DTC144TSA",
+    "manufacturer": "TIP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144tca%2C_dtc144te%2C_dtc144tka%2C_dtc144tm%2C_dtc144tsa%2C_dtc144tua_tip.pdf"
+  },
+  {
+    "smdCode": "C144WS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTC144WSA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114we%2C_dtc114wka%2C_dtc114wsa%2C_dtc114wua_rohm.pdf"
+  },
+  {
+    "smdCode": "C145",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G14DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "C14F",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G14DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "C14K",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G14DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "C14R",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G14DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "C1740S",
+    "package": "SPT / SC-72",
+    "deviceName": "2SC1740S",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1740s%2C_2sc2412k%2C_2sc4081%2C_2sc4617%2C_2sc5658_rohm.pdf"
+  },
+  {
+    "smdCode": "C175",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G17DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C17F",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G17DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C17H",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G17DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C17K",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G17DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C17P",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G17DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C17R",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G17DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C17S",
+    "package": "SOT-25",
+    "deviceName": "SN74LVC1G17DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C1815",
+    "package": "TO-92",
+    "deviceName": "2SC1815",
+    "manufacturer": "Toshiba",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1815_toshiba.pdf"
+  },
+  {
+    "smdCode": "C1=**",
+    "package": "WDFN-12 3x3",
+    "deviceName": "RT8020GQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8020_richtek.pdf"
+  },
+  {
+    "smdCode": "C1G",
+    "package": "SOT-23",
+    "deviceName": "KSC1623",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc1623_fairchild.pdf"
+  },
+  {
+    "smdCode": "C1L",
+    "package": "SOT-23",
+    "deviceName": "KSC1623",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc1623_fairchild.pdf"
+  },
+  {
+    "smdCode": "C1O",
+    "package": "SOT-23",
+    "deviceName": "KSC1623",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc1623_fairchild.pdf"
+  },
+  {
+    "smdCode": "C1Y",
+    "package": "SOT-23",
+    "deviceName": "KSC1623",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc1623_fairchild.pdf"
+  }
+]

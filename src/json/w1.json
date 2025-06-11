@@ -1,0 +1,210 @@
+[
+  {
+    "smdCode": "W1",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C2V4",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "W1",
+    "package": "SOD-123",
+    "deviceName": "BZT52C2V7",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "W1",
+    "package": "SOT-23",
+    "deviceName": "BZX84C2V4",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "W1",
+    "package": "SOT-23",
+    "deviceName": "BZX84C2V4-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "W1***",
+    "package": "SOT-25",
+    "deviceName": "APX823-46W5",
+    "manufacturer": "Diodes",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apx823%2C_apx824%2C_apx825a_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "W1-",
+    "package": "SOT-23",
+    "deviceName": "BFT92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bft92_nxp.pdf"
+  },
+  {
+    "smdCode": "W10",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA27V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "W11",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA30V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "W12",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA33V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "W12*",
+    "package": "SOT-26",
+    "deviceName": "APW7212CT",
+    "manufacturer": "Anpec",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apw7212_r2.a_anpec.pdf"
+  },
+  {
+    "smdCode": "W13",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA36V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "W14",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA39V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "W15",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA43V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "W15",
+    "package": "SOT-323",
+    "deviceName": "PDTC115EU",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W16",
+    "package": "SOT-23",
+    "deviceName": "CMPZDA47V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpzda2v4-cmpzda47v_central.pdf"
+  },
+  {
+    "smdCode": "W16",
+    "package": "SOT-23",
+    "deviceName": "PDTC114ET",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc114ee%2C_pdtc114em%2C_pdtc114et%2C_pdtc114eu_nxp.pdf"
+  },
+  {
+    "smdCode": "W17",
+    "package": "SOT-23",
+    "deviceName": "PDTC124ET",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W18F",
+    "package": "SOT-26",
+    "deviceName": "MIC3291-18YD6",
+    "manufacturer": "Micrel",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic3291_201010_micrel.pdf"
+  },
+  {
+    "smdCode": "W19",
+    "package": "SOT-23",
+    "deviceName": "PDTA143ZT",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta143ze%2C_pdta143zm%2C_pdta143zt%2C_pdta143zu_nxp.pdf"
+  },
+  {
+    "smdCode": "W1A",
+    "package": "SOT-323",
+    "deviceName": "PMST3904",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmst3904_nxp.pdf"
+  },
+  {
+    "smdCode": "W1D",
+    "package": "SOT-23",
+    "deviceName": "PMBTA42",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbta42_philips.pdf"
+  },
+  {
+    "smdCode": "W1T",
+    "package": "SOT-23",
+    "deviceName": "PDTD123TT",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtd123tk%2C_pdtd123ts%2C_pdtd123tt_nxp.pdf"
+  },
+  {
+    "smdCode": "W1W",
+    "package": "SOT-23",
+    "deviceName": "BFT92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bft92_nxp.pdf"
+  },
+  {
+    "smdCode": "W1p",
+    "package": "SOT-23",
+    "deviceName": "BFT92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bft92_nxp.pdf"
+  },
+  {
+    "smdCode": "W1s",
+    "package": "SOT-363",
+    "deviceName": "BCR10PN",
+    "manufacturer": "Infineon",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr10pn_infineon.pdf"
+  },
+  {
+    "smdCode": "W1t",
+    "package": "SOT-23",
+    "deviceName": "BFT92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bft92_nxp.pdf"
+  }
+]

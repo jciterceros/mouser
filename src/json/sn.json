@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "SN",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B30",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "SN",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K461A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "SNNB",
+    "package": "SOT-25",
+    "deviceName": "LM3674MF-1.875",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3674_ti.pdf"
+  }
+]

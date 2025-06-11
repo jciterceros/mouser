@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "AQ",
+    "package": "SOT-89",
+    "deviceName": "2SB766",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb766_galaxy.pdf"
+  },
+  {
+    "smdCode": "AQ",
+    "package": "SOT-523",
+    "deviceName": "2SC4618",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4618_tip.pdf"
+  },
+  {
+    "smdCode": "AQ",
+    "package": "SOT-323",
+    "deviceName": "MIC803-44D3VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AQ",
+    "package": "SOT-23",
+    "deviceName": "MIC803-44D3VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AQ*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-KCPQWC",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AQ*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9012-PPPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9012_richtek.pdf"
+  },
+  {
+    "smdCode": "AQ-**",
+    "package": "SOT-323",
+    "deviceName": "RT9818C-25PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AQ-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-PMPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AQ-***",
+    "package": "SOT-343",
+    "deviceName": "RT9818A-27PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AQA",
+    "package": "MSOP-10",
+    "deviceName": "AD8592ARM",
+    "manufacturer": "Analog Devices",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/ad8591%2C_ad8592%2C_ad8594_analog.pdf"
+  },
+  {
+    "smdCode": "AQA#",
+    "package": "MSOP-10",
+    "deviceName": "AD8592ARMZ",
+    "manufacturer": "Analog Devices",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/ad8591%2C_ad8592%2C_ad8594_analog.pdf"
+  },
+  {
+    "smdCode": "AQO",
+    "package": "SOT-23",
+    "deviceName": "KTC3880",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3880_galaxy.pdf"
+  },
+  {
+    "smdCode": "AQR",
+    "package": "SOT-23",
+    "deviceName": "KTC3880",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3880_galaxy.pdf"
+  },
+  {
+    "smdCode": "AQY",
+    "package": "SOT-23",
+    "deviceName": "KTC3880",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3880_galaxy.pdf"
+  }
+]

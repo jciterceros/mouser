@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "4S204AIL",
+    "package": "TSSOP-16",
+    "deviceName": "ICS854S204AGILF",
+    "manufacturer": "IDT",
+    "data": "Low Skew, Dual, 1-to-2 Differential-to-LVDS, LVPECL Fanout Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/c/ics854s204i_idt.pdf"
+  }
+]

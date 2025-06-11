@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "AX",
+    "package": "SOT-323",
+    "deviceName": "MIC803-30D3VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AX",
+    "package": "SOT-23",
+    "deviceName": "MIC803-30D3VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AX",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5238B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AX",
+    "package": "SMA",
+    "deviceName": "SMAJ10A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "AX",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ10A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "AX",
+    "package": "SMB",
+    "deviceName": "SMBJ10CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "AX*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-SSPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AX-",
+    "package": "SOT-89",
+    "deviceName": "RT9261A-50PX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "AX-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-25PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AX-***",
+    "package": "SOT-26",
+    "deviceName": "RT9284B-15PJ6E",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "AX-***",
+    "package": "SOT-343",
+    "deviceName": "RT9819A-39PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "AX=***",
+    "package": "SOT-26",
+    "deviceName": "RT9284B-15GJ6E",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  }
+]

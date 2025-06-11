@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "58",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z5V1",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "589",
+    "package": "SOT-23",
+    "deviceName": "MMBT589",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt589_tip.pdf"
+  }
+]

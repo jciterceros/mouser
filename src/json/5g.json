@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "5G",
+    "package": "SOT-23",
+    "deviceName": "BC808-40",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807%2C_bc808_general.pdf"
+  },
+  {
+    "smdCode": "5G",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z11V",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  }
+]

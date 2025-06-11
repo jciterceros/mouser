@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "YJ",
+    "package": "SOT-23",
+    "deviceName": "CZMK27",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "YJ",
+    "package": "2-2HA1A",
+    "deviceName": "RN2109F",
+    "manufacturer": "Toshiba",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn2107f%2C_rn2108f%2C_rn2109f_toshiba.pdf"
+  },
+  {
+    "smdCode": "YJ",
+    "package": "SOT-23",
+    "deviceName": "TZT27CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "YJ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9818A-20PB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

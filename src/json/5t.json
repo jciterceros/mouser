@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "5T",
+    "package": "SOT-23",
+    "deviceName": "BCW66GR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw65%2C_bcw66_zetex.pdf"
+  },
+  {
+    "smdCode": "5T",
+    "package": "SOT-23",
+    "deviceName": "BCW68GR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw67%2C_bcw68_zetex.pdf"
+  },
+  {
+    "smdCode": "5T",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z30V",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "RS",
+    "package": "SOT-346",
+    "deviceName": "2SA1514K",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1038s%2C_2sa1514k%2C_2sa1579_rohm.pdf"
+  },
+  {
+    "smdCode": "RS",
+    "package": "SOT-323",
+    "deviceName": "2SA1579",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1579_galaxy.pdf"
+  },
+  {
+    "smdCode": "RS",
+    "package": "SOT-323",
+    "deviceName": "2SA1579",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1038s%2C_2sa1514k%2C_2sa1579_rohm.pdf"
+  },
+  {
+    "smdCode": "RS",
+    "package": "SOT-323",
+    "deviceName": "2SA1579",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1579_tip.pdf"
+  },
+  {
+    "smdCode": "RS",
+    "package": "SOT-23",
+    "deviceName": "MCP810T-300",
+    "manufacturer": "Microchip",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mcp809%2C_mcp810_microchip.pdf"
+  },
+  {
+    "smdCode": "RS",
+    "package": "SOD-323",
+    "deviceName": "PZU6.8B1A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RS",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K271A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RS**",
+    "package": "SOT-25",
+    "deviceName": "APU8836Y5-HF-3TR",
+    "manufacturer": "Apec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apu8836-hf-3_2009.10.04_apec.pdf"
+  },
+  {
+    "smdCode": "rS**",
+    "package": "SOT-25",
+    "deviceName": "APU8836Y5R-HF-3TR",
+    "manufacturer": "Apec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apu8836-hf-3_2009.10.04_apec.pdf"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "D",
+    "package": "DSBGA-5",
+    "deviceName": "LM3671TL-1.5",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  }
+]

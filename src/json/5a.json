@@ -1,0 +1,162 @@
+[
+  {
+    "smdCode": "5A",
+    "package": "SOT-23",
+    "deviceName": "BC807-16",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807%2C_bc808_general.pdf"
+  },
+  {
+    "smdCode": "5A",
+    "package": "SOT-89",
+    "deviceName": "BGA6589",
+    "manufacturer": "NXP",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/g/bga6589_nxp.pdf"
+  },
+  {
+    "smdCode": "5A",
+    "package": "SOT-23",
+    "deviceName": "FMMD6050",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmd6050_zetex.pdf"
+  },
+  {
+    "smdCode": "5A",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z9V1",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "5A",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z6V2",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "5A",
+    "package": "SOD-323",
+    "deviceName": "MMDL6050",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdl6050_galaxy.pdf"
+  },
+  {
+    "smdCode": "5A•",
+    "package": "SOT-23",
+    "deviceName": "MMBD6050",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd6050_galaxy.pdf"
+  },
+  {
+    "smdCode": "5A**",
+    "package": "SOT-23",
+    "deviceName": "ST6205AS23RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6205_stanson.pdf"
+  },
+  {
+    "smdCode": "5A**",
+    "package": "SOT-323",
+    "deviceName": "ST6205AS32RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6205_stanson.pdf"
+  },
+  {
+    "smdCode": "5A-",
+    "package": "SOT-23",
+    "deviceName": "BC807-16",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5A-",
+    "package": "SOT-323",
+    "deviceName": "BC807-16W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5A1",
+    "package": "SOT-23",
+    "deviceName": "BC807-16LT1G",
+    "manufacturer": "ON",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807-16lt1g%2C_bc807-25lt1g%2C_bc807-40lt1g_on.pdf"
+  },
+  {
+    "smdCode": "5A1",
+    "package": "SOT-346",
+    "deviceName": "PZM5.1NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "5A6",
+    "package": "SOT-346",
+    "deviceName": "PZM5.6NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "5AW",
+    "package": "SOT-23",
+    "deviceName": "BC807-16",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5AW",
+    "package": "SOT-323",
+    "deviceName": "BC807-16W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5Ap",
+    "package": "SOT-23",
+    "deviceName": "BC807-16",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5Ap",
+    "package": "SOT-323",
+    "deviceName": "BC807-16W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5At",
+    "package": "SOT-23",
+    "deviceName": "BC807-16",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5At",
+    "package": "SOT-323",
+    "deviceName": "BC807-16W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "5*",
+    "package": "UDFN-6 1.2x1.0",
+    "deviceName": "NUP5150MU",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup5150mu_on.pdf"
+  },
+  {
+    "smdCode": "5*≅",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z62V",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "5*<",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z75V",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "5*=",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z56V",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "5*>",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z68V",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  }
+]

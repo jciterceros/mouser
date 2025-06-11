@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "PN-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C51",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PN03L04",
+    "package": "TO-252-5-1",
+    "deviceName": "SPD100N03S2L-04",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spd100n03s2l-04_infineon.pdf"
+  },
+  {
+    "smdCode": "PNW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C51",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PNp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C51",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PNt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C51",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Pn",
+    "package": "SOT-25",
+    "deviceName": "BD53E25G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

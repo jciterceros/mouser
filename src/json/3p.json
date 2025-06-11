@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "3P",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_galaxy.pdf"
+  },
+  {
+    "smdCode": "3P",
+    "package": "SOD-323",
+    "deviceName": "CMDZ22L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "3P",
+    "package": "SOT-23",
+    "deviceName": "FMMT2222AR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt2222%2C_fmmt2222a%2C_fmmt2222ar%2C_fmmt2222r_zetex.pdf"
+  },
+  {
+    "smdCode": "3PG",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "UTC",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_utc.pdf"
+  },
+  {
+    "smdCode": "3PL",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "UTC",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_utc.pdf"
+  }
+]

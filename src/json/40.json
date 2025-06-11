@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "40",
+    "package": "SOT-26",
+    "deviceName": "BCR420U",
+    "manufacturer": "Infineon",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr420u%2C_bcr421u_infineon.pdf"
+  },
+  {
+    "smdCode": "40",
+    "package": "SOT-416",
+    "deviceName": "PDTC143TE",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143t_series_nxp.pdf"
+  },
+  {
+    "smdCode": "40-",
+    "package": "SOT-363",
+    "deviceName": "BAS40XY",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "404NL",
+    "package": "SO-8",
+    "deviceName": "SST404NL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst404nl%2C_sst406nl%2C_u401nl%2C_u404nl%2C_u406nl_vishay.pdf"
+  },
+  {
+    "smdCode": "406NL",
+    "package": "SO-8",
+    "deviceName": "SST406NL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst404nl%2C_sst406nl%2C_u401nl%2C_u404nl%2C_u406nl_vishay.pdf"
+  },
+  {
+    "smdCode": "40T",
+    "package": "SOT-23",
+    "deviceName": "TK71540AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "40T03GH",
+    "package": "TO-252",
+    "deviceName": "AP40T03GH-HF",
+    "manufacturer": "Apec",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap40t03gh-hf%2C_ap40t03gj-hf_20140901_apec.pdf"
+  },
+  {
+    "smdCode": "40T03GJ",
+    "package": "TO-251",
+    "deviceName": "AP40T03GJ-HF",
+    "manufacturer": "Apec",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap40t03gh-hf%2C_ap40t03gj-hf_20140901_apec.pdf"
+  },
+  {
+    "smdCode": "40T03GP",
+    "package": "TO-220",
+    "deviceName": "AP40T03GP",
+    "manufacturer": "Apec",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap40t03gs-hf%2C_ap40t03gp-hf_20150105_apec.pdf"
+  },
+  {
+    "smdCode": "40T03GS",
+    "package": "TO-263-3",
+    "deviceName": "AP40T03GS",
+    "manufacturer": "Apec",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap40t03gs-hf%2C_ap40t03gp-hf_20150105_apec.pdf"
+  },
+  {
+    "smdCode": "40W",
+    "package": "SOT-363",
+    "deviceName": "BAS40XY",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "40p",
+    "package": "SOT-363",
+    "deviceName": "BAS40XY",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "40t",
+    "package": "SOT-363",
+    "deviceName": "BAS40XY",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  }
+]

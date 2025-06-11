@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "AU",
+    "package": "SOT-323",
+    "deviceName": "MIC803-46D4VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AU",
+    "package": "SOT-23",
+    "deviceName": "MIC803-46D4VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AU*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-KLGQWC",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AU*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-MMPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AU-**",
+    "package": "VQFN-16 3x3",
+    "deviceName": "RT8805CPQV",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8805c_richtek.pdf"
+  },
+  {
+    "smdCode": "AU-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-30PU5R",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AU-***",
+    "package": "SOT-343",
+    "deviceName": "RT9818C-26PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AU5*",
+    "package": "SOT-89",
+    "deviceName": "ELM9745CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "AU8*",
+    "package": "SOT-89",
+    "deviceName": "ELM9748CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "AU=**",
+    "package": "VQFN-16 3x3",
+    "deviceName": "RT8805CGQV",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8805c_richtek.pdf"
+  },
+  {
+    "smdCode": "AU=**",
+    "package": "SOT-323",
+    "deviceName": "RT9818B-27GU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AUs",
+    "package": "SOT-23",
+    "deviceName": "BAT18-04",
+    "manufacturer": "Infineon",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat18_series_19991007_infineon.pdf"
+  }
+]

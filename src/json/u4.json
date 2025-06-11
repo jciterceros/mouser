@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "U4",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "U4",
+    "package": "SOD-323F",
+    "deviceName": "CZRF3V0B-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "U4*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B352NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "U4**",
+    "package": "SOT-25",
+    "deviceName": "TC74A4-5.0VCT",
+    "manufacturer": "Microchip",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc74_microchip.pdf"
+  },
+  {
+    "smdCode": "U41",
+    "package": "WEMT6",
+    "deviceName": "ES6U41",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/es6u41_rohm.pdf"
+  },
+  {
+    "smdCode": "U42",
+    "package": "WEMT6",
+    "deviceName": "ES6U42",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/es6u42_rohm.pdf"
+  }
+]

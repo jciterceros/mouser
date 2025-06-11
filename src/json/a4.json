@@ -1,0 +1,394 @@
+[
+  {
+    "smdCode": "A4",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70%2C_bav74_fairchild.pdf"
+  },
+  {
+    "smdCode": "A4",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "Taitron",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_taitron.pdf"
+  },
+  {
+    "smdCode": "A4",
+    "package": "SOT-416",
+    "deviceName": "BAV70T",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4",
+    "package": "SOT-343R",
+    "deviceName": "BFU540",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfu540_philips.pdf"
+  },
+  {
+    "smdCode": "A4",
+    "package": "SOT-553",
+    "deviceName": "EMA4",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/ema4%2C_fma4a%2C_uma4n_rohm.pdf"
+  },
+  {
+    "smdCode": "A4",
+    "package": "SOT-753",
+    "deviceName": "FMA4A",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/ema4%2C_fma4a%2C_uma4n_rohm.pdf"
+  },
+  {
+    "smdCode": "A4",
+    "package": "SOT-323",
+    "deviceName": "MIC803-31D3VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "A4",
+    "package": "SOT-23",
+    "deviceName": "MIC803-31D3VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "A4",
+    "package": "X2SON-4 1x1",
+    "deviceName": "TPS3831G12DQNR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps3831%2C_tps3839_rd_ti.pdf"
+  },
+  {
+    "smdCode": "A4",
+    "package": "SOT-353",
+    "deviceName": "UMA4N",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/ema4%2C_fma4a%2C_uma4n_rohm.pdf"
+  },
+  {
+    "smdCode": "A4*",
+    "package": "SOT-23",
+    "deviceName": "HSMS-2804",
+    "manufacturer": "Agilent",
+    "data": "Schottky barrier diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsms-2800_series_agilent.pdf"
+  },
+  {
+    "smdCode": "A4*",
+    "package": "SOT-323",
+    "deviceName": "HSMS-280F",
+    "manufacturer": "Agilent",
+    "data": "Schottky barrier diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsms-2800_series_agilent.pdf"
+  },
+  {
+    "smdCode": "A4*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-KMPQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "A4**",
+    "package": "SOT-23",
+    "deviceName": "AO3404",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao3404_r10_ao.pdf"
+  },
+  {
+    "smdCode": "A4**",
+    "package": "SOT-25",
+    "deviceName": "APS1006ET5-1.2",
+    "manufacturer": "APSemi",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/aps1006_apsemi.pdf"
+  },
+  {
+    "smdCode": "A4**",
+    "package": "SOT-25",
+    "deviceName": "Si9183DT-25-T1",
+    "manufacturer": "Vishay",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9183_vishay.pdf"
+  },
+  {
+    "smdCode": "A4**B",
+    "package": "SOT-25",
+    "deviceName": "N6200M5G-1.2",
+    "manufacturer": "NIKO-SEM",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/6/n6200_niko-sem.pdf"
+  },
+  {
+    "smdCode": "A4-",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4-",
+    "package": "SOT-363",
+    "deviceName": "BAV70S",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4-",
+    "package": "SOT-323",
+    "deviceName": "BAV70W",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4-**",
+    "package": "SOT-323",
+    "deviceName": "RT9818A-38PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "A4-***",
+    "package": "SOT-25",
+    "deviceName": "RT8008PJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8008_richtek.pdf"
+  },
+  {
+    "smdCode": "A4-***",
+    "package": "SOT-23",
+    "deviceName": "RT9161-20PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "A4-***",
+    "package": "SOT-343",
+    "deviceName": "RT9198-30PY",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "A4-***",
+    "package": "SOT-25",
+    "deviceName": "RT9261A-50PB",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "A4-***",
+    "package": "SOT-26",
+    "deviceName": "RT9284B-20PJ6",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "A41",
+    "package": "SOT-23",
+    "deviceName": "1S2836",
+    "manufacturer": "TIP",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1s2835%2C_1s2836_tip.pdf"
+  },
+  {
+    "smdCode": "A41",
+    "package": "SOT-23",
+    "deviceName": "MMBD2836",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd2835%2C_mmbd2836_galaxy.pdf"
+  },
+  {
+    "smdCode": "A44",
+    "package": "SOT-23",
+    "deviceName": "MMBTA44",
+    "manufacturer": "MCC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta44_rd_mcc.pdf"
+  },
+  {
+    "smdCode": "A45A",
+    "package": "SOT-25",
+    "deviceName": "LM8261M5",
+    "manufacturer": "National",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm8261_national.pdf"
+  },
+  {
+    "smdCode": "A4775",
+    "package": "SOT-25",
+    "deviceName": "A4775E5R",
+    "manufacturer": "AiT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/4/a4775_r1.1_ait.pdf"
+  },
+  {
+    "smdCode": "A47A",
+    "package": "SOT-26",
+    "deviceName": "LMV711M6",
+    "manufacturer": "National",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv710%2C_lmv711%2C_lmv715_national.pdf"
+  },
+  {
+    "smdCode": "A48A",
+    "package": "SOT-25",
+    "deviceName": "LMV710M5",
+    "manufacturer": "National",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv710%2C_lmv711%2C_lmv715_national.pdf"
+  },
+  {
+    "smdCode": "A4=**",
+    "package": "WQFN-14 3.5x3.5",
+    "deviceName": "RT8202BGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8202_series_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "A4=***",
+    "package": "SOT-25",
+    "deviceName": "RT8008GJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8008_richtek.pdf"
+  },
+  {
+    "smdCode": "A4=***",
+    "package": "SOT-26",
+    "deviceName": "RT9284B-20GJ6",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "A4W",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4W",
+    "package": "SOT-363",
+    "deviceName": "BAV70S",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4W",
+    "package": "SOT-323",
+    "deviceName": "BAV70W",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4p",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4p",
+    "package": "SOT-363",
+    "deviceName": "BAV70S",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4p",
+    "package": "SOT-323",
+    "deviceName": "BAV70W",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4s",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "Infineon",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_09192007_infineon.pdf"
+  },
+  {
+    "smdCode": "A4s",
+    "package": "SOT-363",
+    "deviceName": "BAV70S",
+    "manufacturer": "Infineon",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_09192007_infineon.pdf"
+  },
+  {
+    "smdCode": "A4s",
+    "package": "SOT-26",
+    "deviceName": "BAV70U",
+    "manufacturer": "Infineon",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_09192007_infineon.pdf"
+  },
+  {
+    "smdCode": "A4s",
+    "package": "SOT-323",
+    "deviceName": "BAV70W",
+    "manufacturer": "Infineon",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_09192007_infineon.pdf"
+  },
+  {
+    "smdCode": "A4t",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4t",
+    "package": "SOT-363",
+    "deviceName": "BAV70S",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "A4t",
+    "package": "SOT-323",
+    "deviceName": "BAV70W",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  }
+]

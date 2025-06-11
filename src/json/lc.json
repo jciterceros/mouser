@@ -1,0 +1,210 @@
+[
+  {
+    "smdCode": "LC",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q141D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "LC-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-32PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "LC-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819A-40PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "LC036",
+    "package": "SO-8",
+    "deviceName": "LC03-6R2",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/c/lc03-6r2_on.pdf"
+  },
+  {
+    "smdCode": "LC14A",
+    "package": "SSOP-14",
+    "deviceName": "SN74LVC14ADBR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn54lvc14a%2C_sn74lvc14a_ti.pdf"
+  },
+  {
+    "smdCode": "LC14A",
+    "package": "TVSOP-14",
+    "deviceName": "SN74LVC14ADGVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn54lvc14a%2C_sn74lvc14a_ti.pdf"
+  },
+  {
+    "smdCode": "LC14A",
+    "package": "TSSOP-14",
+    "deviceName": "SN74LVC14APW",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn54lvc14a%2C_sn74lvc14a_ti.pdf"
+  },
+  {
+    "smdCode": "LC14A",
+    "package": "QFN-14",
+    "deviceName": "SN74LVC14ARGYR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn54lvc14a%2C_sn74lvc14a_ti.pdf"
+  },
+  {
+    "smdCode": "LC32A",
+    "package": "SSOP-14",
+    "deviceName": "SN74LVC32ADB",
+    "manufacturer": "Texas Instruments",
+    "data": "OR Gates",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn54lvc32a%2C_sn74lvc32a_ti.pdf"
+  },
+  {
+    "smdCode": "LC32A",
+    "package": "TSSOP-14",
+    "deviceName": "SN74LVC32APW",
+    "manufacturer": "Texas Instruments",
+    "data": "OR Gates",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn54lvc32a%2C_sn74lvc32a_ti.pdf"
+  },
+  {
+    "smdCode": "LC32A",
+    "package": "VQFN-14 3.5x3.5",
+    "deviceName": "SN74LVC32ARGY",
+    "manufacturer": "Texas Instruments",
+    "data": "OR Gates",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn54lvc32a%2C_sn74lvc32a_ti.pdf"
+  },
+  {
+    "smdCode": "LCCS",
+    "package": "QFN-16",
+    "deviceName": "LTC6400-20",
+    "manufacturer": "Linear",
+    "data": "ADC Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc6400-20_linear.pdf"
+  },
+  {
+    "smdCode": "LCEA",
+    "package": "SOT-25",
+    "deviceName": "LP2985AIM5X-2.6",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "LCGM",
+    "package": "DFN-6 2x3",
+    "deviceName": "LT1933IDCB",
+    "manufacturer": "Linear",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1933_re_linear.pdf"
+  },
+  {
+    "smdCode": "LCGN",
+    "package": "DFN-6 2x3",
+    "deviceName": "LT1933HDCB",
+    "manufacturer": "Linear",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1933_re_linear.pdf"
+  },
+  {
+    "smdCode": "LCPP",
+    "package": "DFN-10 3x3",
+    "deviceName": "LTC4413-1",
+    "manufacturer": "Linear",
+    "data": "Fast Ideal Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc4413_linear.pdf"
+  },
+  {
+    "smdCode": "LCPQ",
+    "package": "DFN-10 3x3",
+    "deviceName": "LTC4413-2",
+    "manufacturer": "Linear",
+    "data": "Fast Ideal Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc4413_linear.pdf"
+  },
+  {
+    "smdCode": "LCS**",
+    "package": "SOT-25",
+    "deviceName": "NCP500SN18T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LCT**",
+    "package": "SOT-25",
+    "deviceName": "NCP500SN25T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LCU**",
+    "package": "SOT-25",
+    "deviceName": "NCP500SN27T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LCV**",
+    "package": "SOT-25",
+    "deviceName": "NCP500SN28T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LCW**",
+    "package": "SOT-25",
+    "deviceName": "NCP500SN30T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LCWZ",
+    "package": "DFN-10",
+    "deviceName": "LTC4151",
+    "manufacturer": "Linear",
+    "data": "Current and voltage monitor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc4151_linear.pdf"
+  },
+  {
+    "smdCode": "LCX**",
+    "package": "SOT-25",
+    "deviceName": "NCP500SN33T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LCXC",
+    "package": "DFN-10",
+    "deviceName": "LTC4151-1",
+    "manufacturer": "Linear",
+    "data": "Current and voltage monitor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc4151_linear.pdf"
+  },
+  {
+    "smdCode": "LCY**",
+    "package": "SOT-25",
+    "deviceName": "NCP500SN50T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "E6",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "E6",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "E6",
+    "package": "SOT-23",
+    "deviceName": "ZC2800E",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc2800e%2C_zc2811e%2C_zc5800e_zetex.pdf"
+  },
+  {
+    "smdCode": "E6*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-GPPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "E6**",
+    "package": "SOT-26",
+    "deviceName": "TC1072-5.0VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "E6-**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9026PQW",
+    "manufacturer": "Richtek",
+    "data": "Bus Termination Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9026_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "E61",
+    "package": "SOT-353",
+    "deviceName": "RSA6.1EN",
+    "manufacturer": "ROHM",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/s/rsa6.1en_rc_rohm.pdf"
+  },
+  {
+    "smdCode": "E62",
+    "package": "SOT-323",
+    "deviceName": "ESDA6V1-5W6",
+    "manufacturer": "STMicroelectronics",
+    "data": "Transil Array For ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esda6v1-5w6_st.pdf"
+  },
+  {
+    "smdCode": "E66",
+    "package": "SOT-346",
+    "deviceName": "DTC144VKA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144vka%2C_dtc144vua_rohm.pdf"
+  },
+  {
+    "smdCode": "E6=**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9026GQW",
+    "manufacturer": "Richtek",
+    "data": "Bus Termination Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9026_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "E6S",
+    "package": "SOT-25",
+    "deviceName": "AZV331KTR-E1",
+    "manufacturer": "Diodes",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/azv331_r2-0_diodes.pdf"
+  }
+]

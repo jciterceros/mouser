@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "1H",
+    "package": "SOT-23",
+    "deviceName": "FMMTA05",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmta05%2C_fmmta06_zetex.pdf"
+  },
+  {
+    "smdCode": "1H",
+    "package": "SOT-23",
+    "deviceName": "KST05",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst05%2C_kst06_fairchild.pdf"
+  },
+  {
+    "smdCode": "1H",
+    "package": "SOT-23",
+    "deviceName": "MMBTA05",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta05%2C_mmbta06_galaxy.pdf"
+  },
+  {
+    "smdCode": "1H",
+    "package": "SOT-23",
+    "deviceName": "MMBTA05",
+    "manufacturer": "TS",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta05_ts.pdf"
+  },
+  {
+    "smdCode": "1H-",
+    "package": "SOT-23",
+    "deviceName": "BC847",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1H-",
+    "package": "SOT-323",
+    "deviceName": "BC847W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1HW",
+    "package": "SOT-23",
+    "deviceName": "BC847",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1HW",
+    "package": "SOT-323",
+    "deviceName": "BC847W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Hp",
+    "package": "SOT-23",
+    "deviceName": "BC847",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Hp",
+    "package": "SOT-323",
+    "deviceName": "BC847W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Ht",
+    "package": "SOT-23",
+    "deviceName": "BC847",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Ht",
+    "package": "SOT-323",
+    "deviceName": "BC847W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  }
+]

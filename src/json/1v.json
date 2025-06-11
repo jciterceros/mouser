@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "1V",
+    "package": "SOT-23",
+    "deviceName": "BF820",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf820%2C_bf822_general.pdf"
+  },
+  {
+    "smdCode": "1V",
+    "package": "SOT-23",
+    "deviceName": "MMBT6427",
+    "manufacturer": "Fairchild",
+    "data": "NPN Darlington transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n6427%2C_mmbt6427_fairchild.pdf"
+  },
+  {
+    "smdCode": "1V-",
+    "package": "SOT-323",
+    "deviceName": "BF820W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf820w_philips.pdf"
+  },
+  {
+    "smdCode": "1V=***",
+    "package": "SOT-25",
+    "deviceName": "RT9715BGB",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "1VW",
+    "package": "SOT-323",
+    "deviceName": "BF820W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf820w_philips.pdf"
+  },
+  {
+    "smdCode": "1Vp",
+    "package": "SOT-323",
+    "deviceName": "BF820W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf820w_philips.pdf"
+  },
+  {
+    "smdCode": "1Vt",
+    "package": "SOT-323",
+    "deviceName": "BF820W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf820w_philips.pdf"
+  }
+]

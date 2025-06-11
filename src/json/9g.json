@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "9GA",
+    "package": "SOT-23",
+    "deviceName": "BC808-16",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807%2C_bc808_fairchild.pdf"
+  },
+  {
+    "smdCode": "9GB",
+    "package": "SOT-23",
+    "deviceName": "BC808-25",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807%2C_bc808_fairchild.pdf"
+  },
+  {
+    "smdCode": "9GC",
+    "package": "SOT-23",
+    "deviceName": "BC808-40",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807%2C_bc808_fairchild.pdf"
+  }
+]

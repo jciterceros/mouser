@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "-60",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-61",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-62",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-63",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-64",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-65",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-66",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-67",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-69",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A15",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-6D",
+    "package": "SOT-323",
+    "deviceName": "2PD601AQW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "-6E",
+    "package": "SOT-323",
+    "deviceName": "2PD601ARW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "-6F",
+    "package": "SOT-323",
+    "deviceName": "2PD601ASW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  }
+]

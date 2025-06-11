@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "7C",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2516",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "7C-",
+    "package": "SOT-23",
+    "deviceName": "MMBT2222A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222a_nxp.pdf"
+  },
+  {
+    "smdCode": "7CW",
+    "package": "SOT-23",
+    "deviceName": "MMBT2222A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222a_nxp.pdf"
+  },
+  {
+    "smdCode": "7Cp",
+    "package": "SOT-23",
+    "deviceName": "MMBT2222A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222a_nxp.pdf"
+  },
+  {
+    "smdCode": "7Ct",
+    "package": "SOT-23",
+    "deviceName": "MMBT2222A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222a_nxp.pdf"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "LE",
+    "package": "SMB",
+    "deviceName": "1SMB12AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "LE",
+    "package": "SOT-23",
+    "deviceName": "2SC3052",
+    "manufacturer": "GME",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3052_ra_gme.pdf"
+  },
+  {
+    "smdCode": "LE",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q161D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "LE",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ12A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "LE",
+    "package": "SMB",
+    "deviceName": "SMBJ12A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "LE*",
+    "package": "QFN-6 2x2",
+    "deviceName": "NCP500SQL25T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LE**",
+    "package": "SOT-323",
+    "deviceName": "Si1305EDL",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1305edl_vishay.pdf"
+  },
+  {
+    "smdCode": "LE-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-29PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "LE-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818F-38PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "LE45G",
+    "package": "SOT-26",
+    "deviceName": "L5200G-45-AG6",
+    "manufacturer": "UTC",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/5/l5200_20141229_utc.pdf"
+  },
+  {
+    "smdCode": "LE50G",
+    "package": "SOT-26",
+    "deviceName": "L5200G-50-AG6",
+    "manufacturer": "UTC",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/5/l5200_20141229_utc.pdf"
+  },
+  {
+    "smdCode": "LEADG",
+    "package": "SOT-26",
+    "deviceName": "L5200G-AD-AG6",
+    "manufacturer": "UTC",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/5/l5200_20141229_utc.pdf"
+  },
+  {
+    "smdCode": "LEJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB18A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LEP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB18A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "LEV***",
+    "package": "SOT-25",
+    "deviceName": "NCP561SN18T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp561_on.pdf"
+  },
+  {
+    "smdCode": "LEX***",
+    "package": "SOT-25",
+    "deviceName": "NCP561SN27T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp561_on.pdf"
+  },
+  {
+    "smdCode": "LEs",
+    "package": "SOT-23",
+    "deviceName": "BF660",
+    "manufacturer": "Siemens",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf660_siemens.pdf"
+  }
+]

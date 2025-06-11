@@ -1,0 +1,306 @@
+[
+  {
+    "smdCode": "13",
+    "package": "SOT-416",
+    "deviceName": "DTA143EE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143ee%2C_dta143eka%2C_dta143em%2C_dta143esa%2C_dta143eua_rohm.pdf"
+  },
+  {
+    "smdCode": "13",
+    "package": "SOT-346",
+    "deviceName": "DTA143EKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143ee%2C_dta143eka%2C_dta143em%2C_dta143esa%2C_dta143eua_rohm.pdf"
+  },
+  {
+    "smdCode": "13",
+    "package": "VMT3",
+    "deviceName": "DTA143EM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143ee%2C_dta143eka%2C_dta143em%2C_dta143esa%2C_dta143eua_rohm.pdf"
+  },
+  {
+    "smdCode": "13",
+    "package": "SOT-323",
+    "deviceName": "DTA143EUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143ee%2C_dta143eka%2C_dta143em%2C_dta143esa%2C_dta143eua_rohm.pdf"
+  },
+  {
+    "smdCode": "13",
+    "package": "UMT3F",
+    "deviceName": "DTA143EUB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143eub_rohm.pdf"
+  },
+  {
+    "smdCode": "13",
+    "package": "SOT-23",
+    "deviceName": "MMBD1503",
+    "manufacturer": "Fairchild",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1501%2C_mmbd1503%2C_mmbd1504%2C_mmbd1505_fairchild.pdf"
+  },
+  {
+    "smdCode": "13",
+    "package": "SOT-23",
+    "deviceName": "ZD13-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "13",
+    "package": "SOD-323",
+    "deviceName": "ZD13-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "13 •",
+    "package": "SOT-23",
+    "deviceName": "MTP3413N3",
+    "manufacturer": "CYStech",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtp3413n3_cystek.pdf"
+  },
+  {
+    "smdCode": "13 **",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT8068AZQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8068a_r05_richtek.pdf"
+  },
+  {
+    "smdCode": "13**",
+    "package": "SOT-23",
+    "deviceName": "MTP3415KN3",
+    "manufacturer": "CYStech",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtp3415kn3_cystek.pdf"
+  },
+  {
+    "smdCode": "13-",
+    "package": "SOT-363",
+    "deviceName": "BC847BPN",
+    "manufacturer": "NXP",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847bpn_r04_nxp.pdf"
+  },
+  {
+    "smdCode": "13-",
+    "package": "SOT-23",
+    "deviceName": "BSS84",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84_r06_nxp.pdf"
+  },
+  {
+    "smdCode": "13003",
+    "package": "SOT-89",
+    "deviceName": "3DD13003",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/3/d/3dd13003_galaxy.pdf"
+  },
+  {
+    "smdCode": "1301",
+    "package": "SOT-26",
+    "deviceName": "PT1301E23F",
+    "manufacturer": "PowTech",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt1301_r3.2_powtech.pdf"
+  },
+  {
+    "smdCode": "1308A",
+    "package": "SO-8",
+    "deviceName": "LT1308ACS8",
+    "manufacturer": "Linear",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1308a_lt1308b_rb_linear.pdf"
+  },
+  {
+    "smdCode": "1308AI",
+    "package": "SO-8",
+    "deviceName": "LT1308AIS8",
+    "manufacturer": "Linear",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1308a_lt1308b_rb_linear.pdf"
+  },
+  {
+    "smdCode": "1308B",
+    "package": "SO-8",
+    "deviceName": "LT1308BCS8",
+    "manufacturer": "Linear",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1308a_lt1308b_rb_linear.pdf"
+  },
+  {
+    "smdCode": "1308BI",
+    "package": "SO-8",
+    "deviceName": "LT1308BIS8",
+    "manufacturer": "Linear",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1308a_lt1308b_rb_linear.pdf"
+  },
+  {
+    "smdCode": "130P03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC130P03LS G",
+    "manufacturer": "Infineon",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc130p03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "132",
+    "package": "SOT-323",
+    "deviceName": "DTA123JUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123je%2C_dta123jka%2C_dta123jm%2C_dta123jsa%2C_dta123jua_rohm.pdf"
+  },
+  {
+    "smdCode": "132",
+    "package": "UMT3F",
+    "deviceName": "DTA123JUB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123jub_rohm.pdf"
+  },
+  {
+    "smdCode": "133G",
+    "package": "SOT-343",
+    "deviceName": "LR9101G-33-AL4-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "133L",
+    "package": "SOT-343",
+    "deviceName": "LR9101L-33-AL4-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "138",
+    "package": "SOT-323",
+    "deviceName": "BSS138W",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss138w_fairchild.pdf"
+  },
+  {
+    "smdCode": "1392B",
+    "package": "SO-8",
+    "deviceName": "NCP1392BDR2G",
+    "manufacturer": "ON",
+    "data": "Half-bridge driver with inbuilt oscillator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1392b_on.pdf"
+  },
+  {
+    "smdCode": "13A",
+    "package": "SMB",
+    "deviceName": "1.5SMC13AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "13A",
+    "package": "SOT-346",
+    "deviceName": "PZM13NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "13N03LA",
+    "package": "TO-252-3-11",
+    "deviceName": "IPD13N03LA",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipd13n03la%2C_ipu13n03la_infineon.pdf"
+  },
+  {
+    "smdCode": "13N03LA",
+    "package": "TO-251-3-21",
+    "deviceName": "IPU13N03LA",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipd13n03la%2C_ipu13n03la_infineon.pdf"
+  },
+  {
+    "smdCode": "13W",
+    "package": "SOT-363",
+    "deviceName": "BC847BPN",
+    "manufacturer": "NXP",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847bpn_r04_nxp.pdf"
+  },
+  {
+    "smdCode": "13W",
+    "package": "SOT-23",
+    "deviceName": "BSS84",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84_r06_nxp.pdf"
+  },
+  {
+    "smdCode": "13W",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA36V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  },
+  {
+    "smdCode": "13Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C13",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "13p",
+    "package": "SOT-363",
+    "deviceName": "BC847BPN",
+    "manufacturer": "NXP",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847bpn_r04_nxp.pdf"
+  },
+  {
+    "smdCode": "13p",
+    "package": "SOT-23",
+    "deviceName": "BSS84",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84_r06_nxp.pdf"
+  },
+  {
+    "smdCode": "13t",
+    "package": "SOT-363",
+    "deviceName": "BC847BPN",
+    "manufacturer": "NXP",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847bpn_r04_nxp.pdf"
+  },
+  {
+    "smdCode": "13t",
+    "package": "SOT-23",
+    "deviceName": "BSS84",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84_r06_nxp.pdf"
+  }
+]

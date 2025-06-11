@@ -1,0 +1,162 @@
+[
+  {
+    "smdCode": "ZR",
+    "package": "SOT-346",
+    "deviceName": "2PD601AR",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "ZR",
+    "package": "SOT-323",
+    "deviceName": "2SD1819A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1819a_galaxy.pdf"
+  },
+  {
+    "smdCode": "ZR",
+    "package": "SOT-23",
+    "deviceName": "2SD601A",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd601a_tip.pdf"
+  },
+  {
+    "smdCode": "ZR",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C39",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZR",
+    "package": "SOD-323",
+    "deviceName": "PDZ27B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZR",
+    "package": "SMA",
+    "deviceName": "SMAJ75CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "ZR431L01",
+    "package": "TO-92",
+    "deviceName": "ZR431LC01L",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zr431l_zetex.pdf"
+  },
+  {
+    "smdCode": "ZR431L02",
+    "package": "TO-92",
+    "deviceName": "ZR431LC02L",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zr431l_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC50001",
+    "package": "TO-92",
+    "deviceName": "ZRC500A01",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC50001",
+    "package": "SO-8",
+    "deviceName": "ZRC500N01",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC50001",
+    "package": "E-Line",
+    "deviceName": "ZRC500Y01",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC50002",
+    "package": "TO-92",
+    "deviceName": "ZRC500A02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC50002",
+    "package": "SO-8",
+    "deviceName": "ZRC500N02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC50002",
+    "package": "E-Line",
+    "deviceName": "ZRC500Y02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC50003",
+    "package": "TO-92",
+    "deviceName": "ZRC500A03",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC50003",
+    "package": "SO-8",
+    "deviceName": "ZRC500N03",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC50003",
+    "package": "E-Line",
+    "deviceName": "ZRC500Y03",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC500R1",
+    "package": "TO-92",
+    "deviceName": "ZRC500R01",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC500R2",
+    "package": "TO-92",
+    "deviceName": "ZRC500R02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  },
+  {
+    "smdCode": "ZRC500R3",
+    "package": "TO-92",
+    "deviceName": "ZRC500R03",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zrc500_zetex.pdf"
+  }
+]

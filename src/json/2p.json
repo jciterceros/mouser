@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "2P",
+    "package": "SOD-323",
+    "deviceName": "CMDZ20L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "2P",
+    "package": "SOT-23",
+    "deviceName": "FMMT2222R",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt2222%2C_fmmt2222a%2C_fmmt2222ar%2C_fmmt2222r_zetex.pdf"
+  },
+  {
+    "smdCode": "2P",
+    "package": "SOT-23",
+    "deviceName": "KST5086",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst5086%2C_kst5087_fairchild.pdf"
+  },
+  {
+    "smdCode": "2P02",
+    "package": "SOT-26",
+    "deviceName": "ZXM62P02E6",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxm62p02e6_zetex.pdf"
+  }
+]

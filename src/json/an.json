@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "AN",
+    "package": "SOT-523",
+    "deviceName": "2SC4618",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4618_tip.pdf"
+  },
+  {
+    "smdCode": "AN",
+    "package": "SOT-891",
+    "deviceName": "74AHC1G126GF",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g126%2C_74ahct1g126_r8_nxp.pdf"
+  },
+  {
+    "smdCode": "AN",
+    "package": "SOT-886",
+    "deviceName": "74AHC1G126GM",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g126%2C_74ahct1g126_r8_nxp.pdf"
+  },
+  {
+    "smdCode": "AN",
+    "package": "SOT-353",
+    "deviceName": "74AHC1G126GW",
+    "manufacturer": "NXP",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g126%2C_74ahct1g126_r8_nxp.pdf"
+  },
+  {
+    "smdCode": "AN",
+    "package": "SOT-323",
+    "deviceName": "MIC803-41D4VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AN",
+    "package": "SOT-23",
+    "deviceName": "MIC803-41D4VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AN",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5235B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AN*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-SKPQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AN**",
+    "package": "SOT-23",
+    "deviceName": "AO3420",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao3420_r2.0_ao.pdf"
+  },
+  {
+    "smdCode": "AN-***",
+    "package": "SOT-353",
+    "deviceName": "RT9193-27PU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "AN-***",
+    "package": "SOT-343",
+    "deviceName": "RT9198-35PY",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AN-***",
+    "package": "SOT-323",
+    "deviceName": "RT9819B-25PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "ANN",
+    "package": "SOT-346",
+    "deviceName": "2SC4061K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4061k%2C_2sc3415s%2C_2sc4015_rohm.pdf"
+  },
+  {
+    "smdCode": "ANP",
+    "package": "SOT-346",
+    "deviceName": "2SC4061K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4061k%2C_2sc3415s%2C_2sc4015_rohm.pdf"
+  },
+  {
+    "smdCode": "ANs",
+    "package": "SOT-343",
+    "deviceName": "BFP450",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfp450_infineon.pdf"
+  },
+  {
+    "smdCode": "An",
+    "package": "SOT-25",
+    "deviceName": "BD48E33G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "An",
+    "package": "SOT-23",
+    "deviceName": "BD48K33G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

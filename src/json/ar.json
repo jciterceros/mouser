@@ -1,0 +1,170 @@
+[
+  {
+    "smdCode": "AR",
+    "package": "SOT-89",
+    "deviceName": "2SB766",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb766_galaxy.pdf"
+  },
+  {
+    "smdCode": "AR",
+    "package": "SOT-23",
+    "deviceName": "BCW60CR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw60_zetex.pdf"
+  },
+  {
+    "smdCode": "AR",
+    "package": "SOD-323",
+    "deviceName": "CMDZ43L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "AR",
+    "package": "SOT-323",
+    "deviceName": "MIC803-44D4VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AR",
+    "package": "SOT-23",
+    "deviceName": "MIC803-44D4VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AR",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5237B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AR",
+    "package": "SMA",
+    "deviceName": "SMAJ8.0A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "AR",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ8.0A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "AR",
+    "package": "SMB",
+    "deviceName": "SMBJ8.0CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "AR*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-GMGQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AR*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9012-JMPQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9012_richtek.pdf"
+  },
+  {
+    "smdCode": "AR-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-PPPJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AR-***",
+    "package": "SOT-353",
+    "deviceName": "RT9193-2HPU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "AR-***",
+    "package": "SOT-343",
+    "deviceName": "RT9818A-13PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AR-***",
+    "package": "SOT-323",
+    "deviceName": "RT9819B-29PU3",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "AR1",
+    "package": "SOT-89",
+    "deviceName": "BSR40",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr40%2C_bsr41%2C_bsr42%2C_bsr43_galaxy.pdf"
+  },
+  {
+    "smdCode": "AR2",
+    "package": "SOT-89",
+    "deviceName": "BSR41",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr40%2C_bsr41%2C_bsr42%2C_bsr43_galaxy.pdf"
+  },
+  {
+    "smdCode": "AR3",
+    "package": "SOT-89",
+    "deviceName": "BSR42",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr40%2C_bsr41%2C_bsr42%2C_bsr43_galaxy.pdf"
+  },
+  {
+    "smdCode": "AR4",
+    "package": "SOT-89",
+    "deviceName": "BSR43",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr40%2C_bsr41%2C_bsr42%2C_bsr43_galaxy.pdf"
+  },
+  {
+    "smdCode": "Ar",
+    "package": "SOT-25",
+    "deviceName": "BD48E35G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ar",
+    "package": "SOT-23",
+    "deviceName": "BD48K35G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

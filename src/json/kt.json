@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "KT",
+    "package": "SMB",
+    "deviceName": "1SMB8.5AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "KT",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ8.5A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "KT",
+    "package": "SMB",
+    "deviceName": "SMBJ8.5A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "KT-***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-28PV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "KT2",
+    "package": "SOT-23",
+    "deviceName": "BAS20",
+    "manufacturer": "Diodes",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas19-bas21_r21-2_diodes.pdf"
+  },
+  {
+    "smdCode": "KT3",
+    "package": "SOT-23",
+    "deviceName": "BAS21",
+    "manufacturer": "Diodes",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas19-bas21_r21-2_diodes.pdf"
+  },
+  {
+    "smdCode": "KT=***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-28GV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "KTJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB12A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "KTP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB12A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "Z0",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5223B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "Z0",
+    "package": "SOD-323",
+    "deviceName": "PDZ2.4B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Z0",
+    "package": "SOT-23",
+    "deviceName": "SST310",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/3/j308%2C_j309%2C_j310%2C_sst308%2C_sst309%2C_sst310%2C_u309%2C_u310_vishay.pdf"
+  },
+  {
+    "smdCode": "Z01",
+    "package": "SOT-25",
+    "deviceName": "QSZ1",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qsz1_rohm.pdf"
+  },
+  {
+    "smdCode": "Z02",
+    "package": "SOT-25",
+    "deviceName": "QSZ2",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qsz2_rohm.pdf"
+  },
+  {
+    "smdCode": "Z04",
+    "package": "SOT-363",
+    "deviceName": "NC7WZ04",
+    "manufacturer": "Fairchild",
+    "data": "Inverters",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7wz04_fairchild.pdf"
+  },
+  {
+    "smdCode": "Z08",
+    "package": "SOT-353",
+    "deviceName": "NC7SZ08P5X",
+    "manufacturer": "Fairchild",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7sz08_fairchild.pdf"
+  },
+  {
+    "smdCode": "Z082",
+    "package": "TSSOP-8",
+    "deviceName": "TL082IPWR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl081%2C_tl082%2C_tl084-series_ri_ti.pdf"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "PX",
+    "package": "SMF",
+    "deviceName": "SMF48A-M",
+    "manufacturer": "Vishay",
+    "data": "ESD Protection Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smf5v0a-m-smf51a-m_vishay.pdf"
+  },
+  {
+    "smdCode": "PX-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B27",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PXAM",
+    "package": "SOT-25",
+    "deviceName": "TPS2041B-EP",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2041b-ep_ti.pdf"
+  },
+  {
+    "smdCode": "PXW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B27",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PXp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B27",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PXt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B27",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

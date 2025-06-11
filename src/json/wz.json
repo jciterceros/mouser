@@ -1,0 +1,178 @@
+[
+  {
+    "smdCode": "WZ",
+    "package": "TSLP-3-4",
+    "deviceName": "BCR142FL3",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr142_series_20060504_infineon.pdf"
+  },
+  {
+    "smdCode": "WZ",
+    "package": "SOT-523",
+    "deviceName": "BCR142T",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr142_series_20060504_infineon.pdf"
+  },
+  {
+    "smdCode": "WZ",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C47",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WZ",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WZ",
+    "package": "SOT-23",
+    "deviceName": "BZX84C47-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WZ",
+    "package": "SOD-323",
+    "deviceName": "PZU16BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WZ",
+    "package": "TSMT3",
+    "deviceName": "RSR020P03",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/s/rsr020p03_rohm.pdf"
+  },
+  {
+    "smdCode": "WZ",
+    "package": "SMA",
+    "deviceName": "SMAJ11CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "WZ***",
+    "package": "SOT-23",
+    "deviceName": "AX5505R41",
+    "manufacturer": "Axelite",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax5505_r1.1_axelite.pdf"
+  },
+  {
+    "smdCode": "WZ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193T-25PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193t_richtek.pdf"
+  },
+  {
+    "smdCode": "WZ0",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WZ08",
+    "package": "US8",
+    "deviceName": "NC7WZ08K8X",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7wz08_fairchild.pdf"
+  },
+  {
+    "smdCode": "WZ1",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WZ4",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B30",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WZ5",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B27",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WZ6",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B11",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WZ7",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WZ8",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B13",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WZ9",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B15",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WZs",
+    "package": "SOT-23",
+    "deviceName": "BCR142",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr142_series_20060504_infineon.pdf"
+  },
+  {
+    "smdCode": "WZs",
+    "package": "TSFP-3",
+    "deviceName": "BCR142F",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr142_series_20060504_infineon.pdf"
+  },
+  {
+    "smdCode": "WZs",
+    "package": "SOT-323",
+    "deviceName": "BCR142W",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr142_series_20060504_infineon.pdf"
+  }
+]

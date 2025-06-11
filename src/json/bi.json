@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "BI",
+    "package": "SOD-323",
+    "deviceName": "UDZ10B",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udz5v1b-udz15b_diodes.pdf"
+  },
+  {
+    "smdCode": "BI**",
+    "package": "SOT-363",
+    "deviceName": "Si1499DH",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1499dh_vishay.pdf"
+  },
+  {
+    "smdCode": "BI***",
+    "package": "TSOT-25",
+    "deviceName": "SY8008AACC",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8008a%2C_sy8008b%2C_sy8008c_silergy.pdf"
+  },
+  {
+    "smdCode": "BIQ",
+    "package": "QFN-8 3x3",
+    "deviceName": "TPA2005D1DRBR",
+    "manufacturer": "Texas Instruments",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpa2005d1_ti.pdf"
+  }
+]

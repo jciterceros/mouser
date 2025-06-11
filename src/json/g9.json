@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "G9",
+    "package": "SOT-553",
+    "deviceName": "EMG9",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emg9%2C_fmg9a%2C_umg9n_rohm.pdf"
+  },
+  {
+    "smdCode": "G9",
+    "package": "SOT-753",
+    "deviceName": "FMG9A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emg9%2C_fmg9a%2C_umg9n_rohm.pdf"
+  },
+  {
+    "smdCode": "G9",
+    "package": "SOD-323F",
+    "deviceName": "PZU4.3B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "G9",
+    "package": "SOT-353",
+    "deviceName": "UMG9N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emg9%2C_fmg9a%2C_umg9n_rohm.pdf"
+  },
+  {
+    "smdCode": "G9-",
+    "package": "SOT-323",
+    "deviceName": "BC847BW/DG",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "G9-",
+    "package": "SOT-89",
+    "deviceName": "RT9161A-35PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "G9-***",
+    "package": "SOT-23",
+    "deviceName": "RT9166-21PVL",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "G9941",
+    "package": "SOP-8",
+    "deviceName": "G9941F1",
+    "manufacturer": "GMT",
+    "data": "Fan Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g9941_gmt.pdf"
+  },
+  {
+    "smdCode": "G9941",
+    "package": "TO-252-5",
+    "deviceName": "G9941TJ",
+    "manufacturer": "GMT",
+    "data": "Fan Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g9941_gmt.pdf"
+  },
+  {
+    "smdCode": "G9W",
+    "package": "SOT-323",
+    "deviceName": "BC847BW/DG",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "G9p",
+    "package": "SOT-323",
+    "deviceName": "BC847BW/DG",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "G9t",
+    "package": "SOT-323",
+    "deviceName": "BC847BW/DG",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  }
+]

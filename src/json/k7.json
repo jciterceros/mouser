@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "K7",
+    "package": "SOT-323",
+    "deviceName": "2N7002W",
+    "manufacturer": "TIP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002w_tip.pdf"
+  },
+  {
+    "smdCode": "K7",
+    "package": "SOT-23",
+    "deviceName": "BCV71",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv71%2C_bcv72_zetex.pdf"
+  },
+  {
+    "smdCode": "K7",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B4V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "K7-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-30PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "K70",
+    "package": "SOT-23",
+    "deviceName": "BS870",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bs870_diodes.pdf"
+  },
+  {
+    "smdCode": "K72",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_diodes.pdf"
+  },
+  {
+    "smdCode": "K72",
+    "package": "SOT-363",
+    "deviceName": "2N7002DW",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002dw_diodes.pdf"
+  },
+  {
+    "smdCode": "K72",
+    "package": "SOT-363",
+    "deviceName": "2N7002DW",
+    "manufacturer": "TIP",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002dw_tip.pdf"
+  },
+  {
+    "smdCode": "K72",
+    "package": "SOT-23",
+    "deviceName": "2N7002K",
+    "manufacturer": "Secos",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_secos.pdf"
+  },
+  {
+    "smdCode": "K72",
+    "package": "SOT-23",
+    "deviceName": "2N7002K",
+    "manufacturer": "Panjit",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_panjit.pdf"
+  },
+  {
+    "smdCode": "K72",
+    "package": "SOT-323",
+    "deviceName": "2N7002KW",
+    "manufacturer": "Panjit",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002kw_panjit.pdf"
+  },
+  {
+    "smdCode": "K72",
+    "package": "SOT-323",
+    "deviceName": "2N7002W",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002w_r14-2_diodes.pdf"
+  },
+  {
+    "smdCode": "K7K",
+    "package": "SOT-23",
+    "deviceName": "2N7002K",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_diodes.pdf"
+  }
+]

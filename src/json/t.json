@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "T",
+    "package": "SOD-523",
+    "deviceName": "1PS79SB40",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "T",
+    "package": "SOD-523",
+    "deviceName": "BAR67-02V",
+    "manufacturer": "Infineon",
+    "data": "PIN diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar67-02v%2C_bar67-04_infineon.pdf"
+  }
+]

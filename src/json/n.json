@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "N",
+    "package": "VMN3",
+    "deviceName": "2SC6114",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc6114_rohm.pdf"
+  },
+  {
+    "smdCode": "N",
+    "package": "SOT-23",
+    "deviceName": "DAN202",
+    "manufacturer": "GME",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dan202_gme.pdf"
+  },
+  {
+    "smdCode": "N",
+    "package": "SOT-23",
+    "deviceName": "DAN202",
+    "manufacturer": "MCC",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dan202_mcc.pdf"
+  },
+  {
+    "smdCode": "N",
+    "package": "SOT-323",
+    "deviceName": "DAN202U",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dan202u_galaxy.pdf"
+  },
+  {
+    "smdCode": "N",
+    "package": "SOT-323",
+    "deviceName": "DAN202U",
+    "manufacturer": "ROHM",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dan202u_rohm.pdf"
+  },
+  {
+    "smdCode": "N",
+    "package": "SOT-323",
+    "deviceName": "DAN202U",
+    "manufacturer": "GME",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dan202u_gme.pdf"
+  },
+  {
+    "smdCode": "N",
+    "package": "SOT-523",
+    "deviceName": "DAN222",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dan222_galaxy.pdf"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "PD",
+    "package": "SOT-23",
+    "deviceName": "BSS84",
+    "manufacturer": "Taitron",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84_taitron.pdf"
+  },
+  {
+    "smdCode": "PD",
+    "package": "SOT-23",
+    "deviceName": "BSS84N3",
+    "manufacturer": "CYStech",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84n3_cystek.pdf"
+  },
+  {
+    "smdCode": "PD",
+    "package": "SOT-23",
+    "deviceName": "MTP3J15N3",
+    "manufacturer": "CYStech",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtp3j15n3_cystek.pdf"
+  },
+  {
+    "smdCode": "PD",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q431D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "PD *",
+    "package": "SOT-23",
+    "deviceName": "BSS84L",
+    "manufacturer": "ON",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84l%2C_bvss84l_r8_on.pdf"
+  },
+  {
+    "smdCode": "PD *",
+    "package": "SOT-23",
+    "deviceName": "BVSS84L",
+    "manufacturer": "ON",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84l%2C_bvss84l_r8_on.pdf"
+  },
+  {
+    "smdCode": "PD**",
+    "package": "SOT-363",
+    "deviceName": "Si1926DL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1926dl_vishay.pdf"
+  },
+  {
+    "smdCode": "PD-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C22",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PDAI",
+    "package": "SOT-23",
+    "deviceName": "TPS3809L30DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Supply voltage supervisor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps3809i50%2C_tps3809j25%2C_tps3809k33%2C_tps3809l30_ti.pdf"
+  },
+  {
+    "smdCode": "PDBI",
+    "package": "SOT-23",
+    "deviceName": "TPS3809K33DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Supply voltage supervisor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps3809i50%2C_tps3809j25%2C_tps3809k33%2C_tps3809l30_ti.pdf"
+  },
+  {
+    "smdCode": "PDCI",
+    "package": "SOT-23",
+    "deviceName": "TPS3809I50DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Supply voltage supervisor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps3809i50%2C_tps3809j25%2C_tps3809k33%2C_tps3809l30_ti.pdf"
+  },
+  {
+    "smdCode": "PDW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C22",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PDp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C22",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PDt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C22",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Pd",
+    "package": "SOT-25",
+    "deviceName": "BD52E56G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

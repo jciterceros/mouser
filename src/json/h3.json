@@ -1,0 +1,282 @@
+[
+  {
+    "smdCode": "H3",
+    "package": "DFN-8 2x2",
+    "deviceName": "APE8901GN2",
+    "manufacturer": "Apec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ape8901_20090625_apec.pdf"
+  },
+  {
+    "smdCode": "H3",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "H3",
+    "package": "EMT6",
+    "deviceName": "EMH3",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh3%2C_imh3a%2C_umh3n_rohm.pdf"
+  },
+  {
+    "smdCode": "H3",
+    "package": "SOT-26",
+    "deviceName": "IMH3A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh3%2C_imh3a%2C_umh3n_rohm.pdf"
+  },
+  {
+    "smdCode": "H3",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5243",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "H3",
+    "package": "SOD-323F",
+    "deviceName": "PZU3.3B2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "H3",
+    "package": "SOT-363",
+    "deviceName": "UMH3N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh3%2C_imh3a%2C_umh3n_rohm.pdf"
+  },
+  {
+    "smdCode": "H3*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-PMGQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "H3**",
+    "package": "SOT-26",
+    "deviceName": "APE8901Y",
+    "manufacturer": "Apec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ape8901_20090625_apec.pdf"
+  },
+  {
+    "smdCode": "H3**",
+    "package": "SOT-25",
+    "deviceName": "TC1189-RECT",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1188%2C_tc1189_20121026_microchip.pdf"
+  },
+  {
+    "smdCode": "H3-***",
+    "package": "SOT-23",
+    "deviceName": "RT9166-17PVL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "H30B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D301B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H30D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D301D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H30T90",
+    "package": "TO-247-3",
+    "deviceName": "IHW30N90T",
+    "manufacturer": "Infineon",
+    "data": "IGBT + diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/h/ihw30n90t_infineon.pdf"
+  },
+  {
+    "smdCode": "H31B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D311B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H31D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D311D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H32B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D321B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H32D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D321D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H33B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D331B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H33D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D331D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H34B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D341B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H34D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D341D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H35B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D351B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H35D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D351D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H36B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D361B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H36D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D361D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H37B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D371B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H37D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D371D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H38B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D381B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H38D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D381D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H39B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D391B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H39D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D391D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H3O",
+    "package": "SOT-23",
+    "deviceName": "KSC2757",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2757_fairchild.pdf"
+  },
+  {
+    "smdCode": "H3R",
+    "package": "SOT-23",
+    "deviceName": "KSC2757",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2757_fairchild.pdf"
+  },
+  {
+    "smdCode": "H3Y",
+    "package": "SOT-23",
+    "deviceName": "KSC2757",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2757_fairchild.pdf"
+  }
+]

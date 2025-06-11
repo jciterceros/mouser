@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "RY",
+    "package": "SOT-89",
+    "deviceName": "2SA1204",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1204_galaxy.pdf"
+  },
+  {
+    "smdCode": "RY",
+    "package": "SOT-89",
+    "deviceName": "2SA1664",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1664_galaxy.pdf"
+  },
+  {
+    "smdCode": "RY",
+    "package": "SOT-23",
+    "deviceName": "KTC3879",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3879_galaxy.pdf"
+  },
+  {
+    "smdCode": "RY",
+    "package": "SOD-323",
+    "deviceName": "PZU7.5B3A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RY",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K321A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RY1",
+    "package": "SOT-23",
+    "deviceName": "2SC2715",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2715_tip.pdf"
+  },
+  {
+    "smdCode": "Ry",
+    "package": "SOT-25",
+    "deviceName": "BD53E56G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

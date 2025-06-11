@@ -1,0 +1,330 @@
+[
+  {
+    "smdCode": "62",
+    "package": "SOT-553",
+    "deviceName": "NZQA6V2XV5T1G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/z/nzqa5v6xv5t1%2C_nzqa6v2xv5t1%2C_nzqa6v8xv5t1_on.pdf"
+  },
+  {
+    "smdCode": "62",
+    "package": "SOT-346",
+    "deviceName": "PDTA115EK",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "62",
+    "package": "SOD-323",
+    "deviceName": "UDZS3.6B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "62*",
+    "package": "SOT-363",
+    "deviceName": "NUP2202W1",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup2202w1_on.pdf"
+  },
+  {
+    "smdCode": "620-015",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6200ER-1-5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-018",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6200ER-1-8",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-025",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6200ER-2-5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-027",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6200ER-2-7",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-0285",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6200ER-2-85",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-030",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6200ER-3-0",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-033",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6200ER-3-3",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-033",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6200ER-3-3",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-035",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6200ER-3-5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-050",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6200ER-5-0",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-0ER",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6200ER",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-115",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6201ER-1-5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-118",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6201ER-1-8",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-125",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6201ER-2-5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-127",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6201ER-2-7",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-1285",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6201ER-2-85",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-130",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6201ER-3-0",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-133",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6201ER-3-3",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-135",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6201ER-3-5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-150",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6201ER-5-0",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "620-1ER",
+    "package": "DFN-8 2x3",
+    "deviceName": "SP6201ER",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "6202",
+    "package": "SO-8",
+    "deviceName": "LT6202CS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt6202%2C_lt6203%2C_lt6204_linear.pdf"
+  },
+  {
+    "smdCode": "6202I",
+    "package": "SO-8",
+    "deviceName": "LT6202IS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt6202%2C_lt6203%2C_lt6204_linear.pdf"
+  },
+  {
+    "smdCode": "6203",
+    "package": "SO-8",
+    "deviceName": "LT6203CS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt6202%2C_lt6203%2C_lt6204_linear.pdf"
+  },
+  {
+    "smdCode": "6203I",
+    "package": "SO-8",
+    "deviceName": "LT6203IS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt6202%2C_lt6203%2C_lt6204_linear.pdf"
+  },
+  {
+    "smdCode": "6204",
+    "package": "SSOP-16",
+    "deviceName": "LT6204CGN",
+    "manufacturer": "Linear",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt6202%2C_lt6203%2C_lt6204_linear.pdf"
+  },
+  {
+    "smdCode": "6204I",
+    "package": "SSOP-16",
+    "deviceName": "LT6204IGN",
+    "manufacturer": "Linear",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt6202%2C_lt6203%2C_lt6204_linear.pdf"
+  },
+  {
+    "smdCode": "624",
+    "package": "SOT-23",
+    "deviceName": "FMMT624",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt617%2C_fmmt618%2C_fmmt619%2C_fmmt624%2C_fmmt625_zetex.pdf"
+  },
+  {
+    "smdCode": "6248",
+    "package": "MSOP-16",
+    "deviceName": "LTC6248",
+    "manufacturer": "Linear",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc6246%2C_ltc6247%2C_ltc6248_linear.pdf"
+  },
+  {
+    "smdCode": "625",
+    "package": "SOT-23",
+    "deviceName": "FMMT625",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt617%2C_fmmt618%2C_fmmt619%2C_fmmt624%2C_fmmt625_zetex.pdf"
+  },
+  {
+    "smdCode": "62883BHRTZ",
+    "package": "TQFN-48 6x6",
+    "deviceName": "ISL62883BHRTZ",
+    "manufacturer": "Intersil",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl62883%2C_isl62883b_intersil.pdf"
+  },
+  {
+    "smdCode": "62883HRTZ",
+    "package": "TQFN-40 5x5",
+    "deviceName": "ISL62883HRTZ",
+    "manufacturer": "Intersil",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl62883%2C_isl62883b_intersil.pdf"
+  },
+  {
+    "smdCode": "62883IRTZ",
+    "package": "TQFN-40 5x5",
+    "deviceName": "ISL62883IRTZ",
+    "manufacturer": "Intersil",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl62883%2C_isl62883b_intersil.pdf"
+  },
+  {
+    "smdCode": "62883CHRTZ",
+    "package": "TQFN-40 5x5",
+    "deviceName": "ISL62883CHRTZ",
+    "manufacturer": "Intersil",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl62883c_intersil.pdf"
+  },
+  {
+    "smdCode": "62883CIRTZ",
+    "package": "TQFN-40 5x5",
+    "deviceName": "ISL62883CIRTZ",
+    "manufacturer": "Intersil",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl62883c_intersil.pdf"
+  },
+  {
+    "smdCode": "62A",
+    "package": "SMB",
+    "deviceName": "1.5SMC62AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "62Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C62",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  }
+]

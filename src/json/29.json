@@ -1,0 +1,234 @@
+[
+  {
+    "smdCode": "29",
+    "package": "SOT-416",
+    "deviceName": "DTC115EE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc115e_series_rohm.pdf"
+  },
+  {
+    "smdCode": "29",
+    "package": "SOT-490",
+    "deviceName": "DTC115EEB",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc115e_series_rohm.pdf"
+  },
+  {
+    "smdCode": "29",
+    "package": "SOT-346",
+    "deviceName": "DTC115EKA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc115e_series_rohm.pdf"
+  },
+  {
+    "smdCode": "29",
+    "package": "VMT3",
+    "deviceName": "DTC115EM",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc115e_series_rohm.pdf"
+  },
+  {
+    "smdCode": "29",
+    "package": "SOT-323",
+    "deviceName": "DTC115EUA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc115e_series_rohm.pdf"
+  },
+  {
+    "smdCode": "2904",
+    "package": "Micro8",
+    "deviceName": "LM2904DMR2G",
+    "manufacturer": "ON",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm258%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904a%2C_lm2904v%2C_ncv2904%2C_ncv2904v_on.pdf"
+  },
+  {
+    "smdCode": "2904",
+    "package": "Micro8",
+    "deviceName": "NCV2904DMR2G",
+    "manufacturer": "ON",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm258%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904a%2C_lm2904v%2C_ncv2904%2C_ncv2904v_on.pdf"
+  },
+  {
+    "smdCode": "2904Q1",
+    "package": "SO-8",
+    "deviceName": "LM2904QDR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "2904V",
+    "package": "SO-8",
+    "deviceName": "LM2904VDG",
+    "manufacturer": "ON",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm258%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904a%2C_lm2904v%2C_ncv2904%2C_ncv2904v_on.pdf"
+  },
+  {
+    "smdCode": "2904V",
+    "package": "SO-8",
+    "deviceName": "LM2904VDR2G",
+    "manufacturer": "ON",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm258%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904a%2C_lm2904v%2C_ncv2904%2C_ncv2904v_on.pdf"
+  },
+  {
+    "smdCode": "2904V",
+    "package": "SO-8",
+    "deviceName": "NCV2904VDR2G",
+    "manufacturer": "ON",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm258%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904a%2C_lm2904v%2C_ncv2904%2C_ncv2904v_on.pdf"
+  },
+  {
+    "smdCode": "2931AM-5.0",
+    "package": "SO-8",
+    "deviceName": "LM2931AM-5.0",
+    "manufacturer": "National",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2931_national.pdf"
+  },
+  {
+    "smdCode": "2931M-5.0",
+    "package": "SO-8",
+    "deviceName": "LM2931M-5.0",
+    "manufacturer": "National",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2931_national.pdf"
+  },
+  {
+    "smdCode": "2950CZ3.0",
+    "package": "SOT-54",
+    "deviceName": "LP2950CZ-3.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2950CZ3.3",
+    "package": "SOT-54",
+    "deviceName": "LP2950CZ-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2950CZ5.0",
+    "package": "SOT-54",
+    "deviceName": "LP2950CZ-5.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2950ACZ3.0",
+    "package": "SOT-54",
+    "deviceName": "LP2950ACZ-3.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2950ACZ3.3",
+    "package": "SOT-54",
+    "deviceName": "LP2950ACZ-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2950ACZ5.0",
+    "package": "SOT-54",
+    "deviceName": "LP2950ACZ-5.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2951ACM>D",
+    "package": "SO-8",
+    "deviceName": "LP2951ACM",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2951CM>D",
+    "package": "SO-8",
+    "deviceName": "LP2951CM",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2951ACM30>D",
+    "package": "SO-8",
+    "deviceName": "LP2951ACM-3.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2951ACM33>D",
+    "package": "SO-8",
+    "deviceName": "LP2951ACM-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2951AC",
+    "package": "WSON-8 3x3",
+    "deviceName": "LP2951ACSD",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2951ACB",
+    "package": "WSON-8 3x3",
+    "deviceName": "LP2951CSD",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2951CM30>D",
+    "package": "SO-8",
+    "deviceName": "LP2951CM-3.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "2951CM33>D",
+    "package": "SO-8",
+    "deviceName": "LP2951CM-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "29N025S",
+    "package": "TDSON-8",
+    "deviceName": "BSC029N025S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc029n025sg_infineon.pdf"
+  },
+  {
+    "smdCode": "29T",
+    "package": "SOT-23",
+    "deviceName": "TK71529AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

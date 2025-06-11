@@ -1,0 +1,194 @@
+[
+  {
+    "smdCode": "S1",
+    "package": "SOD-323",
+    "deviceName": "1N4148WS",
+    "manufacturer": "Fairchild",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/n/1n914bws%2C_1n4148ws%2C_1n4448ws_fairchild.pdf"
+  },
+  {
+    "smdCode": "S1",
+    "package": "SOT-23",
+    "deviceName": "BBY31",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/b/bby31_zetex.pdf"
+  },
+  {
+    "smdCode": "S1",
+    "package": "SOD-323",
+    "deviceName": "SD101AWS",
+    "manufacturer": "TIP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sd101aws%2C_sd101bws%2C_sd101cws_tip.pdf"
+  },
+  {
+    "smdCode": "S1",
+    "package": "SOT-23",
+    "deviceName": "SI2301",
+    "manufacturer": "MCC",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2301_mcc.pdf"
+  },
+  {
+    "smdCode": "S1",
+    "package": "SOT-23",
+    "deviceName": "SST271",
+    "manufacturer": "Vishay",
+    "data": "P-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/2/j270%2C_j271%2C_sst270%2C_sst271_vishay.pdf"
+  },
+  {
+    "smdCode": "S1*",
+    "package": "SOD-523",
+    "deviceName": "SDS511Q",
+    "manufacturer": "AUK",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sds511q_20100825_auk.pdf"
+  },
+  {
+    "smdCode": "S15**",
+    "package": "SOT-25",
+    "deviceName": "R1162N151B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S15B",
+    "package": "SOT-26",
+    "deviceName": "LM2765M6",
+    "manufacturer": "National",
+    "data": "Capacitor Voltage Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2765m6_national.pdf"
+  },
+  {
+    "smdCode": "S16**",
+    "package": "SOT-25",
+    "deviceName": "R1162N161B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S17**",
+    "package": "SOT-25",
+    "deviceName": "R1162N171B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S18",
+    "package": "micro SMD-8",
+    "deviceName": "LM3500TL-16",
+    "manufacturer": "National",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3500_national.pdf"
+  },
+  {
+    "smdCode": "S18**",
+    "package": "SOT-25",
+    "deviceName": "LR1120G-18-AF5-A-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr1120_20130809_utc.pdf"
+  },
+  {
+    "smdCode": "S18**",
+    "package": "SOT-353",
+    "deviceName": "LR1120G-18-AL5-A-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr1120_20130809_utc.pdf"
+  },
+  {
+    "smdCode": "S18**",
+    "package": "SOT-25",
+    "deviceName": "R1162N181B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S19**",
+    "package": "SOT-25",
+    "deviceName": "R1162N191B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S19B",
+    "package": "SOT-25",
+    "deviceName": "LM2760M5",
+    "manufacturer": "National",
+    "data": "Capacitor Voltage Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2760m5_national.pdf"
+  },
+  {
+    "smdCode": "S1G",
+    "package": "SOT-25",
+    "deviceName": "TS391G-AF5",
+    "manufacturer": "UTC",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts391%2C_ts391a%2C_ts391b%2C_ts391c_20150601_utc.pdf"
+  },
+  {
+    "smdCode": "S1G",
+    "package": "SOT-353",
+    "deviceName": "TS391G-AL5",
+    "manufacturer": "UTC",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts391%2C_ts391a%2C_ts391b%2C_ts391c_20150601_utc.pdf"
+  },
+  {
+    "smdCode": "s1A",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904%2C_smbt3904%2C_smbt3904s%2C_smbt3904u_infineon.pdf"
+  },
+  {
+    "smdCode": "s1A",
+    "package": "SOT-23",
+    "deviceName": "SMBT3904",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904%2C_smbt3904%2C_smbt3904s%2C_smbt3904u_infineon.pdf"
+  },
+  {
+    "smdCode": "s1A",
+    "package": "SOT-363",
+    "deviceName": "SMBT3904S",
+    "manufacturer": "Infineon",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904%2C_smbt3904%2C_smbt3904s%2C_smbt3904u_infineon.pdf"
+  },
+  {
+    "smdCode": "s1A",
+    "package": "SOT-26",
+    "deviceName": "SMBT3904U",
+    "manufacturer": "Infineon",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904%2C_smbt3904%2C_smbt3904s%2C_smbt3904u_infineon.pdf"
+  },
+  {
+    "smdCode": "s1P",
+    "package": "SOT-23",
+    "deviceName": "MMBT2222A",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222a%2C_smbt2222a_infineon.pdf"
+  },
+  {
+    "smdCode": "s1P",
+    "package": "SOT-23",
+    "deviceName": "SMBT2222A",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222a%2C_smbt2222a_infineon.pdf"
+  }
+]

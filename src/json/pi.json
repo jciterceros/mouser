@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "PIYI",
+    "package": "SON-10",
+    "deviceName": "TPS51217DSCR",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51217_rb_ti.pdf"
+  },
+  {
+    "smdCode": "PIZI",
+    "package": "SON-10",
+    "deviceName": "TPS51218DSCR",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51218_rb_ti.pdf"
+  }
+]

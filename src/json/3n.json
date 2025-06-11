@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "3N",
+    "package": "SOT-523",
+    "deviceName": "MMBT3906T",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906t_galaxy.pdf"
+  },
+  {
+    "smdCode": "3N5",
+    "package": "SOT-26",
+    "deviceName": "DMN3051LDM",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/m/dmn3051ldm_r3.2_diodes.pdf"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "4G",
+    "package": "SOT-23",
+    "deviceName": "FMMT2484",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt2484_zetex.pdf"
+  },
+  {
+    "smdCode": "4Gs",
+    "package": "SOT-23",
+    "deviceName": "BC860C",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc857%2C_bc858%2C_bc859%2C_bc860_series_infineon.pdf"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "1Z",
+    "package": "SOT-23",
+    "deviceName": "MMBT6517LT1",
+    "manufacturer": "ON",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt6517lt1_on.pdf"
+  },
+  {
+    "smdCode": "1Z=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-40GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  }
+]

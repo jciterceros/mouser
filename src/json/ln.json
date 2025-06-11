@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "LN",
+    "package": "SOT-89",
+    "deviceName": "BST122",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bst122_philips.pdf"
+  },
+  {
+    "smdCode": "LN",
+    "package": "SOD-323",
+    "deviceName": "PZU6.2B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "LN-",
+    "package": "SOT-23",
+    "deviceName": "2N7002BK",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002bk_nxp.pdf"
+  },
+  {
+    "smdCode": "LN-",
+    "package": "SOT-89",
+    "deviceName": "RT9818A-42PX",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "LN-***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-45PVL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "LNJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB27",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LNP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB27",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "LNW",
+    "package": "SOT-23",
+    "deviceName": "2N7002BK",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002bk_nxp.pdf"
+  },
+  {
+    "smdCode": "LNp",
+    "package": "SOT-23",
+    "deviceName": "2N7002BK",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002bk_nxp.pdf"
+  },
+  {
+    "smdCode": "LNt",
+    "package": "SOT-23",
+    "deviceName": "2N7002BK",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002bk_nxp.pdf"
+  }
+]

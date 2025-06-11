@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "K8",
+    "package": "SOT-23",
+    "deviceName": "BCV72",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv71%2C_bcv72_zetex.pdf"
+  },
+  {
+    "smdCode": "K8",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "K8-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-46PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "K84",
+    "package": "SOT-23",
+    "deviceName": "BSS84",
+    "manufacturer": "Diodes",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84_diodes.pdf"
+  }
+]

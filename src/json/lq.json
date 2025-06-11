@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "LQ-",
+    "package": "SOT-89",
+    "deviceName": "RT9818E-40PX",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "LQ-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-23PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "LQJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB30",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LQP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB30",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "smdCode": "AJ",
+    "package": "SOD-123F",
+    "deviceName": "BAS40H",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "AJ",
+    "package": "SOT-23",
+    "deviceName": "BCX70J",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx70j%2C_bcx70k_tip.pdf"
+  },
+  {
+    "smdCode": "AJ",
+    "package": "SOT-323",
+    "deviceName": "MIC803-31D4VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AJ",
+    "package": "SOT-23",
+    "deviceName": "MIC803-31D4VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AJ",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5232B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AJ",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q191A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "AJ*",
+    "package": "DFN-8 2x2",
+    "deviceName": "NCP5901MNTBG",
+    "manufacturer": "ON",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp5901_r2_on.pdf"
+  },
+  {
+    "smdCode": "AJ*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-MGPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AJ**",
+    "package": "SOT-25",
+    "deviceName": "BL3406B-Adj",
+    "manufacturer": "Belling",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/l/bl3406b_belling.pdf"
+  },
+  {
+    "smdCode": "AJ**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US41D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "AJ***",
+    "package": "SOT-26",
+    "deviceName": "AP5100WG",
+    "manufacturer": "Diodes",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap5100_r3-2_diodes.pdf"
+  },
+  {
+    "smdCode": "AJ-**",
+    "package": "VDFN-8 3x3",
+    "deviceName": "RT9013-1BPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AJ-**",
+    "package": "VDFN-10 3x3",
+    "deviceName": "RT9014A-MGPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "AJ-**",
+    "package": "SOT-323",
+    "deviceName": "RT9818B-18PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AJ-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-PGPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AJ-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-31PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AJ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9284APJ5E",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "AJ-***",
+    "package": "SOT-343",
+    "deviceName": "RT9818C-14PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AJ=**",
+    "package": "SOT-323",
+    "deviceName": "RT9818B-18GU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AJA",
+    "package": "TQFN-16 3x3",
+    "deviceName": "MAX14578EETE",
+    "manufacturer": "Maxim",
+    "data": "USB Battery Charger Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max14578ae%2C_max14578e_maxim.pdf"
+  },
+  {
+    "smdCode": "AJB",
+    "package": "TQFN-16 3x3",
+    "deviceName": "MAX14578AEETE",
+    "manufacturer": "Maxim",
+    "data": "USB Battery Charger Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max14578ae%2C_max14578e_maxim.pdf"
+  },
+  {
+    "smdCode": "AJC**",
+    "package": "SOT-25",
+    "deviceName": "AME8804AEEV",
+    "manufacturer": "AME",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/m/ame8804_rk.04_ame.pdf"
+  },
+  {
+    "smdCode": "AJI",
+    "package": "MSOP-10",
+    "deviceName": "TPS62008DGS",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62000-tps62008_ti.pdf"
+  },
+  {
+    "smdCode": "AJP",
+    "package": "SOT-89",
+    "deviceName": "2SA1812",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1727%2C_2sa1776%2C_2sa1812_rohm.pdf"
+  },
+  {
+    "smdCode": "AJQ",
+    "package": "SOT-89",
+    "deviceName": "2SA1812",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1727%2C_2sa1776%2C_2sa1812_rohm.pdf"
+  },
+  {
+    "smdCode": "AJQ",
+    "package": "SOT-346",
+    "deviceName": "2SD1782K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1782k_rohm.pdf"
+  },
+  {
+    "smdCode": "AJR",
+    "package": "SOT-346",
+    "deviceName": "2SD1782K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1782k_rohm.pdf"
+  }
+]

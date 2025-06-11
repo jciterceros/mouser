@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "VY",
+    "package": "SOD-323",
+    "deviceName": "PZU15B3A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VY",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K321D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VY-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-34PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  }
+]

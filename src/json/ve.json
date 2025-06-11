@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "VE",
+    "package": "SOT-891",
+    "deviceName": "74LVC1G08GF",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g08_r10_nxp.pdf"
+  },
+  {
+    "smdCode": "VE",
+    "package": "SOT-886",
+    "deviceName": "74LVC1G08GM",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g08_r10_nxp.pdf"
+  },
+  {
+    "smdCode": "VE",
+    "package": "SOT-1115",
+    "deviceName": "74LVC1G08GN",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g08_r10_nxp.pdf"
+  },
+  {
+    "smdCode": "VE",
+    "package": "SOT-1202",
+    "deviceName": "74LVC1G08GS",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g08_r10_nxp.pdf"
+  },
+  {
+    "smdCode": "VE",
+    "package": "SOT-353",
+    "deviceName": "74LVC1G08GW",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g08_r10_nxp.pdf"
+  },
+  {
+    "smdCode": "VE",
+    "package": "SOT-1226",
+    "deviceName": "74LVC1G08GX",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g08_r10_nxp.pdf"
+  },
+  {
+    "smdCode": "VE",
+    "package": "SOT-553",
+    "deviceName": "ESDA6V8V5",
+    "manufacturer": "WEITRON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esda5v6v5%2C_esda6v2v5%2C_esda6v8v5_weitron.pdf"
+  },
+  {
+    "smdCode": "VE",
+    "package": "SOD-323",
+    "deviceName": "PZU11BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VE",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K161D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VE",
+    "package": "SMA",
+    "deviceName": "SMAJ110CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "VE*",
+    "package": "SOT-353",
+    "deviceName": "M74VHC1GT66DFT1G",
+    "manufacturer": "ON",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc74vhc1gt66_on.pdf"
+  },
+  {
+    "smdCode": "VE*",
+    "package": "SOT-25",
+    "deviceName": "M74VHC1GT66DTT1G",
+    "manufacturer": "ON",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc74vhc1gt66_on.pdf"
+  },
+  {
+    "smdCode": "VE*",
+    "package": "SOT-25",
+    "deviceName": "M74VHC1GT66DTT1G",
+    "manufacturer": "ON",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc74vhc1gt66_on.pdf"
+  },
+  {
+    "smdCode": "VE*",
+    "package": "SOT-353",
+    "deviceName": "MC74VHC1GT66DFT2",
+    "manufacturer": "ON",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc74vhc1gt66_on.pdf"
+  },
+  {
+    "smdCode": "VE-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VEW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VEp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VEt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "X4",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C68",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "X4",
+    "package": "SOT-23",
+    "deviceName": "BZX84C68-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "X4",
+    "package": "EMT6",
+    "deviceName": "EMX4",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx4%2C_imx4%2C_umx4n_rohm.pdf"
+  },
+  {
+    "smdCode": "X4",
+    "package": "SOT-26",
+    "deviceName": "IMX4",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx4%2C_imx4%2C_umx4n_rohm.pdf"
+  },
+  {
+    "smdCode": "X4",
+    "package": "SOD-323",
+    "deviceName": "PZU18BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "X4",
+    "package": "SOT-363",
+    "deviceName": "UMX4N",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx4%2C_imx4%2C_umx4n_rohm.pdf"
+  },
+  {
+    "smdCode": "X43",
+    "package": "SOT-416",
+    "deviceName": "DTD543XE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd543xe%2C_dtd543xm_rohm.pdf"
+  },
+  {
+    "smdCode": "X43",
+    "package": "VMT3",
+    "deviceName": "DTD543XM",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd543xe%2C_dtd543xm_rohm.pdf"
+  }
+]

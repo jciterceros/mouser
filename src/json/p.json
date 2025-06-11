@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "P",
+    "package": "VMN3",
+    "deviceName": "2SA2199",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa2199_rohm.pdf"
+  },
+  {
+    "smdCode": "P",
+    "package": "SOT-323",
+    "deviceName": "DAP202U",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dap202u_galaxy.pdf"
+  },
+  {
+    "smdCode": "P",
+    "package": "SOT-323",
+    "deviceName": "DAP202U",
+    "manufacturer": "GME",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dap202u_gme.pdf"
+  },
+  {
+    "smdCode": "P",
+    "package": "SOT-323",
+    "deviceName": "DAP202U",
+    "manufacturer": "Liteon",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dap202u_liteon.pdf"
+  },
+  {
+    "smdCode": "P",
+    "package": "SOT-323",
+    "deviceName": "DAP202U",
+    "manufacturer": "ROHM",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dap202u_rohm.pdf"
+  },
+  {
+    "smdCode": "P",
+    "package": "SOT-523",
+    "deviceName": "DAP222",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dap222_galaxy.pdf"
+  }
+]

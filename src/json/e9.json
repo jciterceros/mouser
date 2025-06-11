@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "E9",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B43",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "E9",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B13",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "E9",
+    "package": "SOT-346",
+    "deviceName": "PDTD123TK",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtd123tk%2C_pdtd123ts%2C_pdtd123tt_nxp.pdf"
+  },
+  {
+    "smdCode": "E9",
+    "package": "SOT-23",
+    "deviceName": "ZC5800E",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc2800e%2C_zc2811e%2C_zc5800e_zetex.pdf"
+  },
+  {
+    "smdCode": "E9**",
+    "package": "SOT-26",
+    "deviceName": "TC1072-3.6VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "E9=**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT8058AGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8058a_richtek.pdf"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "smdCode": "D3",
+    "package": "SOT-23",
+    "deviceName": "1SS187",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss187_galaxy.pdf"
+  },
+  {
+    "smdCode": "D3",
+    "package": "SOT-23",
+    "deviceName": "1SS187",
+    "manufacturer": "TIP",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss187_tip.pdf"
+  },
+  {
+    "smdCode": "D3",
+    "package": "EMT6",
+    "deviceName": "EMD3",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd3%2C_imd3a%2C_umd3n_rohm.pdf"
+  },
+  {
+    "smdCode": "D3",
+    "package": "SOT-26",
+    "deviceName": "IMD3A",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd3%2C_imd3a%2C_umd3n_rohm.pdf"
+  },
+  {
+    "smdCode": "D3",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5228",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "D3",
+    "package": "SOT-363",
+    "deviceName": "UMD3N",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd3%2C_imd3a%2C_umd3n_rohm.pdf"
+  },
+  {
+    "smdCode": "D3*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-MFPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "D3***",
+    "package": "SOT-23",
+    "deviceName": "Si2323DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2323ds_vishay.pdf"
+  },
+  {
+    "smdCode": "D3-***",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9011-SPPQWB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "D3.9",
+    "package": "SOT-23",
+    "deviceName": "TZT3V9AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D30",
+    "package": "EMT6",
+    "deviceName": "EMD30",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd30_rohm.pdf"
+  },
+  {
+    "smdCode": "D30",
+    "package": "SOT-23",
+    "deviceName": "TZT30AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D30",
+    "package": "SOT-23",
+    "deviceName": "TZT43AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D31",
+    "package": "SOT-23",
+    "deviceName": "TZT47AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D32",
+    "package": "SOT-23",
+    "deviceName": "TZT51AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "D33",
+    "package": "SOT-23",
+    "deviceName": "TZT33AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D36",
+    "package": "SOT-23",
+    "deviceName": "TZT36AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D38",
+    "package": "EMT6",
+    "deviceName": "EMD38",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd38_rohm.pdf"
+  },
+  {
+    "smdCode": "D38*",
+    "package": "SOT-363",
+    "deviceName": "CM1213A-04S7",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1213a_on.pdf"
+  },
+  {
+    "smdCode": "D38NH02L",
+    "package": "TO-251",
+    "deviceName": "STD38NH02L-1",
+    "manufacturer": "STMicroelectronics",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/std38nh02l_st.pdf"
+  },
+  {
+    "smdCode": "D38NH02L",
+    "package": "TO-252",
+    "deviceName": "STD38NH02LT4",
+    "manufacturer": "STMicroelectronics",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/std38nh02l_st.pdf"
+  },
+  {
+    "smdCode": "D39",
+    "package": "SOT-23",
+    "deviceName": "TZT39AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D3A",
+    "package": "SOT-23",
+    "deviceName": "RB400D",
+    "manufacturer": "TIP",
+    "data": "Schottky barrier diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb400d_tip.pdf"
+  },
+  {
+    "smdCode": "D3B",
+    "package": "SOT-23",
+    "deviceName": "RB420D",
+    "manufacturer": "TIP",
+    "data": "Schottky barrier diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb420d_tip.pdf"
+  },
+  {
+    "smdCode": "D3C",
+    "package": "SOT-23",
+    "deviceName": "RB421D",
+    "manufacturer": "TIP",
+    "data": "Schottky barrier diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb421d_tip.pdf"
+  },
+  {
+    "smdCode": "D3L",
+    "package": "SOT-23",
+    "deviceName": "RB425D",
+    "manufacturer": "TIP",
+    "data": "Schottky barrier diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb425d_tip.pdf"
+  },
+  {
+    "smdCode": "D3Q",
+    "package": "SOT-23",
+    "deviceName": "RB495D",
+    "manufacturer": "TIP",
+    "data": "Schottky barrier diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb495d_tip.pdf"
+  }
+]

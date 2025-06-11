@@ -1,0 +1,450 @@
+[
+  {
+    "smdCode": "20",
+    "package": "SOT-23",
+    "deviceName": "ZD20-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "20",
+    "package": "SOD-323",
+    "deviceName": "ZD20-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "20 **",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8223PZQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8223p_r01_richtek.pdf"
+  },
+  {
+    "smdCode": "20-",
+    "package": "SOT-23",
+    "deviceName": "BF545A",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  },
+  {
+    "smdCode": "20001T",
+    "package": "14 PINS PW",
+    "deviceName": "TPA2000D1-Q1",
+    "manufacturer": "Texas Instruments",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpa2000d1-q1_ti.pdf"
+  },
+  {
+    "smdCode": "200D1",
+    "package": "SO-8",
+    "deviceName": "NCP1200D100R2G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1200_on.pdf"
+  },
+  {
+    "smdCode": "200D4",
+    "package": "SO-8",
+    "deviceName": "NCP1200D40R2G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1200_on.pdf"
+  },
+  {
+    "smdCode": "200D6",
+    "package": "SO-8",
+    "deviceName": "NCP1200D60R2G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1200_on.pdf"
+  },
+  {
+    "smdCode": "200P03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC200P03LS G",
+    "manufacturer": "Infineon",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc200p03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "202",
+    "package": "SOT-25",
+    "deviceName": "AT1202X",
+    "manufacturer": "Aimtron",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at1202_r1.1_aimtron.pdf"
+  },
+  {
+    "smdCode": "203D1",
+    "package": "SO-8",
+    "deviceName": "NCP1203D100R2G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1203_on.pdf"
+  },
+  {
+    "smdCode": "203D4",
+    "package": "SO-8",
+    "deviceName": "NCP1203D40R2G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1203_on.pdf"
+  },
+  {
+    "smdCode": "203D6",
+    "package": "SO-8",
+    "deviceName": "NCP1203D60R2G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1203_on.pdf"
+  },
+  {
+    "smdCode": "2042B",
+    "package": "SO-8",
+    "deviceName": "TPS2042BQDRQ1",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2041b-q1%2C_tps2042b-q1%2C_tps2051b-q1_ti.pdf"
+  },
+  {
+    "smdCode": "2050",
+    "package": "SOT-26",
+    "deviceName": "EMD2050",
+    "manufacturer": "EMP",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd2050_r1.0_emp.pdf"
+  },
+  {
+    "smdCode": "2051BQ",
+    "package": "SO-8",
+    "deviceName": "TPS2051BQDRQ1",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2041b-q1%2C_tps2042b-q1%2C_tps2051b-q1_ti.pdf"
+  },
+  {
+    "smdCode": "205N10LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC205N10LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc205n10lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "2060",
+    "package": "PMSOP-8",
+    "deviceName": "TPS2060DGN",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2060%2C_tps2064%2C_tps2068%2C_tps2069_rk_ti.pdf"
+  },
+  {
+    "smdCode": "2060",
+    "package": "SON-8",
+    "deviceName": "TPS2060DRBR",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2060%2C_tps2064%2C_tps2068%2C_tps2069_rk_ti.pdf"
+  },
+  {
+    "smdCode": "2061",
+    "package": "SO-8",
+    "deviceName": "TPS2061D",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2061",
+    "package": "SOT-25",
+    "deviceName": "TPS2061DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2061",
+    "package": "MSOP-8",
+    "deviceName": "TPS2061DGN",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2062",
+    "package": "SO-8",
+    "deviceName": "TPS2062D",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2062",
+    "package": "MSOP-8",
+    "deviceName": "TPS2062DGN",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2062A",
+    "package": "SO-8",
+    "deviceName": "TPS2062AD",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2062a%2C_tps2066a_rf_ti.pdf"
+  },
+  {
+    "smdCode": "2062A",
+    "package": "SON-8",
+    "deviceName": "TPS2062ADRBR",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2062a%2C_tps2066a_rf_ti.pdf"
+  },
+  {
+    "smdCode": "2063",
+    "package": "SO-16",
+    "deviceName": "TPS2063D",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2064",
+    "package": "PMSOP-8",
+    "deviceName": "TPS2064DGN",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2060%2C_tps2064%2C_tps2068%2C_tps2069_rk_ti.pdf"
+  },
+  {
+    "smdCode": "2064",
+    "package": "SON-8",
+    "deviceName": "TPS2064DRBR",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2060%2C_tps2064%2C_tps2068%2C_tps2069_rk_ti.pdf"
+  },
+  {
+    "smdCode": "2065",
+    "package": "SO-8",
+    "deviceName": "TPS2065D",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2065",
+    "package": "SOT-25",
+    "deviceName": "TPS2065DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2065",
+    "package": "MSOP-8",
+    "deviceName": "TPS2065DGN",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2066",
+    "package": "SO-8",
+    "deviceName": "TPS2066D",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2066",
+    "package": "MSOP-8",
+    "deviceName": "TPS2066DGN",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2066A",
+    "package": "SO-8",
+    "deviceName": "TPS2066AD",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2062a%2C_tps2066a_rf_ti.pdf"
+  },
+  {
+    "smdCode": "2066A",
+    "package": "SON-8",
+    "deviceName": "TPS2066ADRBR",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2062a%2C_tps2066a_rf_ti.pdf"
+  },
+  {
+    "smdCode": "2067",
+    "package": "SO-8",
+    "deviceName": "TPS2067D",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2061-tps2063%2C_tps2065-tps2067_ti.pdf"
+  },
+  {
+    "smdCode": "2068",
+    "package": "SO-8",
+    "deviceName": "TPS2068D",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2060%2C_tps2064%2C_tps2068%2C_tps2069_rk_ti.pdf"
+  },
+  {
+    "smdCode": "2068",
+    "package": "PMSOP-8",
+    "deviceName": "TPS2068DGN",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2060%2C_tps2064%2C_tps2068%2C_tps2069_rk_ti.pdf"
+  },
+  {
+    "smdCode": "2069",
+    "package": "PMSOP-8",
+    "deviceName": "TPS2069DGN",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2060%2C_tps2064%2C_tps2068%2C_tps2069_rk_ti.pdf"
+  },
+  {
+    "smdCode": "208Z",
+    "package": "QFN-8 3x3",
+    "deviceName": "ISL6208CRZ",
+    "manufacturer": "Intersil",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6208%2C_isl6208b_20140714_intersil.pdf"
+  },
+  {
+    "smdCode": "20A",
+    "package": "SMB",
+    "deviceName": "1.5SMC20AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "20N025S",
+    "package": "TDSON-8",
+    "deviceName": "BSC020N025S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc020n025sg_infineon.pdf"
+  },
+  {
+    "smdCode": "20N03",
+    "package": "SOP-8",
+    "deviceName": "MTNN20N03Q8",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtnn20n03q8_20110327_cystek.pdf"
+  },
+  {
+    "smdCode": "20N03L",
+    "package": "TO-252-3-1",
+    "deviceName": "IPD20N03L",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipd20n03l_infineon.pdf"
+  },
+  {
+    "smdCode": "20N60A4",
+    "package": "TO-263AB",
+    "deviceName": "IPD20N03L",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel IGBT",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/g/hgt1s20n60a4s9a_fairchild.pdf"
+  },
+  {
+    "smdCode": "20N60C3",
+    "package": "TO-263-3",
+    "deviceName": "SPB20N60C3",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spb20n60c3%2C_spp20n60c3_infineon.pdf"
+  },
+  {
+    "smdCode": "20N60C3",
+    "package": "TO-220-3-1",
+    "deviceName": "SPP20N60C3",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spb20n60c3%2C_spp20n60c3_infineon.pdf"
+  },
+  {
+    "smdCode": "20N65C3",
+    "package": "TO-220FP",
+    "deviceName": "SPA20N65C3",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spa20n65c3%2C_spp20n65c3%2C_spi20n65c3_infineon.pdf"
+  },
+  {
+    "smdCode": "20N65C3",
+    "package": "TO-262",
+    "deviceName": "SPI20N65C3",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spa20n65c3%2C_spp20n65c3%2C_spi20n65c3_infineon.pdf"
+  },
+  {
+    "smdCode": "20N65C3",
+    "package": "TO-220",
+    "deviceName": "SPP20N65C3",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spa20n65c3%2C_spp20n65c3%2C_spi20n65c3_infineon.pdf"
+  },
+  {
+    "smdCode": "20T",
+    "package": "SOT-23",
+    "deviceName": "TK71520AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "20W",
+    "package": "SOT-23",
+    "deviceName": "BF545A",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  },
+  {
+    "smdCode": "20Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C20",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "20p",
+    "package": "SOT-23",
+    "deviceName": "BF545A",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  },
+  {
+    "smdCode": "20t",
+    "package": "SOT-23",
+    "deviceName": "BF545A",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  }
+]

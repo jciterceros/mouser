@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "98**",
+    "package": "SOT-26",
+    "deviceName": "SP1938S26RGB",
+    "manufacturer": "SYNC Power",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp1938_r5_syncpower.pdf"
+  },
+  {
+    "smdCode": "98**",
+    "package": "SOT-26",
+    "deviceName": "ST1938S26RG",
+    "manufacturer": "Stanson",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st1938_stanson.pdf"
+  },
+  {
+    "smdCode": "98=**",
+    "package": "WDFN-12 3x3",
+    "deviceName": "RT8463GQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8463_richtek.pdf"
+  }
+]

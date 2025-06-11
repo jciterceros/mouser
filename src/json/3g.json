@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "3G-",
+    "package": "SOT-23",
+    "deviceName": "BC857C",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3G-",
+    "package": "SOT-323",
+    "deviceName": "BC857CW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3GW",
+    "package": "SOT-23",
+    "deviceName": "BC857C",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3GW",
+    "package": "SOT-323",
+    "deviceName": "BC857CW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Gp",
+    "package": "SOT-23",
+    "deviceName": "BC857C",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Gp",
+    "package": "SOT-323",
+    "deviceName": "BC857CW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Gs",
+    "package": "SOT-23",
+    "deviceName": "BC857C",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc857%2C_bc858%2C_bc859%2C_bc860_series_infineon.pdf"
+  },
+  {
+    "smdCode": "3Gs",
+    "package": "SOT-323",
+    "deviceName": "BC857CW",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc857%2C_bc858%2C_bc859%2C_bc860_series_infineon.pdf"
+  },
+  {
+    "smdCode": "3Gt",
+    "package": "SOT-23",
+    "deviceName": "BC857C",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Gt",
+    "package": "SOT-323",
+    "deviceName": "BC857CW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  }
+]

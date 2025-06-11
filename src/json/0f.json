@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "0F*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT8511BGQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8511b_r05_richtek.pdf"
+  }
+]

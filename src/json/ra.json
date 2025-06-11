@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "RA",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K121A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RA**",
+    "package": "SOT-363",
+    "deviceName": "Si1553DL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1553dl_vishay.pdf"
+  },
+  {
+    "smdCode": "RA***",
+    "package": "SOT-26",
+    "deviceName": "AP65101WU-7",
+    "manufacturer": "Diodes",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap65101_r1-2_diodes.pdf"
+  },
+  {
+    "smdCode": "RA-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RA1",
+    "package": "SOT-23",
+    "deviceName": "BAW56",
+    "manufacturer": "ROHM",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70%2C_bav99%2C_baw56_rohm.pdf"
+  },
+  {
+    "smdCode": "RA4",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "ROHM",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70%2C_bav99%2C_baw56_rohm.pdf"
+  },
+  {
+    "smdCode": "RA7",
+    "package": "SOT-23",
+    "deviceName": "BAV99",
+    "manufacturer": "ROHM",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70%2C_bav99%2C_baw56_rohm.pdf"
+  },
+  {
+    "smdCode": "RAT",
+    "package": "SOT-346",
+    "deviceName": "MMSTA28",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsta28%2C_ssta28_rohm.pdf"
+  },
+  {
+    "smdCode": "RAT",
+    "package": "SOT-23",
+    "deviceName": "SSTA28",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsta28%2C_ssta28_rohm.pdf"
+  },
+  {
+    "smdCode": "RAW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RAp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RAt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Ra",
+    "package": "SOT-25",
+    "deviceName": "BD53E43G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "2W",
+    "package": "SOT-23",
+    "deviceName": "FMMT3905",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt3905%2C_fmmt3906_zetex.pdf"
+  }
+]

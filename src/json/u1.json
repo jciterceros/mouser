@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "U1",
+    "package": "SOT-23",
+    "deviceName": "BCX19",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx19_fairchild.pdf"
+  },
+  {
+    "smdCode": "U1",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C24",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "U1*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B322NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "U1**",
+    "package": "SOT-25",
+    "deviceName": "TC74A1-5.0VCT",
+    "manufacturer": "Microchip",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc74_microchip.pdf"
+  },
+  {
+    "smdCode": "U12",
+    "package": "SOT-25",
+    "deviceName": "QS5U12",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u12_rohm.pdf"
+  },
+  {
+    "smdCode": "U13",
+    "package": "SOT-25",
+    "deviceName": "QS5U13",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u13_rohm.pdf"
+  },
+  {
+    "smdCode": "U16",
+    "package": "SOT-25",
+    "deviceName": "QS5U16",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u16_rohm.pdf"
+  },
+  {
+    "smdCode": "U17",
+    "package": "SOT-25",
+    "deviceName": "QS5U17",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u17_rohm.pdf"
+  }
+]

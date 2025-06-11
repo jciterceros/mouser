@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "88",
+    "package": "SOT-23",
+    "deviceName": "MMBD1704",
+    "manufacturer": "Fairchild",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1701%2C_mmbd1703%2C_mmbd1704%2C_mmbd1705_fairchild.pdf"
+  },
+  {
+    "smdCode": "88 **",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT8237EZQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8237e_r00_richtek.pdf"
+  },
+  {
+    "smdCode": "88A",
+    "package": "SOT-23",
+    "deviceName": "MMBD1704A",
+    "manufacturer": "Fairchild",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1701%2C_mmbd1703%2C_mmbd1704%2C_mmbd1705_fairchild.pdf"
+  }
+]

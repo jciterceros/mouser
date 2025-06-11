@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "HZ",
+    "package": "SOD-323F",
+    "deviceName": "PZU8.2B3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "HZ-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-33PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

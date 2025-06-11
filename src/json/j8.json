@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "J8",
+    "package": "SOT-23",
+    "deviceName": "S9018",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/9/s9018_galaxy.pdf"
+  },
+  {
+    "smdCode": "J8",
+    "package": "SOT-323",
+    "deviceName": "S9018W",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/9/s9018w_galaxy.pdf"
+  },
+  {
+    "smdCode": "J8 **",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8204LZQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8204l_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "J8-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-35PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "J8-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-23PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "J8=**",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8204LGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8204l_r04_richtek.pdf"
+  }
+]

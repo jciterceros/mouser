@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "JC",
+    "package": "SOT-23",
+    "deviceName": "BAW56",
+    "manufacturer": "Taitron",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw56_taitron.pdf"
+  },
+  {
+    "smdCode": "JC",
+    "package": "SOT-23",
+    "deviceName": "BAW56",
+    "manufacturer": "Panjit",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bal99%2C_bav70%2C_bav99%2C_baw56_panjit.pdf"
+  },
+  {
+    "smdCode": "JC",
+    "package": "SOT-323",
+    "deviceName": "BAW56WS",
+    "manufacturer": "Taitron",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw56ws_taitron.pdf"
+  },
+  {
+    "smdCode": "JC",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q421B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "JC **",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8239BZQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8239a%2C_rt8239b%2C_rt8239c_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "JC-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-27PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JC-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-20PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JC=**",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8239BGQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8239a%2C_rt8239b%2C_rt8239c_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "JC=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-18GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

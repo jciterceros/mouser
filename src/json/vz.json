@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "VZ",
+    "package": "DFN-4 1x1",
+    "deviceName": "NCP4586DMU33TCG",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp4586_r5_on.pdf"
+  },
+  {
+    "smdCode": "VZ",
+    "package": "SOD-323",
+    "deviceName": "PZU16BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VZ",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K331D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VZ",
+    "package": "SMA",
+    "deviceName": "SMAJ250CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "VZ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-34PBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "VZM**",
+    "package": "SOT-26",
+    "deviceName": "AAT1217ICA-1.2-T1",
+    "manufacturer": "AAT",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/a/aat1217_analogic.pdf"
+  }
+]

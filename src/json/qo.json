@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "QO",
+    "package": "2-2H1A",
+    "deviceName": "2SC4915",
+    "manufacturer": "Toshiba",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4915_toshiba.pdf"
+  },
+  {
+    "smdCode": "QO",
+    "package": "SOT-89",
+    "deviceName": "KTB1260",
+    "manufacturer": "KEC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktb1260_kec.pdf"
+  }
+]

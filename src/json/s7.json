@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "S7",
+    "package": "SOD-123",
+    "deviceName": "SD103BW",
+    "manufacturer": "Vishay",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sd103aw%2C_sd103bw%2C_sd103cw_vishay.pdf"
+  },
+  {
+    "smdCode": "S7",
+    "package": "SOT-23",
+    "deviceName": "SST177",
+    "manufacturer": "Vishay",
+    "data": "P-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/1/j174-j177%2C_sst174-sst177_vishay.pdf"
+  },
+  {
+    "smdCode": "S72",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "Panjit",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_panjit.pdf"
+  },
+  {
+    "smdCode": "S72",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "UPM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_upm.pdf"
+  },
+  {
+    "smdCode": "S72**",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "Stanson",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_stanson.pdf"
+  },
+  {
+    "smdCode": "S780",
+    "package": "PowerPAK 1212-8",
+    "deviceName": "SiS780DN",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET with Schottky Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/sis780dn_vishay.pdf"
+  }
+]

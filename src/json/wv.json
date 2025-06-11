@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "WV",
+    "package": "SOD-123",
+    "deviceName": "BZT52C47",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "WV",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WV",
+    "package": "SOD-323",
+    "deviceName": "PZU15BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WV",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP131K511D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "WV",
+    "package": "SMA",
+    "deviceName": "SMAJ9.0CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "WV***",
+    "package": "SOT-23",
+    "deviceName": "AX5505R37",
+    "manufacturer": "Axelite",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax5505_r1.1_axelite.pdf"
+  },
+  {
+    "smdCode": "WV-***",
+    "package": "SOT-25",
+    "deviceName": "RT9016-33PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9016_richtek.pdf"
+  },
+  {
+    "smdCode": "WV0",
+    "package": "SOT-23",
+    "deviceName": "BAV23A",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav23%2C_bav23a%2C_bav23c%2C_bav23s_nxp.pdf"
+  },
+  {
+    "smdCode": "WV2",
+    "package": "SOT-323",
+    "deviceName": "BFQ67W",
+    "manufacturer": "Vishay",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfq67%2C_bfq67r%2C_bfq67w_vishay.pdf"
+  },
+  {
+    "smdCode": "WV3",
+    "package": "SOT-23",
+    "deviceName": "BAT54A",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WV4",
+    "package": "SOT-23",
+    "deviceName": "BAT54S",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WV5",
+    "package": "SOT-23",
+    "deviceName": "BAV23S",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav23%2C_bav23a%2C_bav23c%2C_bav23s_nxp.pdf"
+  },
+  {
+    "smdCode": "WV9",
+    "package": "SOT-23",
+    "deviceName": "BAV23C",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav23%2C_bav23a%2C_bav23c%2C_bav23s_nxp.pdf"
+  },
+  {
+    "smdCode": "WVY",
+    "package": "SOT-363",
+    "deviceName": "BSS84AKS",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84aks_r1_nxp.pdf"
+  }
+]

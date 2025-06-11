@@ -1,0 +1,402 @@
+[
+  {
+    "smdCode": "AD",
+    "package": "SOT-23",
+    "deviceName": "BCW60D",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw60_zetex.pdf"
+  },
+  {
+    "smdCode": "AD",
+    "package": "SOT-89",
+    "deviceName": "BCX51-16",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx51-bcx53_zetex.pdf"
+  },
+  {
+    "smdCode": "AD",
+    "package": "SOT-89",
+    "deviceName": "CR08AS-8",
+    "manufacturer": "Kexin",
+    "data": "Triac",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/r/cr08as_kexin.pdf"
+  },
+  {
+    "smdCode": "AD",
+    "package": "CSP",
+    "deviceName": "CSPEMI202A",
+    "manufacturer": "CMD (Now ON)",
+    "data": "EMI filter and ESD protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/s/cspemi202a_cmd.pdf"
+  },
+  {
+    "smdCode": "AD",
+    "package": "SOD-123",
+    "deviceName": "KDZ20B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "AD",
+    "package": "SOT-323",
+    "deviceName": "MIC803-29D2VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AD",
+    "package": "SOT-23",
+    "deviceName": "MIC803-29D2VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AD",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5228B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AD",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q151A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "AD*",
+    "package": "SOT-416",
+    "deviceName": "ESDR0502B",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esdr0502b_on.pdf"
+  },
+  {
+    "smdCode": "AD*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9013B-25PQWA",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "AD**",
+    "package": "SOT-23",
+    "deviceName": "AO3413L",
+    "manufacturer": "Alpha & Omega",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao3413_ao.pdf"
+  },
+  {
+    "smdCode": "AD**",
+    "package": "SOT-25",
+    "deviceName": "BL3406B-1.8V",
+    "manufacturer": "Belling",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/l/bl3406b_belling.pdf"
+  },
+  {
+    "smdCode": "AD**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US47D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "AD***",
+    "package": "SOT-25",
+    "deviceName": "SY8009AAAC",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8009a%2C_sy8009b_r1.0_silergy.pdf"
+  },
+  {
+    "smdCode": "AD-",
+    "package": "SOT-89",
+    "deviceName": "RT9161-26PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "AD-**",
+    "package": "VDFN-8 3x3",
+    "deviceName": "RT9013-15PQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AD-**",
+    "package": "SOT-323",
+    "deviceName": "RT9818C-23PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AD-***",
+    "package": "SOT-25",
+    "deviceName": "RT8009PJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  },
+  {
+    "smdCode": "AD-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-CCPJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AD-***",
+    "package": "SOT-353",
+    "deviceName": "RT9193-30PU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "AD-***",
+    "package": "SOT-343",
+    "deviceName": "RT9818A-36PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AD5***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN38T1G",
+    "manufacturer": "ON",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  },
+  {
+    "smdCode": "AD=***",
+    "package": "SOT-26",
+    "deviceName": "RT8009GJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  },
+  {
+    "smdCode": "AD=***",
+    "package": "SOT-343",
+    "deviceName": "RT9818A-36GY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "ADB",
+    "package": "QFN-8 3x3",
+    "deviceName": "MAX1935ETA",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max1935_maxim.pdf"
+  },
+  {
+    "smdCode": "ADK***",
+    "package": "MSOP-8",
+    "deviceName": "SY6288C1CAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "ADL***",
+    "package": "MSOP-8",
+    "deviceName": "SY6288C2CAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "ADM*",
+    "package": "SOT-26",
+    "deviceName": "MP1469GJ",
+    "manufacturer": "MPS",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/p/mp1469_r1.01_mps.pdf"
+  },
+  {
+    "smdCode": "ADQM",
+    "package": "SOT-26",
+    "deviceName": "MAX8867EZK25",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADQO",
+    "package": "SOT-25",
+    "deviceName": "MAX8867EZK28",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADQP",
+    "package": "SOT-25",
+    "deviceName": "MAX8867EZK29",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADQQ",
+    "package": "SOT-25",
+    "deviceName": "MAX8867EZK30",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADQR",
+    "package": "SOT-25",
+    "deviceName": "MAX8867EZK32",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADQS",
+    "package": "SOT-25",
+    "deviceName": "MAX8867EZK33",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADQT",
+    "package": "SOT-25",
+    "deviceName": "MAX8867EZK36",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADQV",
+    "package": "SOT-25",
+    "deviceName": "MAX8867EZK50",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADQW",
+    "package": "SOT-25",
+    "deviceName": "MAX8868EZK25",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADQX",
+    "package": "SOT-25",
+    "deviceName": "MAX8868EZK28",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADQY",
+    "package": "SOT-25",
+    "deviceName": "MAX8868EZK29",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADQZ",
+    "package": "SOT-25",
+    "deviceName": "MAX8868EZK30",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADRA",
+    "package": "SOT-25",
+    "deviceName": "MAX8868EZK32",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADRB",
+    "package": "SOT-25",
+    "deviceName": "MAX8868EZK33",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADRC",
+    "package": "SOT-25",
+    "deviceName": "MAX8868EZK36",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADRD",
+    "package": "SOT-25",
+    "deviceName": "MAX8868EZK50",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8867%2C_max8868_maxim.pdf"
+  },
+  {
+    "smdCode": "ADRT",
+    "package": "SOT-25",
+    "deviceName": "MAX1551EZK",
+    "manufacturer": "Maxim",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max1551%2C_max1555_r0_maxim.pdf"
+  },
+  {
+    "smdCode": "ADRU",
+    "package": "SOT-25",
+    "deviceName": "MAX1555EZK",
+    "manufacturer": "Maxim",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max1551%2C_max1555_r0_maxim.pdf"
+  },
+  {
+    "smdCode": "ADZ*",
+    "package": "QFN-16 3x3",
+    "deviceName": "NB670GQ",
+    "manufacturer": "MPS",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/b/nb670_r1.01_mps.pdf"
+  },
+  {
+    "smdCode": "Ad",
+    "package": "SOT-25",
+    "deviceName": "BD48E26G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ad",
+    "package": "SOT-23",
+    "deviceName": "BD48K26G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

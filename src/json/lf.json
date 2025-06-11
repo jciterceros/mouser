@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "LF",
+    "package": "SOT-23",
+    "deviceName": "2SC3052",
+    "manufacturer": "GME",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3052_ra_gme.pdf"
+  },
+  {
+    "smdCode": "LF",
+    "package": "SOD-323",
+    "deviceName": "PZU5.6BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "LF",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q171D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "LF*",
+    "package": "QFN-6 2x2",
+    "deviceName": "NCP500SQL27T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LF**",
+    "package": "SOT-323",
+    "deviceName": "Si1307EDL",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1307edl_vishay.pdf"
+  },
+  {
+    "smdCode": "LF-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-35PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "LF-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818E-27PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "LF6A",
+    "package": "SOT-25",
+    "deviceName": "LP2985AIM5-6.1",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "LFJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB20",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LFL**",
+    "package": "SOT-25",
+    "deviceName": "NCP500SN185T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LFM**",
+    "package": "SOT-25",
+    "deviceName": "NCP500SN26T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LFP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB20",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "LFR***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN32T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  },
+  {
+    "smdCode": "LFZ***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN15T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  }
+]

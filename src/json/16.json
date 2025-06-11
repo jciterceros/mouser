@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "16",
+    "package": "SOT-23",
+    "deviceName": "DTA144ECA",
+    "manufacturer": "Secos",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta144e_series_secos.pdf"
+  },
+  {
+    "smdCode": "16",
+    "package": "SOT-523",
+    "deviceName": "DTA144EE",
+    "manufacturer": "Secos",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta144e_series_secos.pdf"
+  },
+  {
+    "smdCode": "16",
+    "package": "SOT-490",
+    "deviceName": "DTA144EEB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta144eeb_rohm.pdf"
+  },
+  {
+    "smdCode": "16",
+    "package": "SOT-323",
+    "deviceName": "DTA144EUA",
+    "manufacturer": "MCC",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta144eua_mcc.pdf"
+  },
+  {
+    "smdCode": "16",
+    "package": "SOT-323",
+    "deviceName": "DTA144EUA",
+    "manufacturer": "Secos",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta144e_series_secos.pdf"
+  },
+  {
+    "smdCode": "16",
+    "package": "SOT-23",
+    "deviceName": "MMBT1616",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt1616_galaxy.pdf"
+  },
+  {
+    "smdCode": "16",
+    "package": "SOT-23",
+    "deviceName": "ZD16-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "16",
+    "package": "SOD-323",
+    "deviceName": "ZD16-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "1648",
+    "package": "TSSOP-8",
+    "deviceName": "MC100EL1648",
+    "manufacturer": "ON",
+    "data": "Voltage controlled oscillator amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc100el1648_on.pdf"
+  },
+  {
+    "smdCode": "166",
+    "package": "SOT-323",
+    "deviceName": "DTC144VUA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144vka%2C_dtc144vua_rohm.pdf"
+  },
+  {
+    "smdCode": "1672rr-2",
+    "package": "µSOP-8",
+    "deviceName": "DS1672U-2",
+    "manufacturer": "Maxim",
+    "data": "I2C 32-Bit Binary Counter RTC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/s/ds1672_maxim.pdf"
+  },
+  {
+    "smdCode": "1672rr-3",
+    "package": "µSOP-8",
+    "deviceName": "DS1672U-3",
+    "manufacturer": "Maxim",
+    "data": "I2C 32-Bit Binary Counter RTC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/s/ds1672_maxim.pdf"
+  },
+  {
+    "smdCode": "1672rr-33",
+    "package": "µSOP-8",
+    "deviceName": "DS1672U-33",
+    "manufacturer": "Maxim",
+    "data": "I2C 32-Bit Binary Counter RTC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/s/ds1672_maxim.pdf"
+  },
+  {
+    "smdCode": "16A",
+    "package": "SMB",
+    "deviceName": "1.5SMC16AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "16A",
+    "package": "SOT-23",
+    "deviceName": "MMBT1616A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt1616a_galaxy.pdf"
+  },
+  {
+    "smdCode": "16T",
+    "package": "SOT-23",
+    "deviceName": "TK71516AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "16W",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA47V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  },
+  {
+    "smdCode": "16Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C16",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  }
+]

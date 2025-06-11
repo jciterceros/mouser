@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "JB",
+    "package": "SOT-23",
+    "deviceName": "BAV99",
+    "manufacturer": "Panjit",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bal99%2C_bav70%2C_bav99%2C_baw56_panjit.pdf"
+  },
+  {
+    "smdCode": "JB",
+    "package": "SOD-123",
+    "deviceName": "KDZ4.3B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "JB",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q411B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "JB **",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8239AZQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8239a%2C_rt8239b%2C_rt8239c_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "JB-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-25PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JB-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-35PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JB=**",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8239AGQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8239a%2C_rt8239b%2C_rt8239c_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "JB=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-35GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

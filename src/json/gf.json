@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "GF",
+    "package": "MSOP-8",
+    "deviceName": "ADCMP602BRMZ",
+    "manufacturer": "Analog Devices",
+    "data": "Rail-to-Rail comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adcmp600%2C_adcmp601%2C_adcmp602_analog.pdf"
+  },
+  {
+    "smdCode": "GF",
+    "package": "SOT-89",
+    "deviceName": "BAW79B",
+    "manufacturer": "Siemens",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw79_siemens.pdf"
+  },
+  {
+    "smdCode": "GF",
+    "package": "SOT-25",
+    "deviceName": "BD4945G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GF",
+    "package": "SOD-323F",
+    "deviceName": "PZU7.5B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "GF",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q261B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "GF*",
+    "package": "SOT-553",
+    "deviceName": "BD4945FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GF*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-KMGQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "GF-",
+    "package": "SOT-89",
+    "deviceName": "RT9161A-15PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "GF-***",
+    "package": "SOT-23",
+    "deviceName": "RT9198-25PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "Gf",
+    "package": "SOT-23",
+    "deviceName": "BD48L36G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

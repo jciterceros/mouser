@@ -1,0 +1,554 @@
+[
+  {
+    "smdCode": "Z1",
+    "package": "SOT-416",
+    "deviceName": "2N7002PT",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002pt_nxp.pdf"
+  },
+  {
+    "smdCode": "Z1",
+    "package": "SOT-89",
+    "deviceName": "BZV49C4V7",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_zetex.pdf"
+  },
+  {
+    "smdCode": "Z1",
+    "package": "SOT-23",
+    "deviceName": "BZX84C4V7",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "Z1",
+    "package": "SOT-23",
+    "deviceName": "BZX84C4V7-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84-v-series_vishay.pdf"
+  },
+  {
+    "smdCode": "Z1",
+    "package": "SOT-23",
+    "deviceName": "BZX84C4V7LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z1",
+    "package": "EMT6",
+    "deviceName": "EMZ1",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emz1%2C_imz1a%2C_umz1n_rohm.pdf"
+  },
+  {
+    "smdCode": "Z1",
+    "package": "SOT-26",
+    "deviceName": "IMZ1A",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emz1%2C_imz1a%2C_umz1n_rohm.pdf"
+  },
+  {
+    "smdCode": "Z1",
+    "package": "SOD-323",
+    "deviceName": "PDZ2.7B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Z1",
+    "package": "SOT-23",
+    "deviceName": "SSTJ211",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/2/j210%2C_j211%2C_j212%2C_sstj211%2C_sstj212_vishay.pdf"
+  },
+  {
+    "smdCode": "Z1",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84C4V7LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z1",
+    "package": "SOT-363",
+    "deviceName": "UMZ1N",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emz1%2C_imz1a%2C_umz1n_rohm.pdf"
+  },
+  {
+    "smdCode": "Z1-",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "Z11",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Z11",
+    "package": "SOT-23",
+    "deviceName": "BZX84C2V4",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "Z11",
+    "package": "SOT-23",
+    "deviceName": "BZX84C2V4-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84-v-series_vishay.pdf"
+  },
+  {
+    "smdCode": "Z11 *",
+    "package": "SOT-23",
+    "deviceName": "BZX84C2V4LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z11 *",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84C2V4LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z12",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Z12",
+    "package": "SOT-23",
+    "deviceName": "BZX84C2V7",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "Z12",
+    "package": "SOT-23",
+    "deviceName": "BZX84C2V7-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84-v-series_vishay.pdf"
+  },
+  {
+    "smdCode": "Z12",
+    "package": "SOT-23",
+    "deviceName": "BZX84C2V7LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z12",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84C2V7LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z1237QI2",
+    "package": "QFN-23 4x4",
+    "deviceName": "AOZ1237QI-02",
+    "manufacturer": "Alpha & Omega",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/aoz1237qi-02_ao.pdf"
+  },
+  {
+    "smdCode": "Z13",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Z13",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V0",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "Z13",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V0-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84-v-series_vishay.pdf"
+  },
+  {
+    "smdCode": "Z13",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V0LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z13",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84C3V0LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z14",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Z14",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V3",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "Z14",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V3-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84-v-series_vishay.pdf"
+  },
+  {
+    "smdCode": "Z14",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V3LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z14",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84C3V3LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z15",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C3V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Z15",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V6",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "Z15",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V6-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84-v-series_vishay.pdf"
+  },
+  {
+    "smdCode": "Z15",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V6LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z15",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84C3V6LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z16",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Z16",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V9",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "Z16",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V9-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84-v-series_vishay.pdf"
+  },
+  {
+    "smdCode": "Z16",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V9LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z16",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84C3V9LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z17",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C4V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Z17",
+    "package": "SOT-23",
+    "deviceName": "BZX84C4V3",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "Z17",
+    "package": "SOT-23",
+    "deviceName": "BZX84C4V3-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84-v-series_vishay.pdf"
+  },
+  {
+    "smdCode": "Z19",
+    "package": "SOT-363",
+    "deviceName": "NC7SZ19P6X",
+    "manufacturer": "Fairchild",
+    "data": "Decoder/Demultiplexer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7sz19_fairchild.pdf"
+  },
+  {
+    "smdCode": "Z1AAG",
+    "package": "SOT-26",
+    "deviceName": "UB261G-AA-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1AAL",
+    "package": "SOT-26",
+    "deviceName": "UB261L-AA-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1ABG",
+    "package": "SOT-26",
+    "deviceName": "UB261G-AB-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1ABL",
+    "package": "SOT-26",
+    "deviceName": "UB261L-AB-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1ACG",
+    "package": "SOT-26",
+    "deviceName": "UB261G-AC-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1ACL",
+    "package": "SOT-26",
+    "deviceName": "UB261L-AC-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1ADG",
+    "package": "SOT-26",
+    "deviceName": "UB261G-AD-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1ADL",
+    "package": "SOT-26",
+    "deviceName": "UB261L-AD-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1AEG",
+    "package": "SOT-26",
+    "deviceName": "UB261G-AE-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1AEL",
+    "package": "SOT-26",
+    "deviceName": "UB261L-AE-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1AFG",
+    "package": "SOT-26",
+    "deviceName": "UB261G-AF-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1AFL",
+    "package": "SOT-26",
+    "deviceName": "UB261L-AF-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1AGG",
+    "package": "SOT-26",
+    "deviceName": "UB261G-AG-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1AGL",
+    "package": "SOT-26",
+    "deviceName": "UB261L-AG-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1AHG",
+    "package": "SOT-26",
+    "deviceName": "UB261G-AH-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1AHL",
+    "package": "SOT-26",
+    "deviceName": "UB261L-AH-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1AIG",
+    "package": "SOT-26",
+    "deviceName": "UB261G-AI-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1AIL",
+    "package": "SOT-26",
+    "deviceName": "UB261L-AI-AG6-R",
+    "manufacturer": "UTC",
+    "data": "Battery Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/b/ub261_utc.pdf"
+  },
+  {
+    "smdCode": "Z1W",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "Z1Z",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA4V7",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  },
+  {
+    "smdCode": "Z1p",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "Z1t",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

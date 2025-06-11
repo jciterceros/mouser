@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "6t3",
+    "package": "SOT-323",
+    "deviceName": "1PS70SB40",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6t4",
+    "package": "SOT-323",
+    "deviceName": "1PS70SB44",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6t5",
+    "package": "SOT-323",
+    "deviceName": "1PS70SB45",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6t6",
+    "package": "SOT-323",
+    "deviceName": "1PS70SB46",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  }
+]

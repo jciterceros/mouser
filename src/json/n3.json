@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "N3",
+    "package": "SOT-26",
+    "deviceName": "BC817DS",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc817ds_philips.pdf"
+  },
+  {
+    "smdCode": "N3",
+    "package": "SOT-343N",
+    "deviceName": "BFG520W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg520w%2C_bfg520w_x_nxp.pdf"
+  },
+  {
+    "smdCode": "N3",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B43",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "N3",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5263",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "N3***",
+    "package": "SOT-23",
+    "deviceName": "Si2303CDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2303cds_vishay.pdf"
+  },
+  {
+    "smdCode": "N3030LS",
+    "package": "SO-8",
+    "deviceName": "DMN3030LSS",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/m/dmn3030lss_r12-2_diodes.pdf"
+  },
+  {
+    "smdCode": "N306AD",
+    "package": "TO-251AA",
+    "deviceName": "ISL9N306AD3",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl9n306ad3_fairchild.pdf"
+  },
+  {
+    "smdCode": "N306AD",
+    "package": "TO-252AA",
+    "deviceName": "ISL9N306AD3ST",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl9n306ad3_fairchild.pdf"
+  }
+]

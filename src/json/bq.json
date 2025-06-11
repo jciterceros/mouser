@@ -1,0 +1,202 @@
+[
+  {
+    "smdCode": "BQ",
+    "package": "SOT-89",
+    "deviceName": "2SB766A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb766a_galaxy.pdf"
+  },
+  {
+    "smdCode": "BQ",
+    "package": "SOT-346",
+    "deviceName": "2SC2412K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1740s%2C_2sc2412k%2C_2sc4081%2C_2sc4617%2C_2sc5658_rohm.pdf"
+  },
+  {
+    "smdCode": "BQ",
+    "package": "SOT-323",
+    "deviceName": "2SC4081",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1740s%2C_2sc2412k%2C_2sc4081%2C_2sc4617%2C_2sc5658_rohm.pdf"
+  },
+  {
+    "smdCode": "BQ",
+    "package": "UMT3F",
+    "deviceName": "2SC4081UB",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4081ub_rohm.pdf"
+  },
+  {
+    "smdCode": "BQ",
+    "package": "SOT-523",
+    "deviceName": "2SC4617",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1740s%2C_2sc2412k%2C_2sc4081%2C_2sc4617%2C_2sc5658_rohm.pdf"
+  },
+  {
+    "smdCode": "BQ",
+    "package": "SOT-523",
+    "deviceName": "2SC4617",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4617_tip.pdf"
+  },
+  {
+    "smdCode": "BQ",
+    "package": "VMT3",
+    "deviceName": "2SC5658",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1740s%2C_2sc2412k%2C_2sc4081%2C_2sc4617%2C_2sc5658_rohm.pdf"
+  },
+  {
+    "smdCode": "BQ",
+    "package": "SOT-25",
+    "deviceName": "BD4735G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "BQ",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C18",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "BQ*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9016-18PQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9016_richtek.pdf"
+  },
+  {
+    "smdCode": "BQ07A",
+    "package": "QFN-20 3.5x3.5",
+    "deviceName": "BQ24707ARGRR",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24707%2C_bq24707a_rb_ti.pdf"
+  },
+  {
+    "smdCode": "BQ1",
+    "package": "SOT-323",
+    "deviceName": "2SB1218A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1218a_galaxy.pdf"
+  },
+  {
+    "smdCode": "BQ1",
+    "package": "SOT-23",
+    "deviceName": "2SB709A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb709a_galaxy.pdf"
+  },
+  {
+    "smdCode": "BQ25A",
+    "package": "QFN-20 3.5x3.5",
+    "deviceName": "BQ24725ARGRR",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24725a_ra_ti.pdf"
+  },
+  {
+    "smdCode": "BQ707",
+    "package": "QFN-20 3.5x3.5",
+    "deviceName": "BQ24707RGRR",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24707%2C_bq24707a_rb_ti.pdf"
+  },
+  {
+    "smdCode": "BQ715",
+    "package": "QFN-20 3.5x3.5",
+    "deviceName": "BQ24715J",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24715j_r201308_ti.pdf"
+  },
+  {
+    "smdCode": "BQ725",
+    "package": "QFN-20 3.5x3.5",
+    "deviceName": "BQ24725",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24725_ra_ti.pdf"
+  },
+  {
+    "smdCode": "BQ735",
+    "package": "QFN-20 3.5x3.5",
+    "deviceName": "BQ24735RGRR",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24735_rb_ti.pdf"
+  },
+  {
+    "smdCode": "BQE",
+    "package": "QFN-10",
+    "deviceName": "TPS62400DRC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62400%2C_tps62401%2C_tps62402%2C_tps62403_ti.pdf"
+  },
+  {
+    "smdCode": "BQH",
+    "package": "MSOP-8",
+    "deviceName": "INA200",
+    "manufacturer": "Texas Instruments",
+    "data": "Current Sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/n/ina200%2C_ina201%2C_ina202_ti.pdf"
+  },
+  {
+    "smdCode": "BQJ",
+    "package": "MSOP-8",
+    "deviceName": "INA201",
+    "manufacturer": "Texas Instruments",
+    "data": "Current Sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/n/ina200%2C_ina201%2C_ina202_ti.pdf"
+  },
+  {
+    "smdCode": "BQL",
+    "package": "MSOP-8",
+    "deviceName": "INA202",
+    "manufacturer": "Texas Instruments",
+    "data": "Current Sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/n/ina200%2C_ina201%2C_ina202_ti.pdf"
+  },
+  {
+    "smdCode": "BQN",
+    "package": "MSOP-10",
+    "deviceName": "INA203",
+    "manufacturer": "Texas Instruments",
+    "data": "Current Sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/n/ina203%2C_ina204%2C_ina205_ti.pdf"
+  },
+  {
+    "smdCode": "BQO",
+    "package": "MSOP-10",
+    "deviceName": "INA204",
+    "manufacturer": "Texas Instruments",
+    "data": "Current Sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/n/ina203%2C_ina204%2C_ina205_ti.pdf"
+  },
+  {
+    "smdCode": "BQP",
+    "package": "MSOP-10",
+    "deviceName": "INA205",
+    "manufacturer": "Texas Instruments",
+    "data": "Current Sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/n/ina203%2C_ina204%2C_ina205_ti.pdf"
+  }
+]

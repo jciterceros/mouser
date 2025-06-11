@@ -1,0 +1,226 @@
+[
+  {
+    "smdCode": "K2",
+    "package": "SOT-23",
+    "deviceName": "BCW72",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw71%2C_bcw72_zetex.pdf"
+  },
+  {
+    "smdCode": "K2",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "K2",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5252",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "K2",
+    "package": "SOT-26",
+    "deviceName": "SM6K2",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/sm6k2_rohm.pdf"
+  },
+  {
+    "smdCode": "K2***",
+    "package": "SOT-23",
+    "deviceName": "TN0200K",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/n/tn0200k_vishay.pdf"
+  },
+  {
+    "smdCode": "K2-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818E-35PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "K2094",
+    "package": "SOT-428",
+    "deviceName": "2SK2094",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk2094_rohm.pdf"
+  },
+  {
+    "smdCode": "K23",
+    "package": "SOT-23",
+    "deviceName": "BSS123",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss123_diodes.pdf"
+  },
+  {
+    "smdCode": "K2503",
+    "package": "SOT-428",
+    "deviceName": "2SK2503",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk2503_rohm.pdf"
+  },
+  {
+    "smdCode": "K2504",
+    "package": "SOT-428",
+    "deviceName": "2SK2504",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk2504_rohm.pdf"
+  },
+  {
+    "smdCode": "K26",
+    "package": "SOT-416",
+    "deviceName": "DTC144GE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144ge%2C_dtc144gka%2C_dtc144gsa%2C_dtc144gua_rohm.pdf"
+  },
+  {
+    "smdCode": "K26",
+    "package": "SOT-346",
+    "deviceName": "DTC144GKA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144ge%2C_dtc144gka%2C_dtc144gsa%2C_dtc144gua_rohm.pdf"
+  },
+  {
+    "smdCode": "K26",
+    "package": "SOT-323",
+    "deviceName": "DTC144GUA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc144ge%2C_dtc144gka%2C_dtc144gsa%2C_dtc144gua_rohm.pdf"
+  },
+  {
+    "smdCode": "K2608",
+    "package": "TO-220AB",
+    "deviceName": "2SK2608",
+    "manufacturer": "Toshiba",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk2608_toshiba.pdf"
+  },
+  {
+    "smdCode": "K27",
+    "package": "SOT-363",
+    "deviceName": "2N7002KDW",
+    "manufacturer": "Panjit",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002kdw_panjit.pdf"
+  },
+  {
+    "smdCode": "K27",
+    "package": "SOT-363",
+    "deviceName": "MMDT2227",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdt2227_galaxy.pdf"
+  },
+  {
+    "smdCode": "K2915",
+    "package": "SC-65",
+    "deviceName": "2SK2915",
+    "manufacturer": "Toshiba",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk2915_toshiba.pdf"
+  },
+  {
+    "smdCode": "K2996",
+    "package": "SC-67",
+    "deviceName": "2SK2996",
+    "manufacturer": "Toshiba",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk2996_toshiba.pdf"
+  },
+  {
+    "smdCode": "K2D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA13",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta13%2C_mmbta14_galaxy.pdf"
+  },
+  {
+    "smdCode": "K2D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA13",
+    "manufacturer": "Diodes",
+    "data": "NPN Darlington transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta13%2C_mmbta14_diodes.pdf"
+  },
+  {
+    "smdCode": "K2F",
+    "package": "SOT-23",
+    "deviceName": "MMBT2907A",
+    "manufacturer": "Diodes",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2907a_diodes.pdf"
+  },
+  {
+    "smdCode": "K2F",
+    "package": "SOT-363",
+    "deviceName": "MMDT2907A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdt2907a_galaxy.pdf"
+  },
+  {
+    "smdCode": "K2F",
+    "package": "SOT-363",
+    "deviceName": "MMDT2907A",
+    "manufacturer": "Diodes",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdt2907a_r14-2_diodes.pdf"
+  },
+  {
+    "smdCode": "K2G",
+    "package": "SOT-323",
+    "deviceName": "MMSTA56",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsta55%2C_mmsta56_galaxy.pdf"
+  },
+  {
+    "smdCode": "K2H",
+    "package": "SOT-323",
+    "deviceName": "MMSTA55",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsta55%2C_mmsta56_galaxy.pdf"
+  },
+  {
+    "smdCode": "K2N",
+    "package": "SOT-323",
+    "deviceName": "MMST3904",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst3904_galaxy.pdf"
+  },
+  {
+    "smdCode": "K2T",
+    "package": "SOT-363",
+    "deviceName": "MMDT4403",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdt4403_galaxy.pdf"
+  },
+  {
+    "smdCode": "K2X",
+    "package": "SOT-363",
+    "deviceName": "MMDT4401",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdt4401_galaxy.pdf"
+  }
+]

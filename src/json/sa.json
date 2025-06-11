@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "SA",
+    "package": "SOT-23",
+    "deviceName": "BSS123",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss123_fairchild.pdf"
+  },
+  {
+    "smdCode": "SA",
+    "package": "SOT-23",
+    "deviceName": "BSS123N3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss123n3_cystek.pdf"
+  },
+  {
+    "smdCode": "SA",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "SA",
+    "package": "SOT-89",
+    "deviceName": "KTC4377",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc4377_tip.pdf"
+  },
+  {
+    "smdCode": "SA",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K341A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "SA***",
+    "package": "SOT-26",
+    "deviceName": "AP65201WU-7",
+    "manufacturer": "Diodes",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap65201_r2-2_diodes.pdf"
+  },
+  {
+    "smdCode": "SA-",
+    "package": "SOT-23",
+    "deviceName": "BSS123",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss123_philips.pdf"
+  },
+  {
+    "smdCode": "SAG",
+    "package": "SOT-25",
+    "deviceName": "TS391AG-AF5",
+    "manufacturer": "UTC",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts391%2C_ts391a%2C_ts391b%2C_ts391c_20150601_utc.pdf"
+  },
+  {
+    "smdCode": "SAG",
+    "package": "SOT-353",
+    "deviceName": "TS391AG-AL5",
+    "manufacturer": "UTC",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts391%2C_ts391a%2C_ts391b%2C_ts391c_20150601_utc.pdf"
+  },
+  {
+    "smdCode": "SAH",
+    "package": "SOT-25",
+    "deviceName": "TLV70013DDCR",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "SAW",
+    "package": "SOT-23",
+    "deviceName": "BSS123",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss123_philips.pdf"
+  },
+  {
+    "smdCode": "SAp",
+    "package": "SOT-23",
+    "deviceName": "BSS123",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss123_philips.pdf"
+  },
+  {
+    "smdCode": "SAt",
+    "package": "SOT-23",
+    "deviceName": "BSS123",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss123_philips.pdf"
+  },
+  {
+    "smdCode": "sa**",
+    "package": "SC-70-4",
+    "deviceName": "PT7M6102CHC4E",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  },
+  {
+    "smdCode": "sa**",
+    "package": "TO-94",
+    "deviceName": "PT7M6102CHNE",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  },
+  {
+    "smdCode": "sa**",
+    "package": "SOT-25",
+    "deviceName": "PT7M6102CHTAE",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  }
+]

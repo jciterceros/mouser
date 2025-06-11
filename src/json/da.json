@@ -1,0 +1,330 @@
+[
+  {
+    "smdCode": "DA",
+    "package": "SOT-23",
+    "deviceName": "BCW67A",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw67%2C_bcw68_zetex.pdf"
+  },
+  {
+    "smdCode": "DA",
+    "package": "SOT-23",
+    "deviceName": "BCW67A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw67%2C_bcw68_galaxy.pdf"
+  },
+  {
+    "smdCode": "DA",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C11",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DA",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4708-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "DA",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q401A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "DA",
+    "package": "SOT-23",
+    "deviceName": "TZT2V7AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "DA*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8010-25PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "DA**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US38D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "DA**",
+    "package": "SOT-363",
+    "deviceName": "Si1913EDH",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1913edh_vishay.pdf"
+  },
+  {
+    "smdCode": "DA***",
+    "package": "SOT-25",
+    "deviceName": "AP131-15W",
+    "manufacturer": "Diodes",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap131_r7_diodes.pdf"
+  },
+  {
+    "smdCode": "DA-",
+    "package": "SOT-89-5",
+    "deviceName": "RT9266PX5",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9266_r16_richtek.pdf"
+  },
+  {
+    "smdCode": "DA-***",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9011-DFPQWB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "DA5",
+    "package": "SOT-23",
+    "deviceName": "BAR43SFILM",
+    "manufacturer": "STMicroelectronics",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar42film%2C_bar43film%2C_bar43afilm%2C_43cfilm%2C_bar43sfilm_st.pdf"
+  },
+  {
+    "smdCode": "DAA",
+    "package": "SOT-23",
+    "deviceName": "PJDLC05C-02",
+    "manufacturer": "Panjit",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/j/pjdlc05c-02_panjit.pdf"
+  },
+  {
+    "smdCode": "DAA**",
+    "package": "SOT-25",
+    "deviceName": "NCP1400ASN27T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1400a_on.pdf"
+  },
+  {
+    "smdCode": "DAB",
+    "package": "SOT-26",
+    "deviceName": "DMN5L06DMK",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/m/dmn5l06dmk_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "DAB**",
+    "package": "SOT-25",
+    "deviceName": "NCP1400ASN30T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1400a_on.pdf"
+  },
+  {
+    "smdCode": "DACI",
+    "package": "SOT-28",
+    "deviceName": "TMP421",
+    "manufacturer": "Texas Instruments",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/m/tmp421%2C_tmp422%2C_tmp423_ti.pdf"
+  },
+  {
+    "smdCode": "DAD**",
+    "package": "SOT-25",
+    "deviceName": "NCP1400ASN50T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1400a_on.pdf"
+  },
+  {
+    "smdCode": "DADI",
+    "package": "SOT-28",
+    "deviceName": "TMP422",
+    "manufacturer": "Texas Instruments",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/m/tmp421%2C_tmp422%2C_tmp423_ti.pdf"
+  },
+  {
+    "smdCode": "DAE**",
+    "package": "SOT-25",
+    "deviceName": "NCP1402SN27T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1402_on.pdf"
+  },
+  {
+    "smdCode": "DAEI",
+    "package": "SOT-28",
+    "deviceName": "TMP423A",
+    "manufacturer": "Texas Instruments",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/m/tmp421%2C_tmp422%2C_tmp423_ti.pdf"
+  },
+  {
+    "smdCode": "DAF**",
+    "package": "SOT-25",
+    "deviceName": "NCP1402SN30T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1402_on.pdf"
+  },
+  {
+    "smdCode": "DAFI",
+    "package": "SOT-28",
+    "deviceName": "TMP423B",
+    "manufacturer": "Texas Instruments",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/m/tmp421%2C_tmp422%2C_tmp423_ti.pdf"
+  },
+  {
+    "smdCode": "DAG**",
+    "package": "SOT-25",
+    "deviceName": "NCP1402SN33T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1402_on.pdf"
+  },
+  {
+    "smdCode": "DAH**",
+    "package": "SOT-25",
+    "deviceName": "NCP1402SN50T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1402_on.pdf"
+  },
+  {
+    "smdCode": "DAI**",
+    "package": "SOT-25",
+    "deviceName": "NCP1400ASN19T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1400a_on.pdf"
+  },
+  {
+    "smdCode": "DAJ**",
+    "package": "SOT-25",
+    "deviceName": "NCP1400ASN33T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1400a_on.pdf"
+  },
+  {
+    "smdCode": "DAL",
+    "package": "SOT-25",
+    "deviceName": "TLV70018QDDCRQ1",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv70018-q1%2C_tlv70012-q1_rb_ti.pdf"
+  },
+  {
+    "smdCode": "DALC",
+    "package": "SOT-26",
+    "deviceName": "DALC208SC6",
+    "manufacturer": "STMicroelectronics",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dalc208sc6_st.pdf"
+  },
+  {
+    "smdCode": "DAP",
+    "package": "SOT-89",
+    "deviceName": "2SD1664",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1664%2C_2sd1858_rohm.pdf"
+  },
+  {
+    "smdCode": "DAP",
+    "package": "SOT-553",
+    "deviceName": "OPA171AIDRLT",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/o/p/opa171%2C_opa2171%2C_opa4171_ti.pdf"
+  },
+  {
+    "smdCode": "DAP6",
+    "package": "SO-8",
+    "deviceName": "DAP006",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dap006_on.pdf"
+  },
+  {
+    "smdCode": "DAP8A",
+    "package": "SO-8",
+    "deviceName": "NCP1203D60R2 (analog)",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1203_on.pdf"
+  },
+  {
+    "smdCode": "DAQ",
+    "package": "SOT-89",
+    "deviceName": "2SD1664",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1664%2C_2sd1858_rohm.pdf"
+  },
+  {
+    "smdCode": "DAR",
+    "package": "SOT-89",
+    "deviceName": "2SD1664",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1664%2C_2sd1858_rohm.pdf"
+  },
+  {
+    "smdCode": "DAU",
+    "package": "SOT-25",
+    "deviceName": "TLV70025DDCR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "DAU**",
+    "package": "SOT-25",
+    "deviceName": "NCP1402SN19T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1402_on.pdf"
+  },
+  {
+    "smdCode": "DAV**",
+    "package": "SOT-25",
+    "deviceName": "NCP1400ASN25T1",
+    "manufacturer": "ON",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1400a_on.pdf"
+  },
+  {
+    "smdCode": "Da",
+    "package": "SOT-25",
+    "deviceName": "BD49E27G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Da",
+    "package": "SOT-23",
+    "deviceName": "BD49K27G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

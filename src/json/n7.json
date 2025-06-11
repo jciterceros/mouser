@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "N7",
+    "package": "SOT-23",
+    "deviceName": "2SC1654",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1654_galaxy.pdf"
+  },
+  {
+    "smdCode": "N7",
+    "package": "SOT-343N",
+    "deviceName": "BFG540W/X",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg540w%2C_bfg540w_x%2C_bfg540w_xr_philips.pdf"
+  },
+  {
+    "smdCode": "N7",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B62",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "N7***",
+    "package": "SOT-23",
+    "deviceName": "Si2307CDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2307cds_vishay.pdf"
+  },
+  {
+    "smdCode": "N70",
+    "package": "SOT-143",
+    "deviceName": "BFG10",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg10%2C_bfg10_x_philips.pdf"
+  },
+  {
+    "smdCode": "N71",
+    "package": "SOT-143",
+    "deviceName": "BFG10/X",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg10%2C_bfg10_x_philips.pdf"
+  },
+  {
+    "smdCode": "N72",
+    "package": "SOT-143",
+    "deviceName": "BFG11",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg11%2C_bfg11_x_philips.pdf"
+  },
+  {
+    "smdCode": "N73",
+    "package": "SOT-143",
+    "deviceName": "BFG11/X",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg11%2C_bfg11_x_philips.pdf"
+  }
+]

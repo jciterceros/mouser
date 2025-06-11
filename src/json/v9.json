@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "V9",
+    "package": "SOT-23",
+    "deviceName": "DZ23C5V6-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V9",
+    "package": "SOT-23",
+    "deviceName": "TZT5V6CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V9-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "V9W",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "V9p",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "V9t",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

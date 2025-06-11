@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "XQ",
+    "package": "SOT-23",
+    "deviceName": "2SD602A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd602a_galaxy.pdf"
+  },
+  {
+    "smdCode": "XQ",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XQ=***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-4GGB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  }
+]

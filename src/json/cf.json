@@ -1,0 +1,306 @@
+[
+  {
+    "smdCode": "CF",
+    "package": "SOT-89",
+    "deviceName": "2SC3650",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3650_galaxy.pdf"
+  },
+  {
+    "smdCode": "CF",
+    "package": "SOT-89",
+    "deviceName": "BCX69-10",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx69-10%2C_bcx69-16%2C_bcx69-25_infineon.pdf"
+  },
+  {
+    "smdCode": "CF",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4681-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "CF",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q351A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "CF",
+    "package": "SON-6 1,45 x 1",
+    "deviceName": "SN74LVC1G14DRY2",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CF",
+    "package": "SON-6 1 x 1",
+    "deviceName": "SN74LVC1G14DSF2",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CF*",
+    "package": "VDFN-6 2x2",
+    "deviceName": "RT8010-25PQV",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "CF**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US33D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CF**",
+    "package": "SOT-363",
+    "deviceName": "Si1988DH",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1988dh_vishay.pdf"
+  },
+  {
+    "smdCode": "CF***",
+    "package": "SOT-26",
+    "deviceName": "PAM2803AAF095",
+    "manufacturer": "Diodes",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pam2803_r2-2_diodes.pdf"
+  },
+  {
+    "smdCode": "CF***",
+    "package": "SOT-26",
+    "deviceName": "SY8101AEBC",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8101_silergy.pdf"
+  },
+  {
+    "smdCode": "CF-",
+    "package": "SOT-89",
+    "deviceName": "RT9161A-42PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "CF-**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9014A-FMPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "CF-***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-12PVL",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "CF5",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G14DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CF7",
+    "package": "SOT-553",
+    "deviceName": "SN74LVC1G14DRLR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CF7",
+    "package": "BGA-5 1,4 x 0,9",
+    "deviceName": "SN74LVC1G14YZPR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CF7",
+    "package": "BGA-4 0,9 x 0,9",
+    "deviceName": "SN74LVC1G14YZVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CF=***",
+    "package": "SOT-26",
+    "deviceName": "RT9293A-20GJ6",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9293_richtek.pdf"
+  },
+  {
+    "smdCode": "CFA*",
+    "package": "SOT-26",
+    "deviceName": "APW7136ACITRG",
+    "manufacturer": "Anpec",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apw7136a_apw7136b_apw7136c_ra.4_anpec.pdf"
+  },
+  {
+    "smdCode": "CFB*",
+    "package": "SOT-26",
+    "deviceName": "APW7136BCITRG",
+    "manufacturer": "Anpec",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apw7136a_apw7136b_apw7136c_ra.4_anpec.pdf"
+  },
+  {
+    "smdCode": "CFC*",
+    "package": "SOT-26",
+    "deviceName": "APW7136CCITRG",
+    "manufacturer": "Anpec",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apw7136a_apw7136b_apw7136c_ra.4_anpec.pdf"
+  },
+  {
+    "smdCode": "CFE",
+    "package": "WSON-8 2x2",
+    "deviceName": "BQ24380DSGR",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24380%2C_bq24381%2C_bq24382_ti.pdf"
+  },
+  {
+    "smdCode": "CFF",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G14DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CFK",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G14DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CFN",
+    "package": "BGA-5 1,4 x 0,9",
+    "deviceName": "SN74LVC1G14YZPR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CFN",
+    "package": "BGA-4 0,9 x 0,9",
+    "deviceName": "SN74LVC1G14YZVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CFQ",
+    "package": "SOT-89",
+    "deviceName": "2SD2150",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2150_tip.pdf"
+  },
+  {
+    "smdCode": "CFR",
+    "package": "SOT-89",
+    "deviceName": "2SD2150",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2150_rohm.pdf"
+  },
+  {
+    "smdCode": "CFR",
+    "package": "SOT-89",
+    "deviceName": "2SD2150",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2150_tip.pdf"
+  },
+  {
+    "smdCode": "CFR",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G14DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CFR",
+    "package": "SOT-553",
+    "deviceName": "SN74LVC1G14DRLR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CFS",
+    "package": "SOT-89",
+    "deviceName": "2SD2150",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2150_rohm.pdf"
+  },
+  {
+    "smdCode": "CFS",
+    "package": "SOT-89",
+    "deviceName": "2SD2150",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2150_tip.pdf"
+  },
+  {
+    "smdCode": "CFT",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G14DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g14_rw_ti.pdf"
+  },
+  {
+    "smdCode": "CFW",
+    "package": "WSON-8 2x2",
+    "deviceName": "BQ24381DSGR",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24380%2C_bq24381%2C_bq24382_ti.pdf"
+  },
+  {
+    "smdCode": "Cf",
+    "package": "SOT-25",
+    "deviceName": "BD48E56G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Cf",
+    "package": "SOT-23",
+    "deviceName": "BD48K56G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

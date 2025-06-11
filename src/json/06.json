@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "06",
+    "package": "SOT-23",
+    "deviceName": "DTC144TCA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114tca_dtc143tca_dtc144tca_galaxy.pdf"
+  },
+  {
+    "smdCode": "06",
+    "package": "SOT-323",
+    "deviceName": "DTC144TUA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114tua_dtc143tua_dtc144tua_galaxy.pdf"
+  },
+  {
+    "smdCode": "06",
+    "package": "SOT-416",
+    "deviceName": "PDTC124EE",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "06-",
+    "package": "SOT-323",
+    "deviceName": "PMSS3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmss3906_nxp.pdf"
+  },
+  {
+    "smdCode": "06N03L",
+    "package": "TO-252",
+    "deviceName": "IPD06N03L",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipd06n03l_infineon.pdf"
+  },
+  {
+    "smdCode": "06N03LA",
+    "package": "TO-263-3",
+    "deviceName": "IPB06N03LA",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipb06n03la%2C_ipi06n03la%2C_ipp06n03la_infineon.pdf"
+  },
+  {
+    "smdCode": "06N03LA",
+    "package": "TO-263-3",
+    "deviceName": "IPI06N03LA",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipb06n03la%2C_ipi06n03la%2C_ipp06n03la_infineon.pdf"
+  },
+  {
+    "smdCode": "06N03LA",
+    "package": "TO-220-3-1",
+    "deviceName": "IPP06N03LA",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipb06n03la%2C_ipi06n03la%2C_ipp06n03la_infineon.pdf"
+  },
+  {
+    "smdCode": "06W",
+    "package": "SOT-323",
+    "deviceName": "PMSS3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmss3906_nxp.pdf"
+  },
+  {
+    "smdCode": "06p",
+    "package": "SOT-323",
+    "deviceName": "PMSS3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmss3906_nxp.pdf"
+  },
+  {
+    "smdCode": "06t",
+    "package": "SOT-323",
+    "deviceName": "PMSS3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmss3906_nxp.pdf"
+  }
+]

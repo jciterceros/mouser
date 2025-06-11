@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "CJ",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4683-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "CJ",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q381A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "CJ*",
+    "package": "VDFN-6 2x2",
+    "deviceName": "RT9016-18PQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9016_richtek.pdf"
+  },
+  {
+    "smdCode": "CJ**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US29D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CJ**",
+    "package": "SOT-26",
+    "deviceName": "MCP1624",
+    "manufacturer": "Microchip",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mcp1623_mcp1624_20100504_microchip.pdf"
+  },
+  {
+    "smdCode": "CJ***",
+    "package": "SOT-26",
+    "deviceName": "AAT4280IGU-3-T1",
+    "manufacturer": "Analogic (Now Skyworks)",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/a/aat4280_20061114_analogic.pdf"
+  },
+  {
+    "smdCode": "CJ***",
+    "package": "SC70JW-8",
+    "deviceName": "AAT4280IJS-3-T1",
+    "manufacturer": "Analogic (Now Skyworks)",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/a/aat4280_20061114_analogic.pdf"
+  },
+  {
+    "smdCode": "CJ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9169-20PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "CJ=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8205AGQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8205a%2C_rt8205b%2C_rt8205c_r06_richtek.pdf"
+  }
+]

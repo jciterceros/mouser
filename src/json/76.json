@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "76",
+    "package": "SOT-23",
+    "deviceName": "BAS70-06",
+    "manufacturer": "MCC",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40%2C_bas70_series_rd_mcc.pdf"
+  },
+  {
+    "smdCode": "7686",
+    "package": "PowerPAK SO-8",
+    "deviceName": "Si7686DP",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si7686dp_vishay.pdf"
+  },
+  {
+    "smdCode": "76s",
+    "package": "SOT-23",
+    "deviceName": "BAS70-06",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas70_series_infineon.pdf"
+  }
+]

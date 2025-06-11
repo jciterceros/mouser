@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "91",
+    "package": "SOT-346",
+    "deviceName": "DTA113TKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta113tka_rohm.pdf"
+  },
+  {
+    "smdCode": "9174",
+    "package": "MSOP-10",
+    "deviceName": "Si9174DH",
+    "manufacturer": "Vishay",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9174_vishay.pdf"
+  },
+  {
+    "smdCode": "9174",
+    "package": "MLP-33",
+    "deviceName": "Si9174DM",
+    "manufacturer": "Vishay",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9174_vishay.pdf"
+  },
+  {
+    "smdCode": "91A",
+    "package": "SMB",
+    "deviceName": "1.5SMC91AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "91AQ*",
+    "package": "SOT-25",
+    "deviceName": "G9191-280T1U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g9191_gmt.pdf"
+  },
+  {
+    "smdCode": "91AX*",
+    "package": "SOT-25",
+    "deviceName": "G9191-330T1U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g9191_gmt.pdf"
+  },
+  {
+    "smdCode": "91BM*",
+    "package": "SOT-25",
+    "deviceName": "G9191-475T1U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g9191_gmt.pdf"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "B9",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C4V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "B9*",
+    "package": "SOT-416",
+    "deviceName": "2SC4617",
+    "manufacturer": "ON",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4617_on.pdf"
+  },
+  {
+    "smdCode": "B9*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-SGGQWC",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "B9*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9013-30PQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "B9-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-MBPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "B9-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-28PU5R",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "B9=***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-28GU5R",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "B9=***",
+    "package": "SOT-143",
+    "deviceName": "RT9818E-33GY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

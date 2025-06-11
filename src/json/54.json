@@ -1,0 +1,282 @@
+[
+  {
+    "smdCode": "54",
+    "package": "SOT-416",
+    "deviceName": "DTA114YE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114ye%2C_dta114yka%2C_dta114ym%2C_dta114ysa%2C_dta114yua_rohm.pdf"
+  },
+  {
+    "smdCode": "54",
+    "package": "SOT-490",
+    "deviceName": "DTA114YEB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114yeb_rohm.pdf"
+  },
+  {
+    "smdCode": "54",
+    "package": "SOT-346",
+    "deviceName": "DTA114YKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114ye%2C_dta114yka%2C_dta114ym%2C_dta114ysa%2C_dta114yua_rohm.pdf"
+  },
+  {
+    "smdCode": "54",
+    "package": "VMT3",
+    "deviceName": "DTA114YM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114ye%2C_dta114yka%2C_dta114ym%2C_dta114ysa%2C_dta114yua_rohm.pdf"
+  },
+  {
+    "smdCode": "54",
+    "package": "SOT-323",
+    "deviceName": "DTA114YUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114ye%2C_dta114yka%2C_dta114ym%2C_dta114ysa%2C_dta114yua_rohm.pdf"
+  },
+  {
+    "smdCode": "54",
+    "package": "UMT3F",
+    "deviceName": "DTA114YUB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114yub_rohm.pdf"
+  },
+  {
+    "smdCode": "54",
+    "package": "ADFN-6 1.5x1.5",
+    "deviceName": "G5244A31U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5244_r0.4_gmt.pdf"
+  },
+  {
+    "smdCode": "54",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z3V6",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "54",
+    "package": "SOT-490",
+    "deviceName": "PDTC143XEF",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143xe%2C_pdtc143xef%2C_pdtc143xk%2C_pdtc143xm%2C_pdtc143xs%2C_pdtc143xt%2C_pdtc143xu_nxp.pdf"
+  },
+  {
+    "smdCode": "54",
+    "package": "SOT-323",
+    "deviceName": "ZMDC953TA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Varactor Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsd273ta%2C_zmdc953ta%2C_zv950v2ta%2C_zv952v2ta%2C_zv953v2ta_zetex.pdf"
+  },
+  {
+    "smdCode": "54-",
+    "package": "SOT-23",
+    "deviceName": "BSR17A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr17a_philips.pdf"
+  },
+  {
+    "smdCode": "54319",
+    "package": "WQFN-16 3x3",
+    "deviceName": "TPS54319",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps54319_ti.pdf"
+  },
+  {
+    "smdCode": "54327",
+    "package": "HSOP-8",
+    "deviceName": "TPS54327DDA",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps54327_rc_ti.pdf"
+  },
+  {
+    "smdCode": "54327",
+    "package": "VSON-10 3x3",
+    "deviceName": "TPS54327DRCT",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps54327_rc_ti.pdf"
+  },
+  {
+    "smdCode": "54332",
+    "package": "SO-8",
+    "deviceName": "TPS54332DDAR",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps54332_rc_ti.pdf"
+  },
+  {
+    "smdCode": "547E1",
+    "package": "TDFN-8 3x3",
+    "deviceName": "G547E1RD1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "547E2",
+    "package": "TDFN-8 3x3",
+    "deviceName": "G547E2RD1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "547F1",
+    "package": "TDFN-8 3x3",
+    "deviceName": "G547F1RD1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "547F2",
+    "package": "TDFN-8 3x3",
+    "deviceName": "G547F2RD1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "547G1",
+    "package": "TDFN-8 3x3",
+    "deviceName": "G547G1RD1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "547G2",
+    "package": "TDFN-8 3x3",
+    "deviceName": "G547G2RD1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "547H1",
+    "package": "TDFN-8 3x3",
+    "deviceName": "G547H1RD1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "547H2",
+    "package": "TDFN-8 3x3",
+    "deviceName": "G547H2RD1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "547M1",
+    "package": "TDFN-8 3x3",
+    "deviceName": "G547M1RD1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "547M2",
+    "package": "TDFN-8 3x3",
+    "deviceName": "G547M2RD1U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g547e-g547h%2C_g547m_r1.5_gmt.pdf"
+  },
+  {
+    "smdCode": "549",
+    "package": "SOT-23",
+    "deviceName": "FMMT549",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt549%2C_fmmt549a_zetex.pdf"
+  },
+  {
+    "smdCode": "54R",
+    "package": "SOT-143R",
+    "deviceName": "S504TR",
+    "manufacturer": "Vishay",
+    "data": "MOSMIC for TV-Tuner",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/5/s504t%2C_s504tr%2C_s504trw_vishay.pdf"
+  },
+  {
+    "smdCode": "54S204AI",
+    "package": "TSSOP-16",
+    "deviceName": "ICS854S204AGI",
+    "manufacturer": "IDT",
+    "data": "Dual, 1-to-2 Differential-to-LVDS, LVPECL Fanout Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/c/ics854s204i_idt.pdf"
+  },
+  {
+    "smdCode": "54W",
+    "package": "SOT-23",
+    "deviceName": "BSR17A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr17a_philips.pdf"
+  },
+  {
+    "smdCode": "54b*",
+    "package": "SOT-26",
+    "deviceName": "IA4054",
+    "manufacturer": "IA",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/a/ia4054_ia.pdf"
+  },
+  {
+    "smdCode": "54b*",
+    "package": "SOT-25",
+    "deviceName": "TP4054",
+    "manufacturer": "Top Power ASIC",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tp4054_tpasic.pdf"
+  },
+  {
+    "smdCode": "54p",
+    "package": "SOT-23",
+    "deviceName": "BSR17A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr17a_philips.pdf"
+  },
+  {
+    "smdCode": "54s",
+    "package": "SOT-23",
+    "deviceName": "BAT17-04",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat17_series_infineon.pdf"
+  },
+  {
+    "smdCode": "54s",
+    "package": "SOT-323",
+    "deviceName": "BAT17-04W",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat17_series_infineon.pdf"
+  },
+  {
+    "smdCode": "54t",
+    "package": "SOT-23",
+    "deviceName": "BSR17A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr17a_philips.pdf"
+  }
+]

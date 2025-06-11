@@ -1,0 +1,210 @@
+[
+  {
+    "smdCode": "AF",
+    "package": "SOT-89",
+    "deviceName": "CR08AS-12",
+    "manufacturer": "Kexin",
+    "data": "Triac",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/r/cr08as_kexin.pdf"
+  },
+  {
+    "smdCode": "AF",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5230B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AF",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q171A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "AF*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9012-JSPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9012_richtek.pdf"
+  },
+  {
+    "smdCode": "AF**",
+    "package": "SOT-23",
+    "deviceName": "AO3415",
+    "manufacturer": "Alpha & Omega",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao3415_r7_ao.pdf"
+  },
+  {
+    "smdCode": "AF**",
+    "package": "SOT-25",
+    "deviceName": "BL3406B-3.3V",
+    "manufacturer": "Belling",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/l/bl3406b_belling.pdf"
+  },
+  {
+    "smdCode": "AF**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US45D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "AF-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-JGPJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AF-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-18PU5R",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AF-***",
+    "package": "SOT-323",
+    "deviceName": "RT9819D-20PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "AF5A",
+    "package": "SOT-25",
+    "deviceName": "LMP2021MF",
+    "manufacturer": "National",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmp2021%2C_lmp2022_national.pdf"
+  },
+  {
+    "smdCode": "AF=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-JGGJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AF=***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-18GU5R",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AFAL",
+    "package": "SOT-23",
+    "deviceName": "V6319LSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "AFAM",
+    "package": "SOT-23",
+    "deviceName": "V6319MSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "AFAR",
+    "package": "SOT-23",
+    "deviceName": "V6319RSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "AFAS",
+    "package": "SOT-23",
+    "deviceName": "V6319SSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "AFAT",
+    "package": "SOT-23",
+    "deviceName": "V6319TSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "AFQ",
+    "package": "SOT-23",
+    "deviceName": "2SD1781",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1781_tip.pdf"
+  },
+  {
+    "smdCode": "AFQ",
+    "package": "SOT-346",
+    "deviceName": "2SD1781K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1781k_rohm.pdf"
+  },
+  {
+    "smdCode": "AFQ",
+    "package": "SOT-23",
+    "deviceName": "2SD1781K",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1781k_tip.pdf"
+  },
+  {
+    "smdCode": "AFR",
+    "package": "SOT-23",
+    "deviceName": "2SD1781",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1781_tip.pdf"
+  },
+  {
+    "smdCode": "AFR",
+    "package": "SOT-346",
+    "deviceName": "2SD1781K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1781k_rohm.pdf"
+  },
+  {
+    "smdCode": "AFR",
+    "package": "SOT-23",
+    "deviceName": "2SD1781K",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1781k_tip.pdf"
+  },
+  {
+    "smdCode": "Af",
+    "package": "SOT-25",
+    "deviceName": "BD48E28G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Af",
+    "package": "SOT-23",
+    "deviceName": "BD48K28G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

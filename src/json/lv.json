@@ -1,0 +1,842 @@
+[
+  {
+    "smdCode": "LV",
+    "package": "SMB",
+    "deviceName": "1SMB20AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "LV",
+    "package": "SOD-323",
+    "deviceName": "PZU7.5BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "LV",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ20A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "LV",
+    "package": "SMB",
+    "deviceName": "SMBJ20A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "LV-***",
+    "package": "SOT-23",
+    "deviceName": "RT9166-13PVL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "LV3",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "Secos",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_secos.pdf"
+  },
+  {
+    "smdCode": "LV8*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A091MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LV8*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A091PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LV8*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A092MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LV8*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A092PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LV9*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A101MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LV9*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A101PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LV9*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A102MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LV9*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A102PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LV=",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-20GXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "LV=***",
+    "package": "SOT-23",
+    "deviceName": "RT9166-13GVL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "LVA*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A111MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVA*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A111PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVA*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A112MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVA*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A112PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVB*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A121MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVB*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A121PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVB*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A122MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVB*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A122PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVC*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A131MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVC*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A131PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVC*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A132MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVC*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A132PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVC14A",
+    "package": "SO-14",
+    "deviceName": "SN74LVC14AD",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn54lvc14a%2C_sn74lvc14a_ti.pdf"
+  },
+  {
+    "smdCode": "LVC14A",
+    "package": "SOP-14",
+    "deviceName": "SN74LVC14ANSR",
+    "manufacturer": "Texas Instruments",
+    "data": "Inverting Schmitt Triggers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn54lvc14a%2C_sn74lvc14a_ti.pdf"
+  },
+  {
+    "smdCode": "LVC32A",
+    "package": "SO-14",
+    "deviceName": "SN74LVC32AD",
+    "manufacturer": "Texas Instruments",
+    "data": "OR Gates",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn54lvc32a%2C_sn74lvc32a_ti.pdf"
+  },
+  {
+    "smdCode": "LVC32A",
+    "package": "SOP-14",
+    "deviceName": "SN74LVC32ANS",
+    "manufacturer": "Texas Instruments",
+    "data": "OR Gates",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn54lvc32a%2C_sn74lvc32a_ti.pdf"
+  },
+  {
+    "smdCode": "LVC601",
+    "package": "QFN-20 4x4",
+    "deviceName": "SN75LVCP601RTJR",
+    "manufacturer": "Texas Instruments",
+    "data": "SATA Redriver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn75lvcp601_rb_ti.pdf"
+  },
+  {
+    "smdCode": "LVD*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A141MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVD*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A141PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVD*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A142MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVD*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A142PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVDS83B",
+    "package": "TSSOP-56",
+    "deviceName": "SN75LVDS83BDGG",
+    "manufacturer": "Texas Instruments",
+    "data": "LVDS Transmitter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn75lvds83b_rb_ti.pdf"
+  },
+  {
+    "smdCode": "LVDS83B",
+    "package": "BGA-56 4.5x7",
+    "deviceName": "SN75LVDS83BZQL",
+    "manufacturer": "Texas Instruments",
+    "data": "LVDS Transmitter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn75lvds83b_rb_ti.pdf"
+  },
+  {
+    "smdCode": "LVE*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A151MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVE*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A151PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVE*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A152MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVE*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A152PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVF*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A161MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVF*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A161PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVF*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A162MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVF*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A162PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVH*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A171MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVH*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A171PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVH*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A172MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVH*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A172PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB36A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LVK*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A181MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVK*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A181PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVK*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A182MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVK*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A182PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVL*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A191MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVL*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A191PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVL*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A192MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVL*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A192PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVM*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A201MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVM*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A201PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVM*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A202MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVM*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A202PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVN*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A211MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVN*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A211PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVN*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A212MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVN*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A212PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB36A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "LVP*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A221MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVP*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A221PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVP*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A222MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVP*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A222PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVR*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A231MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVR*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A231PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVR*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A232MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVR*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A232PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVS*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A241MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVS*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A241PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVS*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A242MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVS*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A242PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVT*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A251MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVT*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A251PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVT*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A252MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVT*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A252PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVU*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A261MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVU*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A261PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVU*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A262MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVU*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A262PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVV*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A271MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVV*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A271PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVV*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A272MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVV*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A272PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVX*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A281MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVX*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A281PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVX*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A282MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVX*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A282PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVY*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A291MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVY*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A291PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVY*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A292MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVY*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A292PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVZ*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A301MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVZ*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A301PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVZ*",
+    "package": "SOT-25",
+    "deviceName": "XC6219A302MR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  },
+  {
+    "smdCode": "LVZ*",
+    "package": "SOT-89-5",
+    "deviceName": "XC6219A302PR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6211%2C_xc6219_series_torex.pdf"
+  }
+]

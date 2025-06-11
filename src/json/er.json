@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "ER",
+    "package": "SOT-323",
+    "deviceName": "2SC5815",
+    "manufacturer": "Isahaya",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5815_isahaya.pdf"
+  },
+  {
+    "smdCode": "ER",
+    "package": "SOT-25",
+    "deviceName": "BD4855G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "ER",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B56",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "ER",
+    "package": "SOD-323",
+    "deviceName": "PZU8.2B1A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ER",
+    "package": "SMB",
+    "deviceName": "SMBJ170CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "ER*",
+    "package": "SOT-553",
+    "deviceName": "BD4855FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "ER*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-MNPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "ER*",
+    "package": "SOT-23",
+    "deviceName": "V6309RSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "ER-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-40PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "Er",
+    "package": "SOT-25",
+    "deviceName": "BD49E53G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Er",
+    "package": "SOT-23",
+    "deviceName": "BD49K53G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

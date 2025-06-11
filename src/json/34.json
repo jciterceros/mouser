@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "34",
+    "package": "SOT-416",
+    "deviceName": "PDTC143XE",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143xe%2C_pdtc143xef%2C_pdtc143xk%2C_pdtc143xm%2C_pdtc143xs%2C_pdtc143xt%2C_pdtc143xu_nxp.pdf"
+  },
+  {
+    "smdCode": "3400",
+    "package": "SOT-23",
+    "deviceName": "MTN3400N3",
+    "manufacturer": "CYStech",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtn3400n3_cystek.pdf"
+  },
+  {
+    "smdCode": "3403A",
+    "package": "SOT-23",
+    "deviceName": "MTP3403AN3",
+    "manufacturer": "CYStech",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtp3413n3_cystek.pdf"
+  },
+  {
+    "smdCode": "34063",
+    "package": "SO-8",
+    "deviceName": "MC34063AD",
+    "manufacturer": "ON",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33063a%2C_mc34063a%2C_sc33063a%2C_sc34063a%2C_ncv33063a_r23_on.pdf"
+  },
+  {
+    "smdCode": "34063",
+    "package": "SO-8",
+    "deviceName": "SC34063ADR2G",
+    "manufacturer": "ON",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33063a%2C_mc34063a%2C_sc33063a%2C_sc34063a%2C_ncv33063a_r23_on.pdf"
+  },
+  {
+    "smdCode": "34063AP1",
+    "package": "DIP-8",
+    "deviceName": "MC34063AP1",
+    "manufacturer": "ON",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33063a%2C_mc34063a%2C_sc33063a%2C_sc34063a%2C_ncv33063a_r23_on.pdf"
+  },
+  {
+    "smdCode": "34063AP1",
+    "package": "DIP-8",
+    "deviceName": "SC34063AP1G",
+    "manufacturer": "ON",
+    "data": "Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc33063a%2C_mc34063a%2C_sc33063a%2C_sc34063a%2C_ncv33063a_r23_on.pdf"
+  },
+  {
+    "smdCode": "340N08NS",
+    "package": "TDSON-8",
+    "deviceName": "BSC340N08NS3 G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc340n08ns3g_infineon.pdf"
+  },
+  {
+    "smdCode": "34151",
+    "package": "SO-8",
+    "deviceName": "MC34151DG",
+    "manufacturer": "ON",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc34151%2C_mc33151_r9_on.pdf"
+  },
+  {
+    "smdCode": "345B",
+    "package": "LGA-14 3x5",
+    "deviceName": "ADXL345",
+    "manufacturer": "Analog Devices",
+    "data": "Accelerometer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adxl345_analog.pdf"
+  },
+  {
+    "smdCode": "34T",
+    "package": "SOT-23",
+    "deviceName": "TK71534AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

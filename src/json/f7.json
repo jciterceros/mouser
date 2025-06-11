@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "F7",
+    "package": "SOT-323",
+    "deviceName": "BAV99RW",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99rw_galaxy.pdf"
+  },
+  {
+    "smdCode": "F7",
+    "package": "SOT-323",
+    "deviceName": "BAV99RWT1",
+    "manufacturer": "Motorola",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99rwt1%2C_bav99wt1_motorola.pdf"
+  },
+  {
+    "smdCode": "F7",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C4V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "F7",
+    "package": "SOD-323F",
+    "deviceName": "PZU3.9B1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "F7*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-MGGQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "F7***",
+    "package": "SOT-23",
+    "deviceName": "Si2347DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2347ds_vishay.pdf"
+  }
+]

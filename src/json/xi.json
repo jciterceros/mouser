@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "XI",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B16",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XI",
+    "package": "2-2HA1A",
+    "deviceName": "RN1108F",
+    "manufacturer": "Toshiba",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn1107f-rn1109f_toshiba.pdf"
+  }
+]

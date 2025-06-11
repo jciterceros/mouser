@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "Y",
+    "package": "SOT-523",
+    "deviceName": "STP1013",
+    "manufacturer": "Stanson",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stp1013_r1_stanson.pdf"
+  }
+]

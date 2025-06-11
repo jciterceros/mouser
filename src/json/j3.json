@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "J3",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5248",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "J3",
+    "package": "SOT-23",
+    "deviceName": "S9013",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/9/s9013_galaxy.pdf"
+  },
+  {
+    "smdCode": "J3",
+    "package": "SOT-323",
+    "deviceName": "S9013W",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/9/s9013w_galaxy.pdf"
+  },
+  {
+    "smdCode": "J3-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-25PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "J3-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-18PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "J3-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818E-19PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "J3=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-18GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "J3A",
+    "package": "SOT-23",
+    "deviceName": "ZC831A",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J3B",
+    "package": "SOT-23",
+    "deviceName": "ZC831B",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J3S",
+    "package": "SOT-23",
+    "deviceName": "ZC831",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J3Y",
+    "package": "SOT-23",
+    "deviceName": "S8050",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/8/s8050_galaxy.pdf"
+  }
+]

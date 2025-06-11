@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "LS",
+    "package": "SOD-323",
+    "deviceName": "PZU6.8B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "LS-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-31PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "LS-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819F-27PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "LSADG",
+    "package": "SOT-25",
+    "deviceName": "L1186G-AD-AF5",
+    "manufacturer": "UTC",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/1/l1186_20150630_utc.pdf"
+  },
+  {
+    "smdCode": "LSJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB33",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LSP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB33",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "LSs",
+    "package": "SOT-23",
+    "deviceName": "BF770A",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf770a_infineon.pdf"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "AY",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5239B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AY **",
+    "package": "SOT-23",
+    "deviceName": "MAX6120EUR",
+    "manufacturer": "Maxim",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6120_maxim.pdf"
+  },
+  {
+    "smdCode": "AY*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-MQGQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AY-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-28PU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AY-***",
+    "package": "SOT-26",
+    "deviceName": "RT9284B-20PJ6E",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "AY2*",
+    "package": "SOT-89",
+    "deviceName": "ELM9722CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "AY4*",
+    "package": "SOT-89",
+    "deviceName": "ELM9724CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "AY5*",
+    "package": "SOT-89",
+    "deviceName": "ELM9725CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "AY7*",
+    "package": "SOT-89",
+    "deviceName": "ELM9727CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "AY=***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-28GU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AY=***",
+    "package": "SOT-143",
+    "deviceName": "RT9013A-18GY",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013a_richtek.pdf"
+  },
+  {
+    "smdCode": "AY=***",
+    "package": "SOT-26",
+    "deviceName": "RT9284B-20GJ6E",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "AYO",
+    "package": "VSSOP-10",
+    "deviceName": "OPA2373AIDGS",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/o/p/opa373%2C_opa374%2C_opa2373%2C_opa2374%2C_opa4374_re_ti.pdf"
+  },
+  {
+    "smdCode": "Ay",
+    "package": "SOT-25",
+    "deviceName": "BD48E36G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ay",
+    "package": "SOT-23",
+    "deviceName": "BD48K36G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

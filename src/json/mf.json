@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "MF",
+    "package": "SOT-23",
+    "deviceName": "2SA1235A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1235a_galaxy.pdf"
+  },
+  {
+    "smdCode": "MF",
+    "package": "SOD-323",
+    "deviceName": "PZU3.9B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MF",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q261D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "MF=***",
+    "package": "SOT-23",
+    "deviceName": "RT9170-18GV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9170_richtek.pdf"
+  },
+  {
+    "smdCode": "MFJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB51",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "Mf",
+    "package": "SOT-23",
+    "deviceName": "BD49L40G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Mf",
+    "package": "SOT-25",
+    "deviceName": "BD52E30G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

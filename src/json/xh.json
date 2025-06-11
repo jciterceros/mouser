@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "XH",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B15",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XH",
+    "package": "SOD-323",
+    "deviceName": "PZU22B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XH",
+    "package": "2-2HA1A",
+    "deviceName": "RN1107F",
+    "manufacturer": "Toshiba",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn1107f-rn1109f_toshiba.pdf"
+  },
+  {
+    "smdCode": "XH-***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-27PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  }
+]

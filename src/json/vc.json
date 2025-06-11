@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "VC",
+    "package": "DFN-4 1x1",
+    "deviceName": "NCP4586DMU14TCG",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp4586_r5_on.pdf"
+  },
+  {
+    "smdCode": "VC",
+    "package": "SOD-323",
+    "deviceName": "PZU10B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VC",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K141D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VC",
+    "package": "SOT-23",
+    "deviceName": "TZT28CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "VC**",
+    "package": "SOT-363",
+    "deviceName": "Si1869DH",
+    "manufacturer": "Vishay",
+    "data": "Load Switch with Level-Shift",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1869dh_vishay.pdf"
+  },
+  {
+    "smdCode": "VC-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VC-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-1HPB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "VCW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VCp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VCt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

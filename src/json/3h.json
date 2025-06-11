@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "3H-",
+    "package": "SOT-23",
+    "deviceName": "BC857",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3H-",
+    "package": "SOT-323",
+    "deviceName": "BC857W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3HW",
+    "package": "SOT-23",
+    "deviceName": "BC857",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3HW",
+    "package": "SOT-323",
+    "deviceName": "BC857W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Hp",
+    "package": "SOT-23",
+    "deviceName": "BC857",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Hp",
+    "package": "SOT-323",
+    "deviceName": "BC857W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Ht",
+    "package": "SOT-23",
+    "deviceName": "BC857",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Ht",
+    "package": "SOT-323",
+    "deviceName": "BC857W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  }
+]

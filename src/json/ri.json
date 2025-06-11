@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "RIM",
+    "package": "SOT-23",
+    "deviceName": "SSTA13",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ssta13_rohm.pdf"
+  },
+  {
+    "smdCode": "RIs",
+    "package": "SOT-143",
+    "deviceName": "BFP196",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfp196_infineon.pdf"
+  }
+]

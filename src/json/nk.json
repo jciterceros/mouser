@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "NK",
+    "package": "SMB",
+    "deviceName": "1SMB60AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "NK",
+    "package": "USP-6",
+    "deviceName": "EUP7201-2.8/3.0UIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7201_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "NK",
+    "package": "SOD-323",
+    "deviceName": "PZU33BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "NK",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q391D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "NK",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ60A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "NK",
+    "package": "SMB",
+    "deviceName": "SMBJ60A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "NK",
+    "package": "SMF",
+    "deviceName": "SMF6V5A-M",
+    "manufacturer": "Vishay",
+    "data": "ESD Protection Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smf5v0a-m-smf51a-m_vishay.pdf"
+  },
+  {
+    "smdCode": "NK",
+    "package": "WSON-6 1,5x1,5",
+    "deviceName": "TLV70018DSER",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "NK****",
+    "package": "SOT-26",
+    "deviceName": "EUP7201-2.8/3.0VIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7201_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "NKJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB150A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "Nk",
+    "package": "SOT-23",
+    "deviceName": "BD49L57G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Nk",
+    "package": "SOT-25",
+    "deviceName": "BD52E47G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

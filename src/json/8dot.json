@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "8.2",
+    "package": "SOT-23",
+    "deviceName": "ZD8.2-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "8.2",
+    "package": "SOD-323",
+    "deviceName": "ZD8.2-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  }
+]

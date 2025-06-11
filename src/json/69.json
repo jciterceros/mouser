@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "690A",
+    "package": "SOP-4",
+    "deviceName": "SFH690AT",
+    "manufacturer": "Vishay",
+    "data": "Optocoupler",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/f/sfh690abt%2C_sfh690at%2C_sfh690bt%2C_sfh690ct%2C_sfh690dt_vishay.pdf"
+  },
+  {
+    "smdCode": "690B",
+    "package": "SOP-4",
+    "deviceName": "SFH690BT",
+    "manufacturer": "Vishay",
+    "data": "Optocoupler",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/f/sfh690abt%2C_sfh690at%2C_sfh690bt%2C_sfh690ct%2C_sfh690dt_vishay.pdf"
+  },
+  {
+    "smdCode": "690C",
+    "package": "SOP-4",
+    "deviceName": "SFH690CT",
+    "manufacturer": "Vishay",
+    "data": "Optocoupler",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/f/sfh690abt%2C_sfh690at%2C_sfh690bt%2C_sfh690ct%2C_sfh690dt_vishay.pdf"
+  },
+  {
+    "smdCode": "690D",
+    "package": "SOP-4",
+    "deviceName": "SFH690DT",
+    "manufacturer": "Vishay",
+    "data": "Optocoupler",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/f/sfh690abt%2C_sfh690at%2C_sfh690bt%2C_sfh690ct%2C_sfh690dt_vishay.pdf"
+  },
+  {
+    "smdCode": "6912A",
+    "package": "DFN-8 6x5",
+    "deviceName": "AON6912ALS",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/aon6912a_r1_ao.pdf"
+  },
+  {
+    "smdCode": "6970",
+    "package": "DFN-8 6x5",
+    "deviceName": "AON6970",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/aon6970_r0_ao.pdf"
+  }
+]

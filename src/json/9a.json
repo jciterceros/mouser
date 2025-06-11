@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "9A",
+    "package": "SOT-346",
+    "deviceName": "DTA125TKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta125tka%2C_dta125tsa%2C_dta125tua_rohm.pdf"
+  },
+  {
+    "smdCode": "9A",
+    "package": "SOT-323",
+    "deviceName": "DTA125TUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta125tka%2C_dta125tsa%2C_dta125tua_rohm.pdf"
+  },
+  {
+    "smdCode": "9A1",
+    "package": "SOT-346",
+    "deviceName": "PZM9.1NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "9AA",
+    "package": "SOT-23",
+    "deviceName": "BC856AMTF",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856-bc860_fairchild.pdf"
+  },
+  {
+    "smdCode": "9AB",
+    "package": "SOT-23",
+    "deviceName": "BC856BMTF",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856-bc860_fairchild.pdf"
+  },
+  {
+    "smdCode": "9AC",
+    "package": "SOT-23",
+    "deviceName": "BC856CMTF",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856-bc860_fairchild.pdf"
+  }
+]

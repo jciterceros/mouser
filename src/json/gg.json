@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "GG",
+    "package": "SCD80",
+    "deviceName": "BAR63-02W",
+    "manufacturer": "Infineon",
+    "data": "PIN diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar63_series_infineon.pdf"
+  },
+  {
+    "smdCode": "GG",
+    "package": "SOT-89",
+    "deviceName": "BAW79C",
+    "manufacturer": "Siemens",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw79_siemens.pdf"
+  },
+  {
+    "smdCode": "GG",
+    "package": "SOT-25",
+    "deviceName": "BD4946G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GG",
+    "package": "MicroPak2-6",
+    "deviceName": "NC7SZ08FHX",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7sz08_fairchild.pdf"
+  },
+  {
+    "smdCode": "GG",
+    "package": "SOT-886",
+    "deviceName": "NC7SZ08L6X",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7sz08_fairchild.pdf"
+  },
+  {
+    "smdCode": "GG",
+    "package": "SOD-323F",
+    "deviceName": "PZU8.2B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "GG",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q271B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "GG*",
+    "package": "SOT-553",
+    "deviceName": "BD4946FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GG*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-GMGQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "GG**",
+    "package": "SOT-25",
+    "deviceName": "BL8024CB5TR",
+    "manufacturer": "Belling",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/l/bl8024_r1.0_beling.pdf"
+  },
+  {
+    "smdCode": "GG**",
+    "package": "SOT-25",
+    "deviceName": "LC3406CB5TR",
+    "manufacturer": "Leadchip",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/c/lc3406_leadchip.pdf"
+  },
+  {
+    "smdCode": "GG***",
+    "package": "SOT-26",
+    "deviceName": "TS3420CX6",
+    "manufacturer": "TS",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts3420_ra12_ts.pdf"
+  },
+  {
+    "smdCode": "GG-",
+    "package": "SOT-89",
+    "deviceName": "RT9161A-45PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "GG-***",
+    "package": "SOT-23",
+    "deviceName": "RT9198-30PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "GG=**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT8015BGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8015b_richtek.pdf"
+  },
+  {
+    "smdCode": "GG=***",
+    "package": "SOT-23",
+    "deviceName": "RT9198-30GV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "Gg",
+    "package": "SOT-23",
+    "deviceName": "BD48L37G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

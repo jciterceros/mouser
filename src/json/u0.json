@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "U0*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B312NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "U0**",
+    "package": "SOT-25",
+    "deviceName": "TC74A0-5.0VCT",
+    "manufacturer": "Microchip",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc74_microchip.pdf"
+  },
+  {
+    "smdCode": "U01",
+    "package": "TUMT5",
+    "deviceName": "US5U1",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us5u1_rohm.pdf"
+  },
+  {
+    "smdCode": "U02",
+    "package": "TUMT5",
+    "deviceName": "US5U2",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us5u2_rohm.pdf"
+  },
+  {
+    "smdCode": "U03",
+    "package": "TUMT5",
+    "deviceName": "US5U3",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us5u3_rohm.pdf"
+  }
+]

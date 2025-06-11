@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "JQ-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818D-42PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "jq**",
+    "package": "SC-70-4",
+    "deviceName": "PT7M6101CHC4E",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  },
+  {
+    "smdCode": "jq**",
+    "package": "TO-94",
+    "deviceName": "PT7M6101CHNE",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  },
+  {
+    "smdCode": "jq**",
+    "package": "SOT-25",
+    "deviceName": "PT7M6101CHTAE",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  }
+]

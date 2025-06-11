@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "TQ",
+    "package": "SOT-23",
+    "deviceName": "2SA1530A",
+    "manufacturer": "Isahaya",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1530a_isahaya.pdf"
+  },
+  {
+    "smdCode": "TQ",
+    "package": "SOT-89",
+    "deviceName": "2SD1119",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1119_tip.pdf"
+  },
+  {
+    "smdCode": "TQ",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K251B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TQ",
+    "package": "SOT-26",
+    "deviceName": "RTQ025P02",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rtq025p02_rohm.pdf"
+  }
+]

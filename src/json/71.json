@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "710**",
+    "package": "SOT-26",
+    "deviceName": "G710TBUf",
+    "manufacturer": "GMT",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/7/g709_g710_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "712",
+    "package": "SOT-23",
+    "deviceName": "CDSOT23-SM712",
+    "manufacturer": "Bourns",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/d/cdsot23-sm712_bourns.pdf"
+  },
+  {
+    "smdCode": "712",
+    "package": "SOT-23",
+    "deviceName": "NDS7002A",
+    "manufacturer": "National",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7000_2n7002_ndf7000a_nds7002a_national.pdf"
+  },
+  {
+    "smdCode": "712",
+    "package": "SOT-23",
+    "deviceName": "NDS7002A",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7000%2C_2n7002%2C_nds7002a_fairchild.pdf"
+  },
+  {
+    "smdCode": "717",
+    "package": "SOT-23",
+    "deviceName": "FMMT717",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt717%2C_fmmt718%2C_fmmt720%2C_fmmt722%2C_fmmt723_zetex.pdf"
+  },
+  {
+    "smdCode": "717",
+    "package": "TQFN-16 3x3",
+    "deviceName": "G717R41U",
+    "manufacturer": "GMT",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/7/g717_gmt.pdf"
+  },
+  {
+    "smdCode": "718",
+    "package": "SOT-23",
+    "deviceName": "FMMT718",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt717%2C_fmmt718%2C_fmmt720%2C_fmmt722%2C_fmmt723_zetex.pdf"
+  },
+  {
+    "smdCode": "718xx",
+    "package": "SOT-28",
+    "deviceName": "G718TM1U",
+    "manufacturer": "GMT",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/7/g718_gmt.pdf"
+  }
+]

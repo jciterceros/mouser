@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "RC",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K141A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RC**",
+    "package": "SOT-363",
+    "deviceName": "Si1539DL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1539dl_vishay.pdf"
+  },
+  {
+    "smdCode": "RC-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B43",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RCW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B43",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RCp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B43",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RCs",
+    "package": "SOT-23",
+    "deviceName": "BFR193",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr193_infineon.pdf"
+  },
+  {
+    "smdCode": "RCt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B43",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Rc",
+    "package": "SOT-25",
+    "deviceName": "BD53E45G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

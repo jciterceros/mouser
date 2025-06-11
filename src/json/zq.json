@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "ZQ",
+    "package": "SOT-346",
+    "deviceName": "2PD601AQ",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "ZQ",
+    "package": "SOT-323",
+    "deviceName": "2SD1819A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1819a_galaxy.pdf"
+  },
+  {
+    "smdCode": "ZQ",
+    "package": "SOT-23",
+    "deviceName": "2SD601A",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd601a_tip.pdf"
+  },
+  {
+    "smdCode": "ZQ",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZQ",
+    "package": "SOD-323",
+    "deviceName": "PDZ24B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  }
+]

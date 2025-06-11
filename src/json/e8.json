@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "E8",
+    "package": "DFN-14 4x3",
+    "deviceName": "AP6508",
+    "manufacturer": "Diodes",
+    "data": "DC/DC Buck Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap6508_diodes.pdf"
+  },
+  {
+    "smdCode": "E8",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B39",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "E8",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "E8",
+    "package": "SOT-23",
+    "deviceName": "ZC2811E",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc2800e%2C_zc2811e%2C_zc5800e_zetex.pdf"
+  },
+  {
+    "smdCode": "E8**",
+    "package": "SOT-26",
+    "deviceName": "TC1072-2.85VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "E8-***",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9011-MGPQWB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  }
+]

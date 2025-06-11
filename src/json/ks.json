@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "KS-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819D-27PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "KSJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB12",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "KSP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB12",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  }
+]

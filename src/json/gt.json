@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "GT",
+    "package": "SOT-553",
+    "deviceName": "BD4957FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GT",
+    "package": "SOT-25",
+    "deviceName": "BD4957G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GT",
+    "package": "SOD-323F",
+    "deviceName": "PZU24B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "GT*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-JSGQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "GT-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-25PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "GT1",
+    "package": "SOT-23",
+    "deviceName": "BCX17",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx17_rohm.pdf"
+  },
+  {
+    "smdCode": "GT=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-25GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

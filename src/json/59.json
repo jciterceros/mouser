@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "59",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z5V6",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "591",
+    "package": "SOT-23",
+    "deviceName": "MMBT591",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt591_galaxy.pdf"
+  },
+  {
+    "smdCode": "593",
+    "package": "SOT-23",
+    "deviceName": "FMMT593",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt593_zetex.pdf"
+  },
+  {
+    "smdCode": "5934",
+    "package": "TQFN-20 3x3",
+    "deviceName": "G5934",
+    "manufacturer": "GMT",
+    "data": "Capacitor Voltage Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5934_gmt.pdf"
+  },
+  {
+    "smdCode": "596",
+    "package": "SOT-23",
+    "deviceName": "FMMT596TA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt596_zetex.pdf"
+  },
+  {
+    "smdCode": "59A",
+    "package": "SOT-23",
+    "deviceName": "FMMT549A",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt549%2C_fmmt549a_zetex.pdf"
+  },
+  {
+    "smdCode": "59N03S",
+    "package": "TDSON-8",
+    "deviceName": "BSC059N03S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc059n03sg_infineon.pdf"
+  }
+]

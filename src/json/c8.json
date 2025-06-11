@@ -1,0 +1,274 @@
+[
+  {
+    "smdCode": "C8",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "C8*",
+    "package": "VDFN-6 2x2",
+    "deviceName": "RT9193-30PQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "C8***",
+    "package": "SOT-23",
+    "deviceName": "Si2318DS",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2318ds_vishay.pdf"
+  },
+  {
+    "smdCode": "C8-**",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8010APQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "C8-***",
+    "package": "SOT-23",
+    "deviceName": "RT9161A-18PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "C8-***",
+    "package": "SOT-25",
+    "deviceName": "RT9169-13PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "C84",
+    "package": "SOT-23",
+    "deviceName": "BSS84",
+    "manufacturer": "Diodes",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84_diodes.pdf"
+  },
+  {
+    "smdCode": "C8=**",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8010AGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "C8=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-CGGJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "C8=***",
+    "package": "SOT-23",
+    "deviceName": "RT9161A-18GV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "C8A",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5226B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8B",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5227B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8C",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5228B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8D",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5229B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8E",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5230B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8F",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5231B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8G",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5232B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8H",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5233B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8J",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5234B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8K",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5235B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8L",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5236B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8M",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5237B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8N",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5238B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8P",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5239B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8Q",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5240B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8R",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5241B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8S",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5242B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8T",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5243B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8U",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5244B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8V",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5245B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8W",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5246B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8X",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5247B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8Y",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5248B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "C8Z",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5249B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "1D",
+    "package": "SOT-23",
+    "deviceName": "KST42",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst42%2C_kst43_fairchild.pdf"
+  },
+  {
+    "smdCode": "1D",
+    "package": "SOT-23",
+    "deviceName": "MBTA42",
+    "manufacturer": "Daiwa",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/b/mbta42_daiwa.pdf"
+  },
+  {
+    "smdCode": "1D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA42",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta42_galaxy.pdf"
+  },
+  {
+    "smdCode": "1D-",
+    "package": "SOT-23",
+    "deviceName": "BC846D",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1D-",
+    "package": "SOT-323",
+    "deviceName": "BC846DW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1D8",
+    "package": "SOT-23F",
+    "deviceName": "ZXTP19020DFFTA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxtp19020dff_zetex.pdf"
+  },
+  {
+    "smdCode": "1D=***",
+    "package": "SOT-25",
+    "deviceName": "RT9818B-30GB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "1DW",
+    "package": "SOT-23",
+    "deviceName": "BC846B",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1DW",
+    "package": "SOT-323",
+    "deviceName": "BC846BW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Dp",
+    "package": "SOT-23",
+    "deviceName": "BC846B",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Dp",
+    "package": "SOT-323",
+    "deviceName": "BC846BW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Dt",
+    "package": "SOT-23",
+    "deviceName": "BC846B",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Dt",
+    "package": "SOT-323",
+    "deviceName": "BC846BW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "GC",
+    "package": "DFN-6 2x2",
+    "deviceName": "AP5725FDCG",
+    "manufacturer": "Diodes",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap5725_r3-2_diodes.pdf"
+  },
+  {
+    "smdCode": "GC",
+    "package": "SOT-25",
+    "deviceName": "BD4942G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GC",
+    "package": "SOD-323F",
+    "deviceName": "PZU5.6B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "GC",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q231B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "GC*",
+    "package": "SOT-553",
+    "deviceName": "BD4942FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GC*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8010-12GQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "GC***",
+    "package": "SOT-26",
+    "deviceName": "AP5725WUG",
+    "manufacturer": "Diodes",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap5725_r3-2_diodes.pdf"
+  },
+  {
+    "smdCode": "GC-***",
+    "package": "SOT-23",
+    "deviceName": "RT9166-31PVL",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "GCI",
+    "package": "SOT-26",
+    "deviceName": "AP3211KTR-G1",
+    "manufacturer": "BCD",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap3211_r1.4_bcd.pdf"
+  },
+  {
+    "smdCode": "Gc",
+    "package": "TDFN-6 2x2",
+    "deviceName": "AX3503BZ6",
+    "manufacturer": "Axelite",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax3503_r2.7_axelite.pdf"
+  },
+  {
+    "smdCode": "Gc",
+    "package": "SOT-23",
+    "deviceName": "BD48L33G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

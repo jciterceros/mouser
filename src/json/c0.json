@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "C0",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B5V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "C0*",
+    "package": "VDFN-6 2x2",
+    "deviceName": "RT9193-1HPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "C0***",
+    "package": "SOT-25",
+    "deviceName": "RT9701CB",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9701_richtek.pdf"
+  },
+  {
+    "smdCode": "C0-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013B-15PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "C0-***",
+    "package": "SOT-25",
+    "deviceName": "RT9701PB",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9701_richtek_1.pdf"
+  },
+  {
+    "smdCode": "C00",
+    "package": "SOT-753",
+    "deviceName": "74AHCT1G00GV",
+    "manufacturer": "NXP",
+    "data": "NAND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g00%2C_74ahct1g00_nxp.pdf"
+  },
+  {
+    "smdCode": "C009T",
+    "package": "SOT-23",
+    "deviceName": "BL2300",
+    "manufacturer": "GME",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/l/bl2300_ra_gme.pdf"
+  },
+  {
+    "smdCode": "C07",
+    "package": "SOT-363",
+    "deviceName": "SU0524B6GTR",
+    "manufacturer": "Silan",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/u/su0524_r1.4_silan.pdf"
+  },
+  {
+    "smdCode": "C08",
+    "package": "SOT-753",
+    "deviceName": "74AHCT1G08GV",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g08%2C_74ahct1g08_r7_nxp.pdf"
+  },
+  {
+    "smdCode": "C0=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-KKGJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "C0=***",
+    "package": "SOT-25",
+    "deviceName": "RT9701GB",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9701_richtek_1.pdf"
+  }
+]

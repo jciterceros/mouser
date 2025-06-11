@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "1W",
+    "package": "SOT-23",
+    "deviceName": "BF821",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf821%2C_bf823_general.pdf"
+  },
+  {
+    "smdCode": "1W",
+    "package": "SOT-23",
+    "deviceName": "FMMT3903",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt3903%2C_fmmt3904_zetex.pdf"
+  },
+  {
+    "smdCode": "1W-",
+    "package": "SOT-323",
+    "deviceName": "BF822W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf820w%2C_bf822w_philips.pdf"
+  },
+  {
+    "smdCode": "1WW",
+    "package": "SOT-323",
+    "deviceName": "BF822W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf820w%2C_bf822w_philips.pdf"
+  },
+  {
+    "smdCode": "1Wp",
+    "package": "SOT-323",
+    "deviceName": "BF822W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf820w%2C_bf822w_philips.pdf"
+  },
+  {
+    "smdCode": "1Wt",
+    "package": "SOT-323",
+    "deviceName": "BF822W",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf820w%2C_bf822w_philips.pdf"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "CY",
+    "package": "SOT-523",
+    "deviceName": "2SC5343E",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5343e_tip.pdf"
+  },
+  {
+    "smdCode": "CY",
+    "package": "SOT-89",
+    "deviceName": "KTC4373",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc4373_galaxy.pdf"
+  },
+  {
+    "smdCode": "CY",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4693-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "CY**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US40D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CY***",
+    "package": "SOT-353",
+    "deviceName": "LMV331SE",
+    "manufacturer": "Diodes",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv331%2C_lmv393_r2-2_diodes.pdf"
+  },
+  {
+    "smdCode": "CY1",
+    "package": "SOT-89",
+    "deviceName": "2SC2881",
+    "manufacturer": "WEJ",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2881_wej.pdf"
+  },
+  {
+    "smdCode": "CY1",
+    "package": "SOT-89",
+    "deviceName": "2SC2881",
+    "manufacturer": "HT",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2881_ht.pdf"
+  },
+  {
+    "smdCode": "CY1",
+    "package": "SOT-89",
+    "deviceName": "2SC2881",
+    "manufacturer": "GME",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2881_gme.pdf"
+  },
+  {
+    "smdCode": "CY=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8562GQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8562_r01_richtek.pdf"
+  },
+  {
+    "smdCode": "Cy",
+    "package": "SOT-25",
+    "deviceName": "BD49E26G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Cy",
+    "package": "SOT-23",
+    "deviceName": "BD49K26G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

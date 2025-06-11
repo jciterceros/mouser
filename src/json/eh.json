@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "EH",
+    "package": "SOT-23",
+    "deviceName": "BCW66H",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw65%2C_bcw66_zetex.pdf"
+  },
+  {
+    "smdCode": "EH",
+    "package": "SOT-25",
+    "deviceName": "BD4847G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EH",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "EH",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4716-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "EH",
+    "package": "SOT-25",
+    "deviceName": "TPS62228DDC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62220%2C_tps62221%2C_tps62222%2C_tps62223%2C_tps62224%2C_tps62227%2C_tps62228%2C_tps62229_ti.pdf"
+  },
+  {
+    "smdCode": "EH*",
+    "package": "SOT-553",
+    "deviceName": "BD4847FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EH*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-KKPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "EH**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US38D3-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "EH-",
+    "package": "SOT-89",
+    "deviceName": "RT9261A-32PX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "EH-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-32PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "Eh",
+    "package": "SOT-25",
+    "deviceName": "BD49E48G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Eh",
+    "package": "SOT-23",
+    "deviceName": "BD49K48G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

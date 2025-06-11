@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "CG",
+    "package": "SOT-523",
+    "deviceName": "2SC5343E",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5343e_tip.pdf"
+  },
+  {
+    "smdCode": "CG",
+    "package": "SOT-89",
+    "deviceName": "BCX69-16",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx69-10%2C_bcx69-16%2C_bcx69-25_infineon.pdf"
+  },
+  {
+    "smdCode": "CG",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q361A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "CG",
+    "package": "SMA",
+    "deviceName": "SMAJ28A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "CG",
+    "package": "SMB",
+    "deviceName": "SMBJ28CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "CG*",
+    "package": "VDFN-6 2x2",
+    "deviceName": "RT8010-33PQV",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "CG**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US32D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CG***",
+    "package": "SOT-25",
+    "deviceName": "PAM2312",
+    "manufacturer": "Diodes",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pam2312_diodes.pdf"
+  },
+  {
+    "smdCode": "CG***",
+    "package": "SOT-26",
+    "deviceName": "SY8101DEBC",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8101_silergy.pdf"
+  },
+  {
+    "smdCode": "CG-",
+    "package": "SOT-89",
+    "deviceName": "RT9161A-50PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "CG=",
+    "package": "SOT-89",
+    "deviceName": "RT9161A-50GX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "CG=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT9912AGQW",
+    "manufacturer": "Richtek",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9912a_r01_richtek.pdf"
+  },
+  {
+    "smdCode": "CGQ",
+    "package": "SOT-89",
+    "deviceName": "2SC5053",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5053_rohm.pdf"
+  },
+  {
+    "smdCode": "CGR",
+    "package": "SOT-89",
+    "deviceName": "2SC5053",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5053_rohm.pdf"
+  },
+  {
+    "smdCode": "Cg",
+    "package": "SOT-25",
+    "deviceName": "BD48E57G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Cg",
+    "package": "SOT-23",
+    "deviceName": "BD48K57G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

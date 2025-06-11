@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "74",
+    "package": "SOT-23",
+    "deviceName": "BAS70-04",
+    "manufacturer": "MCC",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40%2C_bas70_series_rd_mcc.pdf"
+  },
+  {
+    "smdCode": "74",
+    "package": "SOT-416",
+    "deviceName": "DTA114WE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114we%2C_dta114wka%2C_dta114wsa%2C_dta114wua_rohm.pdf"
+  },
+  {
+    "smdCode": "74",
+    "package": "SOT-346",
+    "deviceName": "DTA114WKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114we%2C_dta114wka%2C_dta114wsa%2C_dta114wua_rohm.pdf"
+  },
+  {
+    "smdCode": "74",
+    "package": "SOT-323",
+    "deviceName": "DTA114WUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114we%2C_dta114wka%2C_dta114wsa%2C_dta114wua_rohm.pdf"
+  },
+  {
+    "smdCode": "7403",
+    "package": "DFN-8 3x3",
+    "deviceName": "AON7403L",
+    "manufacturer": "Alpha & Omega",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/aon7403_r4_ao.pdf"
+  },
+  {
+    "smdCode": "7403",
+    "package": "PowerPAK 1212-8",
+    "deviceName": "Si7403DN",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si7403dn_ra_vishay.pdf"
+  },
+  {
+    "smdCode": "7408",
+    "package": "DFN-8 3x3",
+    "deviceName": "AON7408",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/aon7408_ao.pdf"
+  },
+  {
+    "smdCode": "7410",
+    "package": "DFN-8 3x3",
+    "deviceName": "AON7410",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/aon7410_r12_ao.pdf"
+  },
+  {
+    "smdCode": "74s",
+    "package": "SOT-23",
+    "deviceName": "BAS70-04",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas70_series_infineon.pdf"
+  }
+]

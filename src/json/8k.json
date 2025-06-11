@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "8K",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5235",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "8K",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5235B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "8K",
+    "package": "SOT-323",
+    "deviceName": "MUN5233",
+    "manufacturer": "WEITRON",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/u/mun5211-mun5216%2C_mun5230-mun5237_weitron.pdf"
+  },
+  {
+    "smdCode": "8K",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ25B2",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "8K**",
+    "package": "SOT-89",
+    "deviceName": "NJM78L12A",
+    "manufacturer": "JRC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/j/njm78l02a-njm78l24a_jrc.pdf"
+  },
+  {
+    "smdCode": "8K**",
+    "package": "SOT-89",
+    "deviceName": "NJM78L12UA",
+    "manufacturer": "JRC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/j/njm78l02_jrc.pdf"
+  }
+]

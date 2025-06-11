@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "6H",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z75",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "6H",
+    "package": "SOT-23",
+    "deviceName": "MMBF5486",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5484%2C_2n5485%2C_2n5486%2C_mmbf5484%2C_mmbf5485%2C_mmbf5486_fairchild.pdf"
+  },
+  {
+    "smdCode": "6H",
+    "package": "SOT-553",
+    "deviceName": "NZQA6V8AXV5",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/z/nzqa5v6axv5%2C_nzqa6v8axv5_on.pdf"
+  },
+  {
+    "smdCode": "6H",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ255B",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "6H*",
+    "package": "SOT-323",
+    "deviceName": "NSQA6V8AW5T2",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/s/nsqa6v8aw5t2%2C_nsqa12vaw5t2_on.pdf"
+  }
+]

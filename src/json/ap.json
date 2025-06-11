@@ -1,0 +1,178 @@
+[
+  {
+    "smdCode": "AP",
+    "package": "SOT-523",
+    "deviceName": "2SC4618",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4618_tip.pdf"
+  },
+  {
+    "smdCode": "AP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ2L4",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "AP",
+    "package": "SOT-323",
+    "deviceName": "MIC803-44D2VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AP",
+    "package": "SOT-23",
+    "deviceName": "MIC803-44D2VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AP",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5236B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AP",
+    "package": "SMA",
+    "deviceName": "SMAJ7.5A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "AP",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ7.5A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "AP",
+    "package": "SMB",
+    "deviceName": "SMBJ7.5CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "AP*",
+    "package": "SOT-363",
+    "deviceName": "HSMS-280P",
+    "manufacturer": "Agilent",
+    "data": "Schottky barrier diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsms-2800_series_agilent.pdf"
+  },
+  {
+    "smdCode": "AP*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-EEGQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AP*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-GKPQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AP-",
+    "package": "SOT-89",
+    "deviceName": "RT9161-15PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "AP-**",
+    "package": "VDFN-10 3x3",
+    "deviceName": "RT9014-JSPQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "AP-**",
+    "package": "SOT-323",
+    "deviceName": "RT9818B-14PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AP-***",
+    "package": "SOT-25",
+    "deviceName": "RT8009-10PJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  },
+  {
+    "smdCode": "AP-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-JMPJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AP-***",
+    "package": "SOT-343",
+    "deviceName": "RT9198-44PY",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AP=***",
+    "package": "SOT-25",
+    "deviceName": "RT8009-10GJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  },
+  {
+    "smdCode": "APP",
+    "package": "SOT-25",
+    "deviceName": "TPS62222DDC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62220%2C_tps62221%2C_tps62222%2C_tps62223%2C_tps62224%2C_tps62227%2C_tps62228%2C_tps62229_ti.pdf"
+  },
+  {
+    "smdCode": "APs",
+    "package": "SOT-343",
+    "deviceName": "BFP520",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfp520_infineon.pdf"
+  },
+  {
+    "smdCode": "Ap",
+    "package": "SOT-25",
+    "deviceName": "BD48E34G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ap",
+    "package": "SOT-23",
+    "deviceName": "BD48K34G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "smdCode": "Y8",
+    "package": "SOT-89",
+    "deviceName": "BZV49C22",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_zetex.pdf"
+  },
+  {
+    "smdCode": "Y8",
+    "package": "SOT-23",
+    "deviceName": "BZX84C22",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "Y8",
+    "package": "SOT-23",
+    "deviceName": "BZX84C22-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84-v-series_vishay.pdf"
+  },
+  {
+    "smdCode": "Y8",
+    "package": "SOT-23",
+    "deviceName": "BZX84C22LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Y8",
+    "package": "SOD-323",
+    "deviceName": "PZU2.4BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Y8",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84C22LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Y8-",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C22",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "Y8-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-39PBG",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "Y80",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A43",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Y81",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A47",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Y82",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A51",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Y83",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A56",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Y84",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A62",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Y85",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A68",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Y86",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Y8W",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C22",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "Y8Y",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA22V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  },
+  {
+    "smdCode": "Y8p",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C22",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "Y8t",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C22",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

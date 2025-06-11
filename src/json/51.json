@@ -1,0 +1,242 @@
+[
+  {
+    "smdCode": "51",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z2V7",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "51**",
+    "package": "SOT-25",
+    "deviceName": "G5111T11",
+    "manufacturer": "GMT",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5111_r1.1_gmt.pdf"
+  },
+  {
+    "smdCode": "51***",
+    "package": "SOT-26",
+    "deviceName": "TS1051CX6",
+    "manufacturer": "TS",
+    "data": "Voltage and Current Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts1051_rb07_ts.pdf"
+  },
+  {
+    "smdCode": "5103",
+    "package": "SOT-23",
+    "deviceName": "MTP5103N3",
+    "manufacturer": "CYStech",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mtp5103n3_cystek.pdf"
+  },
+  {
+    "smdCode": "51031",
+    "package": "SO-8",
+    "deviceName": "CS51031",
+    "manufacturer": "ON",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/s/cs51031_on.pdf"
+  },
+  {
+    "smdCode": "5108",
+    "package": "TDFN-8 3x3",
+    "deviceName": "G5108RDU",
+    "manufacturer": "GMT",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5108_gmt.pdf"
+  },
+  {
+    "smdCode": "51117",
+    "package": "TSSOP-14",
+    "deviceName": "TPS51117PW",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51117_rb_ti.pdf"
+  },
+  {
+    "smdCode": "51117",
+    "package": "VQFN-14 3.5x3.5",
+    "deviceName": "TPS51117RGY",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51117_rb_ti.pdf"
+  },
+  {
+    "smdCode": "51123",
+    "package": "VQFN-24 4x4",
+    "deviceName": "TPS51123RGER",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51123_re_ti.pdf"
+  },
+  {
+    "smdCode": "51123A",
+    "package": "VQFN-24 4x4",
+    "deviceName": "TPS51123ARGER",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51123a_rc_ti.pdf"
+  },
+  {
+    "smdCode": "51125",
+    "package": "VQFN-24 4x4",
+    "deviceName": "TPS51125",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51125_rh_ti.pdf"
+  },
+  {
+    "smdCode": "5121*",
+    "package": "SOT-26",
+    "deviceName": "G5121TB1U",
+    "manufacturer": "GMT",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5121_r1.1_gmt.pdf"
+  },
+  {
+    "smdCode": "5121*",
+    "package": "SOT-26",
+    "deviceName": "KB4312B-GRE",
+    "manufacturer": "Kingbor",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/b/kb4312_r3.2_kingbor.pdf"
+  },
+  {
+    "smdCode": "51216",
+    "package": "WQFN-20 3x3",
+    "deviceName": "TPS51216RUKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51216_ra_ti.pdf"
+  },
+  {
+    "smdCode": "51219",
+    "package": "QFN-16 3x3",
+    "deviceName": "TPS51219",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51219_rb_ti.pdf"
+  },
+  {
+    "smdCode": "5121M",
+    "package": "SOT-26",
+    "deviceName": "PJ5121EMR",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/j/pj5121_noname.pdf"
+  },
+  {
+    "smdCode": "5121M",
+    "package": "QFN-8 2x2",
+    "deviceName": "PJ5121EQFN",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/j/pj5121_noname.pdf"
+  },
+  {
+    "smdCode": "51225",
+    "package": "QFN-20 3x3",
+    "deviceName": "FX011Z",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51225%2C_tps51225b%2C_tps51225c_rb_ti.pdf"
+  },
+  {
+    "smdCode": "51225",
+    "package": "QFN-20 3x3",
+    "deviceName": "TPS51225RUK",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51225%2C_tps51225b%2C_tps51225c_rb_ti.pdf"
+  },
+  {
+    "smdCode": "5160x",
+    "package": "SOT-26",
+    "deviceName": "AT5160TP1U",
+    "manufacturer": "GMT",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at5160_gmt.pdf"
+  },
+  {
+    "smdCode": "51716",
+    "package": "WQFN-20 3x3",
+    "deviceName": "TPS51716RUKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51716_201210_ti.pdf"
+  },
+  {
+    "smdCode": "5173",
+    "package": "TQFN-16 3x3",
+    "deviceName": "G5173R41U",
+    "manufacturer": "GMT",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5173_gmt.pdf"
+  },
+  {
+    "smdCode": "5193",
+    "package": "TQFN-16 3x3",
+    "deviceName": "G5193R41U",
+    "manufacturer": "GMT",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5193_r0.2_gmt.pdf"
+  },
+  {
+    "smdCode": "5198NL",
+    "package": "SO-8",
+    "deviceName": "SST5198NL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst5198nl%2C_sst5199nl%2C_u5196nl%2C_u5197nl%2C_u5198nl%2C_u5199nl_vishay.pdf"
+  },
+  {
+    "smdCode": "5199NL",
+    "package": "SO-8",
+    "deviceName": "SST5199NL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst5198nl%2C_sst5199nl%2C_u5196nl%2C_u5197nl%2C_u5198nl%2C_u5199nl_vishay.pdf"
+  },
+  {
+    "smdCode": "51A",
+    "package": "SMB",
+    "deviceName": "1.5SMC51AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "51AC30B",
+    "package": "WSON-8 3x3",
+    "deviceName": "LP2951CSD-3.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "51AC33",
+    "package": "WSON-8 3x3",
+    "deviceName": "LP2951ACSDX-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "51AC33B",
+    "package": "WSON-8 3x3",
+    "deviceName": "LP2951CSD-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "51Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C51",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  }
+]

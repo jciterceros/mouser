@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "QC",
+    "package": "SOT-346",
+    "deviceName": "RN1423",
+    "manufacturer": "Toshiba",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn1421%2C_rn1422%2C_rn1423%2C_rn1424%2C_rn1425%2C_rn1426%2C_rn1427_toshiba.pdf"
+  },
+  {
+    "smdCode": "QC",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q121D5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "QC*",
+    "package": "WLCSP-4 1x1",
+    "deviceName": "FPF1107",
+    "manufacturer": "Fairchild",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/p/fpf1107%2C_fpf1108_r1.0.1_fairchild.pdf"
+  },
+  {
+    "smdCode": "Qc",
+    "package": "SOT-25",
+    "deviceName": "BD53E31G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

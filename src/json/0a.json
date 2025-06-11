@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "0A",
+    "package": "SOT-346",
+    "deviceName": "DTC125TKA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc125tka_dtc125tsa_dtc125tua_rohm.pdf"
+  },
+  {
+    "smdCode": "0A",
+    "package": "SOT-323",
+    "deviceName": "DTC125TUA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc125tka_dtc125tsa_dtc125tua_rohm.pdf"
+  },
+  {
+    "smdCode": "0A-***",
+    "package": "SOT-25",
+    "deviceName": "RT8009-12PB",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  },
+  {
+    "smdCode": "0A=***",
+    "package": "SOT-25",
+    "deviceName": "RT8009-12GB",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  }
+]

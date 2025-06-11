@@ -1,0 +1,194 @@
+[
+  {
+    "smdCode": "T0",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "T02",
+    "package": "SOT-26",
+    "deviceName": "QST2",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qst2_rohm.pdf"
+  },
+  {
+    "smdCode": "T03",
+    "package": "SOT-26",
+    "deviceName": "QST3",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qst3_rohm.pdf"
+  },
+  {
+    "smdCode": "T06",
+    "package": "SOT-26",
+    "deviceName": "QST6",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qst6_rohm.pdf"
+  },
+  {
+    "smdCode": "T07",
+    "package": "SOT-26",
+    "deviceName": "QST7",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qst7_rohm.pdf"
+  },
+  {
+    "smdCode": "T08",
+    "package": "SOT-753",
+    "deviceName": "74HCT1G08GV",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74hc1g08%2C_74hct1g08_r04_nxp.pdf"
+  },
+  {
+    "smdCode": "T08",
+    "package": "SOT-26",
+    "deviceName": "QST8",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qst8_rohm.pdf"
+  },
+  {
+    "smdCode": "T081",
+    "package": "SO-8",
+    "deviceName": "TL081CPSR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl081%2C_tl082%2C_tl084-series_ri_ti.pdf"
+  },
+  {
+    "smdCode": "T082",
+    "package": "SO-8",
+    "deviceName": "TL082CPSR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl081%2C_tl082%2C_tl084-series_ri_ti.pdf"
+  },
+  {
+    "smdCode": "T082",
+    "package": "TSSOP-8",
+    "deviceName": "TL082CPWR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl081%2C_tl082%2C_tl084-series_ri_ti.pdf"
+  },
+  {
+    "smdCode": "T082A",
+    "package": "SO-8",
+    "deviceName": "TL082ACPSR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl081%2C_tl082%2C_tl084-series_ri_ti.pdf"
+  },
+  {
+    "smdCode": "T084",
+    "package": "TSSOP-14",
+    "deviceName": "TL084CPW",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl081%2C_tl082%2C_tl084-series_ri_ti.pdf"
+  },
+  {
+    "smdCode": "T09",
+    "package": "SOT-26",
+    "deviceName": "QST9",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qst9_rohm.pdf"
+  },
+  {
+    "smdCode": "t01",
+    "package": "SOT-23",
+    "deviceName": "PDTA143ET",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta143et_philips.pdf"
+  },
+  {
+    "smdCode": "t02",
+    "package": "SOT-23",
+    "deviceName": "PDTC143ET",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143et_philips.pdf"
+  },
+  {
+    "smdCode": "t03",
+    "package": "SOT-23",
+    "deviceName": "PDTA114ET",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta114e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "t03",
+    "package": "SOT-323",
+    "deviceName": "PDTA114EU",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta114e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "t04",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A11",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "t04",
+    "package": "SOT-323",
+    "deviceName": "PMSS3904",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmss3904_nxp.pdf"
+  },
+  {
+    "smdCode": "t05",
+    "package": "SOT-23",
+    "deviceName": "PDTA124ET",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "t05",
+    "package": "SOT-323",
+    "deviceName": "PDTA124EU",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "t06",
+    "package": "SOT-323",
+    "deviceName": "PDTC124EU",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "t08",
+    "package": "SOT-23",
+    "deviceName": "PDTC144ET",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc144et_philips.pdf"
+  },
+  {
+    "smdCode": "t09",
+    "package": "SOT-323",
+    "deviceName": "PDTC114EU",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc114ee%2C_pdtc114em%2C_pdtc114et%2C_pdtc114eu_nxp.pdf"
+  }
+]

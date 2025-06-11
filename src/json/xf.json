@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "XF",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XF",
+    "package": "SOD-323",
+    "deviceName": "PZU20B3A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XF",
+    "package": "2-2H1A",
+    "deviceName": "RN1106F",
+    "manufacturer": "Toshiba",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn1101f-rn1106f_toshiba.pdf"
+  },
+  {
+    "smdCode": "XF-***",
+    "package": "SOT-25",
+    "deviceName": "RT9818C-25PB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "XF=***",
+    "package": "SOT-25",
+    "deviceName": "RT9818C-25GB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "XFs",
+    "package": "SOT-23",
+    "deviceName": "BCR512",
+    "manufacturer": "Infineon",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr512_infineon.pdf"
+  }
+]

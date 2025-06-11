@@ -1,0 +1,170 @@
+[
+  {
+    "smdCode": "BD",
+    "package": "SOT-23",
+    "deviceName": "BCW61D",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw61a%2C_bcw61b%2C_bcw61c%2C_bcw61d_fairchild.pdf"
+  },
+  {
+    "smdCode": "BD",
+    "package": "SOT-89",
+    "deviceName": "BCX54-16",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx54%2C_bcx55%2C_bcx56_ra_galaxy.pdf"
+  },
+  {
+    "smdCode": "BD",
+    "package": "SOT-89",
+    "deviceName": "BCX5416TA",
+    "manufacturer": "Diodes",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx54%2C_bcx55%2C_bcx56_diodes.pdf"
+  },
+  {
+    "smdCode": "BD",
+    "package": "SOT-25",
+    "deviceName": "BD4722G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "BD",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "BD",
+    "package": "SOD-123",
+    "deviceName": "KDZ22B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "BD",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q241A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "BD",
+    "package": "SOD-323",
+    "deviceName": "UDZ6V2B",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udz5v1b-udz15b_diodes.pdf"
+  },
+  {
+    "smdCode": "BD*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-GSPQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BD*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9193-28PQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "BD-",
+    "package": "SOT-89",
+    "deviceName": "RT9169-24PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "BD-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-GKPJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BD-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-2HPU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "BD=***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-2HGU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "BD=***",
+    "package": "SOT-143",
+    "deviceName": "RT9818G-20GY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "BDR",
+    "package": "QFN-10",
+    "deviceName": "TPS61020DRC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61020%2C_tps61024%2C_tps61025%2C_tps61026%2C_tps61027%2C_tps61028%2C_tps61029_ti.pdf"
+  },
+  {
+    "smdCode": "BDS",
+    "package": "QFN-10",
+    "deviceName": "TPS61024DRC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61020%2C_tps61024%2C_tps61025%2C_tps61026%2C_tps61027%2C_tps61028%2C_tps61029_ti.pdf"
+  },
+  {
+    "smdCode": "BDT",
+    "package": "QFN-10",
+    "deviceName": "TPS61025DRC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61020%2C_tps61024%2C_tps61025%2C_tps61026%2C_tps61027%2C_tps61028%2C_tps61029_ti.pdf"
+  },
+  {
+    "smdCode": "BDU",
+    "package": "QFN-10",
+    "deviceName": "TPS61027DRC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61020%2C_tps61024%2C_tps61025%2C_tps61026%2C_tps61027%2C_tps61028%2C_tps61029_ti.pdf"
+  },
+  {
+    "smdCode": "Bd",
+    "package": "SOT-25",
+    "deviceName": "BD48E40G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Bd",
+    "package": "SOT-23",
+    "deviceName": "BD48K40G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "BW",
+    "package": "SOT-523",
+    "deviceName": "2SA2018",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa2018_galaxy.pdf"
+  },
+  {
+    "smdCode": "BW",
+    "package": "SOT-416",
+    "deviceName": "2SA2018",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa2018%2C_2sa2030%2C_2sa2119k_rohm.pdf"
+  },
+  {
+    "smdCode": "BW",
+    "package": "VMT3",
+    "deviceName": "2SA2030",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa2018%2C_2sa2030%2C_2sa2119k_rohm.pdf"
+  },
+  {
+    "smdCode": "BW",
+    "package": "SOT-346",
+    "deviceName": "2SA2119K",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa2018%2C_2sa2030%2C_2sa2119k_rohm.pdf"
+  },
+  {
+    "smdCode": "BW",
+    "package": "SOT-25",
+    "deviceName": "BD4741G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "BW",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "BW*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9198-33PQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "BW=***",
+    "package": "SOT-26",
+    "deviceName": "RT9293GJ6",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9293_richtek.pdf"
+  }
+]

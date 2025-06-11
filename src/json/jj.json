@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "JJ",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "Vishay",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_r2.0_vishay.pdf"
+  },
+  {
+    "smdCode": "JJ",
+    "package": "SOT-23",
+    "deviceName": "BAV70-V",
+    "manufacturer": "Vishay",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70-v_vishai.pdf"
+  },
+  {
+    "smdCode": "JJ",
+    "package": "SOT-523",
+    "deviceName": "BAV70T",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70t_galaxy.pdf"
+  },
+  {
+    "smdCode": "JJ",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q481B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "JJ **",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8202MZQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8202l%2C_rt8202m_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "JJ*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9526GQW",
+    "manufacturer": "Richtek",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9526_r01_richtek.pdf"
+  },
+  {
+    "smdCode": "JJ-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-15PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JJ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-33PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "JJ-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818D-27PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JJ=**",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8202MGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8202l%2C_rt8202m_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "JJ=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-33GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  }
+]

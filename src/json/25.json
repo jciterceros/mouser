@@ -1,0 +1,226 @@
+[
+  {
+    "smdCode": "25",
+    "package": "SOT-23",
+    "deviceName": "DTC124ECA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114eca%2C_dtc124eca%2C_dtc143eca%2C_dtc144eca_galaxy.pdf"
+  },
+  {
+    "smdCode": "25",
+    "package": "SOT-23",
+    "deviceName": "DTC124ECA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124eca%2C_dtc124ee%2C_dtc124eka%2C_dtc124esa%2C_dtc124eua_rohm.pdf"
+  },
+  {
+    "smdCode": "25",
+    "package": "SOT-416",
+    "deviceName": "DTC124EE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124eca%2C_dtc124ee%2C_dtc124eka%2C_dtc124esa%2C_dtc124eua_rohm.pdf"
+  },
+  {
+    "smdCode": "25",
+    "package": "SOT-490",
+    "deviceName": "DTC124EEB",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124eeb_rohm.pdf"
+  },
+  {
+    "smdCode": "25",
+    "package": "SOT-346",
+    "deviceName": "DTC124EKA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124eca%2C_dtc124ee%2C_dtc124eka%2C_dtc124esa%2C_dtc124eua_rohm.pdf"
+  },
+  {
+    "smdCode": "25",
+    "package": "SOT-323",
+    "deviceName": "DTC124EUA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124eca%2C_dtc124ee%2C_dtc124eka%2C_dtc124esa%2C_dtc124eua_rohm.pdf"
+  },
+  {
+    "smdCode": "25",
+    "package": "SOT-323",
+    "deviceName": "DTC124EUA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114eua%2C_dtc124eua%2C_dtc143eua%2C_dtc144eua_galaxy.pdf"
+  },
+  {
+    "smdCode": "25",
+    "package": "UMT3F",
+    "deviceName": "DTC124EUB",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc124eub_rohm.pdf"
+  },
+  {
+    "smdCode": "25",
+    "package": "SOD-323",
+    "deviceName": "UDZS12B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "25",
+    "package": "SOT-23",
+    "deviceName": "ZD25-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "25",
+    "package": "SOD-323",
+    "deviceName": "ZD25-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "250",
+    "package": "SOT-23",
+    "deviceName": "KTY82/250",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "2506P",
+    "package": "TSSOP-8",
+    "deviceName": "FDW2506P",
+    "manufacturer": "Fairchild",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdw2506p_rc_fairchild.pdf"
+  },
+  {
+    "smdCode": "2509NZ",
+    "package": "TSSOP-8",
+    "deviceName": "FDW2509NZ",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdw2509nz_fairchild.pdf"
+  },
+  {
+    "smdCode": "251",
+    "package": "SOT-23",
+    "deviceName": "KTY82/251",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "251",
+    "package": "TO-92S",
+    "deviceName": "TSH251CT",
+    "manufacturer": "TS",
+    "data": "Hall Effect Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/tsh251_ts.pdf"
+  },
+  {
+    "smdCode": "251**",
+    "package": "SOT-23",
+    "deviceName": "TSH251CX",
+    "manufacturer": "TS",
+    "data": "Hall Effect Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/tsh251_ts.pdf"
+  },
+  {
+    "smdCode": "252",
+    "package": "SOT-23",
+    "deviceName": "KTY82/252",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "252N10NS",
+    "package": "TDSON-8",
+    "deviceName": "BSC252N10NSF G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc252n10nsfg_infineon.pdf"
+  },
+  {
+    "smdCode": "2546",
+    "package": "QFN-16 3x3",
+    "deviceName": "TPS2546RTER",
+    "manufacturer": "Texas Instruments",
+    "data": "USB Charging Port Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2546_rb_ti.pdf"
+  },
+  {
+    "smdCode": "258",
+    "package": "Micro8",
+    "deviceName": "LM258DMR2G",
+    "manufacturer": "ON",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm258%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904a%2C_lm2904v%2C_ncv2904%2C_ncv2904v_on.pdf"
+  },
+  {
+    "smdCode": "25N",
+    "package": "SOT-23",
+    "deviceName": "ZR25D",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zr25d_zetex.pdf"
+  },
+  {
+    "smdCode": "25P",
+    "package": "SOT-23",
+    "deviceName": "ZR25D02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zr25d_zetex.pdf"
+  },
+  {
+    "smdCode": "25R",
+    "package": "SOT-23",
+    "deviceName": "ZR25D01",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zr25d_zetex.pdf"
+  },
+  {
+    "smdCode": "25R*",
+    "package": "SOT-25",
+    "deviceName": "APL5325BI-TRL",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5325_ra.1_anpec.pdf"
+  },
+  {
+    "smdCode": "25T",
+    "package": "SOT-23",
+    "deviceName": "TK71525AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "25U",
+    "package": "SOT-23",
+    "deviceName": "ZTR250F02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/t/ztr250%2C_ztr500_zetex.pdf"
+  },
+  {
+    "smdCode": "25U",
+    "package": "SOT-89",
+    "deviceName": "ZTR250Z02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/t/ztr250%2C_ztr500_zetex.pdf"
+  }
+]

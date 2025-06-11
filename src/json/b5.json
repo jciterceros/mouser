@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "B5",
+    "package": "SOT-23",
+    "deviceName": "BAT54C",
+    "manufacturer": "Secos",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_secos.pdf"
+  },
+  {
+    "smdCode": "B5",
+    "package": "SOT-416",
+    "deviceName": "BC847AT/DG",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "B5",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "B5",
+    "package": "SOD-523",
+    "deviceName": "ESD5B5.0ST1G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esd5b5.0st1g_on.pdf"
+  },
+  {
+    "smdCode": "B5",
+    "package": "SOD-323F",
+    "deviceName": "RB751V-40F",
+    "manufacturer": "Liteon",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb751v-40f_liteon.pdf"
+  },
+  {
+    "smdCode": "B5*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-PMGQWC",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "B5*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9013-1HPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "B5-",
+    "package": "SOT-23",
+    "deviceName": "BSR12",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr12_philips.pdf"
+  },
+  {
+    "smdCode": "B5-",
+    "package": "SOT-89",
+    "deviceName": "RT9169-16PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "B5-***",
+    "package": "SOT-26",
+    "deviceName": "RT9010-33PJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9010_richtek.pdf"
+  },
+  {
+    "smdCode": "B5=***",
+    "package": "SOT-26",
+    "deviceName": "RT9010-33GJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9010_richtek.pdf"
+  },
+  {
+    "smdCode": "B5=***",
+    "package": "SOT-143",
+    "deviceName": "RT9013A-30GY",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013a_richtek.pdf"
+  },
+  {
+    "smdCode": "B5NK50Z",
+    "package": "TO-262",
+    "deviceName": "STB5NK50Z-1",
+    "manufacturer": "STMicroelectronics",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stb5nk50z%2C_std5nk50z%2C_stp5nk50z%2C_stp5nk50zfp_st.pdf"
+  },
+  {
+    "smdCode": "B5NK50Z",
+    "package": "D2PAK",
+    "deviceName": "STB5NK50ZT4",
+    "manufacturer": "STMicroelectronics",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stb5nk50z%2C_std5nk50z%2C_stp5nk50z%2C_stp5nk50zfp_st.pdf"
+  },
+  {
+    "smdCode": "B5W",
+    "package": "SOT-23",
+    "deviceName": "BSR12",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr12_philips.pdf"
+  },
+  {
+    "smdCode": "B5p",
+    "package": "SOT-23",
+    "deviceName": "BSR12",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr12_philips.pdf"
+  },
+  {
+    "smdCode": "B5t",
+    "package": "SOT-23",
+    "deviceName": "BSR12",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr12_philips.pdf"
+  }
+]

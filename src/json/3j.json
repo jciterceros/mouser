@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "3J-",
+    "package": "SOT-143B",
+    "deviceName": "BCV62A",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3J=***",
+    "package": "SOT-26",
+    "deviceName": "RT6211AHGE",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt6211a%2C_rt6211b_r01_richtek.pdf"
+  },
+  {
+    "smdCode": "3JW",
+    "package": "SOT-143B",
+    "deviceName": "BCV62A",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Jp",
+    "package": "SOT-143B",
+    "deviceName": "BCV62A",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Js",
+    "package": "SOT-23",
+    "deviceName": "BC858A",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc857%2C_bc858%2C_bc859%2C_bc860_series_infineon.pdf"
+  },
+  {
+    "smdCode": "3Js",
+    "package": "SOT-143",
+    "deviceName": "BCV62A",
+    "manufacturer": "Infineon",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_infineon.pdf"
+  },
+  {
+    "smdCode": "3Js",
+    "package": "SOT-143",
+    "deviceName": "BCV62A",
+    "manufacturer": "Siemens",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_siemens.pdf"
+  },
+  {
+    "smdCode": "3Jt",
+    "package": "SOT-143B",
+    "deviceName": "BCV62A",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  }
+]

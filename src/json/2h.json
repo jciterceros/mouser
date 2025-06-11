@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "2H",
+    "package": "SOT-23",
+    "deviceName": "FMMTA55",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmta55%2C_fmmta56_zetex.pdf"
+  },
+  {
+    "smdCode": "2H",
+    "package": "SOT-23",
+    "deviceName": "KST55",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst55%2C_kst56_fairchild.pdf"
+  },
+  {
+    "smdCode": "2H",
+    "package": "SOT-23",
+    "deviceName": "MMBTA55",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta55%2C_mmbta56_galaxy.pdf"
+  }
+]

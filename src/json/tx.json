@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "TX",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C18",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "TX",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K311B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TX*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B282NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  }
+]

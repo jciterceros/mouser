@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "TK",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "TK",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K201B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TK",
+    "package": "SMA",
+    "deviceName": "SMAJ400A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "TK*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B182NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "tK3",
+    "package": "SOT-23",
+    "deviceName": "BSH111",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsh111_r02_philips.pdf"
+  }
+]

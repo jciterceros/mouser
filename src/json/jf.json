@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "JF",
+    "package": "SOT-23",
+    "deviceName": "BAL99",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bal99%2C_bav99_general.pdf"
+  },
+  {
+    "smdCode": "JF",
+    "package": "SOT-23",
+    "deviceName": "BAL99",
+    "manufacturer": "Panjit",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bal99%2C_bav70%2C_bav99%2C_baw56_panjit.pdf"
+  },
+  {
+    "smdCode": "JF",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q451B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "JF-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-21PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JF-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-28PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "JF-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818F-20PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JF=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-28GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  }
+]

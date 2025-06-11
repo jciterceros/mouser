@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "ZV",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C56",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZV",
+    "package": "SOT-23",
+    "deviceName": "CZMK8.2",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "ZV",
+    "package": "SMA",
+    "deviceName": "SMAJ85CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "ZV",
+    "package": "SOT-23",
+    "deviceName": "TZT8V2CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "ZV**",
+    "package": "SOT-25",
+    "deviceName": "PI5A121CEX",
+    "manufacturer": "Pericom",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/i/pi5a121%2C_pi5a122%2C_pi5a124_2009.10.23_pericom.pdf"
+  },
+  {
+    "smdCode": "ZV**",
+    "package": "SOT-25",
+    "deviceName": "PI5A121TEX",
+    "manufacturer": "Pericom",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/i/pi5a121%2C_pi5a122%2C_pi5a124_2009.10.23_pericom.pdf"
+  },
+  {
+    "smdCode": "ZV**",
+    "package": "SOT-25",
+    "deviceName": "PI5A121TX",
+    "manufacturer": "Pericom",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/i/pi5a121%2C_pi5a122%2C_pi5a124_2009.10.23_pericom.pdf"
+  },
+  {
+    "smdCode": "ZV-",
+    "package": "SOT-23",
+    "deviceName": "BSS84/DG",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84_r06_nxp.pdf"
+  },
+  {
+    "smdCode": "ZVW",
+    "package": "SOT-23",
+    "deviceName": "BSS84/DG",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84_r06_nxp.pdf"
+  },
+  {
+    "smdCode": "ZVp",
+    "package": "SOT-23",
+    "deviceName": "BSS84/DG",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84_r06_nxp.pdf"
+  },
+  {
+    "smdCode": "ZVt",
+    "package": "SOT-23",
+    "deviceName": "BSS84/DG",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84_r06_nxp.pdf"
+  }
+]

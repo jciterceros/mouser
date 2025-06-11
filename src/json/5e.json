@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "5E",
+    "package": "SOT-23",
+    "deviceName": "BC808-16",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807%2C_bc808_general.pdf"
+  },
+  {
+    "smdCode": "5E",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z13",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "5E",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z9V1",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "5E",
+    "package": "SOT-523",
+    "deviceName": "PDTA115EE",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5E",
+    "package": "SOD-323",
+    "deviceName": "RB751V-40S2",
+    "manufacturer": "CYStech",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb751v-40s2_cystek.pdf"
+  },
+  {
+    "smdCode": "5E*",
+    "package": "SOD-323",
+    "deviceName": "RB751V40",
+    "manufacturer": "UTC",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb751v40_utc.pdf"
+  },
+  {
+    "smdCode": "5E=**",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8248AGQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8248a_r04_richtek.pdf"
+  }
+]

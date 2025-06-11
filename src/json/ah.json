@@ -1,0 +1,234 @@
+[
+  {
+    "smdCode": "AH",
+    "package": "SOT-89",
+    "deviceName": "BCX53",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx51-bcx53_zetex.pdf"
+  },
+  {
+    "smdCode": "AH",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5231B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AH",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q181A5",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "AH*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9012-GSPQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9012_richtek.pdf"
+  },
+  {
+    "smdCode": "AH*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9013B-15PQWA",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "AH**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US43D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "AH**",
+    "package": "SOT-363",
+    "deviceName": "Si1450DH",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1450dh_vishay.pdf"
+  },
+  {
+    "smdCode": "AH***",
+    "package": "SOT-25",
+    "deviceName": "RT9701CBL",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9701_richtek.pdf"
+  },
+  {
+    "smdCode": "AH-",
+    "package": "SOT-89",
+    "deviceName": "RT9161-31PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "AH-**",
+    "package": "VDFN-8 3x3",
+    "deviceName": "RT9013-33PQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AH-**",
+    "package": "VDFN-10 3x3",
+    "deviceName": "RT9014A-JPPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "AH-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-MMPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AH-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-32PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AH-***",
+    "package": "SOT-25",
+    "deviceName": "RT9284BPJ5E",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9284a%2C_rt9284b_richtek.pdf"
+  },
+  {
+    "smdCode": "AH-***",
+    "package": "SOT-25",
+    "deviceName": "RT9701PBL",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9701_richtek_1.pdf"
+  },
+  {
+    "smdCode": "AH-***",
+    "package": "SOT-323",
+    "deviceName": "RT9819C-28PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "AH=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-MMGJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AH=***",
+    "package": "SOT-25",
+    "deviceName": "RT9701GBL",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9701_richtek_1.pdf"
+  },
+  {
+    "smdCode": "AHP",
+    "package": "SOT-89",
+    "deviceName": "2SA1759",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1759_rohm.pdf"
+  },
+  {
+    "smdCode": "AHP",
+    "package": "SOT-23",
+    "deviceName": "2SB1197",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1197_galaxy.pdf"
+  },
+  {
+    "smdCode": "AHQ",
+    "package": "SOT-23",
+    "deviceName": "2SB1197",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1197_galaxy.pdf"
+  },
+  {
+    "smdCode": "AHQ",
+    "package": "SOT-89",
+    "deviceName": "2SD2098",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2098_tip.pdf"
+  },
+  {
+    "smdCode": "AHQ",
+    "package": "SOT-89",
+    "deviceName": "2SD2908",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2908_galaxy.pdf"
+  },
+  {
+    "smdCode": "AHR",
+    "package": "SOT-23",
+    "deviceName": "2SB1197",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1197_galaxy.pdf"
+  },
+  {
+    "smdCode": "AHR",
+    "package": "SOT-23",
+    "deviceName": "2SB1197K",
+    "manufacturer": "Shandong",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1197k_shandong.pdf"
+  },
+  {
+    "smdCode": "AHR",
+    "package": "SOT-89",
+    "deviceName": "2SD2098",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2098_tip.pdf"
+  },
+  {
+    "smdCode": "AHR",
+    "package": "SOT-89",
+    "deviceName": "2SD2908",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2908_galaxy.pdf"
+  },
+  {
+    "smdCode": "Ah",
+    "package": "SOT-25",
+    "deviceName": "BD48E30G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ah",
+    "package": "SOT-23",
+    "deviceName": "BD48K30G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

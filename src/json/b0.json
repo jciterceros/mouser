@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "B0",
+    "package": "SOT-23",
+    "deviceName": "SST5460",
+    "manufacturer": "Vishay",
+    "data": "P-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5460%2C_2n5461%2C_2n5462%2C_sst5460%2C_sst5461%2C_sst5462_vishay.pdf"
+  },
+  {
+    "smdCode": "B0*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-JPPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "B0*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-PMPQWC",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "B0**",
+    "package": "SOT-23",
+    "deviceName": "ELM9710NBA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "B0-**",
+    "package": "VDFN-10 3x3",
+    "deviceName": "RT9014A-PPPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "B0-**",
+    "package": "VQFN-24 4x4",
+    "deviceName": "RT9913BPQV",
+    "manufacturer": "Richtek",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9913a%2C_rt9913b_richtek.pdf"
+  },
+  {
+    "smdCode": "B0-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-FSPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "B0-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-31PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "B0=***",
+    "package": "SOT-143",
+    "deviceName": "RT9013A-28GY",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013a_richtek.pdf"
+  }
+]

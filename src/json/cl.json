@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "CL",
+    "package": "SOT-523",
+    "deviceName": "2SC5343E",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5343e_tip.pdf"
+  },
+  {
+    "smdCode": "CL**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US27D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CL=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8205CGQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8205a%2C_rt8205b%2C_rt8205c_r06_richtek.pdf"
+  },
+  {
+    "smdCode": "CL=***",
+    "package": "SOT-353",
+    "deviceName": "RT9013A-30GU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013a_richtek.pdf"
+  }
+]

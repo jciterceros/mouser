@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "VA",
+    "package": "SOT-891",
+    "deviceName": "74LVC1G00GF",
+    "manufacturer": "NXP",
+    "data": "NAND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g00_nxp.pdf"
+  },
+  {
+    "smdCode": "VA",
+    "package": "SOT-886",
+    "deviceName": "74LVC1G00GM",
+    "manufacturer": "NXP",
+    "data": "NAND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g00_nxp.pdf"
+  },
+  {
+    "smdCode": "VA",
+    "package": "SOT-353",
+    "deviceName": "74LVC1G00GW",
+    "manufacturer": "NXP",
+    "data": "NAND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g00_nxp.pdf"
+  },
+  {
+    "smdCode": "VA",
+    "package": "DFN-4 1x1",
+    "deviceName": "NCP4586DMU12TCG",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp4586_r5_on.pdf"
+  },
+  {
+    "smdCode": "VA",
+    "package": "SOD-323",
+    "deviceName": "PZU10BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VA",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K121D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VA",
+    "package": "SOT-23",
+    "deviceName": "TZT14CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "VA-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VA-***",
+    "package": "SOT-25",
+    "deviceName": "RT9170-20PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9170_richtek.pdf"
+  },
+  {
+    "smdCode": "VAW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VAp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VAt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

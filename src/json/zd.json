@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "ZD",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZD",
+    "package": "SOT-23",
+    "deviceName": "KST4125",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst4125_fairchild.pdf"
+  },
+  {
+    "smdCode": "ZD",
+    "package": "SOD-323",
+    "deviceName": "PDZ8.2B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZD-***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-29PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "ZDVI",
+    "package": "WSON-8 2x2",
+    "deviceName": "TPS22965NDSGR",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps22965_rd_ti.pdf"
+  }
+]

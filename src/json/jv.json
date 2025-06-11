@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "JV",
+    "package": "SOD-323",
+    "deviceName": "CH751H-40PT",
+    "manufacturer": "Chenmko",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/h/ch751h-40pt_chenmko.pdf"
+  },
+  {
+    "smdCode": "JV*",
+    "package": "SOD-323",
+    "deviceName": "BAT54HT1G",
+    "manufacturer": "ON",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54ht1g%2C_nsvbat54ht1g_on.pdf"
+  },
+  {
+    "smdCode": "JV*",
+    "package": "SOD-323",
+    "deviceName": "NSVBAT54HT1G",
+    "manufacturer": "ON",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54ht1g%2C_nsvbat54ht1g_on.pdf"
+  },
+  {
+    "smdCode": "JV-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-30PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JV-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818D-33PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JV3",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "Taitron",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_taitron.pdf"
+  },
+  {
+    "smdCode": "JV=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818D-33GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JV_",
+    "package": "SOT-353",
+    "deviceName": "TS5A4597DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts5a4597_ti.pdf"
+  }
+]

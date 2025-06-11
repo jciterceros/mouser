@@ -1,0 +1,290 @@
+[
+  {
+    "smdCode": "L0",
+    "package": "SOT-490",
+    "deviceName": "NZL5V6AXV3T1",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/z/nzl5v6axv3t1%2C_nzl6v8axv3t1%2C_nzl7v5axv3t1_on.pdf"
+  },
+  {
+    "smdCode": "L0",
+    "package": "SOT-23",
+    "deviceName": "SST510",
+    "manufacturer": "Siliconix (Now Vishay)",
+    "data": "Current regulator diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst502-sst511_siliconix.pdf"
+  },
+  {
+    "smdCode": "L0 *",
+    "package": "SOT-723",
+    "deviceName": "mESD3.3DT5G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/e/uesd3.3dt5g%2C_uesd5.0dt5g%2C_uesd6.0dt5g_on.pdf"
+  },
+  {
+    "smdCode": "L0-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819B-29PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "L00A",
+    "package": "SOT-25",
+    "deviceName": "LP2980AIM5-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2980-n_ti.pdf"
+  },
+  {
+    "smdCode": "L00B",
+    "package": "SOT-25",
+    "deviceName": "LP2980IM5-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2980-n_ti.pdf"
+  },
+  {
+    "smdCode": "L01A",
+    "package": "SOT-25",
+    "deviceName": "LP2980AIM5-5.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2980-n_ti.pdf"
+  },
+  {
+    "smdCode": "L01B",
+    "package": "SOT-25",
+    "deviceName": "LP2980IM5-5.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2980-n_ti.pdf"
+  },
+  {
+    "smdCode": "L02A",
+    "package": "SOT-25",
+    "deviceName": "LP2980AIM5-3.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2980-n_ti.pdf"
+  },
+  {
+    "smdCode": "L02B",
+    "package": "SOT-25",
+    "deviceName": "LP2980IM5-3.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2980-n_ti.pdf"
+  },
+  {
+    "smdCode": "L05",
+    "package": "SOT-23",
+    "deviceName": "SL05T1",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/l/sl05t1%2C_sl12t1%2C_sl15t1%2C_sl24t1_on.pdf"
+  },
+  {
+    "smdCode": "L0BA",
+    "package": "VSSOP-8",
+    "deviceName": "LP2951ACMM-3.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "L0BB",
+    "package": "VSSOP-8",
+    "deviceName": "LP2951CMM-3.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "L0CA",
+    "package": "VSSOP-8",
+    "deviceName": "LP2951ACMM-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "L0CB",
+    "package": "VSSOP-8",
+    "deviceName": "LP2951CMM-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "L0DA",
+    "package": "VSSOP-8",
+    "deviceName": "LP2951ACMM",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "L0DB",
+    "package": "VSSOP-8",
+    "deviceName": "LP2951CMM",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2950-n%2C_lp2951-n_ti.pdf"
+  },
+  {
+    "smdCode": "L0KA",
+    "package": "SOT-25",
+    "deviceName": "LP2985AIM5-2.8",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0KB",
+    "package": "SOT-25",
+    "deviceName": "LP2985IM5-2.8",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0NA",
+    "package": "SOT-25",
+    "deviceName": "LP2980AIM5-2.5",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2980-n_ti.pdf"
+  },
+  {
+    "smdCode": "L0NB",
+    "package": "SOT-25",
+    "deviceName": "LP2980IM5-2.5",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2980-n_ti.pdf"
+  },
+  {
+    "smdCode": "L0OA",
+    "package": "SOT-25",
+    "deviceName": "LP2985AIM5-3.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0OB",
+    "package": "SOT-25",
+    "deviceName": "LP2985IM5-3.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0PA",
+    "package": "SOT-25",
+    "deviceName": "LP2985AIM5-3.1",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0PB",
+    "package": "SOT-25",
+    "deviceName": "LP2985IM5-3.1",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0QB",
+    "package": "SOT-25",
+    "deviceName": "LP2985IM5-3.2",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0RA",
+    "package": "SOT-25",
+    "deviceName": "LP2985AIM5-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0RB",
+    "package": "SOT-25",
+    "deviceName": "LP2985IM5-3.3",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0SA",
+    "package": "SOT-25",
+    "deviceName": "LP2985AIM5-3.6",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0SB",
+    "package": "SOT-25",
+    "deviceName": "LP2985IM5-3.6",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0TA",
+    "package": "SOT-25",
+    "deviceName": "LP2985AIM5-4.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0TB",
+    "package": "SOT-25",
+    "deviceName": "LP2985IM5-4.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0UA",
+    "package": "SOT-25",
+    "deviceName": "LP2985AIM5-5.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0UB",
+    "package": "SOT-25",
+    "deviceName": "LP2985IM5-5.0",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0YA",
+    "package": "SOT-25",
+    "deviceName": "LP2985AIM5-3.8",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "L0YB",
+    "package": "SOT-25",
+    "deviceName": "LP2985IM5-3.8",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  }
+]

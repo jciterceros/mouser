@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "V3",
+    "package": "SOT-23",
+    "deviceName": "DZ23C3V3-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V3",
+    "package": "SOT-23",
+    "deviceName": "TZT3V3CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V3**",
+    "package": "SOT-25",
+    "deviceName": "TC74A3-3.3VCT",
+    "manufacturer": "Microchip",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc74_microchip.pdf"
+  },
+  {
+    "smdCode": "V3-",
+    "package": "SOT-143B",
+    "deviceName": "BFG67",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg67_series_nxp.pdf"
+  },
+  {
+    "smdCode": "V3-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-2HPB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "V30",
+    "package": "SOT-23",
+    "deviceName": "DZ23B43-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V30",
+    "package": "SOT-23",
+    "deviceName": "TZT43CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V3064",
+    "package": "SO-8",
+    "deviceName": "NCV3064DR2G",
+    "manufacturer": "ON",
+    "data": "Step-Up/Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp3064%2C_ncp3064b%2C_ncv3064_r8_on.pdf"
+  },
+  {
+    "smdCode": "V31",
+    "package": "SOT-23",
+    "deviceName": "DZ23B47-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V31",
+    "package": "SOT-23",
+    "deviceName": "TZT47CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V32",
+    "package": "SOT-23",
+    "deviceName": "DZ23B51-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/z/dz23-v_series_vishay.pdf"
+  },
+  {
+    "smdCode": "V32",
+    "package": "SOT-23",
+    "deviceName": "TZT51CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V331G",
+    "package": "SOT-25",
+    "deviceName": "LMV331G-AE5-R",
+    "manufacturer": "UTC",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv331_20150113_utc.pdf"
+  },
+  {
+    "smdCode": "V331G",
+    "package": "SOT-353",
+    "deviceName": "LMV331G-AL5-R",
+    "manufacturer": "UTC",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv331_20150113_utc.pdf"
+  },
+  {
+    "smdCode": "V3=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-2HGB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "V3W",
+    "package": "SOT-143B",
+    "deviceName": "BFG67",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg67_series_nxp.pdf"
+  },
+  {
+    "smdCode": "V3p",
+    "package": "SOT-143B",
+    "deviceName": "BFG67",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg67_series_nxp.pdf"
+  },
+  {
+    "smdCode": "V3t",
+    "package": "SOT-143B",
+    "deviceName": "BFG67",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg67_series_nxp.pdf"
+  }
+]

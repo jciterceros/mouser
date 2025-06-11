@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "2M3A",
+    "package": "SOT-23",
+    "deviceName": "L432M3A",
+    "manufacturer": "NIKO-SEM",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/4/l432_niko.pdf"
+  },
+  {
+    "smdCode": "2M5A",
+    "package": "SOT-23",
+    "deviceName": "L432M5A",
+    "manufacturer": "NIKO-SEM",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/4/l432_niko.pdf"
+  }
+]

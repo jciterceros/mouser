@@ -1,0 +1,218 @@
+[
+  {
+    "smdCode": "44",
+    "package": "SOT-23",
+    "deviceName": "BAS40-04",
+    "manufacturer": "Diotec",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_20150512_diotec.pdf"
+  },
+  {
+    "smdCode": "44",
+    "package": "SOT-23",
+    "deviceName": "BAS40-04",
+    "manufacturer": "Vishay",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_r2.0_vishay.pdf"
+  },
+  {
+    "smdCode": "44",
+    "package": "SOT-23",
+    "deviceName": "BAS40-04",
+    "manufacturer": "MCC",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40%2C_bas70_series_rd_mcc.pdf"
+  },
+  {
+    "smdCode": "44",
+    "package": "SOT-523",
+    "deviceName": "BAS40-04T",
+    "manufacturer": "Secos",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40t_series_secos.pdf"
+  },
+  {
+    "smdCode": "44",
+    "package": "SOT-323",
+    "deviceName": "BAT54SW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w%2C_bat54aw%2C_bat54cw%2C_bat54sw_philips.pdf"
+  },
+  {
+    "smdCode": "44-",
+    "package": "SOT-23",
+    "deviceName": "BAS40-04",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "44-",
+    "package": "SOT-323",
+    "deviceName": "BAT54SW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "4407",
+    "package": "SO-8",
+    "deviceName": "AO4407",
+    "manufacturer": "Alpha & Omega",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao4407_ao.pdf"
+  },
+  {
+    "smdCode": "441NL",
+    "package": "SO-8",
+    "deviceName": "SST441NL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst441nl%2C_u441nl_vishay.pdf"
+  },
+  {
+    "smdCode": "4430",
+    "package": "SO-8",
+    "deviceName": "AO4430L",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao4430_r6.0_ao.pdf"
+  },
+  {
+    "smdCode": "4435GM",
+    "package": "SO-8",
+    "deviceName": "AP4435GM",
+    "manufacturer": "Apec",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4435gm_201124043_apec.pdf"
+  },
+  {
+    "smdCode": "4435GM",
+    "package": "SO-8",
+    "deviceName": "AP4435GM-HF",
+    "manufacturer": "Apec",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4435gm_hf_200811216_apec.pdf"
+  },
+  {
+    "smdCode": "4435GYT",
+    "package": "PMPAK-8 3x3",
+    "deviceName": "AP4435GYT-HF",
+    "manufacturer": "Apec",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4435gyt-hf_20100921_apec.pdf"
+  },
+  {
+    "smdCode": "4459",
+    "package": "SO-8",
+    "deviceName": "AO4459L",
+    "manufacturer": "Alpha & Omega",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao4459_ao.pdf"
+  },
+  {
+    "smdCode": "4459A",
+    "package": "SO-8",
+    "deviceName": "Si4459ADY",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si4459ady_vishay.pdf"
+  },
+  {
+    "smdCode": "4466",
+    "package": "SO-8",
+    "deviceName": "AO4466L",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao4466_ao.pdf"
+  },
+  {
+    "smdCode": "4468",
+    "package": "SO-8",
+    "deviceName": "AO4468L",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao4468_r7.0_ao.pdf"
+  },
+  {
+    "smdCode": "449",
+    "package": "SOT-23",
+    "deviceName": "FMMT449",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt449_galaxy.pdf"
+  },
+  {
+    "smdCode": "4496",
+    "package": "SO-8",
+    "deviceName": "AO4496L",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao4496_r5_ao.pdf"
+  },
+  {
+    "smdCode": "44T",
+    "package": "SOT-23",
+    "deviceName": "TK71544AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "44W",
+    "package": "SOT-23",
+    "deviceName": "BAS40-04",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "44W",
+    "package": "SOT-323",
+    "deviceName": "BAT54SW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "44p",
+    "package": "SOT-23",
+    "deviceName": "BAS40-04",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "44p",
+    "package": "SOT-323",
+    "deviceName": "BAT54SW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "44s",
+    "package": "SOT-23",
+    "deviceName": "BAS40-04",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series%2C_bas140_infineon.pdf"
+  },
+  {
+    "smdCode": "44t",
+    "package": "SOT-23",
+    "deviceName": "BAS40-04",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "44t",
+    "package": "SOT-323",
+    "deviceName": "BAT54SW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  }
+]

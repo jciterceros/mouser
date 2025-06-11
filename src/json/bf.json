@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "BF",
+    "package": "DFN-12 4x3",
+    "deviceName": "API9221",
+    "manufacturer": "Diodes",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/api9221_diodes.pdf"
+  },
+  {
+    "smdCode": "BF",
+    "package": "SOT-25",
+    "deviceName": "BD4724G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "BF",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "BF",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5246B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "BF",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q261A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "BF",
+    "package": "SOD-323",
+    "deviceName": "UDZ7V5B",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udz5v1b-udz15b_diodes.pdf"
+  },
+  {
+    "smdCode": "BF*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9193-33PQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "BF-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-FFPJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BFAL",
+    "package": "SOT-23",
+    "deviceName": "V6319LSP3B+",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "BFAM",
+    "package": "SOT-23",
+    "deviceName": "V6319MSP3B+",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "BFAR",
+    "package": "SOT-23",
+    "deviceName": "V6319RSP3B+",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "BFAS",
+    "package": "SOT-23",
+    "deviceName": "V6319SSP3B+",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "BFAT",
+    "package": "SOT-23",
+    "deviceName": "V6319TSP3B+",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "Bf",
+    "package": "SOT-25",
+    "deviceName": "BD48E42G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Bf",
+    "package": "SOT-23",
+    "deviceName": "BD48K42G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

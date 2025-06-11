@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "75",
+    "package": "SOT-23",
+    "deviceName": "BAS70-05",
+    "manufacturer": "MCC",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40%2C_bas70_series_rd_mcc.pdf"
+  },
+  {
+    "smdCode": "75",
+    "package": "SOD-323",
+    "deviceName": "UDZS20B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "750N10ND",
+    "package": "TDSON-8",
+    "deviceName": "BSC750N10ND G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc750n10ndg_infineon.pdf"
+  },
+  {
+    "smdCode": "75A",
+    "package": "SMB",
+    "deviceName": "1.5SMC75AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "75Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "75s",
+    "package": "SOT-23",
+    "deviceName": "BAS70-05",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas70_series_infineon.pdf"
+  }
+]

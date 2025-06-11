@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "ZA",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZA",
+    "package": "SOD-323",
+    "deviceName": "PDZ6.2B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Za",
+    "package": "TDFN-6 2x2",
+    "deviceName": "AX3701AZ6",
+    "manufacturer": "Axelite",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax3701_r1.4_axelite.pdf"
+  },
+  {
+    "smdCode": "Za***",
+    "package": "SOT-25",
+    "deviceName": "AX3701AB",
+    "manufacturer": "Axelite",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax3701_r1.4_axelite.pdf"
+  }
+]

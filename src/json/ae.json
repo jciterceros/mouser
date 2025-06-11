@@ -1,0 +1,314 @@
+[
+  {
+    "smdCode": "AE",
+    "package": "SOT-353",
+    "deviceName": "74AHC1G08GW",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g08%2C_74ahct1g08_r7_nxp.pdf"
+  },
+  {
+    "smdCode": "AE",
+    "package": "SOT-89",
+    "deviceName": "BCX52",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx51-bcx53_zetex.pdf"
+  },
+  {
+    "smdCode": "AE",
+    "package": "SOT-323",
+    "deviceName": "MIC803-29D3VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AE",
+    "package": "SOT-23",
+    "deviceName": "MIC803-29D3VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AE",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5229B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AE",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q161A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "AE",
+    "package": "SMA",
+    "deviceName": "SMAJ5.0A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "AE",
+    "package": "SMB",
+    "deviceName": "SMBJ5.0CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "AE*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9013B-33PQWA",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "AE**",
+    "package": "SOT-25",
+    "deviceName": "BL3406B-2.5V",
+    "manufacturer": "Belling",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/l/bl3406b_belling.pdf"
+  },
+  {
+    "smdCode": "AE**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US46D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "AE-",
+    "package": "SOT-89",
+    "deviceName": "RT9161-30PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "AE-**",
+    "package": "VDFN-8 3x3",
+    "deviceName": "RT9013-25PQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AE-***",
+    "package": "SOT-25",
+    "deviceName": "RT8009-12PJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  },
+  {
+    "smdCode": "AE-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-MGPJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AE-***",
+    "package": "SOT-353",
+    "deviceName": "RT9193-31PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "AE-***",
+    "package": "SOT-323",
+    "deviceName": "RT9819B-14PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "AE=***",
+    "package": "SOT-25",
+    "deviceName": "RT8009-12GJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  },
+  {
+    "smdCode": "AE=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-MGGJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AEA*",
+    "package": "QFN-16 3x3",
+    "deviceName": "NB671GQ",
+    "manufacturer": "MPS",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/b/nb671_r1.02_mps.pdf"
+  },
+  {
+    "smdCode": "AEAL",
+    "package": "SOT-23",
+    "deviceName": "V6309LSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "AEAM",
+    "package": "SOT-23",
+    "deviceName": "V6309MSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "AEAR",
+    "package": "SOT-23",
+    "deviceName": "V6309RSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "AEAS",
+    "package": "SOT-23",
+    "deviceName": "V6309SSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "AEAT",
+    "package": "SOT-23",
+    "deviceName": "V6309TSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "AEB",
+    "package": "SOT-28",
+    "deviceName": "MP2161GJ",
+    "manufacturer": "MPS",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/p/mp2161_r1.03_mps.pdf"
+  },
+  {
+    "smdCode": "AEG",
+    "package": "SOT-346",
+    "deviceName": "2SA1362",
+    "manufacturer": "Toshiba",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1362_toshiba.pdf"
+  },
+  {
+    "smdCode": "AEH***",
+    "package": "MSOP-8",
+    "deviceName": "SY6288D2CAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "AEJ***",
+    "package": "SOT-25",
+    "deviceName": "NCV551SN36T1G",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp551%2C_ncv551_r19_on.pdf"
+  },
+  {
+    "smdCode": "AEKF",
+    "package": "SOT-28",
+    "deviceName": "MAX3051EKA-T",
+    "manufacturer": "Maxim",
+    "data": "CAN Transceiver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max3051_maxim.pdf"
+  },
+  {
+    "smdCode": "AEQ",
+    "package": "SOT-89",
+    "deviceName": "2SB1424",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1424_galaxy.pdf"
+  },
+  {
+    "smdCode": "AEQ",
+    "package": "SOT-89",
+    "deviceName": "2SB1424",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1424%2C_2sa1585s_rohm.pdf"
+  },
+  {
+    "smdCode": "AER",
+    "package": "SOT-89",
+    "deviceName": "2SB1424",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1424_galaxy.pdf"
+  },
+  {
+    "smdCode": "AER",
+    "package": "SOT-89",
+    "deviceName": "2SB1424",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1424%2C_2sa1585s_rohm.pdf"
+  },
+  {
+    "smdCode": "AEV*",
+    "package": "QFN-16 3x3",
+    "deviceName": "NB669GQ",
+    "manufacturer": "MPS",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/b/nb669_r1.01_mps.pdf"
+  },
+  {
+    "smdCode": "AEX***",
+    "package": "MSOP-8",
+    "deviceName": "SY6288C4CAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "AEY",
+    "package": "SOT-346",
+    "deviceName": "2SA1362",
+    "manufacturer": "Toshiba",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1362_toshiba.pdf"
+  },
+  {
+    "smdCode": "Ae",
+    "package": "SOT-25",
+    "deviceName": "BD48E27G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ae",
+    "package": "SOT-23",
+    "deviceName": "BD48K27G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

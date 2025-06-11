@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "EL",
+    "package": "SOT-553",
+    "deviceName": "BD4850FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EL",
+    "package": "SOT-25",
+    "deviceName": "BD4850G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EL",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B39",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "EL*",
+    "package": "SOT-23",
+    "deviceName": "V6309LSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "EL**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US34D3-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "EL-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-35PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "EL15",
+    "package": "SOT-23",
+    "deviceName": "ESDA14V2L",
+    "manufacturer": "STMicroelectronics",
+    "data": "Dual Transil Array For ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esda5v3l%2C_esda6v1l%2C_esda14v2l%2C_esda25l_st.pdf"
+  },
+  {
+    "smdCode": "EL25",
+    "package": "SOT-23",
+    "deviceName": "ESDA25L",
+    "manufacturer": "STMicroelectronics",
+    "data": "Dual Transil Array For ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esda5v3l%2C_esda6v1l%2C_esda14v2l%2C_esda25l_st.pdf"
+  },
+  {
+    "smdCode": "EL53",
+    "package": "SOT-23",
+    "deviceName": "ESDA5V3L",
+    "manufacturer": "STMicroelectronics",
+    "data": "Dual Transil Array For ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esda5v3l%2C_esda6v1l%2C_esda14v2l%2C_esda25l_st.pdf"
+  },
+  {
+    "smdCode": "EL61",
+    "package": "SOT-23",
+    "deviceName": "ESDA6V1L",
+    "manufacturer": "STMicroelectronics",
+    "data": "Dual Transil Array For ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esda5v3l%2C_esda6v1l%2C_esda14v2l%2C_esda25l_st.pdf"
+  },
+  {
+    "smdCode": "EL=**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT8015AGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8015a_richtek.pdf"
+  }
+]

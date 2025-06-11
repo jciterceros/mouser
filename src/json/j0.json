@@ -1,0 +1,234 @@
+[
+  {
+    "smdCode": "J0-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-15PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "J0-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818B-14PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "J01",
+    "package": "SOT-26",
+    "deviceName": "QS6J1",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs6j1_rohm.pdf"
+  },
+  {
+    "smdCode": "J01",
+    "package": "TSMT8",
+    "deviceName": "QS8J1",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs8j1_rohm.pdf"
+  },
+  {
+    "smdCode": "J01",
+    "package": "TSST8",
+    "deviceName": "TT8J1",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/t/tt8j1_rohm.pdf"
+  },
+  {
+    "smdCode": "J02",
+    "package": "TSST8",
+    "deviceName": "TT8J2",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/t/tt8j2_rohm.pdf"
+  },
+  {
+    "smdCode": "J02",
+    "package": "TUMT6",
+    "deviceName": "US6J2",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us6j2_rohm.pdf"
+  },
+  {
+    "smdCode": "J03",
+    "package": "SOT-26",
+    "deviceName": "QS6J3",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs6j3_rohm.pdf"
+  },
+  {
+    "smdCode": "J0A**",
+    "package": "SOT-25",
+    "deviceName": "RP130N341A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0B**",
+    "package": "SOT-25",
+    "deviceName": "RP130N351A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0C**",
+    "package": "SOT-25",
+    "deviceName": "RP130N361A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0D**",
+    "package": "SOT-25",
+    "deviceName": "RP130N371A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0E**",
+    "package": "SOT-25",
+    "deviceName": "RP130N381A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0F**",
+    "package": "SOT-25",
+    "deviceName": "RP130N391A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0G**",
+    "package": "SOT-25",
+    "deviceName": "RP130N401A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0H**",
+    "package": "SOT-25",
+    "deviceName": "RP130N411A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0J**",
+    "package": "SOT-25",
+    "deviceName": "RP130N421A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0K**",
+    "package": "SOT-25",
+    "deviceName": "RP130N431A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0L**",
+    "package": "SOT-25",
+    "deviceName": "RP130N441A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0M**",
+    "package": "SOT-25",
+    "deviceName": "RP130N451A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0N**",
+    "package": "SOT-25",
+    "deviceName": "RP130N461A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0P**",
+    "package": "SOT-25",
+    "deviceName": "RP130N471A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0Q**",
+    "package": "SOT-25",
+    "deviceName": "RP130N481A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0R**",
+    "package": "SOT-25",
+    "deviceName": "RP130N491A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0S**",
+    "package": "SOT-25",
+    "deviceName": "RP130N501A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0U**",
+    "package": "SOT-25",
+    "deviceName": "RP130N121A5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0V**",
+    "package": "SOT-25",
+    "deviceName": "RP130N511A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0W**",
+    "package": "SOT-25",
+    "deviceName": "RP130N521A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "J0X**",
+    "package": "SOT-25",
+    "deviceName": "RP130N531A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  }
+]

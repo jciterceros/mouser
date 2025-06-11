@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "LH",
+    "package": "SOT-23",
+    "deviceName": "BF569",
+    "manufacturer": "Vishay",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf569%2C_bf569r_vishay.pdf"
+  },
+  {
+    "smdCode": "LH",
+    "package": "SOD-323",
+    "deviceName": "PZU5.6B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "LH",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q181D5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "LH*",
+    "package": "QFN-6 2x2",
+    "deviceName": "NCP500SQL30T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LH-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819A-42PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "LH=***",
+    "package": "SOT-23",
+    "deviceName": "RT9819A-42GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "LHJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB22",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LHP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB22",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  }
+]

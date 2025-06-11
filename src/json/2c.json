@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "2C",
+    "package": "SOT-23",
+    "deviceName": "BC849C",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc846-bc849_general.pdf"
+  },
+  {
+    "smdCode": "2C-",
+    "package": "SOT-323",
+    "deviceName": "BC849CW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2CW",
+    "package": "SOT-323",
+    "deviceName": "BC849CW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2Cp",
+    "package": "SOT-323",
+    "deviceName": "BC849CW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2Cs",
+    "package": "SOT-23",
+    "deviceName": "BC849C",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "2Cs",
+    "package": "SOT-323",
+    "deviceName": "BC849CW",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "2Ct",
+    "package": "SOT-323",
+    "deviceName": "BC849CW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  }
+]

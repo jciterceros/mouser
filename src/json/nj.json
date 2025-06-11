@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "NJ",
+    "package": "USP-6",
+    "deviceName": "EUP7201-3.3/3.3UIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7201_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "NJ",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q381D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "NJ",
+    "package": "WSON-6 1,5x1,5",
+    "deviceName": "TLV70015DSER",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "NJ****",
+    "package": "SOT-26",
+    "deviceName": "EUP7201-3.3/3.3VIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7201_r1.5_eutech.pdf"
+  }
+]

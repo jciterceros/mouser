@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "7H",
+    "package": "SOT-23",
+    "deviceName": "KST5179",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst5179_fairchild.pdf"
+  },
+  {
+    "smdCode": "7H",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2522",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  }
+]

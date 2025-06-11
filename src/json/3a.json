@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "3A",
+    "package": "SOT-89",
+    "deviceName": "BGA6289",
+    "manufacturer": "NXP",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/g/bga6289_nxp.pdf"
+  },
+  {
+    "smdCode": "3A-",
+    "package": "SOT-23",
+    "deviceName": "BC856A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3A-",
+    "package": "SOT-323",
+    "deviceName": "BC856AW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3A0",
+    "package": "SOT-346",
+    "deviceName": "PZM3.0NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "3A01x",
+    "package": "SOT-26",
+    "deviceName": "AT1316A-01TP1U",
+    "manufacturer": "GMT",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at1316a_gmt.pdf"
+  },
+  {
+    "smdCode": "3A02x",
+    "package": "SOT-26",
+    "deviceName": "AT1316A-02TP1U",
+    "manufacturer": "GMT",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at1316a_gmt.pdf"
+  },
+  {
+    "smdCode": "3A03x",
+    "package": "SOT-26",
+    "deviceName": "AT1316A-03TP1U",
+    "manufacturer": "GMT",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at1316a_gmt.pdf"
+  },
+  {
+    "smdCode": "3A3",
+    "package": "SOT-346",
+    "deviceName": "PZM3.3NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "3A6",
+    "package": "SOT-346",
+    "deviceName": "PZM3.6NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "3A9",
+    "package": "SOT-346",
+    "deviceName": "PZM3.9NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "3AW",
+    "package": "SOT-23",
+    "deviceName": "BC856A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3AW",
+    "package": "SOT-323",
+    "deviceName": "BC856AW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Ap",
+    "package": "SOT-23",
+    "deviceName": "BC856A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Ap",
+    "package": "SOT-323",
+    "deviceName": "BC856AW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3As",
+    "package": "SOT-23",
+    "deviceName": "BC856A",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856-bc860_infineon.pdf"
+  },
+  {
+    "smdCode": "3At",
+    "package": "SOT-23",
+    "deviceName": "BC856A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3At",
+    "package": "SOT-323",
+    "deviceName": "BC856AW",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "smdCode": "AB",
+    "package": "SOT-23",
+    "deviceName": "BCW60B",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw60_zetex.pdf"
+  },
+  {
+    "smdCode": "AB",
+    "package": "SOT-323",
+    "deviceName": "MIC803-26D3VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AB",
+    "package": "SOT-23",
+    "deviceName": "MIC803-26D3VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AB",
+    "package": "SOT-523",
+    "deviceName": "MMBD4448HTS",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd4448ht_series_galaxy.pdf"
+  },
+  {
+    "smdCode": "AB",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5226B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AB",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q131A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "AB**",
+    "package": "SOT-25",
+    "deviceName": "BL3406B-1.2V",
+    "manufacturer": "Belling",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/l/bl3406b_belling.pdf"
+  },
+  {
+    "smdCode": "AB**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US49D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "AB***",
+    "package": "SOT-25",
+    "deviceName": "SY8008BAAC",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8008a%2C_sy8008b%2C_sy8008c_silergy.pdf"
+  },
+  {
+    "smdCode": "AB-**",
+    "package": "SOT-323",
+    "deviceName": "RT9818A-31PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AB-***",
+    "package": "SOT-25",
+    "deviceName": "RT8009-25PJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  },
+  {
+    "smdCode": "AB-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-GSPJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AB-***",
+    "package": "SOT-353",
+    "deviceName": "RT9193-15PU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "AB-***",
+    "package": "SOT-343",
+    "deviceName": "RT9818E-40PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AB4T",
+    "package": "SOT-23",
+    "deviceName": "DTA114TL-AE3",
+    "manufacturer": "UTC",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114t_utc.pdf"
+  },
+  {
+    "smdCode": "AB4T",
+    "package": "SOT-323",
+    "deviceName": "DTA114TL-AL3",
+    "manufacturer": "UTC",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114t_utc.pdf"
+  },
+  {
+    "smdCode": "AB4T",
+    "package": "SOT-523",
+    "deviceName": "DTA114TL-AN3",
+    "manufacturer": "UTC",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114t_utc.pdf"
+  },
+  {
+    "smdCode": "AB=***",
+    "package": "SOT-25",
+    "deviceName": "RT8009-25GJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  },
+  {
+    "smdCode": "AB=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-GSGJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "ABD",
+    "package": "TDFN-10 3x3",
+    "deviceName": "MAX1510ETB",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max1510_maxim.pdf"
+  },
+  {
+    "smdCode": "ABD***",
+    "package": "MSOP-8",
+    "deviceName": "SY6288BCAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "ABE***",
+    "package": "MSOP-8",
+    "deviceName": "SY6288DCAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "ABG",
+    "package": "TDFN-8 2x2",
+    "deviceName": "MAX8902AATA+",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8902a%2C_max8902b_maxim.pdf"
+  },
+  {
+    "smdCode": "ABH",
+    "package": "TDFN-8 2x2",
+    "deviceName": "MAX8902BATA+",
+    "manufacturer": "Maxim",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8902a%2C_max8902b_maxim.pdf"
+  },
+  {
+    "smdCode": "ABK*",
+    "package": "SOT-25",
+    "deviceName": "SA57000-25D",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABK*",
+    "package": "WL-CSP5",
+    "deviceName": "SA57000-25UK",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABL*",
+    "package": "SOT-25",
+    "deviceName": "SA57000-28D",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABL*",
+    "package": "WL-CSP5",
+    "deviceName": "SA57000-28UK",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABM*",
+    "package": "SOT-25",
+    "deviceName": "SA57000-30D",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABM*",
+    "package": "WL-CSP5",
+    "deviceName": "SA57000-30UK",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABN*",
+    "package": "SOT-25",
+    "deviceName": "SA57000-33D",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABN*",
+    "package": "WL-CSP5",
+    "deviceName": "SA57000-33UK",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABP*",
+    "package": "SOT-25",
+    "deviceName": "SA57000-36D",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABP*",
+    "package": "WL-CSP5",
+    "deviceName": "SA57000-36UK",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABT***",
+    "package": "MSOP-8",
+    "deviceName": "SY6288ACAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "ABU***",
+    "package": "MSOP-8",
+    "deviceName": "SY6288CCAC",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6288_r0.58_silergy.pdf"
+  },
+  {
+    "smdCode": "ABW",
+    "package": "WLP-12",
+    "deviceName": "MAX14578EEWC",
+    "manufacturer": "Maxim",
+    "data": "USB Battery Charger Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max14578ae%2C_max14578e_maxim.pdf"
+  },
+  {
+    "smdCode": "ABX",
+    "package": "WLP-12",
+    "deviceName": "MAX14578AEEWC",
+    "manufacturer": "Maxim",
+    "data": "USB Battery Charger Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max14578ae%2C_max14578e_maxim.pdf"
+  },
+  {
+    "smdCode": "ABX",
+    "package": "SOT-23",
+    "deviceName": "MMBTA43",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta43_galaxy.pdf"
+  },
+  {
+    "smdCode": "ABX*",
+    "package": "SOT-25",
+    "deviceName": "SA57000-29D",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABX*",
+    "package": "WL-CSP5",
+    "deviceName": "SA57000-29UK",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABY*",
+    "package": "SOT-25",
+    "deviceName": "SA57000-31D",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "ABY*",
+    "package": "WL-CSP5",
+    "deviceName": "SA57000-31UK",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/a/sa57000_philips.pdf"
+  },
+  {
+    "smdCode": "Ab",
+    "package": "SOT-25",
+    "deviceName": "BD48E24G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ab",
+    "package": "SOT-23",
+    "deviceName": "BD48K24G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

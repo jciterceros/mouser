@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "NZ",
+    "package": "SMB",
+    "deviceName": "1SMB100AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "NZ",
+    "package": "SOD-323",
+    "deviceName": "PZU5.1B3A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "NZ",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ100A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "NZ",
+    "package": "SMB",
+    "deviceName": "SMBJ100A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "NZ",
+    "package": "SMF",
+    "deviceName": "SMF11A-M",
+    "manufacturer": "Vishay",
+    "data": "ESD Protection Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smf5v0a-m-smf51a-m_vishay.pdf"
+  },
+  {
+    "smdCode": "NZ34",
+    "package": "US8",
+    "deviceName": "NC7NZ34K8X",
+    "manufacturer": "Fairchild",
+    "data": "UHS Triple Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7nz34_fairchild.pdf"
+  }
+]

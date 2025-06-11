@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "7B",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2515",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "7B-",
+    "package": "SOT-23",
+    "deviceName": "MMBT3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_nxp.pdf"
+  },
+  {
+    "smdCode": "7BW",
+    "package": "SOT-23",
+    "deviceName": "MMBT3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_nxp.pdf"
+  },
+  {
+    "smdCode": "7Bp",
+    "package": "SOT-23",
+    "deviceName": "MMBT3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_nxp.pdf"
+  },
+  {
+    "smdCode": "7Bt",
+    "package": "SOT-23",
+    "deviceName": "MMBT3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_nxp.pdf"
+  }
+]

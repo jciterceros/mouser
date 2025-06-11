@@ -1,0 +1,170 @@
+[
+  {
+    "smdCode": "DJ",
+    "package": "SOT-89",
+    "deviceName": "2SB1025",
+    "manufacturer": "Hitachi",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1025_19991215_hitachi.pdf"
+  },
+  {
+    "smdCode": "DJ",
+    "package": "SOT-89",
+    "deviceName": "2SB1025",
+    "manufacturer": "Kexin",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1025_20140623_kexin.pdf"
+  },
+  {
+    "smdCode": "DJ",
+    "package": "SOT-89",
+    "deviceName": "2SD1627",
+    "manufacturer": "Sanyo  (Now Panasonic)",
+    "data": "NPN Darlington transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1627_sanyo.pdf"
+  },
+  {
+    "smdCode": "DJ",
+    "package": "SOT-553",
+    "deviceName": "BD4828FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "DJ",
+    "package": "SOT-25",
+    "deviceName": "BD4828G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "DJ",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B4V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DJ",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C24",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DJ",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4700-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "DJ",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q481A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "DJ",
+    "package": "SOT-23",
+    "deviceName": "TZT6V2AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "DJ**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US33D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "DJ**",
+    "package": "SOT-363",
+    "deviceName": "Si1905BDH",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1905bd_vishay.pdf"
+  },
+  {
+    "smdCode": "DJ-",
+    "package": "SOT-89",
+    "deviceName": "RT9261-33PX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "DJ-**",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8202APQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8202_series_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "DJ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-28PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "DJ-***",
+    "package": "MSOP-8",
+    "deviceName": "RT9193-28PF",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "DJ=**",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8202AGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8202_series_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "DJ=***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-28GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "DJ=***",
+    "package": "MSOP-8",
+    "deviceName": "RT9193-28GF",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "DJQ",
+    "package": "SOT-89",
+    "deviceName": "2SD2098",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2098%2C_2sd2118_rohm.pdf"
+  },
+  {
+    "smdCode": "DJR",
+    "package": "SOT-89",
+    "deviceName": "2SD2098",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2098%2C_2sd2118_rohm.pdf"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "X1",
+    "package": "EMT6",
+    "deviceName": "EMX1",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx1%2C_imx1%2C_umx1n_rohm.pdf"
+  },
+  {
+    "smdCode": "X1",
+    "package": "SOT-26",
+    "deviceName": "IMX1",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx1%2C_imx1%2C_umx1n_rohm.pdf"
+  },
+  {
+    "smdCode": "X1",
+    "package": "SOD-323",
+    "deviceName": "PZU16B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "X1",
+    "package": "SOT-363",
+    "deviceName": "UMX1N",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx1%2C_imx1%2C_umx1n_rohm.pdf"
+  },
+  {
+    "smdCode": "X1**",
+    "package": "SOT-23",
+    "deviceName": "AO3401A",
+    "manufacturer": "Alpha & Omega",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao3401a_ao.pdf"
+  },
+  {
+    "smdCode": "X1-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198T-25PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198t_richtek.pdf"
+  },
+  {
+    "smdCode": "X17",
+    "package": "SOT-26",
+    "deviceName": "IMX17",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/m/imx17_rohm.pdf"
+  },
+  {
+    "smdCode": "X18",
+    "package": "EMT6",
+    "deviceName": "EMX18",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx18%2C_umx18n_rohm.pdf"
+  },
+  {
+    "smdCode": "X18",
+    "package": "SOT-363",
+    "deviceName": "UMX18N",
+    "manufacturer": "ROHM",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emx18%2C_umx18n_rohm.pdf"
+  },
+  {
+    "smdCode": "X1s",
+    "package": "SOT-23",
+    "deviceName": "BFT93",
+    "manufacturer": "Siemens",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bft93_siemens.pdf"
+  }
+]

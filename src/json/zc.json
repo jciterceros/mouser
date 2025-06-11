@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "ZC",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZC",
+    "package": "SOT-23",
+    "deviceName": "FMMT4124",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt4124_zetex.pdf"
+  },
+  {
+    "smdCode": "ZC",
+    "package": "SOT-23",
+    "deviceName": "KST4124",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst4124_fairchild.pdf"
+  },
+  {
+    "smdCode": "ZC",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "Taitron",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904_rc_taitron.pdf"
+  },
+  {
+    "smdCode": "ZC",
+    "package": "SOT-23",
+    "deviceName": "MMBT4124",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n4124%2C_mmbt4124_fairchild.pdf"
+  },
+  {
+    "smdCode": "ZC",
+    "package": "SOD-323",
+    "deviceName": "PDZ7.5B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  }
+]

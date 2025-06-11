@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "LO",
+    "package": "SOT-23",
+    "deviceName": "KTC4075",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc4075_galaxy.pdf"
+  },
+  {
+    "smdCode": "LOs",
+    "package": "SOT-323",
+    "deviceName": "BF775W",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf775w_infineon.pdf"
+  }
+]

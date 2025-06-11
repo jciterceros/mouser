@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "O2",
+    "package": "SOT-23",
+    "deviceName": "BST82",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bst82_zetex.pdf"
+  }
+]

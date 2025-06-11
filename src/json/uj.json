@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "UJ",
+    "package": "SOD-323F",
+    "deviceName": "CZRF10VB-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "UJ",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K421B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "UJ**",
+    "package": "SOT-23",
+    "deviceName": "PR4402",
+    "manufacturer": "Prema",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/r/pr4401_pr4402_prema.pdf"
+  }
+]

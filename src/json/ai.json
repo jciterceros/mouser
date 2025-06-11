@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "AI**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US42D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "AIH",
+    "package": "MSOP-10",
+    "deviceName": "TPS62000DGS",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62000-tps62008_ti.pdf"
+  },
+  {
+    "smdCode": "AII",
+    "package": "MSOP-10",
+    "deviceName": "TPS62001DGS",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62000-tps62008_ti.pdf"
+  },
+  {
+    "smdCode": "AIJ",
+    "package": "MSOP-10",
+    "deviceName": "TPS62002DGS",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62000-tps62008_ti.pdf"
+  },
+  {
+    "smdCode": "AIK",
+    "package": "MSOP-10",
+    "deviceName": "TPS62003DGS",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62000-tps62008_ti.pdf"
+  },
+  {
+    "smdCode": "AIL",
+    "package": "MSOP-10",
+    "deviceName": "TPS62004DGS",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62000-tps62008_ti.pdf"
+  },
+  {
+    "smdCode": "AIM",
+    "package": "MSOP-10",
+    "deviceName": "TPS62005DGS",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62000-tps62008_ti.pdf"
+  },
+  {
+    "smdCode": "AIN",
+    "package": "MSOP-10",
+    "deviceName": "TPS62006DGS",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62000-tps62008_ti.pdf"
+  },
+  {
+    "smdCode": "AIO",
+    "package": "MSOP-10",
+    "deviceName": "TPS62007DGS",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62000-tps62008_ti.pdf"
+  }
+]

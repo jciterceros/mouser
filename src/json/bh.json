@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "BH",
+    "package": "SOT-89",
+    "deviceName": "BCX56",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx54%2C_bcx55%2C_bcx56_ra_galaxy.pdf"
+  },
+  {
+    "smdCode": "BH",
+    "package": "SOT-89",
+    "deviceName": "BCX56TA",
+    "manufacturer": "Diodes",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx54%2C_bcx55%2C_bcx56_diodes.pdf"
+  },
+  {
+    "smdCode": "BH",
+    "package": "SOT-25",
+    "deviceName": "BD4726G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "BH",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "BH",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5247B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "BH",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q281A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "BH",
+    "package": "SOD-323",
+    "deviceName": "UDZ9V1B",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udz5v1b-udz15b_diodes.pdf"
+  },
+  {
+    "smdCode": "BH*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-JKGQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BH*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-TPPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BH**",
+    "package": "SOT-363",
+    "deviceName": "Si1419DH",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1419dh_vishay.pdf"
+  },
+  {
+    "smdCode": "BH-**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9018APQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9018a%2C_rt9018b_r09_richtek.pdf"
+  },
+  {
+    "smdCode": "BH-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-NGPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BH00",
+    "package": "SOT-25",
+    "deviceName": "SC4503TSKTRT",
+    "manufacturer": "Semtech",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/c/sc4503_20070504_semtech.pdf"
+  },
+  {
+    "smdCode": "BHP",
+    "package": "SOT-89",
+    "deviceName": "2SB1386",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1386_galaxy.pdf"
+  },
+  {
+    "smdCode": "BHQ",
+    "package": "SOT-89",
+    "deviceName": "2SB1386",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1386_galaxy.pdf"
+  },
+  {
+    "smdCode": "BHR",
+    "package": "SOT-89",
+    "deviceName": "2SB1386",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1386_galaxy.pdf"
+  },
+  {
+    "smdCode": "Bh",
+    "package": "SOT-25",
+    "deviceName": "BD48E44G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Bh",
+    "package": "SOT-23",
+    "deviceName": "BD48K44G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

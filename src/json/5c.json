@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "5C",
+    "package": "SOT-23",
+    "deviceName": "BC807-40",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807%2C_bc808_general.pdf"
+  },
+  {
+    "smdCode": "5C",
+    "package": "SOT-23",
+    "deviceName": "BC807-40LT1G",
+    "manufacturer": "ON",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807-16lt1g%2C_bc807-25lt1g%2C_bc807-40lt1g_on.pdf"
+  },
+  {
+    "smdCode": "5C",
+    "package": "SOT-23",
+    "deviceName": "FMMD7000",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmd7000_zetex.pdf"
+  },
+  {
+    "smdCode": "5C",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z11",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "5C",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z7V5",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "5C",
+    "package": "SOT-363",
+    "deviceName": "SMF05C",
+    "manufacturer": "Semtech",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smf05c_semtech.pdf"
+  },
+  {
+    "smdCode": "5C**",
+    "package": "SOT-23",
+    "deviceName": "ST6205CS23RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6205_stanson.pdf"
+  },
+  {
+    "smdCode": "5C**",
+    "package": "SOT-323",
+    "deviceName": "ST6205CS32RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6205_stanson.pdf"
+  },
+  {
+    "smdCode": "5C-",
+    "package": "SOT-23",
+    "deviceName": "BC807-40",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5C-",
+    "package": "SOT-323",
+    "deviceName": "BC807-40W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5CW",
+    "package": "SOT-23",
+    "deviceName": "BC807-40",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5CW",
+    "package": "SOT-323",
+    "deviceName": "BC807-40W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5Cp",
+    "package": "SOT-23",
+    "deviceName": "BC807-40",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5Cp",
+    "package": "SOT-323",
+    "deviceName": "BC807-40W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5Ct",
+    "package": "SOT-23",
+    "deviceName": "BC807-40",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "5Ct",
+    "package": "SOT-323",
+    "deviceName": "BC807-40W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "UB",
+    "package": "SOT-346",
+    "deviceName": "2SB852K",
+    "manufacturer": "ROHM",
+    "data": "PNP Darlington transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb852k_rohm.pdf"
+  },
+  {
+    "smdCode": "UB",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C3V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "UB",
+    "package": "SOD-323F",
+    "deviceName": "CZRF5V6B-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "UB",
+    "package": "SOD-123",
+    "deviceName": "KDZ11B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "UB",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K351B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "UB*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B422NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "UB-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UBW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UBp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UBt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Ub",
+    "package": "SOT-25",
+    "deviceName": "BD53E58G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

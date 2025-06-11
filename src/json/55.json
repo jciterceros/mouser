@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "55",
+    "package": "SOT-323",
+    "deviceName": "FSD273TA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Varactor Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsd273ta%2C_zmdc953ta%2C_zv950v2ta%2C_zv952v2ta%2C_zv953v2ta_zetex.pdf"
+  },
+  {
+    "smdCode": "55",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z3V9",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "55",
+    "package": "SOD-323",
+    "deviceName": "UDZS16B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "5546NL",
+    "package": "SO-8",
+    "deviceName": "SST5546NL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst5546nl%2C_sst5547nl%2C_u5545nl%2C_u5546nl%2C_u5547nl_vishay.pdf"
+  },
+  {
+    "smdCode": "5547NL",
+    "package": "SO-8",
+    "deviceName": "SST5547NL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst5546nl%2C_sst5547nl%2C_u5545nl%2C_u5546nl%2C_u5547nl_vishay.pdf"
+  },
+  {
+    "smdCode": "55s",
+    "package": "SOT-23",
+    "deviceName": "BAT17-05",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat17_series_infineon.pdf"
+  },
+  {
+    "smdCode": "55s",
+    "package": "SOT-323",
+    "deviceName": "BAT17-05W",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat17_series_infineon.pdf"
+  }
+]

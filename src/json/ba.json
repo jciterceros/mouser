@@ -1,0 +1,306 @@
+[
+  {
+    "smdCode": "BA",
+    "package": "SOT-23",
+    "deviceName": "2SA1015",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1015_galaxy.pdf"
+  },
+  {
+    "smdCode": "BA",
+    "package": "SOT-23",
+    "deviceName": "2SA1015LT1",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1015lt1_tip.pdf"
+  },
+  {
+    "smdCode": "BA",
+    "package": "SOT-23",
+    "deviceName": "BCW61A",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw61a%2C_bcw61b%2C_bcw61c%2C_bcw61d_fairchild.pdf"
+  },
+  {
+    "smdCode": "BA",
+    "package": "SOT-89",
+    "deviceName": "BCX54",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx54%2C_bcx55%2C_bcx56_ra_galaxy.pdf"
+  },
+  {
+    "smdCode": "BA",
+    "package": "SOT-89",
+    "deviceName": "BCX54TA",
+    "manufacturer": "Diodes",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx54%2C_bcx55%2C_bcx56_diodes.pdf"
+  },
+  {
+    "smdCode": "BA",
+    "package": "SOT-25",
+    "deviceName": "BD4719G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "BA",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "BA",
+    "package": "SOT-346",
+    "deviceName": "DAN217",
+    "manufacturer": "ROHM",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dan217_rohm.pdf"
+  },
+  {
+    "smdCode": "BA",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5241B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "BA",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q211A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "BA",
+    "package": "X2SON-4 1x1",
+    "deviceName": "TPS3831L30DQNR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps3831%2C_tps3839_rd_ti.pdf"
+  },
+  {
+    "smdCode": "BA*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-KMGQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BA*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9013-33PQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "BA**",
+    "package": "SOT-363",
+    "deviceName": "Si1413EDH",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1413edh_vishay.pdf"
+  },
+  {
+    "smdCode": "BA***",
+    "package": "SOT-25",
+    "deviceName": "PAM2301",
+    "manufacturer": "Diodes",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pam2301_diodes.pdf"
+  },
+  {
+    "smdCode": "BA-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-BMPJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BA-***",
+    "package": "SOT-353",
+    "deviceName": "RT9193-29PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "BA1",
+    "package": "SOT-23",
+    "deviceName": "DAN217",
+    "manufacturer": "GME",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dan217_gme.pdf"
+  },
+  {
+    "smdCode": "BAP",
+    "package": "SOT-89",
+    "deviceName": "2SB1132",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1132_galaxy.pdf"
+  },
+  {
+    "smdCode": "BAP",
+    "package": "SOT-89",
+    "deviceName": "2SB1132",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1515s%2C_2sb1132%2C_2sb1237_rohm.pdf"
+  },
+  {
+    "smdCode": "BAP",
+    "package": "SOT-89",
+    "deviceName": "2SB1132-P",
+    "manufacturer": "Secos",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1132_secos.pdf"
+  },
+  {
+    "smdCode": "BAP",
+    "package": "SOT-89",
+    "deviceName": "2SB1132-P",
+    "manufacturer": "MCC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1132_mcc.pdf"
+  },
+  {
+    "smdCode": "BAQ",
+    "package": "SOT-89",
+    "deviceName": "2SB1132",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1132_galaxy.pdf"
+  },
+  {
+    "smdCode": "BAQ",
+    "package": "SOT-89",
+    "deviceName": "2SB1132",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1515s%2C_2sb1132%2C_2sb1237_rohm.pdf"
+  },
+  {
+    "smdCode": "BAQ",
+    "package": "SOT-89",
+    "deviceName": "2SB1132-Q",
+    "manufacturer": "Secos",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1132_secos.pdf"
+  },
+  {
+    "smdCode": "BAQ",
+    "package": "SOT-89",
+    "deviceName": "2SB1132-Q",
+    "manufacturer": "MCC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1132_mcc.pdf"
+  },
+  {
+    "smdCode": "BAR",
+    "package": "SOT-89",
+    "deviceName": "2SB1132",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1132_galaxy.pdf"
+  },
+  {
+    "smdCode": "BAR",
+    "package": "SOT-89",
+    "deviceName": "2SB1132",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1515s%2C_2sb1132%2C_2sb1237_rohm.pdf"
+  },
+  {
+    "smdCode": "BAR",
+    "package": "SOT-89",
+    "deviceName": "2SB1132-R",
+    "manufacturer": "Secos",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1132_secos.pdf"
+  },
+  {
+    "smdCode": "BAR",
+    "package": "SOT-89",
+    "deviceName": "2SB1132-R",
+    "manufacturer": "MCC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1132_mcc.pdf"
+  },
+  {
+    "smdCode": "BAR**",
+    "package": "SOT-25",
+    "deviceName": "AME5110AEEV150Y",
+    "manufacturer": "AME",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/m/ame5110_ame.pdf"
+  },
+  {
+    "smdCode": "BAR**",
+    "package": "SOT-25",
+    "deviceName": "AME5110AEEV150Z",
+    "manufacturer": "AME",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/m/ame5110_ame.pdf"
+  },
+  {
+    "smdCode": "BAS**",
+    "package": "SOT-25",
+    "deviceName": "AME5110AEEV180Y",
+    "manufacturer": "AME",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/m/ame5110_ame.pdf"
+  },
+  {
+    "smdCode": "BAS**",
+    "package": "SOT-25",
+    "deviceName": "AME5110AEEV180Z",
+    "manufacturer": "AME",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/m/ame5110_ame.pdf"
+  },
+  {
+    "smdCode": "BAT**",
+    "package": "SOT-25",
+    "deviceName": "AME5110BEEVADJY",
+    "manufacturer": "AME",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/m/ame5110_ame.pdf"
+  },
+  {
+    "smdCode": "BAT**",
+    "package": "SOT-25",
+    "deviceName": "AME5110BEEVADJZ",
+    "manufacturer": "AME",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/m/ame5110_ame.pdf"
+  },
+  {
+    "smdCode": "Ba",
+    "package": "SOT-25",
+    "deviceName": "BD48E37G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ba",
+    "package": "SOT-23",
+    "deviceName": "BD48K37G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "AZ",
+    "package": "SOT-323",
+    "deviceName": "MIC803-30D4VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AZ",
+    "package": "SOT-23",
+    "deviceName": "MIC803-30D4VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AZ",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5240B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "AZ",
+    "package": "SMA",
+    "deviceName": "SMAJ11A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "AZ",
+    "package": "SMB",
+    "deviceName": "SMBJ11CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "AZ*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-JGPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AZ-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-CMPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AZ-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013-30PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AZ=***",
+    "package": "SOT-143",
+    "deviceName": "RT9013A-25GY",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013a_richtek.pdf"
+  },
+  {
+    "smdCode": "AZG",
+    "package": "SOT-23",
+    "deviceName": "KTA1505",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta1505_galaxy.pdf"
+  },
+  {
+    "smdCode": "AZO",
+    "package": "SOT-23",
+    "deviceName": "KTA1505",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta1505_galaxy.pdf"
+  },
+  {
+    "smdCode": "AZS",
+    "package": "DRC (S-PDSO-N10)",
+    "deviceName": "bq24020",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24020%2C_bq24022%2C_bq24022%2C_bq24025_ti.pdf"
+  },
+  {
+    "smdCode": "AZU",
+    "package": "DRC (S-PDSO-N10)",
+    "deviceName": "bq24022",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24020%2C_bq24022%2C_bq24022%2C_bq24025_ti.pdf"
+  },
+  {
+    "smdCode": "AZV",
+    "package": "DRC (S-PDSO-N10)",
+    "deviceName": "bq24023",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24020%2C_bq24022%2C_bq24022%2C_bq24025_ti.pdf"
+  },
+  {
+    "smdCode": "AZX",
+    "package": "DRC (S-PDSO-N10)",
+    "deviceName": "bq24025",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24020%2C_bq24022%2C_bq24022%2C_bq24025_ti.pdf"
+  },
+  {
+    "smdCode": "AZY",
+    "package": "SOT-23",
+    "deviceName": "KTA1505",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta1505_galaxy.pdf"
+  }
+]

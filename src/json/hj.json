@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "HJ",
+    "package": "SOD-323F",
+    "deviceName": "PZU13B2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "HJ",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q381B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "HJ*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-JPGQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "HJ-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818B-42PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "HJ-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-27PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "PU-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B18",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PUW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B18",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PUp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B18",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PUt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B18",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

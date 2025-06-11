@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "KM",
+    "package": "SMB",
+    "deviceName": "1SMB7.0AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "KM",
+    "package": "SOT-89",
+    "deviceName": "BST80",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-channel D-MOS transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bst80_philips.pdf"
+  },
+  {
+    "smdCode": "KM",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ7.0A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "KM",
+    "package": "SMB",
+    "deviceName": "SMBJ7.0A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "KM-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-36PBR",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "KM-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-20PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "KMJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB9.1A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "KMP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB9.1A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "Km",
+    "package": "SOT-23",
+    "deviceName": "BD49L30G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "4P",
+    "package": "SOD-323",
+    "deviceName": "CMDZ24L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "4P",
+    "package": "SOT-23",
+    "deviceName": "FMMT2907R",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt2907%2C_fmmt2907a_zetex.pdf"
+  },
+  {
+    "smdCode": "4P",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z5V6",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  }
+]

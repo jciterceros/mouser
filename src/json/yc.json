@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "YC",
+    "package": "SOT-23",
+    "deviceName": "CZMK15",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "YC",
+    "package": "SOD-323",
+    "deviceName": "PZU20BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "YC",
+    "package": "2-2H1A",
+    "deviceName": "RN2103F",
+    "manufacturer": "Toshiba",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn2101f-rn2106f_toshiba.pdf"
+  },
+  {
+    "smdCode": "YC",
+    "package": "TUMT6",
+    "deviceName": "RZL025P01",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/z/rzl025p01_rohm.pdf"
+  },
+  {
+    "smdCode": "YC",
+    "package": "TSMT3",
+    "deviceName": "RZR025P01",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/z/rzr025p01_rohm.pdf"
+  },
+  {
+    "smdCode": "YC",
+    "package": "SOT-23",
+    "deviceName": "TZT15CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "YC-***",
+    "package": "SOT-25",
+    "deviceName": "RT9715FPBG",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  }
+]

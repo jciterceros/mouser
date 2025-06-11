@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "G0**",
+    "package": "SOT-25",
+    "deviceName": "EUP7965-15VIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7965_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "G0=**",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9715HGQW",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "G0C",
+    "package": "SOT-353",
+    "deviceName": "ADCMP600BKJZ",
+    "manufacturer": "Analog Devices",
+    "data": "Rail-to-Rail comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adcmp600%2C_adcmp601%2C_adcmp602_analog.pdf"
+  },
+  {
+    "smdCode": "G0C",
+    "package": "SOT-25",
+    "deviceName": "ADCMP600BRJZ",
+    "manufacturer": "Analog Devices",
+    "data": "Rail-to-Rail comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adcmp600%2C_adcmp601%2C_adcmp602_analog.pdf"
+  },
+  {
+    "smdCode": "G0N",
+    "package": "SOT-363",
+    "deviceName": "ADCMP601BKJZ",
+    "manufacturer": "Analog Devices",
+    "data": "Rail-to-Rail comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adcmp600%2C_adcmp601%2C_adcmp602_analog.pdf"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "smdCode": "A9",
+    "package": "SOT-353",
+    "deviceName": "74AHC1G09GW",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g09_nxp.pdf"
+  },
+  {
+    "smdCode": "A9",
+    "package": "SOT-753",
+    "deviceName": "FMA9N",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fma9n%2C_uma9n_rohm.pdf"
+  },
+  {
+    "smdCode": "A9",
+    "package": "X2SON-4 1x1",
+    "deviceName": "TPS3831K50DQNR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps3831%2C_tps3839_rd_ti.pdf"
+  },
+  {
+    "smdCode": "A9",
+    "package": "SOT-353",
+    "deviceName": "UMA9N",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fma9n%2C_uma9n_rohm.pdf"
+  },
+  {
+    "smdCode": "A9*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-CCPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "A9**",
+    "package": "SOT-23",
+    "deviceName": "AO3409",
+    "manufacturer": "Alpha & Omega",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao3409_r9_ao.pdf"
+  },
+  {
+    "smdCode": "A9**",
+    "package": "SOT-23",
+    "deviceName": "AO3409L",
+    "manufacturer": "Alpha & Omega",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao3409_r9_ao.pdf"
+  },
+  {
+    "smdCode": "A9**",
+    "package": "SOT-23",
+    "deviceName": "ELM9709NBA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "A9**",
+    "package": "WLCSP-20 1.96 x 1.87",
+    "deviceName": "FAN54015UCX",
+    "manufacturer": "Fairchild",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/a/fan54015_r1.0.2_fairchild.pdf"
+  },
+  {
+    "smdCode": "A9**",
+    "package": "SOT-25",
+    "deviceName": "Si9183DT-AD-T1",
+    "manufacturer": "Vishay",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9183_vishay.pdf"
+  },
+  {
+    "smdCode": "A9***",
+    "package": "SOT-23",
+    "deviceName": "Si2309DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2309ds_vishay.pdf"
+  },
+  {
+    "smdCode": "A9-**",
+    "package": "VDFN-10 3x3",
+    "deviceName": "RT9014-FMPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "A9-***",
+    "package": "SOT-25",
+    "deviceName": "RT8008-12PJ5",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8008_richtek.pdf"
+  },
+  {
+    "smdCode": "A9-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-KMPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "A9-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-33PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "A9-***",
+    "package": "SOT-343",
+    "deviceName": "RT9818E-22PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "A933AS",
+    "package": "SPT / SC-72",
+    "deviceName": "2SA933AS",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1037ak%2C_2sa1576a%2C_2sa1774%2C_2sa2029%2C_2sa933as_rohm.pdf"
+  },
+  {
+    "smdCode": "A9A",
+    "package": "SOT-26",
+    "deviceName": "AD8591ART",
+    "manufacturer": "Analog Devices",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/ad8591%2C_ad8592%2C_ad8594_analog.pdf"
+  },
+  {
+    "smdCode": "A9A#",
+    "package": "SOT-26",
+    "deviceName": "AD8591ARTZ",
+    "manufacturer": "Analog Devices",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/ad8591%2C_ad8592%2C_ad8594_analog.pdf"
+  }
+]

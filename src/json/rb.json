@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "RB",
+    "package": "SOD-123",
+    "deviceName": "KDZ8.2B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "RB",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K131A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RB**",
+    "package": "SOT-363",
+    "deviceName": "Si1555DL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1555dl_vishay.pdf"
+  },
+  {
+    "smdCode": "RB-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B39",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RB966",
+    "package": "WSON-14 3x2",
+    "deviceName": "TPS22966DPUR",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps22966_re_ti.pdf"
+  },
+  {
+    "smdCode": "RBR",
+    "package": "SOT-23",
+    "deviceName": "SST6838",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst6838_rohm.pdf"
+  },
+  {
+    "smdCode": "RBW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B39",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RBp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B39",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RBt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B39",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Rb",
+    "package": "SOT-25",
+    "deviceName": "BD53E44G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "smdCode": "AG",
+    "package": "SOT-89",
+    "deviceName": "BCX52-10",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx51-bcx53_zetex.pdf"
+  },
+  {
+    "smdCode": "AG",
+    "package": "SOT-323",
+    "deviceName": "MIC803-31D2VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AG",
+    "package": "SOT-23",
+    "deviceName": "MIC803-31D2VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AG",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q181A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "AG",
+    "package": "SMA",
+    "deviceName": "SMAJ6.0A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "AG",
+    "package": "SMB",
+    "deviceName": "SMBJ6.0CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "AG*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9013B-35PQWA",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "AG**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US44D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "AG**",
+    "package": "SOT-363",
+    "deviceName": "Si1488DH",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1488dh_vishay.pdf"
+  },
+  {
+    "smdCode": "AG-",
+    "package": "SOT-89",
+    "deviceName": "RT9161-27PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "AG-**",
+    "package": "VDFN-10 3x3",
+    "deviceName": "RT8003PQV",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8003_richtek.pdf"
+  },
+  {
+    "smdCode": "AG-**",
+    "package": "SOT-323",
+    "deviceName": "RT9818C-16PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AG-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-MJPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AG-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-27PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AGF***",
+    "package": "SO-8",
+    "deviceName": "SY58203",
+    "manufacturer": "Silergy",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy58203_silergy.pdf"
+  },
+  {
+    "smdCode": "AGP",
+    "package": "SOT-89",
+    "deviceName": "2SA1797",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1797_galaxy.pdf"
+  },
+  {
+    "smdCode": "AGP",
+    "package": "SOT-89",
+    "deviceName": "2SA1797",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1797_rohm.pdf"
+  },
+  {
+    "smdCode": "AGP",
+    "package": "SOT-89",
+    "deviceName": "2SA1797-P",
+    "manufacturer": "MCC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1797_mcc.pdf"
+  },
+  {
+    "smdCode": "AGQ",
+    "package": "SOT-89",
+    "deviceName": "2SA1797",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1797_galaxy.pdf"
+  },
+  {
+    "smdCode": "AGQ",
+    "package": "SOT-89",
+    "deviceName": "2SA1797",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1797_rohm.pdf"
+  },
+  {
+    "smdCode": "AGQ",
+    "package": "SOT-89",
+    "deviceName": "2SA1797-Q",
+    "manufacturer": "MCC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1797_mcc.pdf"
+  },
+  {
+    "smdCode": "AGR",
+    "package": "TDFN-8 3x3",
+    "deviceName": "MAX5054BATA+",
+    "manufacturer": "Maxim",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max5054-max5057_r3_maxim.pdf"
+  },
+  {
+    "smdCode": "AGS",
+    "package": "TDFN-8 3x3",
+    "deviceName": "MAX5054AATA+",
+    "manufacturer": "Maxim",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max5054-max5057_r3_maxim.pdf"
+  },
+  {
+    "smdCode": "Ag",
+    "package": "SOT-25",
+    "deviceName": "BD48E29G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ag",
+    "package": "SOT-23",
+    "deviceName": "BD48K29G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

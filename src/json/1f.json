@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "1F",
+    "package": "SOT-23",
+    "deviceName": "BC847B",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc846-bc849_general.pdf"
+  },
+  {
+    "smdCode": "1F",
+    "package": "TSLP-3-1",
+    "deviceName": "BC847BL3",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "1F",
+    "package": "SOT-416",
+    "deviceName": "BC847BT",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1F",
+    "package": "SOT-23",
+    "deviceName": "KST5550",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst5550_fairchild.pdf"
+  },
+  {
+    "smdCode": "1F **",
+    "package": "SOT-23",
+    "deviceName": "IRLML6401",
+    "manufacturer": "IRF",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/r/irlml6401_20030429_irf.pdf"
+  },
+  {
+    "smdCode": "1F-",
+    "package": "SOT-23",
+    "deviceName": "BC847B",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1F-",
+    "package": "SOT-323",
+    "deviceName": "BC847BW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1F6",
+    "package": "SOT-23F",
+    "deviceName": "ZXTN04120HFFTA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN Darlington transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxtn04120hffta_zetex.pdf"
+  },
+  {
+    "smdCode": "1F=***",
+    "package": "SOT-25",
+    "deviceName": "RT9715GGBG",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "1FW",
+    "package": "SOT-23",
+    "deviceName": "BC847B",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1FW",
+    "package": "SOT-323",
+    "deviceName": "BC847BW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Fp",
+    "package": "SOT-23",
+    "deviceName": "BC847B",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Fp",
+    "package": "SOT-323",
+    "deviceName": "BC847BW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Fs",
+    "package": "SOT-23",
+    "deviceName": "BC847B",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "1Fs",
+    "package": "SOT-323",
+    "deviceName": "BC847BW",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "1Ft",
+    "package": "SOT-23",
+    "deviceName": "BC847B",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Ft",
+    "package": "SOT-323",
+    "deviceName": "BC847BW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  }
+]

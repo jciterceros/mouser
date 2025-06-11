@@ -1,0 +1,354 @@
+[
+  {
+    "smdCode": "43",
+    "package": "SOT-23",
+    "deviceName": "BAS40",
+    "manufacturer": "Diotec",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_20150512_diotec.pdf"
+  },
+  {
+    "smdCode": "43",
+    "package": "SOT-23",
+    "deviceName": "BAS40",
+    "manufacturer": "MCC",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40%2C_bas70_series_rd_mcc.pdf"
+  },
+  {
+    "smdCode": "43",
+    "package": "SOT-23",
+    "deviceName": "BAS40-00",
+    "manufacturer": "Vishay",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_r2.0_vishay.pdf"
+  },
+  {
+    "smdCode": "43",
+    "package": "SOT-523",
+    "deviceName": "BAS40T",
+    "manufacturer": "Secos",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40t_series_secos.pdf"
+  },
+  {
+    "smdCode": "43",
+    "package": "SOT-323",
+    "deviceName": "BAT54CW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w%2C_bat54aw%2C_bat54cw%2C_bat54sw_philips.pdf"
+  },
+  {
+    "smdCode": "43",
+    "package": "SOT-323",
+    "deviceName": "DTC143TUA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114tua_dtc143tua_dtc144tua_galaxy.pdf"
+  },
+  {
+    "smdCode": "43",
+    "package": "SOT-490",
+    "deviceName": "DTC143XEB",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc143xeb_rohm.pdf"
+  },
+  {
+    "smdCode": "43",
+    "package": "UMT3F",
+    "deviceName": "DTC143XUB",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc143xub_rohm.pdf"
+  },
+  {
+    "smdCode": "43-",
+    "package": "SOT-23",
+    "deviceName": "BAS40",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "43-",
+    "package": "SOT-323",
+    "deviceName": "BAT54CW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "43000",
+    "package": "TSSOP-16",
+    "deviceName": "TPS43000PW",
+    "manufacturer": "Texas Instruments",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps43000_200110_ti.pdf"
+  },
+  {
+    "smdCode": "431A",
+    "package": "SOT-89",
+    "deviceName": "AP431AG",
+    "manufacturer": "Apec",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap431a_apec.pdf"
+  },
+  {
+    "smdCode": "431A",
+    "package": "TO-92",
+    "deviceName": "AP431AT",
+    "manufacturer": "Apec",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap431a_apec.pdf"
+  },
+  {
+    "smdCode": "431AM",
+    "package": "SO-8",
+    "deviceName": "AP431AM",
+    "manufacturer": "Apec",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap431a_apec.pdf"
+  },
+  {
+    "smdCode": "4321",
+    "package": "SOT-23",
+    "deviceName": "SPX432AM",
+    "manufacturer": "Sipex",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spx432_sipex.pdf"
+  },
+  {
+    "smdCode": "4321",
+    "package": "SOT-25",
+    "deviceName": "SPX432AM5",
+    "manufacturer": "Sipex",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spx432_sipex.pdf"
+  },
+  {
+    "smdCode": "4322",
+    "package": "SOT-23",
+    "deviceName": "SPX432M",
+    "manufacturer": "Sipex",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spx432_sipex.pdf"
+  },
+  {
+    "smdCode": "4322",
+    "package": "SOT-25",
+    "deviceName": "SPX432M5",
+    "manufacturer": "Sipex",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spx432_sipex.pdf"
+  },
+  {
+    "smdCode": "43A",
+    "package": "SMB",
+    "deviceName": "1.5SMC43AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "43A",
+    "package": "SOT-23F",
+    "deviceName": "KA431SMF",
+    "manufacturer": "Fairchild",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/a/ka431s%2C_ka431sa%2C_ka431sl_fairchild.pdf"
+  },
+  {
+    "smdCode": "43B",
+    "package": "SOT-23F",
+    "deviceName": "KA431SAMF",
+    "manufacturer": "Fairchild",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/a/ka431s%2C_ka431sa%2C_ka431sl_fairchild.pdf"
+  },
+  {
+    "smdCode": "43C",
+    "package": "SOT-23F",
+    "deviceName": "KA431SLMF",
+    "manufacturer": "Fairchild",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/a/ka431s%2C_ka431sa%2C_ka431sl_fairchild.pdf"
+  },
+  {
+    "smdCode": "43C",
+    "package": "SOT-23",
+    "deviceName": "ZHT431F01-7",
+    "manufacturer": "Diodes",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/h/zht431_diodes.pdf"
+  },
+  {
+    "smdCode": "43C",
+    "package": "SOT-23",
+    "deviceName": "ZHT431F01TA",
+    "manufacturer": "Diodes",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/h/zht431_diodes.pdf"
+  },
+  {
+    "smdCode": "43D",
+    "package": "SOT-23",
+    "deviceName": "ZHT431F02TA",
+    "manufacturer": "Diodes",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/h/zht431_diodes.pdf"
+  },
+  {
+    "smdCode": "43E",
+    "package": "SOT-23F",
+    "deviceName": "KA431SAMF2",
+    "manufacturer": "Fairchild",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/a/ka431s%2C_ka431sa%2C_ka431sl_fairchild.pdf"
+  },
+  {
+    "smdCode": "43F",
+    "package": "SOT-23F",
+    "deviceName": "KA431SLMF2",
+    "manufacturer": "Fairchild",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/a/ka431s%2C_ka431sa%2C_ka431sl_fairchild.pdf"
+  },
+  {
+    "smdCode": "43G",
+    "package": "SOT-23",
+    "deviceName": "ZH431F02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/h/zh431_zetex.pdf"
+  },
+  {
+    "smdCode": "43G",
+    "package": "SOT-89",
+    "deviceName": "ZH431Z02",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/h/zh431_zetex.pdf"
+  },
+  {
+    "smdCode": "43H",
+    "package": "SOT-23",
+    "deviceName": "ZH431F01",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/h/zh431_zetex.pdf"
+  },
+  {
+    "smdCode": "43H",
+    "package": "SOT-89",
+    "deviceName": "ZH431Z01",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/h/zh431_zetex.pdf"
+  },
+  {
+    "smdCode": "43L",
+    "package": "SOT-23",
+    "deviceName": "ZR431LF02TA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zr431l_zetex.pdf"
+  },
+  {
+    "smdCode": "43M",
+    "package": "SOT-23",
+    "deviceName": "ZR431LF01TA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/r/zr431l_zetex.pdf"
+  },
+  {
+    "smdCode": "43P",
+    "package": "SOT-23",
+    "deviceName": "ZHT431FMTA",
+    "manufacturer": "Diodes",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/h/zht431_diodes.pdf"
+  },
+  {
+    "smdCode": "43S",
+    "package": "SOT-23F",
+    "deviceName": "KA431SMF2",
+    "manufacturer": "Fairchild",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/a/ka431s%2C_ka431sa%2C_ka431sl_fairchild.pdf"
+  },
+  {
+    "smdCode": "43T",
+    "package": "SOT-23",
+    "deviceName": "TK71543AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "43W",
+    "package": "SOT-23",
+    "deviceName": "BAS40",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "43W",
+    "package": "SOT-323",
+    "deviceName": "BAT54CW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "43Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C43",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "43p",
+    "package": "SOT-23",
+    "deviceName": "BAS40",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "43p",
+    "package": "SOT-323",
+    "deviceName": "BAT54CW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  },
+  {
+    "smdCode": "43s",
+    "package": "SOT-23",
+    "deviceName": "BAS40",
+    "manufacturer": "Infineon",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series%2C_bas140_infineon.pdf"
+  },
+  {
+    "smdCode": "43t",
+    "package": "SOT-23",
+    "deviceName": "BAS40",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "43t",
+    "package": "SOT-323",
+    "deviceName": "BAT54CW",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54w_series_r3_nxp.pdf"
+  }
+]

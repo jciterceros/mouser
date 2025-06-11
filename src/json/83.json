@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "83",
+    "package": "SOT-23",
+    "deviceName": "MMBT4400",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n4400%2C_mmbt4400_fairchild.pdf"
+  },
+  {
+    "smdCode": "83301",
+    "package": ".250 2LFL (S010)",
+    "deviceName": "MSC83301",
+    "manufacturer": "STMicroelectronics",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/s/msc83301_st.pdf"
+  },
+  {
+    "smdCode": "83303",
+    "package": ".250 2LFL (S010)",
+    "deviceName": "MSC83303",
+    "manufacturer": "STMicroelectronics",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/s/msc83303_st.pdf"
+  },
+  {
+    "smdCode": "8342",
+    "package": "QFN-6 2x2",
+    "deviceName": "IRFHS8342PbF",
+    "manufacturer": "IRF",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/r/irfhs8342pbf_12172013_irf.pdf"
+  },
+  {
+    "smdCode": "8372",
+    "package": "SO-8",
+    "deviceName": "MRF8372",
+    "manufacturer": "Motorola",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/r/mrf8372_motorola.pdf"
+  }
+]

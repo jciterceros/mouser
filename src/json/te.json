@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "TE",
+    "package": "SMB",
+    "deviceName": "1SMA54AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "TE",
+    "package": "SOT-353",
+    "deviceName": "74HCT1G08GW",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74hc1g08%2C_74hct1g08_r04_nxp.pdf"
+  },
+  {
+    "smdCode": "TE",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B5V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "TE",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K161B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TE",
+    "package": "SMA",
+    "deviceName": "SMAJ300A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "TE*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B152NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "TE***",
+    "package": "SOT-26",
+    "deviceName": "APX825A-26W6",
+    "manufacturer": "Diodes",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apx823%2C_apx824%2C_apx825a_r4-2_diodes.pdf"
+  }
+]

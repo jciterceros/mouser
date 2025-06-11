@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "JZ-",
+    "package": "SOT-23",
+    "deviceName": "BAW156",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw156_nxp.pdf"
+  },
+  {
+    "smdCode": "JZ-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-42PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JZ-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819B-25PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "JZW",
+    "package": "SOT-23",
+    "deviceName": "BAW156",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw156_nxp.pdf"
+  },
+  {
+    "smdCode": "JZp",
+    "package": "SOT-23",
+    "deviceName": "BAW156",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw156_nxp.pdf"
+  },
+  {
+    "smdCode": "JZt",
+    "package": "SOT-23",
+    "deviceName": "BAW156",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw156_nxp.pdf"
+  }
+]

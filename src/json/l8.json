@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "L8",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B11",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "L8",
+    "package": "SOT-23",
+    "deviceName": "SST508",
+    "manufacturer": "Siliconix (Now Vishay)",
+    "data": "Current regulator diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst502-sst511_siliconix.pdf"
+  },
+  {
+    "smdCode": "L8820",
+    "package": "SOT-26",
+    "deviceName": "CJL8820",
+    "manufacturer": "JCST",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/j/cjl8820_jcst.pdf"
+  },
+  {
+    "smdCode": "L8B",
+    "package": "SOT-26",
+    "deviceName": "ADP3330ART-5",
+    "manufacturer": "Analog Devices",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adp3330_analog.pdf"
+  }
+]

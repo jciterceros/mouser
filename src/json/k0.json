@@ -1,0 +1,178 @@
+[
+  {
+    "smdCode": "K0",
+    "package": "SOT-89",
+    "deviceName": "BST86",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-channel D-MOS transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bst86_philips.pdf"
+  },
+  {
+    "smdCode": "K0-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-29PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "K01",
+    "package": "SOT-26",
+    "deviceName": "QS6K1",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs6k1_rohm.pdf"
+  },
+  {
+    "smdCode": "K01",
+    "package": "TUMT6",
+    "deviceName": "US6K1",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us6k1_rohm.pdf"
+  },
+  {
+    "smdCode": "K02",
+    "package": "SOT-25",
+    "deviceName": "QS5K2",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5k2_rohm.pdf"
+  },
+  {
+    "smdCode": "K02",
+    "package": "TUMT6",
+    "deviceName": "US6K2",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us6k2_rohm.pdf"
+  },
+  {
+    "smdCode": "K0355",
+    "package": "WPAK-8",
+    "deviceName": "RJK0355DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk0355dpa_r5.00_renesas.pdf"
+  },
+  {
+    "smdCode": "K0389",
+    "package": "WPAK-8",
+    "deviceName": "RJK0389DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk0389dpa_r4.10_renesas.pdf"
+  },
+  {
+    "smdCode": "K0390",
+    "package": "WPAK-8",
+    "deviceName": "RJK0390DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk0390dpa_renesas.pdf"
+  },
+  {
+    "smdCode": "K0391",
+    "package": "WPAK-8",
+    "deviceName": "RJK0391DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk0391dpa_renesas.pdf"
+  },
+  {
+    "smdCode": "K0392",
+    "package": "WPAK-8",
+    "deviceName": "RJK0392DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk0392dpa_renesas.pdf"
+  },
+  {
+    "smdCode": "K0393",
+    "package": "WPAK-8",
+    "deviceName": "RJK0393DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk0393dpa_renesas.pdf"
+  },
+  {
+    "smdCode": "K0394",
+    "package": "WPAK-8",
+    "deviceName": "RJK0394DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk0394dpa_renesas.pdf"
+  },
+  {
+    "smdCode": "K0395",
+    "package": "WPAK-8",
+    "deviceName": "RJK0395DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk0395dpa_renesas.pdf"
+  },
+  {
+    "smdCode": "K0396",
+    "package": "WPAK-8",
+    "deviceName": "RJK0396DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk0396dpa_renesas.pdf"
+  },
+  {
+    "smdCode": "K0397",
+    "package": "WPAK-8",
+    "deviceName": "RJK0397DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk0397dpa_renesas.pdf"
+  },
+  {
+    "smdCode": "K03B7",
+    "package": "WPAK-8",
+    "deviceName": "RJK03B7DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk03b7dpa_renesas.pdf"
+  },
+  {
+    "smdCode": "K03B8",
+    "package": "WPAK-8",
+    "deviceName": "RJK03B8DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk03b8dpa_renesas.pdf"
+  },
+  {
+    "smdCode": "K03B9",
+    "package": "WPAK-8",
+    "deviceName": "RJK03B9DPA",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/j/rjk03b9dpa_renesas.pdf"
+  },
+  {
+    "smdCode": "K04",
+    "package": "TUMT6",
+    "deviceName": "US6K4",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us6k4_rohm.pdf"
+  },
+  {
+    "smdCode": "K06",
+    "package": "EMT6",
+    "deviceName": "EM6K6",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/em6k6_rohm.pdf"
+  },
+  {
+    "smdCode": "K0=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-29GVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

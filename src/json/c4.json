@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "C4",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C62",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C4",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "C4",
+    "package": "WSON-6 1,5x1,5",
+    "deviceName": "TLV70031DSER",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlv700_re_ti.pdf"
+  },
+  {
+    "smdCode": "C4**",
+    "package": "SOT-25",
+    "deviceName": "APS1016ES5-1.2",
+    "manufacturer": "APSemi",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/aps1016_apsemi.pdf"
+  },
+  {
+    "smdCode": "C4-**",
+    "package": "WDFN-12 3x3",
+    "deviceName": "RT8020CPQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8020_richtek.pdf"
+  },
+  {
+    "smdCode": "C4-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013B-2HPU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "C4-***",
+    "package": "SOT-23",
+    "deviceName": "RT9161-30PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "C4015",
+    "package": "ATV",
+    "deviceName": "2SC4015",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4061k%2C_2sc3415s%2C_2sc4015_rohm.pdf"
+  },
+  {
+    "smdCode": "C410",
+    "package": "SOT-26",
+    "deviceName": "ZXSC410E6TA",
+    "manufacturer": "Diodes",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxsc410%2C_zxsc420%2C_zxsc440_r6-2_diodes.pdf"
+  },
+  {
+    "smdCode": "C420",
+    "package": "SOT-26",
+    "deviceName": "ZXSC420E6TA",
+    "manufacturer": "Diodes",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxsc410%2C_zxsc420%2C_zxsc440_r6-2_diodes.pdf"
+  },
+  {
+    "smdCode": "C4=**",
+    "package": "WDFN-12 3x3",
+    "deviceName": "RT8020CGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8020_richtek.pdf"
+  }
+]

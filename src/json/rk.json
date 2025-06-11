@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "RK",
+    "package": "SOD-323",
+    "deviceName": "PZU5.6B3A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RK",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K201A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RK",
+    "package": "SMA",
+    "deviceName": "SMAJ60A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "RK-***",
+    "package": "SOT-25",
+    "deviceName": "RT9170-18PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9170_richtek.pdf"
+  },
+  {
+    "smdCode": "RKM",
+    "package": "SOT-23",
+    "deviceName": "RK7002",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/k/rk7002_rohm.pdf"
+  },
+  {
+    "smdCode": "RKS",
+    "package": "SOT-23",
+    "deviceName": "RK7002A",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/k/rk7002a_rohm.pdf"
+  },
+  {
+    "smdCode": "RKs",
+    "package": "SOT-416",
+    "deviceName": "BFR949T",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr949t_infineon.pdf"
+  },
+  {
+    "smdCode": "Rk",
+    "package": "SOT-25",
+    "deviceName": "BD53E51G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "TG",
+    "package": "SMB",
+    "deviceName": "1SMA58AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "TG",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B68",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "TG",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K181B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TG",
+    "package": "SMA",
+    "deviceName": "SMAJ350A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "TGR",
+    "package": "TO-236",
+    "deviceName": "2SK302",
+    "manufacturer": "Toshiba",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk302_toshiba.pdf"
+  }
+]

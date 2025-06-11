@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "W9",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C5V1",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "W9",
+    "package": "SOD-123",
+    "deviceName": "BZT52C5V6",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "W9",
+    "package": "SOT-89",
+    "deviceName": "BZV49C4V3",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_zetex.pdf"
+  },
+  {
+    "smdCode": "W9",
+    "package": "SOT-23",
+    "deviceName": "BZX84C4V3LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "W9",
+    "package": "SOT-23",
+    "deviceName": "BZX84C5V1",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "W9",
+    "package": "SOT-23",
+    "deviceName": "BZX84C5V1-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "W9",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84C4V3LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "W9-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-17PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "W9A",
+    "package": "SOT-23",
+    "deviceName": "PLVA650A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W9B",
+    "package": "SOT-23",
+    "deviceName": "PLVA653A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W9C",
+    "package": "SOT-23",
+    "deviceName": "PLVA656A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W9D",
+    "package": "SOT-23",
+    "deviceName": "PLVA659A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W9E",
+    "package": "SOT-23",
+    "deviceName": "PLVA662A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W9F",
+    "package": "SOT-23",
+    "deviceName": "PLVA665A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W9G",
+    "package": "SOT-23",
+    "deviceName": "PLVA668A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W9W",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA4V3",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  }
+]

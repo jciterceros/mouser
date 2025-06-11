@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "3M",
+    "package": "SOT-23",
+    "deviceName": "MMBT5210",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5210%2C_mmbt5210_fairchild.pdf"
+  },
+  {
+    "smdCode": "3M-",
+    "package": "SOT-323",
+    "deviceName": "BC858W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3M-",
+    "package": "SOT-143B",
+    "deviceName": "BCV62",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3MW",
+    "package": "SOT-323",
+    "deviceName": "BC858W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3MW",
+    "package": "SOT-143B",
+    "deviceName": "BCV62",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Mp",
+    "package": "SOT-323",
+    "deviceName": "BC858W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Mp",
+    "package": "SOT-143B",
+    "deviceName": "BCV62",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Mt",
+    "package": "SOT-323",
+    "deviceName": "BC858W",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856w%2C_bc857w%2C_bc858w_nxp.pdf"
+  },
+  {
+    "smdCode": "3Mt",
+    "package": "SOT-143B",
+    "deviceName": "BCV62",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  }
+]

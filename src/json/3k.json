@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "3K-",
+    "package": "SOT-23",
+    "deviceName": "BC858B",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3K-",
+    "package": "SOT-143B",
+    "deviceName": "BCV62B",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3KW",
+    "package": "SOT-23",
+    "deviceName": "BC858B",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3KW",
+    "package": "SOT-143B",
+    "deviceName": "BCV62B",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Kp",
+    "package": "SOT-23",
+    "deviceName": "BC858B",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Kp",
+    "package": "SOT-143B",
+    "deviceName": "BCV62B",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Ks",
+    "package": "SOT-23",
+    "deviceName": "BC858B",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc857%2C_bc858%2C_bc859%2C_bc860_series_infineon.pdf"
+  },
+  {
+    "smdCode": "3Ks",
+    "package": "SOT-323",
+    "deviceName": "BC858BW",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc857%2C_bc858%2C_bc859%2C_bc860_series_infineon.pdf"
+  },
+  {
+    "smdCode": "3Ks",
+    "package": "SOT-143",
+    "deviceName": "BCV62B",
+    "manufacturer": "Infineon",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_infineon.pdf"
+  },
+  {
+    "smdCode": "3Ks",
+    "package": "SOT-143",
+    "deviceName": "BCV62B",
+    "manufacturer": "Siemens",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_siemens.pdf"
+  },
+  {
+    "smdCode": "3Kt",
+    "package": "SOT-23",
+    "deviceName": "BC858B",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856%2C_bc857%2C_bc858_series_nxp.pdf"
+  },
+  {
+    "smdCode": "3Kt",
+    "package": "SOT-143B",
+    "deviceName": "BCV62B",
+    "manufacturer": "NXP",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv62_series_nxp.pdf"
+  }
+]

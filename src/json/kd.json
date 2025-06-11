@@ -1,0 +1,298 @@
+[
+  {
+    "smdCode": "KD",
+    "package": "SOD-323F",
+    "deviceName": "PZU12B3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "KD",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q511B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "KD**",
+    "package": "SOT-323",
+    "deviceName": "Si1330EDL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1330edl_vishay.pdf"
+  },
+  {
+    "smdCode": "KD-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-36PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "KD1",
+    "package": "SOT-23",
+    "deviceName": "AZ23C2V7",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KD2",
+    "package": "SOT-23",
+    "deviceName": "AZ23C3V0",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KD3",
+    "package": "SOT-23",
+    "deviceName": "AZ23C3V3",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KD4",
+    "package": "SOT-23",
+    "deviceName": "AZ23C3V6",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KD5",
+    "package": "SOT-23",
+    "deviceName": "AZ23C3V9",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KD6",
+    "package": "SOT-23",
+    "deviceName": "AZ23C4V3",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KD7",
+    "package": "SOT-23",
+    "deviceName": "AZ23C4V7",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KD8",
+    "package": "SOT-23",
+    "deviceName": "AZ23C5V1",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KD9",
+    "package": "SOT-23",
+    "deviceName": "AZ23C5V6",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDA",
+    "package": "SOT-23",
+    "deviceName": "AZ23C6V2",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDB",
+    "package": "SOT-23",
+    "deviceName": "AZ23C6V8",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDC",
+    "package": "SOT-23",
+    "deviceName": "AZ23C7V5",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDD",
+    "package": "SOT-23",
+    "deviceName": "AZ23C8V2",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDE",
+    "package": "SOT-23",
+    "deviceName": "AZ23C9V1",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDF",
+    "package": "SOT-23",
+    "deviceName": "AZ23C10",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDG",
+    "package": "SOT-23",
+    "deviceName": "AZ23C11",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDH",
+    "package": "SOT-23",
+    "deviceName": "AZ23C12",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDI",
+    "package": "SOT-23",
+    "deviceName": "AZ23C13",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDJ",
+    "package": "SOT-23",
+    "deviceName": "AZ23C15",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB6.8",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "KDK",
+    "package": "SOT-23",
+    "deviceName": "AZ23C16",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDL",
+    "package": "SOT-23",
+    "deviceName": "AZ23C18",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDM",
+    "package": "SOT-23",
+    "deviceName": "AZ23C20",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDN",
+    "package": "SOT-23",
+    "deviceName": "AZ23C22",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDO",
+    "package": "SOT-23",
+    "deviceName": "AZ23C24",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDP",
+    "package": "SOT-23",
+    "deviceName": "AZ23C27",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB6.8",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "KDQ",
+    "package": "SOT-23",
+    "deviceName": "AZ23C30",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDR",
+    "package": "SOT-23",
+    "deviceName": "AZ23C33",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDS",
+    "package": "SOT-23",
+    "deviceName": "AZ23C36",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "KDS",
+    "package": "2-3S1A",
+    "deviceName": "SSM3K315T",
+    "manufacturer": "Toshiba",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ssm3k315t_toshiba.pdf"
+  },
+  {
+    "smdCode": "KDT",
+    "package": "SOT-23",
+    "deviceName": "AZ23C39",
+    "manufacturer": "TIP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23c2v7-az23c39_tip.pdf"
+  },
+  {
+    "smdCode": "Kd",
+    "package": "SOT-23",
+    "deviceName": "BD49L24G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

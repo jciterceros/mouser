@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "X",
+    "package": "SOT-523",
+    "deviceName": "STN1012",
+    "manufacturer": "Stanson",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stn1012_stanson.pdf"
+  }
+]

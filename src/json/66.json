@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "66-",
+    "package": "SOT-323",
+    "deviceName": "BAS40-06W",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "66011",
+    "package": "QFN-20",
+    "deviceName": "LTC6601-1",
+    "manufacturer": "Linear",
+    "data": "ADC Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc6601-1_linear.pdf"
+  },
+  {
+    "smdCode": "660510",
+    "package": "DFN-22",
+    "deviceName": "LTC6605-10",
+    "manufacturer": "Linear",
+    "data": "Dual Matched 10MHz Filter with Low Noise, Low Distortion Differential Amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc6605-10_linear.pdf"
+  },
+  {
+    "smdCode": "66W",
+    "package": "SOT-323",
+    "deviceName": "BAS40-06W",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "66p",
+    "package": "SOT-323",
+    "deviceName": "BAS40-06W",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "66t",
+    "package": "SOT-323",
+    "deviceName": "BAS40-06W",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "MO",
+    "package": "SOT-89",
+    "deviceName": "2SC2873",
+    "manufacturer": "Toshiba",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2873_toshiba.pdf"
+  },
+  {
+    "smdCode": "MO",
+    "package": "SOT-143",
+    "deviceName": "BF998",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf998%2C_bf998r%2C_bf998rw_vishay.pdf"
+  },
+  {
+    "smdCode": "MO",
+    "package": "SOT-323",
+    "deviceName": "M1MA142WA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/1/m1ma141wa%2C_m1ma142wa_galaxy.pdf"
+  },
+  {
+    "smdCode": "MOR",
+    "package": "SOT-143R",
+    "deviceName": "BF998R",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf998%2C_bf998r%2C_bf998rw_vishay.pdf"
+  },
+  {
+    "smdCode": "MOs",
+    "package": "SOT-143",
+    "deviceName": "BF998",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf998_infineon.pdf"
+  }
+]

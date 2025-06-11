@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "PJ",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q481D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "PJ-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C36",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PJAI",
+    "package": "SOT-26",
+    "deviceName": "TPS64200DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps64200%2C_tps64201%2C_tps64202%2C_tps64203_ti.pdf"
+  },
+  {
+    "smdCode": "PJBI",
+    "package": "SOT-26",
+    "deviceName": "TPS64201DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps64200%2C_tps64201%2C_tps64202%2C_tps64203_ti.pdf"
+  },
+  {
+    "smdCode": "PJCI",
+    "package": "SOT-26",
+    "deviceName": "TPS64202DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps64200%2C_tps64201%2C_tps64202%2C_tps64203_ti.pdf"
+  },
+  {
+    "smdCode": "PJDI",
+    "package": "SOT-26",
+    "deviceName": "TPS64203DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps64200%2C_tps64201%2C_tps64202%2C_tps64203_ti.pdf"
+  },
+  {
+    "smdCode": "PJGI",
+    "package": "SOT-25",
+    "deviceName": "TPS62207DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62200%2C_tps62201%2C_tps62202%2C_tps62203%2C_tps62204%2C_tps62205%2C_tps62207%2C_tps62208_ti.pdf"
+  },
+  {
+    "smdCode": "PJW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C36",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PJp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C36",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PJt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C36",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "BL",
+    "package": "SOT-89",
+    "deviceName": "BCX56-16",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx54%2C_bcx55%2C_bcx56_ra_galaxy.pdf"
+  },
+  {
+    "smdCode": "BL",
+    "package": "SOT-89",
+    "deviceName": "BCX5616TA",
+    "manufacturer": "Diodes",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx54%2C_bcx55%2C_bcx56_diodes.pdf"
+  },
+  {
+    "smdCode": "BL",
+    "package": "SOT-25",
+    "deviceName": "BD4730G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "BL",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "BL",
+    "package": "SOD-323",
+    "deviceName": "UDZ13B",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udz5v1b-udz15b_diodes.pdf"
+  },
+  {
+    "smdCode": "BL*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-MSPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BL*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9013B-32GQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "BL**",
+    "package": "SOT-363",
+    "deviceName": "Si1469DH",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1469dh_vishay.pdf"
+  },
+  {
+    "smdCode": "BL***",
+    "package": "SOT-26",
+    "deviceName": "SY7208B",
+    "manufacturer": "Silergy",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy7208%2C_sy7208b_silergy.pdf"
+  },
+  {
+    "smdCode": "BL-**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9018BPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9018a%2C_rt9018b_r09_richtek.pdf"
+  },
+  {
+    "smdCode": "BL-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-XMPJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BLQ",
+    "package": "SOT-89",
+    "deviceName": "2SB1561",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1561_rohm.pdf"
+  },
+  {
+    "smdCode": "BLU",
+    "package": "TDFN-8 3x3",
+    "deviceName": "MAX8586ETA/V",
+    "manufacturer": "Maxim",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max8586_r3_maxim.pdf"
+  }
+]

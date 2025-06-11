@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "41",
+    "package": "SOT-26",
+    "deviceName": "BCR421U",
+    "manufacturer": "Infineon",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcr420u%2C_bcr421u_infineon.pdf"
+  },
+  {
+    "smdCode": "41",
+    "package": "SOT-666",
+    "deviceName": "PBSS4160V",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/b/pbss4160v_nxp.pdf"
+  },
+  {
+    "smdCode": "41**",
+    "package": "SOT-23",
+    "deviceName": "SPP2341",
+    "manufacturer": "Micro Bridge",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spp2341_micro_bridge.pdf"
+  },
+  {
+    "smdCode": "413",
+    "package": "SOT-23",
+    "deviceName": "FMMT413",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt413_zetex.pdf"
+  },
+  {
+    "smdCode": "414",
+    "package": "SOT-143",
+    "deviceName": "AT41411",
+    "manufacturer": "Hewlett-Packard",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at41411_hp.pdf"
+  },
+  {
+    "smdCode": "415",
+    "package": "SOT-143",
+    "deviceName": "AT-41511",
+    "manufacturer": "Agilent",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at-41511%2C_at-41533_agilent.pdf"
+  },
+  {
+    "smdCode": "415",
+    "package": "SOT-23",
+    "deviceName": "AT-41533",
+    "manufacturer": "Agilent",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at-41511%2C_at-41533_agilent.pdf"
+  },
+  {
+    "smdCode": "415",
+    "package": "86 Plastic Package",
+    "deviceName": "AT-41586",
+    "manufacturer": "Hewlett-Packard",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/t/at-41586_hp.pdf"
+  },
+  {
+    "smdCode": "4181",
+    "package": "SOT-26",
+    "deviceName": "PT4181",
+    "manufacturer": "PowTech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt4181_powtech.pdf"
+  },
+  {
+    "smdCode": "41T",
+    "package": "SOT-23",
+    "deviceName": "TK71541AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

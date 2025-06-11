@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "N5",
+    "package": "SOT-23",
+    "deviceName": "2SC1654",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1654_galaxy.pdf"
+  },
+  {
+    "smdCode": "N5",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B51",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "N5",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5265",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "N5***",
+    "package": "SOT-23",
+    "deviceName": "Si2305CDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2305cds_vishay.pdf"
+  },
+  {
+    "smdCode": "N5901",
+    "package": "SO-8",
+    "deviceName": "NCP5901DR2G",
+    "manufacturer": "ON",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp5901_r2_on.pdf"
+  },
+  {
+    "smdCode": "N5S0",
+    "package": "DSN2",
+    "deviceName": "ESD11N5.0ST5G",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esd11n5.0st5g_on.pdf"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "1N",
+    "package": "SOT-416",
+    "deviceName": "BC847T",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1N",
+    "package": "SOT-23",
+    "deviceName": "KST14",
+    "manufacturer": "Fairchild",
+    "data": "NPN Darlington transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst13%2C_kst14_fairchild.pdf"
+  },
+  {
+    "smdCode": "1N",
+    "package": "SOT-523",
+    "deviceName": "MMBT3904T",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904t_galaxy.pdf"
+  },
+  {
+    "smdCode": "1N5",
+    "package": "SOT-23",
+    "deviceName": "ZXT11N15DF",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxt11n15df_zetex.pdf"
+  },
+  {
+    "smdCode": "1N=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8561DGQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8207p_r01_richtek.pdf"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "28C",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C28",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "28S",
+    "package": "SOT-23",
+    "deviceName": "M28S",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/2/m28s_galaxy.pdf"
+  },
+  {
+    "smdCode": "28T",
+    "package": "SOT-23",
+    "deviceName": "TK71528AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

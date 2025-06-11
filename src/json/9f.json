@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "9FA",
+    "package": "SOT-23",
+    "deviceName": "BC807-16",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807%2C_bc808_fairchild.pdf"
+  },
+  {
+    "smdCode": "9FB",
+    "package": "SOT-23",
+    "deviceName": "BC807-25",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807%2C_bc808_fairchild.pdf"
+  },
+  {
+    "smdCode": "9FC",
+    "package": "SOT-23",
+    "deviceName": "BC807-40",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc807%2C_bc808_fairchild.pdf"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "XR",
+    "package": "SOT-23",
+    "deviceName": "2SD602A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd602a_galaxy.pdf"
+  },
+  {
+    "smdCode": "XR",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B39",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XR",
+    "package": "SOT-23",
+    "deviceName": "BZX99-C3V6",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx99_philips.pdf"
+  },
+  {
+    "smdCode": "XR",
+    "package": "SOD-323",
+    "deviceName": "PZU24B3A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XR",
+    "package": "SMA",
+    "deviceName": "SMAJ17CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  }
+]

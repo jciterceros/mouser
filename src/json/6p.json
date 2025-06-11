@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "6P",
+    "package": "SOD-323",
+    "deviceName": "CMDZ30L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "6P",
+    "package": "SOT-23",
+    "deviceName": "MMBFJ111",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/1/j111%2C_j112%2C_j113%2C_mmbfj111%2C_mmbfj112%2C_mmbfj113_fairchild.pdf"
+  },
+  {
+    "smdCode": "6P",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ258C",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "6P03G",
+    "package": "SOT-26",
+    "deviceName": "UT06P03G-AG6-R",
+    "manufacturer": "UTC",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/t/ut06p03_20150303_utc.pdf"
+  },
+  {
+    "smdCode": "6p3",
+    "package": "SOT-323",
+    "deviceName": "1PS70SB40",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6p4",
+    "package": "SOT-323",
+    "deviceName": "1PS70SB44",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6p5",
+    "package": "SOT-323",
+    "deviceName": "1PS70SB45",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6p6",
+    "package": "SOT-323",
+    "deviceName": "1PS70SB46",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "YE",
+    "package": "SOT-23",
+    "deviceName": "CZMK18",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "YE",
+    "package": "SOD-323",
+    "deviceName": "PZU20B2A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "YE",
+    "package": "2-2H1A",
+    "deviceName": "RN2105F",
+    "manufacturer": "Toshiba",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn2101f-rn2106f_toshiba.pdf"
+  },
+  {
+    "smdCode": "YE",
+    "package": "SMA",
+    "deviceName": "SMAJ26CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "YE",
+    "package": "SOT-23",
+    "deviceName": "TZT18CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "YE04",
+    "package": "TSSOP-14",
+    "deviceName": "TXB0104PWR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txb0104_rg_ti.pdf"
+  },
+  {
+    "smdCode": "YE04",
+    "package": "BGA MICROSTAR JUNIOR - 12",
+    "deviceName": "TXB0104ZXUR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txb0104_rg_ti.pdf"
+  },
+  {
+    "smdCode": "YE08",
+    "package": "VFBGA - GXY",
+    "deviceName": "TXB0108GXYR",
+    "manufacturer": "ROHM",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txb0108_texas_instruments.pdf"
+  },
+  {
+    "smdCode": "YE08",
+    "package": "TSSOP-20",
+    "deviceName": "TXB0108PWR",
+    "manufacturer": "ROHM",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txb0108_texas_instruments.pdf"
+  },
+  {
+    "smdCode": "YE08",
+    "package": "QFN-20",
+    "deviceName": "TXB0108RGYR",
+    "manufacturer": "ROHM",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txb0108_texas_instruments.pdf"
+  },
+  {
+    "smdCode": "YE08",
+    "package": "VFBGA - ZXY (Pb-free)",
+    "deviceName": "TXB0108ZXYR",
+    "manufacturer": "ROHM",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txb0108_texas_instruments.pdf"
+  }
+]

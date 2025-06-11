@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "E0",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B15",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "E0*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-FQPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "E0**",
+    "package": "SOT-26",
+    "deviceName": "TC1072-4.0VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "E0-***",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9011-SSPQWB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "E0-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-15PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "E00",
+    "package": "MLPD-8 2x2",
+    "deviceName": "SC4503WLTRT",
+    "manufacturer": "Semtech",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/c/sc4503_20070504_semtech.pdf"
+  },
+  {
+    "smdCode": "E01",
+    "package": "SOT-89",
+    "deviceName": "DTDG14GP",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtdg14gp_rohm.pdf"
+  },
+  {
+    "smdCode": "E02",
+    "package": "SOT-89",
+    "deviceName": "DTDG23YP",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtdg23yp_rohm.pdf"
+  },
+  {
+    "smdCode": "E06***",
+    "package": "SOT-26",
+    "deviceName": "NB2779A",
+    "manufacturer": "ON",
+    "data": "Low Power, Reduced EMI Clock Synthesizer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/b/nb2779a_on.pdf"
+  },
+  {
+    "smdCode": "E070BN",
+    "package": "HUML2020L8",
+    "deviceName": "RF4E070BN",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/f/rf4e070bn_rohm.pdf"
+  }
+]

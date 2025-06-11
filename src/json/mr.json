@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "MR",
+    "package": "SMB",
+    "deviceName": "1SMB40AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "MR",
+    "package": "SOD-323",
+    "deviceName": "PZU4.3B3A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MR",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ40A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "MR",
+    "package": "SMB",
+    "deviceName": "SMBJ40A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "MR***",
+    "package": "QFN-10 3x3",
+    "deviceName": "SY8208AQNC",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8208a_20150505_silergy.pdf"
+  },
+  {
+    "smdCode": "MR=**",
+    "package": "MSOP-8",
+    "deviceName": "RT9715BGF",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "MR=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818G-20GVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "MRJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB75A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "MRs",
+    "package": "SOT-143R",
+    "deviceName": "BF998R",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf998_infineon.pdf"
+  },
+  {
+    "smdCode": "Mr",
+    "package": "SOT-23",
+    "deviceName": "BD49L47G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Mr",
+    "package": "SOT-25",
+    "deviceName": "BD52E37G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

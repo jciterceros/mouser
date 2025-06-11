@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "SB",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B13",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "SB",
+    "package": "SOD-123",
+    "deviceName": "KDZ9.1B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "SB",
+    "package": "SOT-89",
+    "deviceName": "KTC4377",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc4377_tip.pdf"
+  },
+  {
+    "smdCode": "SB",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K351A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "SB*",
+    "package": "SOD-123",
+    "deviceName": "BAT54T1G",
+    "manufacturer": "ON",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54t1g_on.pdf"
+  },
+  {
+    "smdCode": "SBG",
+    "package": "SOT-25",
+    "deviceName": "TS391BG-AF5",
+    "manufacturer": "UTC",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts391%2C_ts391a%2C_ts391b%2C_ts391c_20150601_utc.pdf"
+  },
+  {
+    "smdCode": "SBG",
+    "package": "SOT-353",
+    "deviceName": "TS391BG-AL5",
+    "manufacturer": "UTC",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts391%2C_ts391a%2C_ts391b%2C_ts391c_20150601_utc.pdf"
+  },
+  {
+    "smdCode": "SBPB",
+    "package": "SOT-25",
+    "deviceName": "LM3671MF-1.2",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "SBRB",
+    "package": "SOT-25",
+    "deviceName": "LM3671MF-1.5",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "SBSB",
+    "package": "SOT-25",
+    "deviceName": "LM3671MF-1.8",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "SBTB",
+    "package": "SOT-25",
+    "deviceName": "LM3671MF-ADJ",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "sb**",
+    "package": "SC-70-4",
+    "deviceName": "PT7M6102NLC4E",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  },
+  {
+    "smdCode": "sb**",
+    "package": "TO-94",
+    "deviceName": "PT7M6102NLNE",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  },
+  {
+    "smdCode": "sb**",
+    "package": "SOT-25",
+    "deviceName": "PT7M6102NLTAE",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  }
+]

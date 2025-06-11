@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "P864",
+    "package": "11-13K1",
+    "deviceName": "TLP864",
+    "manufacturer": "Toshiba",
+    "data": "Photo-Interrupter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlp864%2C_tlp865_toshiba.pdf"
+  },
+  {
+    "smdCode": "P865",
+    "package": "11-13M1",
+    "deviceName": "TLP865",
+    "manufacturer": "Toshiba",
+    "data": "Photo-Interrupter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tlp864%2C_tlp865_toshiba.pdf"
+  },
+  {
+    "smdCode": "P8902",
+    "package": "QFN4x4-16",
+    "deviceName": "PAM8902KER-P",
+    "manufacturer": "Diodes",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pam8902_diodes.pdf"
+  },
+  {
+    "smdCode": "P8902H",
+    "package": "QFN4x4-16",
+    "deviceName": "PAM8902HKER",
+    "manufacturer": "Diodes",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pam8902h_diodes.pdf"
+  },
+  {
+    "smdCode": "p86",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

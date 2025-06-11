@@ -1,0 +1,162 @@
+[
+  {
+    "smdCode": "M8",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B27",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "M8-",
+    "package": "SOT-363",
+    "deviceName": "2N7002PS",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002ps_nxp.pdf"
+  },
+  {
+    "smdCode": "M8-",
+    "package": "SOT-23",
+    "deviceName": "BSN20",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsn20_r0.3_philips.pdf"
+  },
+  {
+    "smdCode": "M8=***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-28GVL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "M8A",
+    "package": "SOT-323",
+    "deviceName": "ADM1818-20AKS",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M8A",
+    "package": "SOT-23",
+    "deviceName": "ADM1818-20ART",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M8B",
+    "package": "SOT-323",
+    "deviceName": "ADM1818-R22AKS",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M8B",
+    "package": "SOT-23",
+    "deviceName": "ADM1818-R22ART",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M8C",
+    "package": "SOT-323",
+    "deviceName": "ADM1818-R23AKS",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M8C",
+    "package": "SOT-23",
+    "deviceName": "ADM1818-R23ART",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M8E",
+    "package": "SOT-323",
+    "deviceName": "ADM1818-10AKS",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M8E",
+    "package": "SOT-23",
+    "deviceName": "ADM1818-10ART",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M8K",
+    "package": "SOT-323",
+    "deviceName": "ADM1818-5AKS",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M8K",
+    "package": "SOT-23",
+    "deviceName": "ADM1818-5ART",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M8W",
+    "package": "SOT-363",
+    "deviceName": "2N7002PS",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002ps_nxp.pdf"
+  },
+  {
+    "smdCode": "M8W",
+    "package": "SOT-23",
+    "deviceName": "BSN20",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsn20_r0.3_philips.pdf"
+  },
+  {
+    "smdCode": "M8p",
+    "package": "SOT-363",
+    "deviceName": "2N7002PS",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002ps_nxp.pdf"
+  },
+  {
+    "smdCode": "M8p",
+    "package": "SOT-23",
+    "deviceName": "BSN20",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsn20_r0.3_philips.pdf"
+  },
+  {
+    "smdCode": "M8t",
+    "package": "SOT-363",
+    "deviceName": "2N7002PS",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002ps_nxp.pdf"
+  },
+  {
+    "smdCode": "M8t",
+    "package": "SOT-23",
+    "deviceName": "BSN20",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsn20_r0.3_philips.pdf"
+  }
+]

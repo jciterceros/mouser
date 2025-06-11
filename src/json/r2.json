@@ -1,0 +1,194 @@
+[
+  {
+    "smdCode": "R2**",
+    "package": "SOT-89",
+    "deviceName": "ELM9732CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "R23",
+    "package": "SOT-23",
+    "deviceName": "2SC3356",
+    "manufacturer": "NEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3356_nec.pdf"
+  },
+  {
+    "smdCode": "R24",
+    "package": "SOT-23",
+    "deviceName": "2SC3356",
+    "manufacturer": "NEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3356_nec.pdf"
+  },
+  {
+    "smdCode": "R25",
+    "package": "SOT-23",
+    "deviceName": "2SC3356",
+    "manufacturer": "NEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3356_nec.pdf"
+  },
+  {
+    "smdCode": "R29A",
+    "package": "SOT-23",
+    "deviceName": "REF2912",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref2912%2C_ref2920%2C_ref2925%2C_ref2930%2C_ref2933%2C_ref2940_ti.pdf"
+  },
+  {
+    "smdCode": "R29B",
+    "package": "SOT-23",
+    "deviceName": "REF2920",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref2912%2C_ref2920%2C_ref2925%2C_ref2930%2C_ref2933%2C_ref2940_ti.pdf"
+  },
+  {
+    "smdCode": "R29C",
+    "package": "SOT-23",
+    "deviceName": "REF2925",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref2912%2C_ref2920%2C_ref2925%2C_ref2930%2C_ref2933%2C_ref2940_ti.pdf"
+  },
+  {
+    "smdCode": "R29D",
+    "package": "SOT-23",
+    "deviceName": "REF2930",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref2912%2C_ref2920%2C_ref2925%2C_ref2930%2C_ref2933%2C_ref2940_ti.pdf"
+  },
+  {
+    "smdCode": "R29E",
+    "package": "SOT-23",
+    "deviceName": "REF2933",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref2912%2C_ref2920%2C_ref2925%2C_ref2930%2C_ref2933%2C_ref2940_ti.pdf"
+  },
+  {
+    "smdCode": "R29F",
+    "package": "SOT-23",
+    "deviceName": "REF2940",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Reference",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/e/ref2912%2C_ref2920%2C_ref2925%2C_ref2930%2C_ref2933%2C_ref2940_ti.pdf"
+  },
+  {
+    "smdCode": "R2A",
+    "package": "SOT-346",
+    "deviceName": "MMST3906",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst3906%2C_sst3906%2C_umt3906_rohm.pdf"
+  },
+  {
+    "smdCode": "R2A",
+    "package": "SOT-23",
+    "deviceName": "SST3906",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst3906%2C_sst3906%2C_umt3906_rohm.pdf"
+  },
+  {
+    "smdCode": "R2A",
+    "package": "SOT-323",
+    "deviceName": "UMT3906",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst3906%2C_sst3906%2C_umt3906_rohm.pdf"
+  },
+  {
+    "smdCode": "R2F",
+    "package": "SOT-346",
+    "deviceName": "MMST2907A",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst2907a%2C_sst2907a%2C_umt2907a_rohm.pdf"
+  },
+  {
+    "smdCode": "R2F",
+    "package": "SOT-23",
+    "deviceName": "SST2907A",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst2907a%2C_sst2907a%2C_umt2907a_rohm.pdf"
+  },
+  {
+    "smdCode": "R2F",
+    "package": "SOT-323",
+    "deviceName": "UMT2907A",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst2907a%2C_sst2907a%2C_umt2907a_rohm.pdf"
+  },
+  {
+    "smdCode": "R2G",
+    "package": "SOT-346",
+    "deviceName": "MMSTA56",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsta56%2C_ssta56_rohm.pdf"
+  },
+  {
+    "smdCode": "R2G",
+    "package": "SOT-23",
+    "deviceName": "SSTA56",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsta56%2C_ssta56_rohm.pdf"
+  },
+  {
+    "smdCode": "R2T",
+    "package": "SOT-346",
+    "deviceName": "MMST4403",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst4403%2C_sst4403_rohm.pdf"
+  },
+  {
+    "smdCode": "R2T",
+    "package": "SOT-23",
+    "deviceName": "SST4403",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst4403%2C_sst4403_rohm.pdf"
+  },
+  {
+    "smdCode": "R2X",
+    "package": "SOT-346",
+    "deviceName": "MMST4401",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst4401%2C_sst4401_rohm.pdf"
+  },
+  {
+    "smdCode": "R2X",
+    "package": "SOT-23",
+    "deviceName": "SST4401",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst4401%2C_sst4401_rohm.pdf"
+  },
+  {
+    "smdCode": "R2p",
+    "package": "SOT-23",
+    "deviceName": "BFR93A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr93a_philips.pdf"
+  },
+  {
+    "smdCode": "R2s",
+    "package": "SOT-23",
+    "deviceName": "BFR93A",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr93a_infineon.pdf"
+  }
+]

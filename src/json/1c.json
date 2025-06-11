@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "1C",
+    "package": "SOT-23",
+    "deviceName": "FMMTA20",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmta20_zetex.pdf"
+  },
+  {
+    "smdCode": "1C",
+    "package": "SOT-23",
+    "deviceName": "KST20",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst20_fairchild.pdf"
+  },
+  {
+    "smdCode": "1C **",
+    "package": "SOT-23",
+    "deviceName": "IRLML6302",
+    "manufacturer": "IRF",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/r/irlml6302_irf.pdf"
+  },
+  {
+    "smdCode": "1C3",
+    "package": "SOT-23",
+    "deviceName": "ZXTN25012EFHTA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxtn25012efh_r3_zetex.pdf"
+  }
+]

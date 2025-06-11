@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "6C",
+    "package": "SOT-416",
+    "deviceName": "EMZ6.8N",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emz6.8n_rohm.pdf"
+  },
+  {
+    "smdCode": "6C",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z51",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "6C",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ253G",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "6C**",
+    "package": "SOT-23",
+    "deviceName": "ST6206CS23RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6206_stanson.pdf"
+  },
+  {
+    "smdCode": "6C**",
+    "package": "SOT-323",
+    "deviceName": "ST6206CS32RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6206_stanson.pdf"
+  },
+  {
+    "smdCode": "6C-",
+    "package": "SOT-23",
+    "deviceName": "BC817-40",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6C-",
+    "package": "SOT-323",
+    "deviceName": "BC817-40W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6C.",
+    "package": "SOT-23",
+    "deviceName": "BC817-40",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc817-25%2C_bc817-40_fairchild.pdf"
+  },
+  {
+    "smdCode": "6CW",
+    "package": "SOT-23",
+    "deviceName": "BC817-40",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6CW",
+    "package": "SOT-323",
+    "deviceName": "BC817-40W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6Cp",
+    "package": "SOT-23",
+    "deviceName": "BC817-40",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6Cp",
+    "package": "SOT-323",
+    "deviceName": "BC817-40W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6Ct",
+    "package": "SOT-23",
+    "deviceName": "BC817-40",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6Ct",
+    "package": "SOT-323",
+    "deviceName": "BC817-40W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  }
+]

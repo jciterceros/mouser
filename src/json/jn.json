@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "JN **",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT8055ZQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8055_r05_richtek.pdf"
+  },
+  {
+    "smdCode": "JN-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-18PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JN-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819F-34PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "JN=",
+    "package": "SOT-89",
+    "deviceName": "RT9166-18GXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JN=**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT8055GQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8055_r05_richtek.pdf"
+  }
+]

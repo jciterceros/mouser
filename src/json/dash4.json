@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "-44",
+    "package": "SOT-23",
+    "deviceName": "PDTC115ET",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "-47",
+    "package": "SOT-323",
+    "deviceName": "PDTA143ZU",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta143ze%2C_pdta143zm%2C_pdta143zt%2C_pdta143zu_nxp.pdf"
+  },
+  {
+    "smdCode": "-4S",
+    "package": "SOT-23",
+    "deviceName": "BSN20BK",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsn20bk_20141218_nxp.pdf"
+  }
+]

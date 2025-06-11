@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "ED",
+    "package": "SOT-89",
+    "deviceName": "BCV28",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP Darlington transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcv28_zetex.pdf"
+  },
+  {
+    "smdCode": "ED",
+    "package": "SOT-25",
+    "deviceName": "BD4843G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "ED",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B62",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ED",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B22",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "ED",
+    "package": "DO-214BA",
+    "deviceName": "EGF1D",
+    "manufacturer": "Vishay",
+    "data": "Rectifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/g/egf1a%2C_egf1b%2C_egf1c%2C_egf1d_vishay.pdf"
+  },
+  {
+    "smdCode": "ED",
+    "package": "SOD-123",
+    "deviceName": "KDZ30B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "ED",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4713-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "ED",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q511A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "ED*",
+    "package": "SOT-553",
+    "deviceName": "BD4843FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "ED*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-SSGQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "ED***",
+    "package": "SOT-26",
+    "deviceName": "PAM2812",
+    "manufacturer": "Diodes",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pam2812_diodes.pdf"
+  },
+  {
+    "smdCode": "ED=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-28GB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "Ed",
+    "package": "SOT-25",
+    "deviceName": "BD49E44G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ed",
+    "package": "SOT-23",
+    "deviceName": "BD49K44G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

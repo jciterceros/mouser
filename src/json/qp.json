@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "QP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ7L5",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "Qp",
+    "package": "SOT-25",
+    "deviceName": "BD53E40G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "QE",
+    "package": "SMA",
+    "deviceName": "1SMA5.0AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "QE",
+    "package": "SOT-346",
+    "deviceName": "RN1425",
+    "manufacturer": "Toshiba",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn1421%2C_rn1422%2C_rn1423%2C_rn1424%2C_rn1425%2C_rn1426%2C_rn1427_toshiba.pdf"
+  },
+  {
+    "smdCode": "QE",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q521D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "Qe",
+    "package": "SOT-25",
+    "deviceName": "BD53E33G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

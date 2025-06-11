@@ -1,0 +1,306 @@
+[
+  {
+    "smdCode": "ZS",
+    "package": "SOT-346",
+    "deviceName": "2PD601AS",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "ZS",
+    "package": "SOT-323",
+    "deviceName": "2SD1819A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd1819a_galaxy.pdf"
+  },
+  {
+    "smdCode": "ZS",
+    "package": "SOT-23",
+    "deviceName": "2SD601A",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd601a_tip.pdf"
+  },
+  {
+    "smdCode": "ZS",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C43",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZS",
+    "package": "SOD-323",
+    "deviceName": "PDZ30B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZS-***",
+    "package": "SOT-25",
+    "deviceName": "RT9818A-24PB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "ZS0*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B005M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZS1*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B005M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZS2*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B006M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZS20",
+    "package": "SOT-26",
+    "deviceName": "ZHCS2000",
+    "manufacturer": "Diodes",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/h/zhcs2000_diodes.pdf"
+  },
+  {
+    "smdCode": "ZS3*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B006M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZS4*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B007M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZS5*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B007M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZS6*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B008M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZS7*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B008M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZS8*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B009M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZS9*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B009M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSA*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B010M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSA0",
+    "package": "WSON-8 2x2",
+    "deviceName": "TPS22965DSGR",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps22965_rd_ti.pdf"
+  },
+  {
+    "smdCode": "ZSB*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B010M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSC*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B011M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSD*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B011M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSE*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B012M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSF*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B012M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSH*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B013M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSK*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B013M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSL*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B014M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSM*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B014M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSN*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B015M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSP*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B015M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSR*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B016M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSS*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B016M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZST*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B017M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSU*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B017M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSV*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B018M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSX*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B018M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSY*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B019M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  },
+  {
+    "smdCode": "ZSZ*",
+    "package": "SOT-26",
+    "deviceName": "XZ5121B019M",
+    "manufacturer": "No Name",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/z/xz5121_noname.pdf"
+  }
+]

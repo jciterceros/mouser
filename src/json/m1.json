@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "M1",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B13",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "M1",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5256",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "M12",
+    "package": "SOT-23",
+    "deviceName": "SM12",
+    "manufacturer": "Semtech",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/sm05-sm36_20040712_semtech.pdf"
+  },
+  {
+    "smdCode": "M15",
+    "package": "SOT-23",
+    "deviceName": "SM15",
+    "manufacturer": "Semtech",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/sm05-sm36_20040712_semtech.pdf"
+  },
+  {
+    "smdCode": "M1501",
+    "package": "SO-8",
+    "deviceName": "MRFIC1501",
+    "manufacturer": "Motorola",
+    "data": "GPS GaAs Low Noise Amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/r/mrfic1501_motorola.pdf"
+  },
+  {
+    "smdCode": "M1=***",
+    "package": "SOT-23",
+    "deviceName": "RT9170-12GV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9170_richtek.pdf"
+  },
+  {
+    "smdCode": "M1B",
+    "package": "SOT-23",
+    "deviceName": "MMBT2222",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222_galaxy.pdf"
+  },
+  {
+    "smdCode": "M1F",
+    "package": "SOT-23",
+    "deviceName": "MMBT5550",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt5550_galaxy.pdf"
+  },
+  {
+    "smdCode": "M1J",
+    "package": "SOT-23",
+    "deviceName": "MMBT2369",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2369_galaxy.pdf"
+  },
+  {
+    "smdCode": "M1T",
+    "package": "SOT-323",
+    "deviceName": "ADM1811-5AKS",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M1T",
+    "package": "SOT-23",
+    "deviceName": "ADM1811-5ART",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M1V",
+    "package": "SOT-323",
+    "deviceName": "ADM1811-10AKS",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M1V",
+    "package": "SOT-23",
+    "deviceName": "ADM1811-10ART",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  }
+]

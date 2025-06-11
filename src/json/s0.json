@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "S0",
+    "package": "SOT-23",
+    "deviceName": "SST270",
+    "manufacturer": "Vishay",
+    "data": "P-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/2/j270%2C_j271%2C_sst270%2C_sst271_vishay.pdf"
+  },
+  {
+    "smdCode": "S002B",
+    "package": "LDA10A",
+    "deviceName": "LM2750LD-5.0",
+    "manufacturer": "National",
+    "data": "Capacitor Voltage Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2750_national.pdf"
+  },
+  {
+    "smdCode": "S003B",
+    "package": "LDA10A",
+    "deviceName": "LM2750LD-ADJ",
+    "manufacturer": "National",
+    "data": "Capacitor Voltage Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2750_national.pdf"
+  },
+  {
+    "smdCode": "S004B",
+    "package": "SDA10A",
+    "deviceName": "LM2750SD-ADJ",
+    "manufacturer": "National",
+    "data": "Capacitor Voltage Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2750_national.pdf"
+  },
+  {
+    "smdCode": "S005B",
+    "package": "SDA10A",
+    "deviceName": "LM2750SD-5.0",
+    "manufacturer": "National",
+    "data": "Capacitor Voltage Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2750_national.pdf"
+  },
+  {
+    "smdCode": "S01A",
+    "package": "MiniSO8",
+    "deviceName": "LM2660MM",
+    "manufacturer": "National",
+    "data": "Capacitor Voltage Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2660%2C_lm2661_national.pdf"
+  },
+  {
+    "smdCode": "S02A",
+    "package": "MiniSO8",
+    "deviceName": "LM2661MM",
+    "manufacturer": "National",
+    "data": "Capacitor Voltage Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2660%2C_lm2661_national.pdf"
+  },
+  {
+    "smdCode": "S04",
+    "package": "SOT-353",
+    "deviceName": "NC7S04P5X",
+    "manufacturer": "Fairchild",
+    "data": "Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7s04_fairchild.pdf"
+  },
+  {
+    "smdCode": "S01*",
+    "package": "SOT-89",
+    "deviceName": "DTDS14GP",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtds14gp_rohm.pdf"
+  }
+]

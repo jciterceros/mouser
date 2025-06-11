@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "S6",
+    "package": "SOD-882",
+    "deviceName": "BAS40L",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "S6",
+    "package": "SOD-123",
+    "deviceName": "SD103AW",
+    "manufacturer": "Vishay",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sd103aw%2C_sd103bw%2C_sd103cw_vishay.pdf"
+  },
+  {
+    "smdCode": "S6",
+    "package": "SOD-123",
+    "deviceName": "SD103CW",
+    "manufacturer": "MCC",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sd103aw%2C_sd103bw%2C_sd103cw_mcc.pdf"
+  },
+  {
+    "smdCode": "S6",
+    "package": "SOT-23",
+    "deviceName": "SST176",
+    "manufacturer": "Vishay",
+    "data": "P-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/1/j174-j177%2C_sst174-sst177_vishay.pdf"
+  },
+  {
+    "smdCode": "S60P",
+    "package": "SOT-23",
+    "deviceName": "MI3461",
+    "manufacturer": "MegaPower",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi3461_megapower.pdf"
+  }
+]

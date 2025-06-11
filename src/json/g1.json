@@ -1,0 +1,186 @@
+[
+  {
+    "smdCode": "G1",
+    "package": "SOT-23",
+    "deviceName": "BFS20",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs20_zetex.pdf"
+  },
+  {
+    "smdCode": "G1",
+    "package": "SOT-23",
+    "deviceName": "BFS20",
+    "manufacturer": "KEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf599%2C_bfs20_r2_kec.pdf"
+  },
+  {
+    "smdCode": "G1",
+    "package": "SOT-553",
+    "deviceName": "EMG1",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emg1%2C_fmg1a%2C_umg1n_rohm.pdf"
+  },
+  {
+    "smdCode": "G1",
+    "package": "SOT-753",
+    "deviceName": "FMG1A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emg1%2C_fmg1a%2C_umg1n_rohm.pdf"
+  },
+  {
+    "smdCode": "G1",
+    "package": "SOT-23",
+    "deviceName": "KST5551",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst5551_fairchild.pdf"
+  },
+  {
+    "smdCode": "G1",
+    "package": "SOT-23",
+    "deviceName": "MMBT5551",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt5551_galaxy.pdf"
+  },
+  {
+    "smdCode": "G1",
+    "package": "SOT-353",
+    "deviceName": "UMG1N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emg1%2C_fmg1a%2C_umg1n_rohm.pdf"
+  },
+  {
+    "smdCode": "G1**",
+    "package": "SOT-25",
+    "deviceName": "EUP7965-18VIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7965_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "G1**",
+    "package": "SOT-25",
+    "deviceName": "TC1188-TECT",
+    "manufacturer": "Microchip",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1188%2C_tc1189_20121026_microchip.pdf"
+  },
+  {
+    "smdCode": "G1***",
+    "package": "SOT-23",
+    "deviceName": "Si2351DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2351ds_vishay.pdf"
+  },
+  {
+    "smdCode": "G1-",
+    "package": "SOT-23",
+    "deviceName": "BFS20",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs20_nxp.pdf"
+  },
+  {
+    "smdCode": "G1-",
+    "package": "SOT-89",
+    "deviceName": "RT9161A-16PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "G1-***",
+    "package": "SOT-23",
+    "deviceName": "RT9166-33PVL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "G11",
+    "package": "SOT-346",
+    "deviceName": "DTB113ZK",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb113zk%2C_dtb113zs_rohm.pdf"
+  },
+  {
+    "smdCode": "G15N60",
+    "package": "TO-263-3",
+    "deviceName": "SGB15N60",
+    "manufacturer": "Infineon",
+    "data": "Fast IGBT",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sgb15n60_infineon.pdf"
+  },
+  {
+    "smdCode": "G15N60",
+    "package": "TO-220-3-1",
+    "deviceName": "SGP15N60",
+    "manufacturer": "Infineon",
+    "data": "Fast IGBT",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sgp15n60%2C_sgw15n60_infineon.pdf"
+  },
+  {
+    "smdCode": "G15N60",
+    "package": "TO-247-3-21",
+    "deviceName": "SGW15N60",
+    "manufacturer": "Infineon",
+    "data": "Fast IGBT",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/g/sgp15n60%2C_sgw15n60_infineon.pdf"
+  },
+  {
+    "smdCode": "G1=**",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9715BGQW",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "G1=***",
+    "package": "SOT-23",
+    "deviceName": "RT9166-33GVL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "G1F",
+    "package": "SOT-23",
+    "deviceName": "BC847B",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847b_rohm.pdf"
+  },
+  {
+    "smdCode": "G1W",
+    "package": "SOT-23",
+    "deviceName": "BFS20",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs20_nxp.pdf"
+  },
+  {
+    "smdCode": "G1p",
+    "package": "SOT-23",
+    "deviceName": "BFS20",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs20_nxp.pdf"
+  },
+  {
+    "smdCode": "G1t",
+    "package": "SOT-23",
+    "deviceName": "BFS20",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs20_nxp.pdf"
+  }
+]

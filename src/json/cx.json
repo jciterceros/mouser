@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "CX",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4692-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "CX",
+    "package": "SOD-323",
+    "deviceName": "PZU9.1B3A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "CX",
+    "package": "SMA",
+    "deviceName": "SMAJ48A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "CX",
+    "package": "SMB",
+    "deviceName": "SMBJ48CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "CX**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US41D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CX***",
+    "package": "SOT-25",
+    "deviceName": "LMV331W5",
+    "manufacturer": "Diodes",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lmv331%2C_lmv393_r2-2_diodes.pdf"
+  },
+  {
+    "smdCode": "CX-",
+    "package": "SOT-89",
+    "deviceName": "RT9261B-50PX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261b_richtek.pdf"
+  },
+  {
+    "smdCode": "CX-***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-48PV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "CX=",
+    "package": "SOT-89",
+    "deviceName": "RT9261B-50GX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261b_richtek.pdf"
+  },
+  {
+    "smdCode": "CX=**",
+    "package": "SOT-323",
+    "deviceName": "RT9818A-21GU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

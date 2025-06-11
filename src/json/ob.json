@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "OBE",
+    "package": "WSON-8 2x2",
+    "deviceName": "BQ24382DSGR",
+    "manufacturer": "Texas Instruments",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/q/bq24380%2C_bq24381%2C_bq24382_ti.pdf"
+  },
+  {
+    "smdCode": "OBT",
+    "package": "QFN-6 2x2",
+    "deviceName": "TPS61161ADRVR",
+    "manufacturer": "Texas Instruments",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61160a_tps61161a_rb_ti.pdf"
+  },
+  {
+    "smdCode": "OBV",
+    "package": "QFN-6 2x2",
+    "deviceName": "TPS61160ADRVR",
+    "manufacturer": "Texas Instruments",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61160a_tps61161a_rb_ti.pdf"
+  }
+]

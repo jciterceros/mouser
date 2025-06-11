@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "J9-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-28PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "J9=",
+    "package": "SOT-89",
+    "deviceName": "RT9166-33GXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  }
+]

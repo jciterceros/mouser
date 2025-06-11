@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "5M",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z22",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "5M",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z18V",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  }
+]

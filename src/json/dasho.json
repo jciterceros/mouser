@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "-O4",
+    "package": "SOT-23",
+    "deviceName": "PMBS3904",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbs3904_philips.pdf"
+  },
+  {
+    "smdCode": "-O6",
+    "package": "SOT-23",
+    "deviceName": "PMBS3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbs3906_20040202_nxp.pdf"
+  }
+]

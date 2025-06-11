@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "H8",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "H8",
+    "package": "SOT-26",
+    "deviceName": "IMH8A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/m/imh8a%2C_umh8n_rohm.pdf"
+  },
+  {
+    "smdCode": "H8",
+    "package": "SOD-323F",
+    "deviceName": "PZU5.1B2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "H8",
+    "package": "SOT-363",
+    "deviceName": "UMH8N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/m/imh8a%2C_umh8n_rohm.pdf"
+  },
+  {
+    "smdCode": "H8-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-25PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

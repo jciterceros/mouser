@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "HF",
+    "package": "SOT-23",
+    "deviceName": "2SC1815",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1815_galaxy.pdf"
+  },
+  {
+    "smdCode": "HF",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C27",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "HF",
+    "package": "SOT-23",
+    "deviceName": "C1815",
+    "manufacturer": "Rectron",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/1/c1815_20060829_rectron.pdf"
+  },
+  {
+    "smdCode": "HF",
+    "package": "SOD-323F",
+    "deviceName": "PZU10B2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "HF",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q351B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "HF-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-33PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "HF=***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-33GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "Hf",
+    "package": "SOT-23",
+    "deviceName": "BD48L50G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

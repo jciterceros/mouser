@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "8U",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5244",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "8U",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5244B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  }
+]

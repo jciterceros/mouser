@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "R0**",
+    "package": "SOT-89",
+    "deviceName": "ELM9730CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "R02",
+    "package": "SOT-346",
+    "deviceName": "DTC623TK",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc623tk%2C_dtc623tu_rohm.pdf"
+  },
+  {
+    "smdCode": "R02",
+    "package": "SOT-323",
+    "deviceName": "DTC623TU",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc623tk%2C_dtc623tu_rohm.pdf"
+  },
+  {
+    "smdCode": "R03",
+    "package": "SOT-346",
+    "deviceName": "DTC643TK",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc643tk%2C_dtc643tu_rohm.pdf"
+  },
+  {
+    "smdCode": "R03",
+    "package": "SOT-323",
+    "deviceName": "DTC643TU",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc643tk%2C_dtc643tu_rohm.pdf"
+  },
+  {
+    "smdCode": "R04",
+    "package": "SOT-346",
+    "deviceName": "DTC614TK",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc614tk%2C_dtc614tu_rohm.pdf"
+  },
+  {
+    "smdCode": "R04",
+    "package": "SOT-323",
+    "deviceName": "DTC614TU",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc614tk%2C_dtc614tu_rohm.pdf"
+  }
+]

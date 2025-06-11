@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "ZF",
+    "package": "SOT-666",
+    "deviceName": "2N7002PV",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002pv_nxp.pdf"
+  },
+  {
+    "smdCode": "ZF",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZF",
+    "package": "SOT-23",
+    "deviceName": "CZMK3.3",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "ZF",
+    "package": "SOT-23",
+    "deviceName": "MMBT4126",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n4126%2C_mmbt4126_fairchild.pdf"
+  },
+  {
+    "smdCode": "ZF",
+    "package": "SOD-323",
+    "deviceName": "PDZ10B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZF",
+    "package": "X2SON-4 1x1",
+    "deviceName": "TPS3839K33DQNR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps3831%2C_tps3839_rd_ti.pdf"
+  },
+  {
+    "smdCode": "ZF",
+    "package": "SOT-23",
+    "deviceName": "TZT3V3CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "Zf***",
+    "package": "SOT-25",
+    "deviceName": "AX3701BB",
+    "manufacturer": "Axelite",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax3701_r1.4_axelite.pdf"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "smdCode": "P2",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5267",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "P2",
+    "package": "SOT-553",
+    "deviceName": "NUP2114UPXV5T1G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup2114_series%2C_snup2114ucmr6t1g_on.pdf"
+  },
+  {
+    "smdCode": "P2",
+    "package": "SOT-23",
+    "deviceName": "SST202",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/2/j201%2C_j202%2C_j203%2C_sst201%2C_sst202%2C_sst204_vishay.pdf"
+  },
+  {
+    "smdCode": "P2*",
+    "package": "UDFN-6 1.6x1.6",
+    "deviceName": "NUP4212UPMU",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup4212upmu_on.pdf"
+  },
+  {
+    "smdCode": "P2**",
+    "package": "SOT-89",
+    "deviceName": "ELM9722CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "P2***",
+    "package": "SOT-23",
+    "deviceName": "Si2300DS",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2300ds_vishay.pdf"
+  },
+  {
+    "smdCode": "P2-",
+    "package": "SOT-23",
+    "deviceName": "BFR92A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr92a_nxp.pdf"
+  },
+  {
+    "smdCode": "P21",
+    "package": "SOT-416",
+    "deviceName": "DTD713ZE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd713ze%2C_dtd713zm_rohm.pdf"
+  },
+  {
+    "smdCode": "P21",
+    "package": "VMT3",
+    "deviceName": "DTD713ZM",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd713ze%2C_dtd713zm_rohm.pdf"
+  },
+  {
+    "smdCode": "P23",
+    "package": "SOT-416",
+    "deviceName": "DTD743ZE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd743ze%2C_dtd743zm_rohm.pdf"
+  },
+  {
+    "smdCode": "P23",
+    "package": "VMT3",
+    "deviceName": "DTD743ZM",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd743ze%2C_dtd743zm_rohm.pdf"
+  },
+  {
+    "smdCode": "P2310*",
+    "package": "SOP-8",
+    "deviceName": "PAM2310",
+    "manufacturer": "Diodes",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pam2310_diodes.pdf"
+  },
+  {
+    "smdCode": "P2321A",
+    "package": "TDFN-10 3x3",
+    "deviceName": "PAM2321",
+    "manufacturer": "Diodes",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pam2321_diodes.pdf"
+  },
+  {
+    "smdCode": "P28009",
+    "package": "ESOP-8",
+    "deviceName": "LP28009",
+    "manufacturer": "Lowpowersemi",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp28009_lowpowersemi.pdf"
+  },
+  {
+    "smdCode": "P2808",
+    "package": "SOP-8",
+    "deviceName": "PAM2808BLBR",
+    "manufacturer": "Diodes",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/a/pam2808_r2-2_diodes.pdf"
+  },
+  {
+    "smdCode": "P2M",
+    "package": "SOT-26",
+    "deviceName": "NUP2114UCMR6T1G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup2114_series%2C_snup2114ucmr6t1g_on.pdf"
+  },
+  {
+    "smdCode": "P2M",
+    "package": "SOT-26",
+    "deviceName": "SNUP2114UCMR6T1G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup2114_series%2C_snup2114ucmr6t1g_on.pdf"
+  },
+  {
+    "smdCode": "P2W",
+    "package": "SOT-23",
+    "deviceName": "BFR92A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr92a_nxp.pdf"
+  },
+  {
+    "smdCode": "P2p",
+    "package": "SOT-23",
+    "deviceName": "BFR92A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr92a_nxp.pdf"
+  },
+  {
+    "smdCode": "P2t",
+    "package": "SOT-23",
+    "deviceName": "BFR92A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr92a_nxp.pdf"
+  },
+  {
+    "smdCode": "p2A",
+    "package": "SOT-323",
+    "deviceName": "PMST3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmst3906_nxp.pdf"
+  },
+  {
+    "smdCode": "p2B",
+    "package": "SOT-23",
+    "deviceName": "PMBT2907",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt2907a%2C_pmbt2907a_nxp.pdf"
+  },
+  {
+    "smdCode": "p2D",
+    "package": "SOT-323",
+    "deviceName": "PMSTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmsta92_nxp.pdf"
+  },
+  {
+    "smdCode": "p2D",
+    "package": "SOT-89",
+    "deviceName": "PXTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/x/pxta92_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "p2E",
+    "package": "SOT-23",
+    "deviceName": "2N7002E",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002e_philips.pdf"
+  },
+  {
+    "smdCode": "p2F",
+    "package": "SOT-23",
+    "deviceName": "PMBT2907A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt2907a%2C_pmbt2907a_nxp.pdf"
+  },
+  {
+    "smdCode": "p2F",
+    "package": "SOT-89",
+    "deviceName": "PXT2907A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/x/pxt2907a_galaxy.pdf"
+  },
+  {
+    "smdCode": "p2K",
+    "package": "SOT-23",
+    "deviceName": "2N7002K",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_philips.pdf"
+  },
+  {
+    "smdCode": "p2L",
+    "package": "SOT-23",
+    "deviceName": "PMBT5401",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt5401_2004.01.21_nxp.pdf"
+  },
+  {
+    "smdCode": "p2X",
+    "package": "SOT-23",
+    "deviceName": "PMBT4401",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt4401_philips.pdf"
+  }
+]

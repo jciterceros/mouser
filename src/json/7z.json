@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "7Z",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2551",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "7Z08",
+    "package": "SOT-25",
+    "deviceName": "NC7SZ08M5X",
+    "manufacturer": "Fairchild",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7sz08_fairchild.pdf"
+  },
+  {
+    "smdCode": "7Z25",
+    "package": "SOT-25",
+    "deviceName": "NC7SZ125M5X",
+    "manufacturer": "Fairchild",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7sz125_fairchild.pdf"
+  }
+]

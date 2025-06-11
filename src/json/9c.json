@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "9CA",
+    "package": "SOT-23",
+    "deviceName": "BC858AMTF",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856-bc860_fairchild.pdf"
+  },
+  {
+    "smdCode": "9CB",
+    "package": "SOT-23",
+    "deviceName": "BC858BMTF",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856-bc860_fairchild.pdf"
+  },
+  {
+    "smdCode": "9CC",
+    "package": "SOT-23",
+    "deviceName": "BC858CMTF",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856-bc860_fairchild.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "93",
+    "package": "SOT-490",
+    "deviceName": "DTA143TEB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta143teb_rohm.pdf"
+  },
+  {
+    "smdCode": "93-2",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL6293-2CR",
+    "manufacturer": "Intersil",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6293_20060104_intersil.pdf"
+  },
+  {
+    "smdCode": "932Z",
+    "package": "DFN-10 3x3",
+    "deviceName": "ISL6293-2CRZ",
+    "manufacturer": "Intersil",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6293_20060104_intersil.pdf"
+  },
+  {
+    "smdCode": "93K17L",
+    "package": "QFN-20",
+    "deviceName": "ICS1493-17",
+    "manufacturer": "IDT",
+    "data": "Clock Synthesizer For Portable Systems",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/c/ics1493-17_idt.pdf"
+  }
+]

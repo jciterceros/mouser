@@ -1,0 +1,170 @@
+[
+  {
+    "smdCode": "C7",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B4V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "C7",
+    "package": "SON-6 1,45 x 1",
+    "deviceName": "SN74LVC1G17DRY2",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7",
+    "package": "SON-6 1 x 1",
+    "deviceName": "SN74LVC1G17DSF2",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7",
+    "package": "BGA-4 0,9 x 0,9",
+    "deviceName": "SN74LVC1G17YZVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7*",
+    "package": "VDFN-6 2x2",
+    "deviceName": "RT9193-28PQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "C7-**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9014A-JPPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "C70",
+    "package": "SOT-23",
+    "deviceName": "BS870",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bs870_diodes.pdf"
+  },
+  {
+    "smdCode": "C75",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G17DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C77",
+    "package": "SOT-553",
+    "deviceName": "SN74LVC1G17DRLR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C77",
+    "package": "BGA-5 1,4 x 0,9",
+    "deviceName": "SN74LVC1G17YZPR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7=***",
+    "package": "SOT-26",
+    "deviceName": "RT9293B-20GJ6",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9293_richtek.pdf"
+  },
+  {
+    "smdCode": "C7F",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G17DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7H",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G17DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7K",
+    "package": "SOT-23",
+    "deviceName": "2N7002K",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_diodes.pdf"
+  },
+  {
+    "smdCode": "C7K",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G17DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7N",
+    "package": "BGA-5 1,4 x 0,9",
+    "deviceName": "SN74LVC1G17YZPR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7P",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G17DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7R",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G17DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7R",
+    "package": "SOT-553",
+    "deviceName": "SN74LVC1G17DRLR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7S",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G17DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "C7T",
+    "package": "SOT-353",
+    "deviceName": "SN74LVC1G17DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  }
+]

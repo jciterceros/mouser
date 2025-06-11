@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "K4",
+    "package": "SOT-23",
+    "deviceName": "BCW71R",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw71%2C_bcw72_zetex.pdf"
+  },
+  {
+    "smdCode": "K4",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "K4",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5254",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "K4***",
+    "package": "SOT-23",
+    "deviceName": "TP0101K",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tp0101k_vishay.pdf"
+  },
+  {
+    "smdCode": "K4-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819G-29PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "K401",
+    "package": "SOT-25",
+    "deviceName": "TS321I",
+    "manufacturer": "STMicroelectronics",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st321_st.pdf"
+  },
+  {
+    "smdCode": "K402",
+    "package": "SOT-25",
+    "deviceName": "TS321AI",
+    "manufacturer": "STMicroelectronics",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st321_st.pdf"
+  },
+  {
+    "smdCode": "K43",
+    "package": "SOT-23",
+    "deviceName": "BAS40",
+    "manufacturer": "Diodes",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_diodes.pdf"
+  },
+  {
+    "smdCode": "K43",
+    "package": "SOT-363",
+    "deviceName": "BAS40TW",
+    "manufacturer": "TIP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40tw_tip.pdf"
+  },
+  {
+    "smdCode": "K44",
+    "package": "SOT-23",
+    "deviceName": "BAS40-04",
+    "manufacturer": "Diodes",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_diodes.pdf"
+  },
+  {
+    "smdCode": "K45",
+    "package": "SOT-23",
+    "deviceName": "BAS40-05",
+    "manufacturer": "Diodes",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_diodes.pdf"
+  },
+  {
+    "smdCode": "K46",
+    "package": "SOT-23",
+    "deviceName": "BAS40-06",
+    "manufacturer": "Diodes",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_diodes.pdf"
+  },
+  {
+    "smdCode": "K46",
+    "package": "SOT-363",
+    "deviceName": "MMDT3946",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdt3946_galaxy.pdf"
+  },
+  {
+    "smdCode": "K4M",
+    "package": "SOT-363",
+    "deviceName": "MMDT5401",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdt5401_galaxy.pdf"
+  },
+  {
+    "smdCode": "K4M",
+    "package": "SOT-323",
+    "deviceName": "MMST5401",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst5401_galaxy.pdf"
+  },
+  {
+    "smdCode": "K4N",
+    "package": "SOT-363",
+    "deviceName": "MMDT5551",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdt5551_galaxy.pdf"
+  },
+  {
+    "smdCode": "K4N",
+    "package": "SOT-323",
+    "deviceName": "MMST5551",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmst5551_galaxy.pdf"
+  }
+]

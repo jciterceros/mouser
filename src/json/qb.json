@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "QB",
+    "package": "SOD-123",
+    "deviceName": "KDZ7.5B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "QB",
+    "package": "SOT-346",
+    "deviceName": "RN1422",
+    "manufacturer": "Toshiba",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn1421%2C_rn1422%2C_rn1423%2C_rn1424%2C_rn1425%2C_rn1426%2C_rn1427_toshiba.pdf"
+  },
+  {
+    "smdCode": "QB**",
+    "package": "SOT-363",
+    "deviceName": "Si1905DL",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1905dl_vishay.pdf"
+  },
+  {
+    "smdCode": "Qb",
+    "package": "SOT-25",
+    "deviceName": "BD53E30G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

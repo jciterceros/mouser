@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "MQ=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-41GVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "MQJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB75",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "-70",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B16",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-71",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B18",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-72",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B20",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-73",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B22",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-74",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B24",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-75",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A27",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "-7C",
+    "package": "SOT-323",
+    "deviceName": "PDTA115EU",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "-7F",
+    "package": "SOT-23",
+    "deviceName": "2N7002F",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002f_philips.pdf"
+  },
+  {
+    "smdCode": "-7R",
+    "package": "SOT-23",
+    "deviceName": "PDTD113ET",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtd113ek%2C_pdtd113es%2C_pdtd113et_nxp.pdf"
+  },
+  {
+    "smdCode": "-7T",
+    "package": "SOT-23",
+    "deviceName": "PDTD123ET",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtd123ek%2C_pdtd123es%2C_pdtd123et_nxp.pdf"
+  },
+  {
+    "smdCode": "-7V",
+    "package": "SOT-23",
+    "deviceName": "PDTD113ZT",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtd113zt_nxp.pdf"
+  },
+  {
+    "smdCode": "-7X",
+    "package": "SOT-23",
+    "deviceName": "PDTD123YT",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtd123yk%2C_pdtd123ys%2C_pdtd123yt_nxp.pdf"
+  }
+]

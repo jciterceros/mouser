@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "B3",
+    "package": "SOT-23",
+    "deviceName": "1SS184",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss184_galaxy.pdf"
+  },
+  {
+    "smdCode": "B3",
+    "package": "SOT-23",
+    "deviceName": "1SS184",
+    "manufacturer": "TIP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss184_tip.pdf"
+  },
+  {
+    "smdCode": "B3",
+    "package": "SOT-25",
+    "deviceName": "BD4727G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "B3",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "B3",
+    "package": "EMT6",
+    "deviceName": "EMB3",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emb3%2C_imb3a%2C_umb3n_rohm.pdf"
+  },
+  {
+    "smdCode": "B3",
+    "package": "SOT-26",
+    "deviceName": "IMB3A",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emb3%2C_imb3a%2C_umb3n_rohm.pdf"
+  },
+  {
+    "smdCode": "B3",
+    "package": "SOD-123",
+    "deviceName": "SS0530",
+    "manufacturer": "WTE",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ss0520-ss0540_wte.pdf"
+  },
+  {
+    "smdCode": "B3",
+    "package": "SOT-363",
+    "deviceName": "UMB3N",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emb3%2C_imb3a%2C_umb3n_rohm.pdf"
+  },
+  {
+    "smdCode": "B3*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9013-15PQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "B3**",
+    "package": "SOT-25",
+    "deviceName": "Si9183DT-285-T1",
+    "manufacturer": "Vishay",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si9183_vishay.pdf"
+  },
+  {
+    "smdCode": "B3-",
+    "package": "SOT-89",
+    "deviceName": "RT9169-14PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "B3-***",
+    "package": "SOT-26",
+    "deviceName": "RT9010-25PJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9010_richtek.pdf"
+  },
+  {
+    "smdCode": "B3-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198T-28PU5R",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198t_richtek.pdf"
+  }
+]

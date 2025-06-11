@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "E2",
+    "package": "SOD-523F",
+    "deviceName": "1N4448WT",
+    "manufacturer": "Fairchild",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/n/1n914bwt%2C_1n4148wt%2C_1n4448wt_fairchild.pdf"
+  },
+  {
+    "smdCode": "E2",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B22",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "E2",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "E2",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5232",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "E2",
+    "package": "SOT-883",
+    "deviceName": "PDTC143XM",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143xe%2C_pdtc143xef%2C_pdtc143xk%2C_pdtc143xm%2C_pdtc143xs%2C_pdtc143xt%2C_pdtc143xu_nxp.pdf"
+  },
+  {
+    "smdCode": "E2",
+    "package": "DSBGA-5",
+    "deviceName": "TPS73028YZQR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps730_rj_ti.pdf"
+  },
+  {
+    "smdCode": "E2",
+    "package": "SOD-323",
+    "deviceName": "UDZS6.2B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "E2*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9012-FMPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9012_richtek.pdf"
+  },
+  {
+    "smdCode": "E2**",
+    "package": "SOT-26",
+    "deviceName": "TC1072-2.7VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "E2-",
+    "package": "SOT-363",
+    "deviceName": "BGA2712",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/g/bga2712_philips.pdf"
+  },
+  {
+    "smdCode": "E2-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-17PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "E25",
+    "package": "SOT-25",
+    "deviceName": "SP6200EM5-2-5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "E27",
+    "package": "SOT-25",
+    "deviceName": "SP6200EM5-2-7",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "E285",
+    "package": "SOT-25",
+    "deviceName": "SP6200EM5-2-85",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "E2C",
+    "package": "SOT-25",
+    "deviceName": "LX8211A",
+    "manufacturer": "Microsemi",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/x/lx8211a_microsemi.pdf"
+  }
+]

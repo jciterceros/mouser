@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "7A",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2513",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "7A **",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8243BZQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8243a%2C_rt8243b%2C_rt8243c_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "7A-",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904_nxp.pdf"
+  },
+  {
+    "smdCode": "7A5",
+    "package": "SOT-346",
+    "deviceName": "PZM7.5NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "7AW",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904_nxp.pdf"
+  },
+  {
+    "smdCode": "7Ap",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904_nxp.pdf"
+  },
+  {
+    "smdCode": "7At",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904_nxp.pdf"
+  }
+]

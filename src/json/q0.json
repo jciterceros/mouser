@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "Q0170RA",
+    "package": "DIP-8",
+    "deviceName": "FSQ0170RNA",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsq0170rna%2C_fsq0270rna_fairchild.pdf"
+  },
+  {
+    "smdCode": "Q0270RA",
+    "package": "DIP-8",
+    "deviceName": "FSQ0270RNA",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsq0170rna%2C_fsq0270rna_fairchild.pdf"
+  },
+  {
+    "smdCode": "Q0370RA",
+    "package": "LSOP-8",
+    "deviceName": "FSQ0370RLA",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsq0370rla%2C_fsq0370rna_fairchild.pdf"
+  },
+  {
+    "smdCode": "Q0370RA",
+    "package": "DIP-8",
+    "deviceName": "FSQ0370RNA",
+    "manufacturer": "Fairchild",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsq0370rla%2C_fsq0370rna_fairchild.pdf"
+  }
+]

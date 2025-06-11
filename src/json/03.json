@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "03",
+    "package": "SOT-23",
+    "deviceName": "DTC143TCA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114tca_dtc143tca_dtc144tca_galaxy.pdf"
+  },
+  {
+    "smdCode": "03",
+    "package": "SOT-490",
+    "deviceName": "DTC143TEB",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc143teb_rohm.pdf"
+  },
+  {
+    "smdCode": "03",
+    "package": "SOT-416",
+    "deviceName": "PDTA114EE",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta114e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "03",
+    "package": "SOT-23",
+    "deviceName": "PSOT03",
+    "manufacturer": "Protek",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  },
+  {
+    "smdCode": "03**",
+    "package": "SOT-23",
+    "deviceName": "MT3401",
+    "manufacturer": "Mos-Tech",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt3401_mos-tech.pdf"
+  },
+  {
+    "smdCode": "030N03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC030N03LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc030n03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "030N03MS",
+    "package": "TDSON-8",
+    "deviceName": "BSC030N03MS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc030n03msg_infineon.pdf"
+  },
+  {
+    "smdCode": "030N04NS",
+    "package": "TDSON-8",
+    "deviceName": "BSC030N04NS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc030n04nsg_infineon.pdf"
+  },
+  {
+    "smdCode": "035N04LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC035N04LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc035n04lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "036N04L",
+    "package": "TO-252-3",
+    "deviceName": "IPD036N04L G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipd036n04l_g_infineon.pdf"
+  },
+  {
+    "smdCode": "03C",
+    "package": "SOT-23",
+    "deviceName": "PSOT03C",
+    "manufacturer": "Protek",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "ML",
+    "package": "SOD-323",
+    "deviceName": "PZU36BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ML=***",
+    "package": "SOT-23",
+    "deviceName": "RT9819A-23GVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "MLJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB62",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  }
+]

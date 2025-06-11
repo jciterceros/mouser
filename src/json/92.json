@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "92",
+    "package": "SOD-323",
+    "deviceName": "UDZS4.7B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "920A*",
+    "package": "SOT-25",
+    "deviceName": "G920AT11U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  },
+  {
+    "smdCode": "920A4",
+    "package": "SOT-89",
+    "deviceName": "G920AT24U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  },
+  {
+    "smdCode": "920A5",
+    "package": "SOT-89",
+    "deviceName": "G920AT25U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  },
+  {
+    "smdCode": "920B*",
+    "package": "SOT-25",
+    "deviceName": "G920BT11U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  },
+  {
+    "smdCode": "920B4",
+    "package": "SOT-89",
+    "deviceName": "G920BT24U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  },
+  {
+    "smdCode": "920B5",
+    "package": "SOT-89",
+    "deviceName": "G920BT25U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  },
+  {
+    "smdCode": "920C*",
+    "package": "SOT-25",
+    "deviceName": "G920CT11U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  },
+  {
+    "smdCode": "920C4",
+    "package": "SOT-89",
+    "deviceName": "G920CT24U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  },
+  {
+    "smdCode": "920C5",
+    "package": "SOT-89",
+    "deviceName": "G920CT25U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  },
+  {
+    "smdCode": "920D*",
+    "package": "SOT-25",
+    "deviceName": "G920AT12U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  },
+  {
+    "smdCode": "920E*",
+    "package": "SOT-25",
+    "deviceName": "G920BT12U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  },
+  {
+    "smdCode": "920F*",
+    "package": "SOT-25",
+    "deviceName": "G920CT12U",
+    "manufacturer": "GMT",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/9/g920_gmt.pdf"
+  }
+]

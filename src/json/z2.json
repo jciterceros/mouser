@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "Z2",
+    "package": "SOT-89",
+    "deviceName": "BZV49C5V1",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_zetex.pdf"
+  },
+  {
+    "smdCode": "Z2",
+    "package": "SOT-23",
+    "deviceName": "BZX84C5V1",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "Z2",
+    "package": "SOT-23",
+    "deviceName": "BZX84C5V1-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84-v-series_vishay.pdf"
+  },
+  {
+    "smdCode": "Z2",
+    "package": "SOT-23",
+    "deviceName": "BZX84C5V1LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z2",
+    "package": "EMT6",
+    "deviceName": "EMZ2",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emz2%2C_imz2a%2C_umz2n_rohm.pdf"
+  },
+  {
+    "smdCode": "Z2",
+    "package": "SOT-26",
+    "deviceName": "IMZ2A",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emz2%2C_imz2a%2C_umz2n_rohm.pdf"
+  },
+  {
+    "smdCode": "Z2",
+    "package": "SOD-323",
+    "deviceName": "PDZ3.0B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Z2",
+    "package": "SOT-23",
+    "deviceName": "SSTJ212",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/2/j210%2C_j211%2C_j212%2C_sstj211%2C_sstj212_vishay.pdf"
+  },
+  {
+    "smdCode": "Z2",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84C5V1LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "Z2",
+    "package": "SOT-363",
+    "deviceName": "UMZ2N",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emz2%2C_imz2a%2C_umz2n_rohm.pdf"
+  },
+  {
+    "smdCode": "Z2-",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C5V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "Z25",
+    "package": "SOT-353",
+    "deviceName": "NC7SZ125P5X",
+    "manufacturer": "Fairchild",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7sz125_fairchild.pdf"
+  },
+  {
+    "smdCode": "Z2U",
+    "package": "SOT-23",
+    "deviceName": "FMMTA63",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmta63%2C_fmmta64_zetex.pdf"
+  },
+  {
+    "smdCode": "Z2V",
+    "package": "SOT-23",
+    "deviceName": "FMMTA64",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmta63%2C_fmmta64_zetex.pdf"
+  },
+  {
+    "smdCode": "Z2W",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C5V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "Z2Z",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA5V1",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  },
+  {
+    "smdCode": "Z2p",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C5V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "Z2t",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C5V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

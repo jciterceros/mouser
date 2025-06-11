@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "TO",
+    "package": "SOT-23",
+    "deviceName": "2SK302",
+    "manufacturer": "Toshiba",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk302_toshiba.pdf"
+  },
+  {
+    "smdCode": "tO4",
+    "package": "SOT-23",
+    "deviceName": "PMBS3904",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbs3904_philips.pdf"
+  },
+  {
+    "smdCode": "tO6",
+    "package": "SOT-23",
+    "deviceName": "PMBS3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbs3906_20040202_nxp.pdf"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "XX",
+    "package": "SOT-89",
+    "deviceName": "2SD2678",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2678_rohm.pdf"
+  },
+  {
+    "smdCode": "XX",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B68",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XX",
+    "package": "SOT-23",
+    "deviceName": "BZX99-C10",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx99_philips.pdf"
+  },
+  {
+    "smdCode": "XX",
+    "package": "UDFN-6 1.6x1.6",
+    "deviceName": "NUP3112UPMU",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup3112upmu_on.pdf"
+  },
+  {
+    "smdCode": "XX",
+    "package": "SOD-323",
+    "deviceName": "PZU3.3B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XX",
+    "package": "SMA",
+    "deviceName": "SMAJ22CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  }
+]

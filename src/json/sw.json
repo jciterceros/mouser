@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "SW",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "SW",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP131K521A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  }
+]

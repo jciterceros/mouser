@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "J6",
+    "package": "SOT-323",
+    "deviceName": "M1MA174",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/1/m1ma174_galaxy.pdf"
+  },
+  {
+    "smdCode": "J6",
+    "package": "SOT-23",
+    "deviceName": "S9014",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/9/s9014_galaxy.pdf"
+  },
+  {
+    "smdCode": "J6",
+    "package": "SOT-323",
+    "deviceName": "S9014W",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/9/s9014w_galaxy.pdf"
+  },
+  {
+    "smdCode": "J6-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-18PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "J6-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-18PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "J6=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-18GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "J6A",
+    "package": "SOT-23",
+    "deviceName": "ZC835A",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J6B",
+    "package": "SOT-23",
+    "deviceName": "ZC835B",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J6S",
+    "package": "SOT-23",
+    "deviceName": "ZC835",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "GL",
+    "package": "SOT-553",
+    "deviceName": "BD4950FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GL",
+    "package": "SOT-25",
+    "deviceName": "BD4950G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "GL",
+    "package": "SOD-323F",
+    "deviceName": "PZU12B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "GL=**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9018A-18GQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9018a%2C_rt9018b_r09_richtek.pdf"
+  }
+]

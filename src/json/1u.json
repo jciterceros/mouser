@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "1U",
+    "package": "SOT-23",
+    "deviceName": "KST2484",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst2484_fairchild.pdf"
+  },
+  {
+    "smdCode": "1U=***",
+    "package": "SOT-25",
+    "deviceName": "RT9715HGB",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  }
+]

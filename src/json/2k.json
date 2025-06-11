@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "2K",
+    "package": "SOT-23",
+    "deviceName": "FMMT4402",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt4402%2C_fmmt4403_zetex.pdf"
+  },
+  {
+    "smdCode": "2K",
+    "package": "DSBGA-12",
+    "deviceName": "TXB0104YZTR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txb0104_rg_ti.pdf"
+  },
+  {
+    "smdCode": "2K***",
+    "package": "SOT-23",
+    "deviceName": "TP0202K",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tp0202k_vishay.pdf"
+  },
+  {
+    "smdCode": "2K7",
+    "package": "DSBGA-12",
+    "deviceName": "TXB0104YZTR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txb0104_rg_ti.pdf"
+  },
+  {
+    "smdCode": "2KR",
+    "package": "UQFN-12",
+    "deviceName": "TXB0104RUTR",
+    "manufacturer": "Texas Instruments",
+    "data": "Voltage-Level Translator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/x/txb0104_rg_ti.pdf"
+  }
+]

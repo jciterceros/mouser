@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "S5",
+    "package": "SOT-23",
+    "deviceName": "CJ2305",
+    "manufacturer": "JCST",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/j/cj2305_jcst.pdf"
+  },
+  {
+    "smdCode": "S5",
+    "package": "SOD-123",
+    "deviceName": "SD103BW",
+    "manufacturer": "MCC",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sd103aw%2C_sd103bw%2C_sd103cw_mcc.pdf"
+  },
+  {
+    "smdCode": "S5",
+    "package": "SOT-23",
+    "deviceName": "SST175",
+    "manufacturer": "Vishay",
+    "data": "P-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/1/j174-j177%2C_sst174-sst177_vishay.pdf"
+  },
+  {
+    "smdCode": "S5**",
+    "package": "SOT-89",
+    "deviceName": "ELM9745CAA",
+    "manufacturer": "ELM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm97xxxxa_elm.pdf"
+  },
+  {
+    "smdCode": "S52A",
+    "package": "SOT-25",
+    "deviceName": "LM2733XMF",
+    "manufacturer": "National",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2733_national.pdf"
+  },
+  {
+    "smdCode": "S52B",
+    "package": "SOT-25",
+    "deviceName": "LM2733YMF",
+    "manufacturer": "National",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2733_national.pdf"
+  },
+  {
+    "smdCode": "S59B",
+    "package": "SOT-25",
+    "deviceName": "LM2705MFX-ADJ",
+    "manufacturer": "National",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2705mfx_national.pdf"
+  }
+]

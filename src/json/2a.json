@@ -1,0 +1,202 @@
+[
+  {
+    "smdCode": "2A",
+    "package": "SOT-23",
+    "deviceName": "FMMT3906",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt3905%2C_fmmt3906_zetex.pdf"
+  },
+  {
+    "smdCode": "2A",
+    "package": "SOT-23",
+    "deviceName": "KST3906",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst3906_fairchild.pdf"
+  },
+  {
+    "smdCode": "2A",
+    "package": "SOT-23",
+    "deviceName": "MMBT3906",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n3906%2C_mmbt3906%2C_pzt3906_fairchild.pdf"
+  },
+  {
+    "smdCode": "2A",
+    "package": "SOT-23",
+    "deviceName": "MMBT3906",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_galaxy.pdf"
+  },
+  {
+    "smdCode": "2A",
+    "package": "SOT-23",
+    "deviceName": "MMBT3906",
+    "manufacturer": "Taitron",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_rb_taitron.pdf"
+  },
+  {
+    "smdCode": "2A*",
+    "package": "WL-CSP5",
+    "deviceName": "FAN5350UCX",
+    "manufacturer": "Fairchild",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/a/fan5350_r1.0.5_fairchild.pdf"
+  },
+  {
+    "smdCode": "2A***",
+    "package": "SOT-23",
+    "deviceName": "Si2302ADS",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2302ads_rj_vishay.pdf"
+  },
+  {
+    "smdCode": "2A18",
+    "package": "SOT-25",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "2A20",
+    "package": "SOT-25",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "2A25",
+    "package": "SOT-25",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "2A30",
+    "package": "SOT-25",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "2A35",
+    "package": "SOT-25",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "2A4",
+    "package": "SOT-346",
+    "deviceName": "PZM2.4NBA",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "2A40",
+    "package": "SOT-25",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "2A45",
+    "package": "SOT-25",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "2A50",
+    "package": "SOT-25",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "2A55",
+    "package": "SOT-25",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "2A60",
+    "package": "SOT-25",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "2A7",
+    "package": "SOT-346",
+    "deviceName": "PZM2.7NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "2AG",
+    "package": "SOT-23",
+    "deviceName": "MMBT3906G-AE3",
+    "manufacturer": "UTC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_utc.pdf"
+  },
+  {
+    "smdCode": "2AG",
+    "package": "SOT-323",
+    "deviceName": "MMBT3906G-AL3",
+    "manufacturer": "UTC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_utc.pdf"
+  },
+  {
+    "smdCode": "2AG",
+    "package": "SOT-523",
+    "deviceName": "MMBT3906G-AN3",
+    "manufacturer": "UTC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_utc.pdf"
+  },
+  {
+    "smdCode": "2AL",
+    "package": "SOT-23",
+    "deviceName": "MMBT3906L-AE3",
+    "manufacturer": "UTC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_utc.pdf"
+  },
+  {
+    "smdCode": "2AL",
+    "package": "SOT-323",
+    "deviceName": "MMBT3906L-AL3",
+    "manufacturer": "UTC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_utc.pdf"
+  },
+  {
+    "smdCode": "2AL",
+    "package": "SOT-523",
+    "deviceName": "MMBT3906L-AN3",
+    "manufacturer": "UTC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3906_utc.pdf"
+  }
+]

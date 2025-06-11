@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "RG",
+    "package": "SMB",
+    "deviceName": "1SMA13AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "RG",
+    "package": "SOD-323",
+    "deviceName": "PZU5.6B1A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RG",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K181A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RG",
+    "package": "SMA",
+    "deviceName": "SMAJ58A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "RG***",
+    "package": "SOT-26",
+    "deviceName": "TS19705CX6",
+    "manufacturer": "TS",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts19705_ra14_ts.pdf"
+  },
+  {
+    "smdCode": "RG-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B62",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RG-***",
+    "package": "SOT-25",
+    "deviceName": "RT9170-28PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9170_richtek.pdf"
+  },
+  {
+    "smdCode": "RG=***",
+    "package": "SOT-25",
+    "deviceName": "RT9170-28GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9170_richtek.pdf"
+  },
+  {
+    "smdCode": "RGW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B62",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RGp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B62",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RGs",
+    "package": "SOT-23",
+    "deviceName": "BFR182",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr182_infineon.pdf"
+  },
+  {
+    "smdCode": "RGt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B62",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Rg",
+    "package": "SOT-25",
+    "deviceName": "BD53E49G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

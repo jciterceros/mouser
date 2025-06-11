@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "4B",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z2V2",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "4B=**",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8207PGQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8207p_r01_richtek.pdf"
+  },
+  {
+    "smdCode": "4Bs",
+    "package": "SOT-23",
+    "deviceName": "BC859B",
+    "manufacturer": "Infineon",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc856-bc860_infineon.pdf"
+  }
+]

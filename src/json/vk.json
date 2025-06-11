@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "VK",
+    "package": "SOD-323",
+    "deviceName": "PZU12BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VK",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K201D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VK",
+    "package": "SMA",
+    "deviceName": "SMAJ130CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "VK-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B5V6",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VKL*",
+    "package": "SOT-23",
+    "deviceName": "CAX803LTBI-T3",
+    "manufacturer": "ON",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/a/cax803_cax809_cax810_r1_on.pdf"
+  },
+  {
+    "smdCode": "VKW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B5V6",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VKp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B5V6",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VKt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B5V6",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

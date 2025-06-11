@@ -1,0 +1,322 @@
+[
+  {
+    "smdCode": "81**",
+    "package": "SOT-26",
+    "deviceName": "STP3481S6RG",
+    "manufacturer": "Stanson",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stp3481_stanson.pdf"
+  },
+  {
+    "smdCode": "81172",
+    "package": "QFN-24 4x4",
+    "deviceName": "NCP81172MNTXG",
+    "manufacturer": "ON",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp81172_r1_on.pdf"
+  },
+  {
+    "smdCode": "8131",
+    "package": "2-3X1S",
+    "deviceName": "TPCC8131",
+    "manufacturer": "Toshiba",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpcc8131_r3.0_toshiba.pdf"
+  },
+  {
+    "smdCode": "81A",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5250B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81A",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5250",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81A",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5250B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "81B",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5251B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81B",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5251",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81B",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5251B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "81C",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5252B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81C",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5252",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81C",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5252B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "81D",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5253B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81D",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5253",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81D",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5253B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "81E",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5254B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81E",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5254",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81E",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5254B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "81F",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5255B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81F",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5255",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81F",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5255B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "81G",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5256B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81G",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5256",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81G",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5256B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "81H",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5257B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81H",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5257",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81H",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5257B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "81J",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5258B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81J",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5258",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81K",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5259B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81K",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5259",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81L",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5260B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81M",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5261B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "81M",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5261",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81N",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5262",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81P",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5263",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81Q",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5264",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81R",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5265",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81S",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5266",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "81T",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5267",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  }
+]

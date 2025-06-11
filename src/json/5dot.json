@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "5.1",
+    "package": "SOT-23",
+    "deviceName": "ZD5.1-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "5.1",
+    "package": "SOD-323",
+    "deviceName": "ZD5.1-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "5.6",
+    "package": "SOT-23",
+    "deviceName": "ZD5.6-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "5.6",
+    "package": "SOD-323",
+    "deviceName": "ZD5.6-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "CS",
+    "package": "SOT-23",
+    "deviceName": "2SA733",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa733_galaxy.pdf"
+  },
+  {
+    "smdCode": "CS",
+    "package": "SOT-23",
+    "deviceName": "2SA733LT1",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa733lt1_tip.pdf"
+  },
+  {
+    "smdCode": "CS",
+    "package": "SOD-323",
+    "deviceName": "PZU8.2B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "CS**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US46D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CS-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-27PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "CS=***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-27GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  }
+]

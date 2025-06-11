@@ -1,0 +1,322 @@
+[
+  {
+    "smdCode": "52",
+    "package": "SOT-416",
+    "deviceName": "DTA123YE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123ye%2C_dta123yka%2C_dta123ysa%2C_dta123yua_rohm.pdf"
+  },
+  {
+    "smdCode": "52",
+    "package": "SOT-346",
+    "deviceName": "DTA123YKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123ye%2C_dta123yka%2C_dta123ysa%2C_dta123yua_rohm.pdf"
+  },
+  {
+    "smdCode": "52",
+    "package": "SOT-323",
+    "deviceName": "DTA123YUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123ye%2C_dta123yka%2C_dta123ysa%2C_dta123yua_rohm.pdf"
+  },
+  {
+    "smdCode": "52",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z3V0",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "52",
+    "package": "SOT-346",
+    "deviceName": "PDTC143TK",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc143t_series_nxp.pdf"
+  },
+  {
+    "smdCode": "52",
+    "package": "SOD-523",
+    "deviceName": "ZV952V2TA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Varactor Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsd273ta%2C_zmdc953ta%2C_zv950v2ta%2C_zv952v2ta%2C_zv953v2ta_zetex.pdf"
+  },
+  {
+    "smdCode": "52**",
+    "package": "SOT-25",
+    "deviceName": "G5111T12",
+    "manufacturer": "GMT",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5111_r1.1_gmt.pdf"
+  },
+  {
+    "smdCode": "52***",
+    "package": "SOT-26",
+    "deviceName": "TS1052CX6",
+    "manufacturer": "TS",
+    "data": "Voltage and Current Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts1052_ra12_ts.pdf"
+  },
+  {
+    "smdCode": "52-",
+    "package": "SOT-323",
+    "deviceName": "PBSS4160U",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/b/pbss4160u_nxp.pdf"
+  },
+  {
+    "smdCode": "523A*",
+    "package": "SOT-25",
+    "deviceName": "G5243AT11U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5243a_gmt.pdf"
+  },
+  {
+    "smdCode": "5244x",
+    "package": "SOT-25",
+    "deviceName": "G5244T11U",
+    "manufacturer": "GMT",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5244_r0.4_gmt.pdf"
+  },
+  {
+    "smdCode": "52AC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852ACRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52AI",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852AIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52BC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852BCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52BI",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852BIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52CC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852CCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52CI",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852CIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52DC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852DCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52DI",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852DIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52EC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852ECRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52EI",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852EIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52FC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852FCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52FI",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852FIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52GC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852GCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52GI",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852GIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52HC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852HCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52HI",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852HIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52IC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852ICRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52II",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852IIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52JC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852JCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52JI",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852JIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52KC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852KCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52KI",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852KIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52LC",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852LCRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52LI",
+    "package": "DFN-8 3x3",
+    "deviceName": "ISL61852LIRZ",
+    "manufacturer": "Intersil",
+    "data": "USB Port Power Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6185_20120308_intersil.pdf"
+  },
+  {
+    "smdCode": "52N03S",
+    "package": "TDSON-8",
+    "deviceName": "BSC052N03S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc052n03sg_infineon.pdf"
+  },
+  {
+    "smdCode": "52N50C3",
+    "package": "TO-247",
+    "deviceName": "SPW52N50C3",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spw52n50c3_infineon.pdf"
+  },
+  {
+    "smdCode": "52W",
+    "package": "SOT-323",
+    "deviceName": "PBSS4160U",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/b/pbss4160u_nxp.pdf"
+  },
+  {
+    "smdCode": "52p",
+    "package": "SOT-323",
+    "deviceName": "PBSS4160U",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/b/pbss4160u_nxp.pdf"
+  },
+  {
+    "smdCode": "52t",
+    "package": "SOT-323",
+    "deviceName": "PBSS4160U",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/b/pbss4160u_nxp.pdf"
+  }
+]

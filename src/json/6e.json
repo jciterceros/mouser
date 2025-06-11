@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "6E",
+    "package": "SOT-323",
+    "deviceName": "2PD601AW",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601aw_galaxy.pdf"
+  },
+  {
+    "smdCode": "6E",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z62",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "6E",
+    "package": "SOT-23",
+    "deviceName": "MMBF5460",
+    "manufacturer": "Fairchild",
+    "data": "P-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5460%2C_2n5461%2C_2n5462%2C_mmbf5460%2C_mmbf5461%2C_mmbf5462_fairchild.pdf"
+  },
+  {
+    "smdCode": "6E",
+    "package": "US6",
+    "deviceName": "RN4985",
+    "manufacturer": "Toshiba",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn4985_toshiba.pdf"
+  },
+  {
+    "smdCode": "6E",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ254D",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "6E**",
+    "package": "SOT-23",
+    "deviceName": "ST6206ES23RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6206_stanson.pdf"
+  },
+  {
+    "smdCode": "6E**",
+    "package": "SOT-323",
+    "deviceName": "ST6206ES32RG",
+    "manufacturer": "Stanson",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st6206_stanson.pdf"
+  }
+]

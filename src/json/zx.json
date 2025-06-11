@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "ZX",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C68",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZX",
+    "package": "SOT-23",
+    "deviceName": "CZMK10",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "ZX",
+    "package": "SMA",
+    "deviceName": "SMAJ90CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "ZX",
+    "package": "SOT-23",
+    "deviceName": "TZT10CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "ZX-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-16PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "ZX=***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-16GB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "ZXMHC3A01",
+    "package": "SM-8",
+    "deviceName": "ZXMHC3A01T8",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "N-Channel + P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxmhc3a01t8_zetex.pdf"
+  }
+]

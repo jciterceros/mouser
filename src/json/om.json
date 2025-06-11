@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "OM",
+    "package": "SMF",
+    "deviceName": "SMF15A-M",
+    "manufacturer": "Vishay",
+    "data": "ESD Protection Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smf5v0a-m-smf51a-m_vishay.pdf"
+  }
+]

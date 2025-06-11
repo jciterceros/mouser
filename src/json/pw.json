@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "PW-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B24",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PWW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B24",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PWp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B24",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PWt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B24",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "pW1",
+    "package": "SOT-23",
+    "deviceName": "BAT54C",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  }
+]

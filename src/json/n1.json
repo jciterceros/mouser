@@ -1,0 +1,314 @@
+[
+  {
+    "smdCode": "N1",
+    "package": "SOT-23",
+    "deviceName": "BFR53",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr53_philips.pdf"
+  },
+  {
+    "smdCode": "N1",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "N1",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5261",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "N1**",
+    "package": "SOT-23",
+    "deviceName": "AP2301GN-HF-3",
+    "manufacturer": "Apec",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2301gn-hf-3_apec.pdf"
+  },
+  {
+    "smdCode": "N1***",
+    "package": "SOT-23",
+    "deviceName": "Si2301CDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2301cds_vishay.pdf"
+  },
+  {
+    "smdCode": "N1***",
+    "package": "SOT-23",
+    "deviceName": "TN0201T",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/n/tn0201t_vishay.pdf"
+  },
+  {
+    "smdCode": "N1-",
+    "package": "SOT-323",
+    "deviceName": "BFS20W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs20w_nxp.pdf"
+  },
+  {
+    "smdCode": "N10A",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB6.8CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10B",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB7.5CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10C",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB8.2CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10D",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB9.1CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10E",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB10CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10F",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB11CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10G",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB12CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10H",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB13CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10I",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB15CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10J",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB16CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10K",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB18CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10L",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB20CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10M",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB22CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10N",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB24CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10O",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB27CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10P",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB30CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10Q",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB33CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10R",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB36CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10S",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB39CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10T",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB43CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10U",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB47CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10V",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB51CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10W",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB56CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10X",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB62CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10Y",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB68CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N10Z",
+    "package": "DO-214AA",
+    "deviceName": "1KSMB75CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/k/1ksmb_littelfuse.pdf"
+  },
+  {
+    "smdCode": "N12",
+    "package": "SOT-23",
+    "deviceName": "DDTC114TCA",
+    "manufacturer": "Diodes",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtcxxxtca-series_r9-2_diodes.pdf"
+  },
+  {
+    "smdCode": "N16",
+    "package": "SOT-23",
+    "deviceName": "DDTC124TCA",
+    "manufacturer": "Diodes",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtcxxxtca-series_r9-2_diodes.pdf"
+  },
+  {
+    "smdCode": "N19",
+    "package": "SOT-23",
+    "deviceName": "DDTC144TCA",
+    "manufacturer": "Diodes",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/d/ddtcxxxtca-series_r9-2_diodes.pdf"
+  },
+  {
+    "smdCode": "N1W",
+    "package": "SOT-323",
+    "deviceName": "BFS20W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs20w_nxp.pdf"
+  },
+  {
+    "smdCode": "N1p",
+    "package": "SOT-323",
+    "deviceName": "BFS20W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs20w_nxp.pdf"
+  },
+  {
+    "smdCode": "N1t",
+    "package": "SOT-323",
+    "deviceName": "BFS20W",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs20w_nxp.pdf"
+  }
+]

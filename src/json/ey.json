@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "EY",
+    "package": "SOT-23",
+    "deviceName": "KTC3265",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3265_galaxy.pdf"
+  },
+  {
+    "smdCode": "EY",
+    "package": "SOT-23",
+    "deviceName": "KTC3265",
+    "manufacturer": "KEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3265_kec.pdf"
+  },
+  {
+    "smdCode": "EY**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US49D4-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "EY**",
+    "package": "SOT-26",
+    "deviceName": "TC1072-1.8VCH713",
+    "manufacturer": "Microchip",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "EY***",
+    "package": "SOT-26",
+    "deviceName": "AP1603WG",
+    "manufacturer": "Diodes",
+    "data": "Step-Up Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap1603_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "EY-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-47PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "EY=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-47GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "Ey",
+    "package": "SOT-25",
+    "deviceName": "BD49E54G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ey",
+    "package": "SOT-23",
+    "deviceName": "BD49K54G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

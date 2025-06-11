@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "A",
+    "package": "SOD-323",
+    "deviceName": "1SS355",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss355_galaxy.pdf"
+  },
+  {
+    "smdCode": "A",
+    "package": "SOD-323",
+    "deviceName": "1SS355",
+    "manufacturer": "TIP",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss355_tip.pdf"
+  },
+  {
+    "smdCode": "A",
+    "package": "SOD-323",
+    "deviceName": "1SS355",
+    "manufacturer": "ROHM",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss355_rohm.pdf"
+  },
+  {
+    "smdCode": "A",
+    "package": "SOD-323",
+    "deviceName": "1SS355",
+    "manufacturer": "Kexin",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss355_20071022_kexin.pdf"
+  },
+  {
+    "smdCode": "A",
+    "package": "SOD-523",
+    "deviceName": "1SS400",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss400_galaxy.pdf"
+  },
+  {
+    "smdCode": "A",
+    "package": "SC75-6 FLMP",
+    "deviceName": "FDJ129P",
+    "manufacturer": "Fairchild",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdj129p_fairchild.pdf"
+  },
+  {
+    "smdCode": "A",
+    "package": "SOT-25",
+    "deviceName": "IRS44273LPBF",
+    "manufacturer": "IRF",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/r/irs44273l_20150115_irf.pdf"
+  }
+]

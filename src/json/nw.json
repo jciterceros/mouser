@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "NW",
+    "package": "SOT-89",
+    "deviceName": "2SK2159",
+    "manufacturer": "Kexin",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk2159_kexin.pdf"
+  },
+  {
+    "smdCode": "NW",
+    "package": "SOD-323",
+    "deviceName": "PZU5.1BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  }
+]

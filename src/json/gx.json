@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "GX",
+    "package": "SOD-323F",
+    "deviceName": "PZU36B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "GX-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818B-16PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "GX=**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9018A-10GQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9018a%2C_rt9018b_r09_richtek.pdf"
+  }
+]

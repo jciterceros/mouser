@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "IQ",
+    "package": "SOT-89",
+    "deviceName": "2SB1073",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1073_galaxy.pdf"
+  },
+  {
+    "smdCode": "IQ",
+    "package": "SOT-89",
+    "deviceName": "2SB1073-Q",
+    "manufacturer": "MCC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1073_mcc.pdf"
+  }
+]

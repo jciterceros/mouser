@@ -1,0 +1,250 @@
+[
+  {
+    "smdCode": "D6",
+    "package": "SOT-883",
+    "deviceName": "BC847CM",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "D6",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C5V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "D6",
+    "package": "EMT6",
+    "deviceName": "EMD6",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd6%2C_imd6a%2C_umd6n_rohm.pdf"
+  },
+  {
+    "smdCode": "D6",
+    "package": "SOT-26",
+    "deviceName": "IMD6A",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd6%2C_imd6a%2C_umd6n_rohm.pdf"
+  },
+  {
+    "smdCode": "D6",
+    "package": "SOT-23",
+    "deviceName": "MMBD4148CA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd4148a%2C_mmbd4148ca%2C_mmbd4148cc%2C_mmbd4148se_galaxy.pdf"
+  },
+  {
+    "smdCode": "D6",
+    "package": "SOT-363",
+    "deviceName": "UMD6N",
+    "manufacturer": "ROHM",
+    "data": "NPN + PNP digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emd6%2C_imd6a%2C_umd6n_rohm.pdf"
+  },
+  {
+    "smdCode": "D6*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8010-10PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "D6.2",
+    "package": "SOT-23",
+    "deviceName": "TZT6V2AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D6.8",
+    "package": "SOT-23",
+    "deviceName": "TZT6V8AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D60",
+    "package": "SOT-23",
+    "deviceName": "AZ23B16-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D60",
+    "package": "SOT-23",
+    "deviceName": "AZ23C16-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D61",
+    "package": "SOT-23",
+    "deviceName": "AZ23B18-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D61",
+    "package": "SOT-23",
+    "deviceName": "AZ23C18-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D62",
+    "package": "SOT-23",
+    "deviceName": "AZ23B20-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D62",
+    "package": "SOT-23",
+    "deviceName": "AZ23C20-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D63",
+    "package": "SOT-23",
+    "deviceName": "AZ23B22-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D63",
+    "package": "SOT-23",
+    "deviceName": "AZ23C22-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D636",
+    "package": "SOT-143",
+    "deviceName": "CM1293A-02SR",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293a_on.pdf"
+  },
+  {
+    "smdCode": "D64",
+    "package": "SOT-23",
+    "deviceName": "AZ23B24-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D64",
+    "package": "SOT-23",
+    "deviceName": "AZ23C24-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D641",
+    "package": "MSOP-10",
+    "deviceName": "CM1293A-04MR",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293a_on.pdf"
+  },
+  {
+    "smdCode": "D65",
+    "package": "SOT-23",
+    "deviceName": "AZ23B27-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D65",
+    "package": "SOT-23",
+    "deviceName": "AZ23C27-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D66",
+    "package": "SOT-23",
+    "deviceName": "AZ23B30-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D66",
+    "package": "SOT-23",
+    "deviceName": "AZ23C30-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D67",
+    "package": "SOT-23",
+    "deviceName": "AZ23B33-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D67",
+    "package": "SOT-23",
+    "deviceName": "AZ23C33-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D68",
+    "package": "SOT-23",
+    "deviceName": "AZ23B36-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D68",
+    "package": "SOT-23",
+    "deviceName": "AZ23C36-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D69",
+    "package": "SOT-23",
+    "deviceName": "AZ23B39-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D69",
+    "package": "SOT-23",
+    "deviceName": "AZ23C39-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  }
+]

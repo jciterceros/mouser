@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "ISL6208CBZ",
+    "package": "SO-8",
+    "deviceName": "ISL6208CBZ",
+    "manufacturer": "Intersil",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6208%2C_isl6208b_20140714_intersil.pdf"
+  },
+  {
+    "smdCode": "ISL6208IBZ",
+    "package": "SO-8",
+    "deviceName": "ISL6208IBZ",
+    "manufacturer": "Intersil",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6208%2C_isl6208b_20140714_intersil.pdf"
+  }
+]

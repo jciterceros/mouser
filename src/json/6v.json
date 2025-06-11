@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "6V",
+    "package": "SOT-23",
+    "deviceName": "BCW65CR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw65%2C_bcw66_zetex.pdf"
+  },
+  {
+    "smdCode": "6V8A",
+    "package": "SMB",
+    "deviceName": "1.5SMC6.8AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  }
+]

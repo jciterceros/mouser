@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "F3",
+    "package": "SOT-23",
+    "deviceName": "1SS193",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss193_galaxy.pdf"
+  },
+  {
+    "smdCode": "F3",
+    "package": "SOT-23",
+    "deviceName": "1SS193",
+    "manufacturer": "TIP",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss193_tip.pdf"
+  },
+  {
+    "smdCode": "F3",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "F3",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5238",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "F3",
+    "package": "SOD-323F",
+    "deviceName": "PZU2.7B1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "F3*",
+    "package": "SOT-23",
+    "deviceName": "HSMP-3823",
+    "manufacturer": "Avago",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsmp-382x%2C_482x_avago.pdf"
+  },
+  {
+    "smdCode": "F3**",
+    "package": "SOT-26",
+    "deviceName": "TC1073-3.0VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "F3***",
+    "package": "SOT-23",
+    "deviceName": "Si2343DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2343ds_vishay.pdf"
+  },
+  {
+    "smdCode": "F30",
+    "package": "SOT-25",
+    "deviceName": "SP6201EM5-3-0",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "F30*",
+    "package": "SOT-23",
+    "deviceName": "WL2805N30",
+    "manufacturer": "Willsemi",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/w/l/wl2805n_wiil.pdf"
+  },
+  {
+    "smdCode": "F32",
+    "package": "EMT6",
+    "deviceName": "EMF32",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emf32%2C_umf32n_rohm.pdf"
+  },
+  {
+    "smdCode": "F32",
+    "package": "SOT-363",
+    "deviceName": "UMF32N",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emf32%2C_umf32n_rohm.pdf"
+  },
+  {
+    "smdCode": "F33",
+    "package": "EMT6",
+    "deviceName": "EMF33",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emf33_rohm.pdf"
+  },
+  {
+    "smdCode": "F33",
+    "package": "SOT-25",
+    "deviceName": "SP6201EM5-3-3",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "F33*",
+    "package": "SOT-23",
+    "deviceName": "WL2805N33",
+    "manufacturer": "Willsemi",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/w/l/wl2805n_wiil.pdf"
+  },
+  {
+    "smdCode": "F35",
+    "package": "SOT-25",
+    "deviceName": "SP6201EM5-3-5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "F3=***",
+    "package": "SOT-26",
+    "deviceName": "R7732AGE",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/7/r7732_richtek.pdf"
+  },
+  {
+    "smdCode": "F3B",
+    "package": "2-3U1A",
+    "deviceName": "TPCF8102",
+    "manufacturer": "Toshiba",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpcf8102_toshiba.pdf"
+  }
+]

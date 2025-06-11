@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "2G",
+    "package": "SOT-23",
+    "deviceName": "FMMTA56",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmta55%2C_fmmta56_zetex.pdf"
+  },
+  {
+    "smdCode": "2G",
+    "package": "SOT-23",
+    "deviceName": "KST56",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst55%2C_kst56_fairchild.pdf"
+  },
+  {
+    "smdCode": "2G-",
+    "package": "SOT-323",
+    "deviceName": "BC850CW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2G=***",
+    "package": "SOT-25",
+    "deviceName": "RT9198A-50GBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "2GM",
+    "package": "SOT-23",
+    "deviceName": "MMBTA56",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta55%2C_mmbta56_galaxy.pdf"
+  },
+  {
+    "smdCode": "2GW",
+    "package": "SOT-323",
+    "deviceName": "BC850CW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2Gp",
+    "package": "SOT-323",
+    "deviceName": "BC850CW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2Gs",
+    "package": "SOT-23",
+    "deviceName": "BC850C",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "2Gs",
+    "package": "SOT-323",
+    "deviceName": "BC850CW",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "2Gt",
+    "package": "SOT-323",
+    "deviceName": "BC850CW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  }
+]

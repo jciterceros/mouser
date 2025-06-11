@@ -1,0 +1,178 @@
+[
+  {
+    "smdCode": "PS",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ188A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "PS-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PS51020",
+    "package": "TSSOP-30",
+    "deviceName": "TPS51020DBT",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51020_rc_ti.pdf"
+  },
+  {
+    "smdCode": "PS61030",
+    "package": "TSSOP-16",
+    "deviceName": "TPS61030PWP",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61030%2C_tps61031%2C_tps61032_rg_ti.pdf"
+  },
+  {
+    "smdCode": "PS61031",
+    "package": "TSSOP-16",
+    "deviceName": "TPS61031PWP",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61030%2C_tps61031%2C_tps61032_rg_ti.pdf"
+  },
+  {
+    "smdCode": "PS61032",
+    "package": "TSSOP-16",
+    "deviceName": "TPS61032PWP",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61030%2C_tps61031%2C_tps61032_rg_ti.pdf"
+  },
+  {
+    "smdCode": "PSQQ",
+    "package": "MSOP-8",
+    "deviceName": "TPS2068IDGNRQ1",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2068-q1_200908_ti.pdf"
+  },
+  {
+    "smdCode": "PSW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PSp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PSs",
+    "package": "SOT-23",
+    "deviceName": "BAR64-06",
+    "manufacturer": "Infineon",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar64_series_infineon.pdf"
+  },
+  {
+    "smdCode": "PSs",
+    "package": "SOT-323",
+    "deviceName": "BAR64-06W",
+    "manufacturer": "Infineon",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar64_series_infineon.pdf"
+  },
+  {
+    "smdCode": "PSt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "pS0",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B39",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pS1",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pS2",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pS3",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B3V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pS4",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B3V9",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pS5",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B43",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pS6",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B47",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pS7",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B4V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pS8",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B4V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pS9",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B51",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

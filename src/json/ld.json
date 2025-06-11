@@ -1,0 +1,154 @@
+[
+  {
+    "smdCode": "LD",
+    "package": "SOT-23",
+    "deviceName": "BF543",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf543_vishay.pdf"
+  },
+  {
+    "smdCode": "LD",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q151D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "LD*",
+    "package": "QFN-6 2x2",
+    "deviceName": "NCP500SQL18T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp500_on.pdf"
+  },
+  {
+    "smdCode": "LD**",
+    "package": "SOT-323",
+    "deviceName": "Si1303EDL",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1303edl_vishay.pdf"
+  },
+  {
+    "smdCode": "LD***",
+    "package": "SOT-25",
+    "deviceName": "SY8088",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8088_silergy.pdf"
+  },
+  {
+    "smdCode": "LD-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-29PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "LD-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-28PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "LD3",
+    "package": "SOT-23",
+    "deviceName": "BAT54S",
+    "manufacturer": "Secos",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_secos.pdf"
+  },
+  {
+    "smdCode": "LD3",
+    "package": "SOT-23",
+    "deviceName": "BAT54S",
+    "manufacturer": "Taitron",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_taitron.pdf"
+  },
+  {
+    "smdCode": "LD41",
+    "package": "DFN-8 3x3",
+    "deviceName": "STLD41PUR",
+    "manufacturer": "STMicroelectronics",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stld41_r5_st.pdf"
+  },
+  {
+    "smdCode": "LDA***",
+    "package": "SOT-25",
+    "deviceName": "NCP561SN15T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp561_on.pdf"
+  },
+  {
+    "smdCode": "LDC***",
+    "package": "SOT-25",
+    "deviceName": "NCP561SN25T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp561_on.pdf"
+  },
+  {
+    "smdCode": "LDD***",
+    "package": "SOT-25",
+    "deviceName": "NCP561SN28T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp561_on.pdf"
+  },
+  {
+    "smdCode": "LDDY",
+    "package": "DFN-10",
+    "deviceName": "LTC6416",
+    "manufacturer": "Linear",
+    "data": "ADC Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc6416_linear.pdf"
+  },
+  {
+    "smdCode": "LDE***",
+    "package": "SOT-25",
+    "deviceName": "NCP561SN30T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp561_on.pdf"
+  },
+  {
+    "smdCode": "LDF***",
+    "package": "SOT-25",
+    "deviceName": "NCP561SN33T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp561_on.pdf"
+  },
+  {
+    "smdCode": "LDH***",
+    "package": "SOT-25",
+    "deviceName": "NCP561SN50T1",
+    "manufacturer": "ON",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp561_on.pdf"
+  },
+  {
+    "smdCode": "LDJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB18",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LDP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB18",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "GZ*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-CGGQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "GZ***",
+    "package": "SOT-26",
+    "deviceName": "SY5810",
+    "manufacturer": "Silergy",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy5810_silergy.pdf"
+  },
+  {
+    "smdCode": "GZ-",
+    "package": "SOT-363",
+    "deviceName": "PIMZ2",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/i/pimz2%2C_pumz2_philips.pdf"
+  },
+  {
+    "smdCode": "GZ-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-16PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "GZW",
+    "package": "SOT-363",
+    "deviceName": "PIMZ2",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/i/pimz2%2C_pumz2_philips.pdf"
+  },
+  {
+    "smdCode": "GZp",
+    "package": "SOT-363",
+    "deviceName": "PIMZ2",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/i/pimz2%2C_pumz2_philips.pdf"
+  },
+  {
+    "smdCode": "GZt",
+    "package": "SOT-363",
+    "deviceName": "PIMZ2",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/i/pimz2%2C_pumz2_philips.pdf"
+  }
+]

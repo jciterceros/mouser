@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "ZO",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C30",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZO",
+    "package": "SOT-323",
+    "deviceName": "KTA2015",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta2015_galaxy.pdf"
+  },
+  {
+    "smdCode": "ZO",
+    "package": "SOT-89",
+    "deviceName": "KTD1898",
+    "manufacturer": "KEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktd1898_kec.pdf"
+  },
+  {
+    "smdCode": "ZO",
+    "package": "SOT-89",
+    "deviceName": "KTD1898",
+    "manufacturer": "WEITRON",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktd1898_weitron.pdf"
+  },
+  {
+    "smdCode": "ZO",
+    "package": "SOT-89",
+    "deviceName": "KTD1898-O",
+    "manufacturer": "Secos",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktd1898_secos.pdf"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "SR",
+    "package": "SMB",
+    "deviceName": "1SMA40AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "SR",
+    "package": "SOT-23",
+    "deviceName": "2SC2405",
+    "manufacturer": "Panasonic",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2405%2C_2sc2406_panasonic.pdf"
+  },
+  {
+    "smdCode": "SR",
+    "package": "SOT-323",
+    "deviceName": "2SC3929",
+    "manufacturer": "Panasonic",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3929%2C_2sc3929a_panasonic.pdf"
+  },
+  {
+    "smdCode": "SR",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "SR",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K491A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "SR",
+    "package": "SMA",
+    "deviceName": "SMAJ170A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "SRADG",
+    "package": "SOT-25",
+    "deviceName": "LR1148G-AD-AF5",
+    "manufacturer": "UTC",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr1148_20141210_utc.pdf"
+  },
+  {
+    "smdCode": "SRDA5",
+    "package": "SO-8",
+    "deviceName": "SRDA05-4R2",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/r/srda05-4r2_on.pdf"
+  }
+]

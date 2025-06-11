@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "M9",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B30",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "M9=***",
+    "package": "SOT-23",
+    "deviceName": "RT9198-16GV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  }
+]

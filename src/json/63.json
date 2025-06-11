@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "63",
+    "package": "SOT-143",
+    "deviceName": "BAT63",
+    "manufacturer": "Siemens",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat63_siemens.pdf"
+  },
+  {
+    "smdCode": "63",
+    "package": "SOT-26",
+    "deviceName": "NUP4201MR6",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup4201mr6_on.pdf"
+  },
+  {
+    "smdCode": "63*",
+    "package": "SOT-363",
+    "deviceName": "NUP4202W1",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup4202w1_on.pdf"
+  },
+  {
+    "smdCode": "63***",
+    "package": "SOT-26",
+    "deviceName": "HT2263MP",
+    "manufacturer": "Hotchip",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/t/ht2263_r1.0_hotchip.pdf"
+  },
+  {
+    "smdCode": "63***",
+    "package": "SOT-26",
+    "deviceName": "OB2263MP",
+    "manufacturer": "On-Bright",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/o/b/ob2263_r23_on-bright.pdf"
+  },
+  {
+    "smdCode": "63-",
+    "package": "SOT-323",
+    "deviceName": "BAS40W",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "633",
+    "package": "SOT-26",
+    "deviceName": "CM1293A-02SO",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293a_on.pdf"
+  },
+  {
+    "smdCode": "635",
+    "package": "SOT-26",
+    "deviceName": "CM1293A-04SO",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1293a-04so_on.pdf"
+  },
+  {
+    "smdCode": "63W",
+    "package": "SOT-323",
+    "deviceName": "BAS40W",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "63p",
+    "package": "SOT-323",
+    "deviceName": "BAS40W",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "63s",
+    "package": "SOT-343",
+    "deviceName": "BAT63-07WE6811",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat63-07we6811_infineon.pdf"
+  },
+  {
+    "smdCode": "63t",
+    "package": "SOT-323",
+    "deviceName": "BAS40W",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  }
+]

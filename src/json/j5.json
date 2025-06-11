@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "J5",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5250",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "J5-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-12PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "J5-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-20PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "J5-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818B-16PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "J5A",
+    "package": "SOT-23",
+    "deviceName": "ZC834A",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J5B",
+    "package": "SOT-23",
+    "deviceName": "ZC834B",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J5S",
+    "package": "SOT-23",
+    "deviceName": "ZC834",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  }
+]

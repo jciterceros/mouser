@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "MN",
+    "package": "SOT-323",
+    "deviceName": "M1MA141WA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/1/m1ma141wa%2C_m1ma142wa_galaxy.pdf"
+  },
+  {
+    "smdCode": "MN",
+    "package": "SOD-323",
+    "deviceName": "PZU4.3B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MN=**",
+    "package": "MSOP-8",
+    "deviceName": "RT9715AGF",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "MN=***",
+    "package": "SOT-23",
+    "deviceName": "RT9819A-25GVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "MNJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB68",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "Mn",
+    "package": "SOT-23",
+    "deviceName": "BD49L45G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Mn",
+    "package": "SOT-25",
+    "deviceName": "BD52E35G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

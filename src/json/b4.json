@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "B4",
+    "package": "SOT-25",
+    "deviceName": "BD4733G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "B4",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "B4",
+    "package": "SOT-886",
+    "deviceName": "NC7SZ19L6X",
+    "manufacturer": "Fairchild",
+    "data": "Decoder/Demultiplexer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7sz19_fairchild.pdf"
+  },
+  {
+    "smdCode": "B4",
+    "package": "SOD-123",
+    "deviceName": "SS0540",
+    "manufacturer": "WTE",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ss0520-ss0540_wte.pdf"
+  },
+  {
+    "smdCode": "B4*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9013-18PQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "B4*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9013B-30GQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "B4-",
+    "package": "SOT-89",
+    "deviceName": "RT9169-15PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "B4-**",
+    "package": "VQFN-24 4x4",
+    "deviceName": "RT9907PQV",
+    "manufacturer": "Richtek",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9907_richtek.pdf"
+  },
+  {
+    "smdCode": "B4-***",
+    "package": "SOT-26",
+    "deviceName": "RT9010-30PJ6",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9010_richtek.pdf"
+  },
+  {
+    "smdCode": "B4-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198T-33PU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198t_richtek.pdf"
+  },
+  {
+    "smdCode": "B4=",
+    "package": "SOT-89",
+    "deviceName": "RT9169-15GX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  }
+]

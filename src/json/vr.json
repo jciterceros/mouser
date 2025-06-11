@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "VR",
+    "package": "SOT-353",
+    "deviceName": "MC74VHC1G50DF",
+    "manufacturer": "ON",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc74vhc1g50_on.pdf"
+  },
+  {
+    "smdCode": "VR",
+    "package": "SOT-25",
+    "deviceName": "MC74VHC1G50DT",
+    "manufacturer": "ON",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc74vhc1g50_on.pdf"
+  },
+  {
+    "smdCode": "VR",
+    "package": "SOD-323",
+    "deviceName": "PZU13B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VR",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K261D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VR",
+    "package": "SMA",
+    "deviceName": "SMAJ170CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "VR-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VR-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-15PBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "VR=***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-15GBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "VRW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VRp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VRt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

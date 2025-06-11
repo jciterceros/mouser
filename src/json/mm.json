@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "MM",
+    "package": "SMB",
+    "deviceName": "1SMB33AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "MM",
+    "package": "TSLP-2-1",
+    "deviceName": "BAR64-02L",
+    "manufacturer": "Infineon",
+    "data": "PIN diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar64_infineon.pdf"
+  },
+  {
+    "smdCode": "MM",
+    "package": "SOD-323",
+    "deviceName": "PZU4.3BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MM",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ33A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "MM",
+    "package": "SMB",
+    "deviceName": "SMBJ33A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "MM=***",
+    "package": "SOT-23",
+    "deviceName": "RT9819A-24GVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "MMJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB62A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "Mm",
+    "package": "SOT-23",
+    "deviceName": "BD49L44G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Mm",
+    "package": "SOT-25",
+    "deviceName": "BD52E34G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "09",
+    "package": "SOT-416",
+    "deviceName": "PDTC114EE",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc114ee%2C_pdtc114em%2C_pdtc114et%2C_pdtc114eu_nxp.pdf"
+  },
+  {
+    "smdCode": "090N03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC090N03LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc090n03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "090N03MS",
+    "package": "TDSON-8",
+    "deviceName": "BSC090N03MS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc090n03msg_infineon.pdf"
+  },
+  {
+    "smdCode": "0910-25F",
+    "package": "IK",
+    "deviceName": "FLM0910-25F",
+    "manufacturer": "Eudyna Devices",
+    "data": "P-Channel FET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/l/flm0910-25f_eudina.pdf"
+  },
+  {
+    "smdCode": "0910-8F",
+    "package": "IB",
+    "deviceName": "FLM0910-8F",
+    "manufacturer": "Fujitsu",
+    "data": "P-Channel FET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/l/flm0910-8f_fujitsu.pdf"
+  },
+  {
+    "smdCode": "093N04LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC093N04LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc093n04lsg_infineon.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "XY",
+    "package": "SOT-89",
+    "deviceName": "2SB1714",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb1714_rohm.pdf"
+  },
+  {
+    "smdCode": "XY",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XY",
+    "package": "SOT-23",
+    "deviceName": "BZX99-C11",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx99_philips.pdf"
+  },
+  {
+    "smdCode": "XY",
+    "package": "SOD-323",
+    "deviceName": "PZU3.3B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  }
+]

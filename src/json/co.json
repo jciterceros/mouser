@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "CO",
+    "package": "SOT-523",
+    "deviceName": "2SC5343E",
+    "manufacturer": "TIP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5343e_tip.pdf"
+  },
+  {
+    "smdCode": "CO",
+    "package": "SOT-89",
+    "deviceName": "KTC4373",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc4373_galaxy.pdf"
+  },
+  {
+    "smdCode": "CO**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US50D2-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CO***",
+    "package": "SOT-26",
+    "deviceName": "AAT4280IGU-1-T1",
+    "manufacturer": "Analogic (Now Skyworks)",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/a/aat4280_20061114_analogic.pdf"
+  },
+  {
+    "smdCode": "CO***",
+    "package": "SC70JW-8",
+    "deviceName": "AAT4280IJS-1-T1",
+    "manufacturer": "Analogic (Now Skyworks)",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/a/aat4280_20061114_analogic.pdf"
+  },
+  {
+    "smdCode": "CO***",
+    "package": "SOT-25",
+    "deviceName": "SY6280",
+    "manufacturer": "Silergy",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy6280_silergy.pdf"
+  },
+  {
+    "smdCode": "CO1",
+    "package": "SOT-89",
+    "deviceName": "2SC2881",
+    "manufacturer": "WEJ",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2881_wej.pdf"
+  },
+  {
+    "smdCode": "CO1",
+    "package": "SOT-89",
+    "deviceName": "2SC2881",
+    "manufacturer": "HT",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2881_ht.pdf"
+  },
+  {
+    "smdCode": "CO1",
+    "package": "SOT-89",
+    "deviceName": "2SC2881",
+    "manufacturer": "GME",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2881_gme.pdf"
+  }
+]

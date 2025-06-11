@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "U3",
+    "package": "U-DFN2018-6",
+    "deviceName": "AP2281-3FMG",
+    "manufacturer": "Diodes",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2281_r7-2_diodes.pdf"
+  },
+  {
+    "smdCode": "U3",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "U3",
+    "package": "SOD-323F",
+    "deviceName": "CZRF2V7B-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "U3*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B342NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "U3**",
+    "package": "SOT-23",
+    "deviceName": "TC74A3-5.0VCT",
+    "manufacturer": "Microchip",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc74_microchip.pdf"
+  },
+  {
+    "smdCode": "U3***",
+    "package": "SOT-26",
+    "deviceName": "AP2281-3WG",
+    "manufacturer": "Diodes",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2281_r7-2_diodes.pdf"
+  },
+  {
+    "smdCode": "U30",
+    "package": "TUMT5",
+    "deviceName": "US5U30",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us5u30_rohm.pdf"
+  },
+  {
+    "smdCode": "U33",
+    "package": "SOT-25",
+    "deviceName": "QS5U33",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u33_rohm.pdf"
+  },
+  {
+    "smdCode": "U34",
+    "package": "SOT-25",
+    "deviceName": "QS5U34",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u34_rohm.pdf"
+  },
+  {
+    "smdCode": "U35",
+    "package": "SOT-23",
+    "deviceName": "BSR19",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr19%2C_bsr19a_philips.pdf"
+  },
+  {
+    "smdCode": "U35",
+    "package": "TUMT5",
+    "deviceName": "US5U35",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us5u35_rohm.pdf"
+  },
+  {
+    "smdCode": "U36",
+    "package": "SOT-23",
+    "deviceName": "BSR19A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr19%2C_bsr19a_philips.pdf"
+  },
+  {
+    "smdCode": "U36",
+    "package": "SOT-25",
+    "deviceName": "QS5U36",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u36_rohm.pdf"
+  },
+  {
+    "smdCode": "U37",
+    "package": "TUMT6",
+    "deviceName": "US6U37",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us6u37_rohm.pdf"
+  },
+  {
+    "smdCode": "U38",
+    "package": "TUMT5",
+    "deviceName": "US5U38",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/s/us5u38_rohm.pdf"
+  }
+]

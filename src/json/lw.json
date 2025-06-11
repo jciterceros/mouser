@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "LW",
+    "package": "SOD-323",
+    "deviceName": "PZU7.5B1A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "LW-",
+    "package": "SOT-23",
+    "deviceName": "2N7002P",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002p_nxp.pdf"
+  },
+  {
+    "smdCode": "LW-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819B-15PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "LWJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB39",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "LWP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB39",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "LWW",
+    "package": "SOT-23",
+    "deviceName": "2N7002P",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002p_nxp.pdf"
+  },
+  {
+    "smdCode": "LWp",
+    "package": "SOT-23",
+    "deviceName": "2N7002P",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002p_nxp.pdf"
+  },
+  {
+    "smdCode": "LWt",
+    "package": "SOT-23",
+    "deviceName": "2N7002P",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002p_nxp.pdf"
+  }
+]

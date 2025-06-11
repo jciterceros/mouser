@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "R6",
+    "package": "SOT-323",
+    "deviceName": "SRC1206U",
+    "manufacturer": "AUK",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/r/src1206u_auk.pdf"
+  },
+  {
+    "smdCode": "R6**",
+    "package": "SOT-23",
+    "deviceName": "AP431AN",
+    "manufacturer": "Apec",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap431a_apec.pdf"
+  },
+  {
+    "smdCode": "R6**",
+    "package": "SOT-25",
+    "deviceName": "AP431AY",
+    "manufacturer": "Apec",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap431a_apec.pdf"
+  },
+  {
+    "smdCode": "R65**",
+    "package": "SOT-25",
+    "deviceName": "AP431AY5",
+    "manufacturer": "Apec",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap431a_apec.pdf"
+  },
+  {
+    "smdCode": "R67",
+    "package": "SOT-23",
+    "deviceName": "BFQ67R",
+    "manufacturer": "Vishay",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfq67%2C_bfq67r%2C_bfq67w_vishay.pdf"
+  },
+  {
+    "smdCode": "R6R**",
+    "package": "SOT-23",
+    "deviceName": "AP431ANR",
+    "manufacturer": "Apec",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap431a_apec.pdf"
+  }
+]

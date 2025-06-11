@@ -1,0 +1,170 @@
+[
+  {
+    "smdCode": "FR",
+    "package": "SOT-23",
+    "deviceName": "2SA1037",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1037_galaxy.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOT-23",
+    "deviceName": "2SA1037",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1037_tip.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOT-346",
+    "deviceName": "2SA1037AK",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1037ak%2C_2sa1576a%2C_2sa1774%2C_2sa2029%2C_2sa933as_rohm.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOT-23",
+    "deviceName": "2SA1037AK",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1037ak_tip.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOT-23",
+    "deviceName": "2SA1037LT1",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1037lt1_tip.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOT-323",
+    "deviceName": "2SA1576A",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1037ak%2C_2sa1576a%2C_2sa1774%2C_2sa2029%2C_2sa933as_rohm.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOT-323",
+    "deviceName": "2SA1576A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1576a_galaxy.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "UMT3F",
+    "deviceName": "2SA1576UB",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1576ub_rohm.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOT-523",
+    "deviceName": "2SA1774",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1037ak%2C_2sa1576a%2C_2sa1774%2C_2sa2029%2C_2sa933as_rohm.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOT-523",
+    "deviceName": "2SA1774",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1774_galaxy.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOT-523",
+    "deviceName": "2SA1774",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1774_tip.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOT-490",
+    "deviceName": "2SA1774EB",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1774eb_rohm.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "VMT3",
+    "deviceName": "2SA2029",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1037ak%2C_2sa1576a%2C_2sa1774%2C_2sa2029%2C_2sa933as_rohm.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOT-25",
+    "deviceName": "BD4935G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "FR",
+    "package": "SOD-323F",
+    "deviceName": "PZU22B1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "FR*",
+    "package": "SOT-553",
+    "deviceName": "BD4935FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "FR*",
+    "package": "SOT-23",
+    "deviceName": "V6319RSP3B",
+    "manufacturer": "EM Microelectronic",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/6/v6309%2C_v6319_em.pdf"
+  },
+  {
+    "smdCode": "FR**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US30D4-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "FR-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-29PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "FR=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-29GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "Fr",
+    "package": "SOT-23",
+    "deviceName": "BD48L29G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

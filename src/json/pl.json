@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "PL-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C43",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PLIQ",
+    "package": "SOT-25",
+    "deviceName": "TPS2041BQDBVRQ1",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2041b-q1%2C_tps2042b-q1%2C_tps2051b-q1_ti.pdf"
+  },
+  {
+    "smdCode": "PLW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C43",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PLp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C43",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PLt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C43",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "pL3",
+    "package": "SOT-143B",
+    "deviceName": "BAV23",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav23%2C_bav23a%2C_bav23c%2C_bav23s_nxp.pdf"
+  }
+]

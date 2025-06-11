@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "XL",
+    "package": "SOT-346",
+    "deviceName": "2SD2704K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2704k%2C_2sd2705s_rohm.pdf"
+  },
+  {
+    "smdCode": "XL",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B22",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XL",
+    "package": "SOT-23",
+    "deviceName": "BZX99-C2V4",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx99_philips.pdf"
+  },
+  {
+    "smdCode": "XL",
+    "package": "SOD-323",
+    "deviceName": "PZU22B3A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XL-***",
+    "package": "SOT-25",
+    "deviceName": "RT8009-18PB",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  },
+  {
+    "smdCode": "XL=***",
+    "package": "SOT-25",
+    "deviceName": "RT8009-18GB",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8009_richtek.pdf"
+  }
+]

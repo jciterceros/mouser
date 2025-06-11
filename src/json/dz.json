@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "DZ",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B18",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "DZ",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4709-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "DZ",
+    "package": "SMB",
+    "deviceName": "SMBJ100CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "DZ",
+    "package": "SOT-363",
+    "deviceName": "SSM6N48FU",
+    "manufacturer": "Toshiba",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ssm6n48fu_20140301_toshiba.pdf"
+  },
+  {
+    "smdCode": "DZ*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8016-33PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8016_richtek.pdf"
+  },
+  {
+    "smdCode": "DZ**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US43D3-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "DZ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9193-32PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  }
+]

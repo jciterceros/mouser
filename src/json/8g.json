@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "8G",
+    "package": "SOT-89",
+    "deviceName": "HA178L10UA",
+    "manufacturer": "Renesas",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/a/ha178l02%2C_ha178l56%2C_ha178l06%2C_ha178l09%2C_ha178l10_renesas.pdf"
+  },
+  {
+    "smdCode": "8G",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5232",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "8G",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5232B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "8G",
+    "package": "SOT-323",
+    "deviceName": "MUN5230",
+    "manufacturer": "WEITRON",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/u/mun5211-mun5216%2C_mun5230-mun5237_weitron.pdf"
+  },
+  {
+    "smdCode": "8G**",
+    "package": "SOT-89",
+    "deviceName": "NJM78L08A",
+    "manufacturer": "JRC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/j/njm78l02a-njm78l24a_jrc.pdf"
+  },
+  {
+    "smdCode": "8G**",
+    "package": "SOT-89",
+    "deviceName": "NJM78L08UA",
+    "manufacturer": "JRC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/j/njm78l02_jrc.pdf"
+  },
+  {
+    "smdCode": "8GA",
+    "package": "SOT-23",
+    "deviceName": "BC81816MTF",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc817%2C_bc818_fairchild.pdf"
+  },
+  {
+    "smdCode": "8GB",
+    "package": "SOT-23",
+    "deviceName": "BC81825MTF",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc817%2C_bc818_fairchild.pdf"
+  },
+  {
+    "smdCode": "8GC",
+    "package": "SOT-23",
+    "deviceName": "BC81840MTF",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc817%2C_bc818_fairchild.pdf"
+  }
+]

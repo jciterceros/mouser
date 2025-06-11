@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "8V",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5245",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "8V",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5245B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "8V2A",
+    "package": "SMB",
+    "deviceName": "1.5SMC8.2AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  }
+]

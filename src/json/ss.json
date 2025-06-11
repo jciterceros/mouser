@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "SS",
+    "package": "SOT-23",
+    "deviceName": "2SC2405",
+    "manufacturer": "Panasonic",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2405%2C_2sc2406_panasonic.pdf"
+  },
+  {
+    "smdCode": "SS",
+    "package": "SOT-323",
+    "deviceName": "2SC3929",
+    "manufacturer": "Panasonic",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3929%2C_2sc3929a_panasonic.pdf"
+  },
+  {
+    "smdCode": "SS",
+    "package": "SOT-23",
+    "deviceName": "BSS138",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss138_diodes.pdf"
+  },
+  {
+    "smdCode": "SS",
+    "package": "SOT-23",
+    "deviceName": "BSS138",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss138_fairchild.pdf"
+  },
+  {
+    "smdCode": "SS",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B39",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "SS",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K501A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "SS12",
+    "package": "SMB",
+    "deviceName": "SS12T3",
+    "manufacturer": "ON",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ss12t3%2C_ss14t3_on.pdf"
+  },
+  {
+    "smdCode": "SS14",
+    "package": "SMB",
+    "deviceName": "SS14T3",
+    "manufacturer": "ON",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/ss12t3%2C_ss14t3_on.pdf"
+  },
+  {
+    "smdCode": "sSG",
+    "package": "SOT-23",
+    "deviceName": "SN7002",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn7002_infineon.pdf"
+  },
+  {
+    "smdCode": "sSN",
+    "package": "SOT-23",
+    "deviceName": "SN7002N",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn7002n_infineon.pdf"
+  },
+  {
+    "smdCode": "sSN",
+    "package": "SOT-323",
+    "deviceName": "SN7002W",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn7002w_infineon.pdf"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "MU",
+    "package": "SOT-323",
+    "deviceName": "CHN202UPT",
+    "manufacturer": "Chenmko",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/h/chn202upt_chenmko.pdf"
+  },
+  {
+    "smdCode": "MU",
+    "package": "SOT-323",
+    "deviceName": "M1MA142WK",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/1/m1ma141wk%2C_m1ma142wk_galaxy.pdf"
+  },
+  {
+    "smdCode": "MU",
+    "package": "SOD-323",
+    "deviceName": "PZU4.7B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MU",
+    "package": "SOT-23",
+    "deviceName": "ZVN3320F",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/v/zvn3320f_zetex.pdf"
+  },
+  {
+    "smdCode": "MU=**",
+    "package": "MSOP-8",
+    "deviceName": "RT9715EGF",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "MU=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818D-35GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "MUJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB91",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  }
+]

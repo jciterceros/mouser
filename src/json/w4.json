@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "W4",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C3V3",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "W4",
+    "package": "SOD-123",
+    "deviceName": "BZT52C3V6",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "W4",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V3",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "W4",
+    "package": "SOT-23",
+    "deviceName": "BZX84C3V3-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "W4***",
+    "package": "SOT-25",
+    "deviceName": "APX823-31W5",
+    "manufacturer": "Diodes",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apx823%2C_apx824%2C_apx825a_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "W4-***",
+    "package": "SOT-25",
+    "deviceName": "RT9198-26PBR",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "W414H",
+    "package": "DIP-8",
+    "deviceName": "KAQW414H",
+    "manufacturer": "COSMO",
+    "data": "Solid state relay",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/a/kaqw414h_cosmo.pdf"
+  },
+  {
+    "smdCode": "W44",
+    "package": "SOT-23",
+    "deviceName": "PDTC115ET",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "W47",
+    "package": "SOT-323",
+    "deviceName": "PDTA143ZU",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta143ze%2C_pdta143zm%2C_pdta143zt%2C_pdta143zu_nxp.pdf"
+  },
+  {
+    "smdCode": "W4S",
+    "package": "SOT-23",
+    "deviceName": "BSN20BK",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsn20bk_20141218_nxp.pdf"
+  },
+  {
+    "smdCode": "W4W",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA2V7",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "7702A",
+    "package": "DFN-8 3x3",
+    "deviceName": "AON7702A",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/aon7702a_r1_ao.pdf"
+  },
+  {
+    "smdCode": "7716A",
+    "package": "PowerPAK 1212-8",
+    "deviceName": "Si7716ADN",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si7716adn_ra_vishay.pdf"
+  }
+]

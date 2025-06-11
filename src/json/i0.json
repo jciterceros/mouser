@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "I0",
+    "package": "SOT-23",
+    "deviceName": "SST110",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/1/j108%2C_j109%2C_j110%2C_sst108%2C_sst109%2C_sst110_vishay.pdf"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "0P=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8813AGQW",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8813a_r05_richtek.pdf"
+  }
+]

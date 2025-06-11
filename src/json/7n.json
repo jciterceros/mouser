@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "7N",
+    "package": "SOT-23",
+    "deviceName": "BCW68HR",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw67%2C_bcw68_zetex.pdf"
+  },
+  {
+    "smdCode": "7N",
+    "package": "SOD-323",
+    "deviceName": "CMDZ1L8",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "7N",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2533",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  }
+]

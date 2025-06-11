@@ -1,0 +1,194 @@
+[
+  {
+    "smdCode": "L2",
+    "package": "SOT-23",
+    "deviceName": "BAS40-06",
+    "manufacturer": "Citc",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series_citc.pdf"
+  },
+  {
+    "smdCode": "L2",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "L2",
+    "package": "SOT-490",
+    "deviceName": "NZL6V8AXV3T1",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/z/nzl5v6axv3t1%2C_nzl6v8axv3t1%2C_nzl7v5axv3t1_on.pdf"
+  },
+  {
+    "smdCode": "L2",
+    "package": "SOT-23",
+    "deviceName": "SST502",
+    "manufacturer": "Siliconix (Now Vishay)",
+    "data": "Current regulator diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst502-sst511_siliconix.pdf"
+  },
+  {
+    "smdCode": "L2",
+    "package": "SOD-323",
+    "deviceName": "UDZS9.1B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "L2",
+    "package": "SOT-353",
+    "deviceName": "UML2N",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor + diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/m/uml2n_rohm.pdf"
+  },
+  {
+    "smdCode": "L2 *",
+    "package": "SOT-723",
+    "deviceName": "mESD5.0DT5G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/e/uesd3.3dt5g%2C_uesd5.0dt5g%2C_uesd6.0dt5g_on.pdf"
+  },
+  {
+    "smdCode": "L2-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819E-24PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "L20",
+    "package": "EMT6",
+    "deviceName": "EML20",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor + diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/eml20_rohm.pdf"
+  },
+  {
+    "smdCode": "L21B",
+    "package": "SOT-25",
+    "deviceName": "LP2980IM5-3.8",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2980-n_ti.pdf"
+  },
+  {
+    "smdCode": "L24",
+    "package": "SOT-346",
+    "deviceName": "DTD114GK",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd114gk_rohm.pdf"
+  },
+  {
+    "smdCode": "L24",
+    "package": "SOT-23",
+    "deviceName": "SL24T1",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/l/sl05t1%2C_sl12t1%2C_sl15t1%2C_sl24t1_on.pdf"
+  },
+  {
+    "smdCode": "L2902",
+    "package": "TSSOP-14",
+    "deviceName": "LM2902PW",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm124%2C_lm224%2C_lm324%2C_lm2902_ti.pdf"
+  },
+  {
+    "smdCode": "L2902K",
+    "package": "SSOP-14",
+    "deviceName": "LM2902KDB",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm124%2C_lm224%2C_lm324%2C_lm2902_ti.pdf"
+  },
+  {
+    "smdCode": "L2902K",
+    "package": "TSSOP-14",
+    "deviceName": "LM2902KPW",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm124%2C_lm224%2C_lm324%2C_lm2902_ti.pdf"
+  },
+  {
+    "smdCode": "L2904",
+    "package": "SO-8",
+    "deviceName": "LM2904PSR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "L2904",
+    "package": "TSSOP-8",
+    "deviceName": "LM2904PW",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "L2904AV",
+    "package": "SO-8",
+    "deviceName": "LM2904AVQDR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "L2904AV",
+    "package": "TSSOP-8",
+    "deviceName": "LM2904AVQPWR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "L2904V",
+    "package": "SO-8",
+    "deviceName": "LM2904VQDR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "L2904V",
+    "package": "TSSOP-8",
+    "deviceName": "LM2904VQPWR",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm158%2C_lm158a%2C_lm258%2C_lm258a%2C_lm358%2C_lm358a%2C_lm2904%2C_lm2904v_ti.pdf"
+  },
+  {
+    "smdCode": "L2A*",
+    "package": "SOT-25",
+    "deviceName": "APL3512AB",
+    "manufacturer": "Anpec",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl3512_ra.6_anpec.pdf"
+  },
+  {
+    "smdCode": "L2B",
+    "package": "SOT-26",
+    "deviceName": "ADP3330ART-2.75",
+    "manufacturer": "Analog Devices",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adp3330_analog.pdf"
+  },
+  {
+    "smdCode": "L2B*",
+    "package": "SOT-25",
+    "deviceName": "APL3512BB",
+    "manufacturer": "Anpec",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl3512_ra.6_anpec.pdf"
+  }
+]

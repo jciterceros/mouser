@@ -1,0 +1,250 @@
+[
+  {
+    "smdCode": "T6",
+    "package": "SOD-123",
+    "deviceName": "BAV16W",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav16w_galaxy.pdf"
+  },
+  {
+    "smdCode": "T6",
+    "package": "SOT-23",
+    "deviceName": "BSS63",
+    "manufacturer": "KEC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss63_kec.pdf"
+  },
+  {
+    "smdCode": "T6",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C3V3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "T6",
+    "package": "SOT-323",
+    "deviceName": "ZUMT5179",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/u/zumt5179_zetex.pdf"
+  },
+  {
+    "smdCode": "T6***",
+    "package": "SOT-25",
+    "deviceName": "APX824-29W5",
+    "manufacturer": "Diodes",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apx823%2C_apx824%2C_apx825a_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "T63",
+    "package": "SOT-323",
+    "deviceName": "ZUMT619",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/u/zumt619_zetex.pdf"
+  },
+  {
+    "smdCode": "T659101A1",
+    "package": "VQFN-48 6x6",
+    "deviceName": "TPS659101A1RSL",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps659101-tps659109%2C_tps65910%2C_tps65910a%2C_tps65910a3_ti.pdf"
+  },
+  {
+    "smdCode": "T659102A1",
+    "package": "VQFN-48 6x6",
+    "deviceName": "TPS659102A1RSL",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps659101-tps659109%2C_tps65910%2C_tps65910a%2C_tps65910a3_ti.pdf"
+  },
+  {
+    "smdCode": "T659103A1",
+    "package": "VQFN-48 6x6",
+    "deviceName": "TPS659103A1RSL",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps659101-tps659109%2C_tps65910%2C_tps65910a%2C_tps65910a3_ti.pdf"
+  },
+  {
+    "smdCode": "T659104A1",
+    "package": "VQFN-48 6x6",
+    "deviceName": "TPS659104A1RSL",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps659101-tps659109%2C_tps65910%2C_tps65910a%2C_tps65910a3_ti.pdf"
+  },
+  {
+    "smdCode": "T659105A1",
+    "package": "VQFN-48 6x6",
+    "deviceName": "TPS659105A1RSL",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps659101-tps659109%2C_tps65910%2C_tps65910a%2C_tps65910a3_ti.pdf"
+  },
+  {
+    "smdCode": "T659106A1",
+    "package": "VQFN-48 6x6",
+    "deviceName": "TPS659106A1RSL",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps659101-tps659109%2C_tps65910%2C_tps65910a%2C_tps65910a3_ti.pdf"
+  },
+  {
+    "smdCode": "T659107A1",
+    "package": "VQFN-48 6x6",
+    "deviceName": "TPS659107A1RSL",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps659101-tps659109%2C_tps65910%2C_tps65910a%2C_tps65910a3_ti.pdf"
+  },
+  {
+    "smdCode": "T659108A1",
+    "package": "VQFN-48 6x6",
+    "deviceName": "TPS659108A1RSL",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps659101-tps659109%2C_tps65910%2C_tps65910a%2C_tps65910a3_ti.pdf"
+  },
+  {
+    "smdCode": "T659109A1",
+    "package": "VQFN-48 6x6",
+    "deviceName": "TPS659109A1RSL",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps659101-tps659109%2C_tps65910%2C_tps65910a%2C_tps65910a3_ti.pdf"
+  },
+  {
+    "smdCode": "T65910A3A1",
+    "package": "VQFN-48 6x6",
+    "deviceName": "TPS65910A3A1RSL",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps659101-tps659109%2C_tps65910%2C_tps65910a%2C_tps65910a3_ti.pdf"
+  },
+  {
+    "smdCode": "T65910AA1",
+    "package": "VQFN-48 6x6",
+    "deviceName": "TPS65910AA1RSL",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps659101-tps659109%2C_tps65910%2C_tps65910a%2C_tps65910a3_ti.pdf"
+  },
+  {
+    "smdCode": "T6B",
+    "package": "SOT-23",
+    "deviceName": "LM60BIM3",
+    "manufacturer": "National",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm60b%2C_lm60c_199604_national.pdf"
+  },
+  {
+    "smdCode": "T6C",
+    "package": "SOT-23",
+    "deviceName": "LM60CIM3",
+    "manufacturer": "National",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm60b%2C_lm60c_199604_national.pdf"
+  },
+  {
+    "smdCode": "t60",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "t61",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A6V8",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "t62",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "t63",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "t64",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "t65",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "t66",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "t67",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "t69",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A15",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "t6D",
+    "package": "SOT-323",
+    "deviceName": "2PD601AQW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "t6E",
+    "package": "SOT-323",
+    "deviceName": "2PD601ARW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  },
+  {
+    "smdCode": "t6F",
+    "package": "SOT-323",
+    "deviceName": "2PD601ASW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601a_series_philips.pdf"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "P9",
+    "package": "MicroPak-8",
+    "deviceName": "NC7NZ34L8X",
+    "manufacturer": "Fairchild",
+    "data": "UHS Triple Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/nc7nz34_fairchild.pdf"
+  },
+  {
+    "smdCode": "P9*",
+    "package": "SOT-416",
+    "deviceName": "DAP222",
+    "manufacturer": "ON",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dap202u%2C_dap222_on.pdf"
+  },
+  {
+    "smdCode": "P92 *",
+    "package": "UDFN-8 1,7x1,35",
+    "deviceName": "CM1692-04DE",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1692_r4_on.pdf"
+  },
+  {
+    "smdCode": "P926 *",
+    "package": "UDFN-12",
+    "deviceName": "CM1692-06DE",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1692_r4_on.pdf"
+  },
+  {
+    "smdCode": "P928 *",
+    "package": "UDFN-16",
+    "deviceName": "CM1692-08DE",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1692_r4_on.pdf"
+  },
+  {
+    "smdCode": "p9A",
+    "package": "SOT-23",
+    "deviceName": "PLVA650A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "p9B",
+    "package": "SOT-23",
+    "deviceName": "PLVA653A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "p9C",
+    "package": "SOT-23",
+    "deviceName": "PLVA656A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "p9D",
+    "package": "SOT-23",
+    "deviceName": "PLVA659A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "p9E",
+    "package": "SOT-23",
+    "deviceName": "PLVA662A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "p9F",
+    "package": "SOT-23",
+    "deviceName": "PLVA665A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  },
+  {
+    "smdCode": "p9G",
+    "package": "SOT-23",
+    "deviceName": "PLVA668A",
+    "manufacturer": "NXP",
+    "data": "Avalanche Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/l/plva6xxa_series_nxp.pdf"
+  }
+]

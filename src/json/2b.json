@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "2B",
+    "package": "SOT-23",
+    "deviceName": "BC849B",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc846-bc849_general.pdf"
+  },
+  {
+    "smdCode": "2B-",
+    "package": "SOT-323",
+    "deviceName": "BC849BW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2B1",
+    "package": "SOT-23",
+    "deviceName": "ZXMN2B01F",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxmn2b01f_zetex.pdf"
+  },
+  {
+    "smdCode": "2BW",
+    "package": "SOT-323",
+    "deviceName": "BC849BW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2BZ",
+    "package": "SOT-23",
+    "deviceName": "FMMT2907",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt2907%2C_fmmt2907a_zetex.pdf"
+  },
+  {
+    "smdCode": "2Bp",
+    "package": "SOT-323",
+    "deviceName": "BC849BW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  },
+  {
+    "smdCode": "2Bs",
+    "package": "SOT-23",
+    "deviceName": "BC849B",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc847%2C_bc848%2C_bc849%2C_bc850_series_infineon.pdf"
+  },
+  {
+    "smdCode": "2Bt",
+    "package": "SOT-323",
+    "deviceName": "BC849BW",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc849bw%2C_bc849cw%2C_bc850bw%2C_bc850cw_philips.pdf"
+  }
+]

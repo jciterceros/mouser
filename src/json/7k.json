@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "7K",
+    "package": "SOT-23",
+    "deviceName": "2N7002K",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_fairchild.pdf"
+  },
+  {
+    "smdCode": "7K",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2527",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "7K***",
+    "package": "SOT-23",
+    "deviceName": "2N7002K",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_re_vishay.pdf"
+  }
+]

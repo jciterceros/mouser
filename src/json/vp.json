@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "VP",
+    "package": "TSMT3",
+    "deviceName": "2SA2094",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa2094_rohm.pdf"
+  },
+  {
+    "smdCode": "VP",
+    "package": "X1-DFN1010-6",
+    "deviceName": "74LVC1G32FW5-7",
+    "manufacturer": "Diodes",
+    "data": "OR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g32_r8-2_diodes.pdf"
+  },
+  {
+    "smdCode": "VP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ12L",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "VP",
+    "package": "SOD-323",
+    "deviceName": "PZU13BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VP",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K241D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "VP",
+    "package": "SMA",
+    "deviceName": "SMAJ160CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "VP-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VPW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VPp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "VPt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-B8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

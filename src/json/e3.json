@@ -1,0 +1,170 @@
+[
+  {
+    "smdCode": "E3",
+    "package": "SOD-523F",
+    "deviceName": "1N914BWT",
+    "manufacturer": "Fairchild",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/n/1n914bwt%2C_1n4148wt%2C_1n4448wt_fairchild.pdf"
+  },
+  {
+    "smdCode": "E3",
+    "package": "SOT-23",
+    "deviceName": "1SS190",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss190_galaxy.pdf"
+  },
+  {
+    "smdCode": "E3",
+    "package": "SOT-23",
+    "deviceName": "1SS190",
+    "manufacturer": "TIP",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss190_tip.pdf"
+  },
+  {
+    "smdCode": "E3",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B24",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "E3",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B7V5",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "E3",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5233",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "E3",
+    "package": "SOT-346",
+    "deviceName": "PDTD123EK",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtd123ek%2C_pdtd123es%2C_pdtd123et_nxp.pdf"
+  },
+  {
+    "smdCode": "E3",
+    "package": "DSBGA-5",
+    "deviceName": "TPS73018YZQR",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps730_rj_ti.pdf"
+  },
+  {
+    "smdCode": "E3*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-PMPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "E3**",
+    "package": "SOT-26",
+    "deviceName": "TC1072-3.0VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "E3***",
+    "package": "SOT-23",
+    "deviceName": "Si2333DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2333ds_vishay.pdf"
+  },
+  {
+    "smdCode": "E3-",
+    "package": "SOT-363",
+    "deviceName": "BGA2709",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "MMIC amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/g/bga2709_philips.pdf"
+  },
+  {
+    "smdCode": "E3-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-18PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "E30",
+    "package": "SOT-25",
+    "deviceName": "SP6200EM5-3-0",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "E32",
+    "package": "SOT-416",
+    "deviceName": "DTA123JE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123je%2C_dta123jka%2C_dta123jm%2C_dta123jsa%2C_dta123jua_rohm.pdf"
+  },
+  {
+    "smdCode": "E32",
+    "package": "SOT-490",
+    "deviceName": "DTA123JEB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123jeb_rohm.pdf"
+  },
+  {
+    "smdCode": "E32",
+    "package": "SOT-346",
+    "deviceName": "DTA123JKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123je%2C_dta123jka%2C_dta123jm%2C_dta123jsa%2C_dta123jua_rohm.pdf"
+  },
+  {
+    "smdCode": "E32",
+    "package": "VMT3",
+    "deviceName": "DTA123JM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123je%2C_dta123jka%2C_dta123jm%2C_dta123jsa%2C_dta123jua_rohm.pdf"
+  },
+  {
+    "smdCode": "E33",
+    "package": "SOT-25",
+    "deviceName": "SP6200EM5-3-3",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "E35",
+    "package": "SOT-25",
+    "deviceName": "SP6200EM5-3-5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "E3=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-18GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  }
+]

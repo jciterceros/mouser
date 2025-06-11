@@ -1,0 +1,194 @@
+[
+  {
+    "smdCode": "S4",
+    "package": "SOD-323",
+    "deviceName": "1PS76SB40",
+    "manufacturer": "NXP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "S4",
+    "package": "SOD-523",
+    "deviceName": "1SS389",
+    "manufacturer": "TIP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss389_tip.pdf"
+  },
+  {
+    "smdCode": "S4",
+    "package": "SOT-883",
+    "deviceName": "BAV70M",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_series_nxp.pdf"
+  },
+  {
+    "smdCode": "S4",
+    "package": "SOT-343",
+    "deviceName": "BFG11W/X",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfg11w_x_philips.pdf"
+  },
+  {
+    "smdCode": "S4",
+    "package": "SMA",
+    "deviceName": "EC10QS04",
+    "manufacturer": "Nihon",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/c/ec10qs04_nihon.pdf"
+  },
+  {
+    "smdCode": "S4",
+    "package": "SOD-123",
+    "deviceName": "SD103AW",
+    "manufacturer": "MCC",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sd103aw%2C_sd103bw%2C_sd103cw_mcc.pdf"
+  },
+  {
+    "smdCode": "S4",
+    "package": "X2SON-4 0.8x0.8",
+    "deviceName": "SN74LVC1G17DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Schmitt-Trigger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g17_rv_ti.pdf"
+  },
+  {
+    "smdCode": "S4",
+    "package": "SOT-23",
+    "deviceName": "SST174",
+    "manufacturer": "Vishay",
+    "data": "P-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/1/j174-j177%2C_sst174-sst177_vishay.pdf"
+  },
+  {
+    "smdCode": "S40",
+    "package": "USON-6",
+    "deviceName": "LM3671LC-1.3",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "S40**",
+    "package": "SOT-25",
+    "deviceName": "LR1120G-40-AF5-A-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr1120_20130809_utc.pdf"
+  },
+  {
+    "smdCode": "S40**",
+    "package": "SOT-353",
+    "deviceName": "LR1120G-40-AL5-A-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr1120_20130809_utc.pdf"
+  },
+  {
+    "smdCode": "S40**",
+    "package": "SOT-25",
+    "deviceName": "R1162N401B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S402",
+    "package": "PowerPAK 1212-8",
+    "deviceName": "SiS402DN",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/sis402dn_vishay.pdf"
+  },
+  {
+    "smdCode": "S40A",
+    "package": "SOT-25",
+    "deviceName": "LM2611AMF",
+    "manufacturer": "National",
+    "data": "DC-DC Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2611_national.pdf"
+  },
+  {
+    "smdCode": "S40B",
+    "package": "SOT-25",
+    "deviceName": "LM2611BMF",
+    "manufacturer": "National",
+    "data": "DC-DC Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2611_national.pdf"
+  },
+  {
+    "smdCode": "S40N",
+    "package": "SOT-23",
+    "deviceName": "MI3446",
+    "manufacturer": "MegaPower",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mi3446_megapower.pdf"
+  },
+  {
+    "smdCode": "S41",
+    "package": "USON-6",
+    "deviceName": "LM3671LC-1.6",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "S41**",
+    "package": "SOT-25",
+    "deviceName": "R1162N181B5",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S412",
+    "package": "PowerPAK 1212-8",
+    "deviceName": "SiS412DN",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/sis412dn_rc_vishay.pdf"
+  },
+  {
+    "smdCode": "S42",
+    "package": "USON-6",
+    "deviceName": "LM3671LC-1.8",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "S42**",
+    "package": "SOT-25",
+    "deviceName": "R1162N281B5",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "S43",
+    "package": "SOT-89",
+    "deviceName": "PBSS4350X",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/b/pbss4350x_nxp.pdf"
+  },
+  {
+    "smdCode": "S46",
+    "package": "SOT-89",
+    "deviceName": "PBSS5350X",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/b/pbss5350x_nxp.pdf"
+  },
+  {
+    "smdCode": "S48B",
+    "package": "SOT-25",
+    "deviceName": "LM2703MF-ADJ",
+    "manufacturer": "National",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2703mf_national.pdf"
+  }
+]

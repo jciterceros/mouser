@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "1S",
+    "package": "SOT-23",
+    "deviceName": "MMBT2369A",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2369a%2C_mmpq2369%2C_pn2369a_fairchild.pdf"
+  },
+  {
+    "smdCode": "1S0612",
+    "package": "DFN-6 3x3",
+    "deviceName": "ST1S06PU12R",
+    "manufacturer": "STMicroelectronics",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st1s06_r9_st.pdf"
+  },
+  {
+    "smdCode": "1S0633",
+    "package": "DFN-6 3x3",
+    "deviceName": "ST1S06PU33R",
+    "manufacturer": "STMicroelectronics",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st1s06_r9_st.pdf"
+  },
+  {
+    "smdCode": "1S5",
+    "package": "SOT-89",
+    "deviceName": "ZXTN4006Z",
+    "manufacturer": "Diodes",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxtn4006z_diodes.pdf"
+  }
+]

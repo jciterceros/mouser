@@ -1,0 +1,186 @@
+[
+  {
+    "smdCode": "AL",
+    "package": "SOT-89",
+    "deviceName": "BCX53-16",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx51-bcx53_zetex.pdf"
+  },
+  {
+    "smdCode": "AL*",
+    "package": "SOT-363",
+    "deviceName": "HSMS-280L",
+    "manufacturer": "Agilent",
+    "data": "Schottky barrier diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsms-2800_series_agilent.pdf"
+  },
+  {
+    "smdCode": "AL*",
+    "package": "DFN-8 2x2",
+    "deviceName": "NCP5911MNTBG",
+    "manufacturer": "ON",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp5911_on.pdf"
+  },
+  {
+    "smdCode": "AL*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-CCPQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AL*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-FMPQV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AL**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US39D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "AL**",
+    "package": "SOT-363",
+    "deviceName": "Si1472DH",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1472dh_vishay.pdf"
+  },
+  {
+    "smdCode": "AL***",
+    "package": "SOT-26",
+    "deviceName": "FP6291",
+    "manufacturer": "Feeling",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/p/fp6291_r0.70_feeling.pdf"
+  },
+  {
+    "smdCode": "AL***",
+    "package": "SOT-26",
+    "deviceName": "SD6271",
+    "manufacturer": "Shouding",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sd6271_shouding.pdf"
+  },
+  {
+    "smdCode": "AL-",
+    "package": "SOT-89",
+    "deviceName": "RT9161-36PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "AL-**",
+    "package": "SOT-323",
+    "deviceName": "RT9818A-30PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AL-***",
+    "package": "SOT-353",
+    "deviceName": "RT9193-35PU5",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193_richtek.pdf"
+  },
+  {
+    "smdCode": "AL-***",
+    "package": "SOT-343",
+    "deviceName": "RT9198-32PY",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "ALG",
+    "package": "SOT-23",
+    "deviceName": "KTC3875",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3875_galaxy.pdf"
+  },
+  {
+    "smdCode": "ALL",
+    "package": "SOT-23",
+    "deviceName": "KTC3875",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3875_galaxy.pdf"
+  },
+  {
+    "smdCode": "ALN",
+    "package": "SOT-25",
+    "deviceName": "TPS62220DDC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62220%2C_tps62221%2C_tps62222%2C_tps62223%2C_tps62224%2C_tps62227%2C_tps62228%2C_tps62229_ti.pdf"
+  },
+  {
+    "smdCode": "ALO",
+    "package": "SOT-23",
+    "deviceName": "KTC3875",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3875_galaxy.pdf"
+  },
+  {
+    "smdCode": "ALO",
+    "package": "SOT-25",
+    "deviceName": "TPS62221DDC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62220%2C_tps62221%2C_tps62222%2C_tps62223%2C_tps62224%2C_tps62227%2C_tps62228%2C_tps62229_ti.pdf"
+  },
+  {
+    "smdCode": "ALQ",
+    "package": "SOT-89",
+    "deviceName": "2SA1900",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1900_rohm.pdf"
+  },
+  {
+    "smdCode": "ALQ",
+    "package": "SOT-25",
+    "deviceName": "TPS62224DDC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62220%2C_tps62221%2C_tps62222%2C_tps62223%2C_tps62224%2C_tps62227%2C_tps62228%2C_tps62229_ti.pdf"
+  },
+  {
+    "smdCode": "ALW",
+    "package": "SOT-25",
+    "deviceName": "TPS62208DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62200%2C_tps62201%2C_tps62202%2C_tps62203%2C_tps62204%2C_tps62205%2C_tps62207%2C_tps62208_ti.pdf"
+  },
+  {
+    "smdCode": "ALX",
+    "package": "SOT-25",
+    "deviceName": "TPS62223DDC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62220%2C_tps62221%2C_tps62222%2C_tps62223%2C_tps62224%2C_tps62227%2C_tps62228%2C_tps62229_ti.pdf"
+  },
+  {
+    "smdCode": "ALY",
+    "package": "SOT-23",
+    "deviceName": "KTC3875",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc3875_galaxy.pdf"
+  }
+]

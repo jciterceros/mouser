@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "KP",
+    "package": "SMB",
+    "deviceName": "1SMB7.5AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "KP",
+    "package": "SOT-346",
+    "deviceName": "2SK2033",
+    "manufacturer": "Toshiba",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk2033_toshiba.pdf"
+  },
+  {
+    "smdCode": "KP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ4L7",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "KP",
+    "package": "SOT-323",
+    "deviceName": "RHU002N06",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/h/rhu002n06_rohm.pdf"
+  },
+  {
+    "smdCode": "KP",
+    "package": "SOT-323",
+    "deviceName": "RHU002N06FRA",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/h/rhu002n06fra_rohm.pdf"
+  },
+  {
+    "smdCode": "KP",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ7.5A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "KP",
+    "package": "SMB",
+    "deviceName": "SMBJ7.5A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "KP-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819B-26PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "KP=***",
+    "package": "SOT-23",
+    "deviceName": "RT9819B-26GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "KPA",
+    "package": "SOT-23",
+    "deviceName": "KMB3D0P30SA",
+    "manufacturer": "KEC",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/m/kmb3d0p30sa_kec.pdf"
+  },
+  {
+    "smdCode": "KPJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB10A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "KPP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB10A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "Kp",
+    "package": "SOT-23",
+    "deviceName": "BD49L32G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

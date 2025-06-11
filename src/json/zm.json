@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "ZM",
+    "package": "SOD-110",
+    "deviceName": "BZX284-C24",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZM",
+    "package": "SOT-23",
+    "deviceName": "CZMK5.6",
+    "manufacturer": "Cdil",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czmk3v3-czmk39_cdil.pdf"
+  },
+  {
+    "smdCode": "ZM",
+    "package": "WLCSP-4 0.8 0.8",
+    "deviceName": "FDZ8040L",
+    "manufacturer": "Fairchild",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdz8040l_rc1_fairchild.pdf"
+  },
+  {
+    "smdCode": "ZM",
+    "package": "SOD-323",
+    "deviceName": "PDZ18B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdz-b_series_nxp.pdf"
+  },
+  {
+    "smdCode": "ZM",
+    "package": "SMA",
+    "deviceName": "SMAJ64CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "ZM",
+    "package": "SOT-23",
+    "deviceName": "TZT5V6CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "ZM-***",
+    "package": "SOT-25",
+    "deviceName": "RT9169H-15PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "ZM=***",
+    "package": "SOT-25",
+    "deviceName": "RT9169H-15GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  }
+]

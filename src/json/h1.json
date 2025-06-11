@@ -1,0 +1,498 @@
+[
+  {
+    "smdCode": "H1",
+    "package": "SOT-23",
+    "deviceName": "BCW69",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw69%2C_bcw69r%2C_bcw70%2C_bcw70r_zetex.pdf"
+  },
+  {
+    "smdCode": "H1",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "H1",
+    "package": "EMT6",
+    "deviceName": "EMH1",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh1%2C_imh1a%2C_umh1n_rohm.pdf"
+  },
+  {
+    "smdCode": "H1",
+    "package": "SOT-26",
+    "deviceName": "IMH1A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh1%2C_imh1a%2C_umh1n_rohm.pdf"
+  },
+  {
+    "smdCode": "H1",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5241",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "H1",
+    "package": "SOD-323F",
+    "deviceName": "PZU2.7B2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "H1",
+    "package": "SOT-23",
+    "deviceName": "SST4416",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n4416%2C_2n4416a%2C_sst4416_vishay.pdf"
+  },
+  {
+    "smdCode": "H1",
+    "package": "SOT-363",
+    "deviceName": "UMH1N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh1%2C_imh1a%2C_umh1n_rohm.pdf"
+  },
+  {
+    "smdCode": "H1**",
+    "package": "SOT-23",
+    "deviceName": "APE9101AN-HF-3",
+    "manufacturer": "Apec",
+    "data": "Hall Effect Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ape9101-hf-3_apec.pdf"
+  },
+  {
+    "smdCode": "H1**",
+    "package": "SOT-25",
+    "deviceName": "TC1189-TECT",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1188%2C_tc1189_20121026_microchip.pdf"
+  },
+  {
+    "smdCode": "H1***",
+    "package": "SOT-23",
+    "deviceName": "AX8101",
+    "manufacturer": "Axelite",
+    "data": "Hall Effect Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax8101%2C_ax8101a_axelite.pdf"
+  },
+  {
+    "smdCode": "H1-",
+    "package": "SOT-23",
+    "deviceName": "BCW69",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw69%2C_bcw70_20040206_nxp.pdf"
+  },
+  {
+    "smdCode": "H1-***",
+    "package": "SOT-23",
+    "deviceName": "RT9170-33PV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9170_richtek.pdf"
+  },
+  {
+    "smdCode": "H11",
+    "package": "EMT6",
+    "deviceName": "EMH11",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh11%2C_imh11a%2C_umh11n_rohm.pdf"
+  },
+  {
+    "smdCode": "H11",
+    "package": "SOT-26",
+    "deviceName": "IMH11A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh11%2C_imh11a%2C_umh11n_rohm.pdf"
+  },
+  {
+    "smdCode": "H11",
+    "package": "SOT-363",
+    "deviceName": "UMH11N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh11%2C_imh11a%2C_umh11n_rohm.pdf"
+  },
+  {
+    "smdCode": "H14",
+    "package": "SOT-26",
+    "deviceName": "IMH14A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/m/imh14a%2C_umh14n_rohm.pdf"
+  },
+  {
+    "smdCode": "H14",
+    "package": "SOT-363",
+    "deviceName": "UMH14N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/m/imh14a%2C_umh14n_rohm.pdf"
+  },
+  {
+    "smdCode": "H15",
+    "package": "EMT6",
+    "deviceName": "EMH15",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh15%2C_imh15a_rohm.pdf"
+  },
+  {
+    "smdCode": "H15",
+    "package": "SOT-26",
+    "deviceName": "IMH15A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emh15%2C_imh15a_rohm.pdf"
+  },
+  {
+    "smdCode": "H15B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D151B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H15D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D151D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H16B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D161B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H16D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D161D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H17B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D171B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H17D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D171D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H18B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D181B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H18D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D181D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H19B**",
+    "package": "SOT-563",
+    "deviceName": "R1162D191B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H19D**",
+    "package": "SOT-563",
+    "deviceName": "R1162D191D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1A",
+    "package": "SOT-23",
+    "deviceName": "BR3DG3904M",
+    "manufacturer": "Blue Rocket",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904%2C_br3dg3904m_rc_blue_rocket.pdf"
+  },
+  {
+    "smdCode": "H1A",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "Blue Rocket",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904%2C_br3dg3904m_rc_blue_rocket.pdf"
+  },
+  {
+    "smdCode": "H1A**",
+    "package": "SOT-25",
+    "deviceName": "RP130N121B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1B**",
+    "package": "SOT-25",
+    "deviceName": "RP130N131B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1C**",
+    "package": "SOT-25",
+    "deviceName": "RP130N141B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1D**",
+    "package": "SOT-25",
+    "deviceName": "RP130N151B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1E**",
+    "package": "SOT-25",
+    "deviceName": "RP130N161B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1F**",
+    "package": "SOT-25",
+    "deviceName": "RP130N171B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1G**",
+    "package": "SOT-25",
+    "deviceName": "RP130N181B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1H**",
+    "package": "SOT-25",
+    "deviceName": "RP130N181B5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1J**",
+    "package": "SOT-25",
+    "deviceName": "RP130N191B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1K**",
+    "package": "SOT-25",
+    "deviceName": "RP130N201B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1L**",
+    "package": "SOT-25",
+    "deviceName": "RP130N211B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1M**",
+    "package": "SOT-25",
+    "deviceName": "RP130N221B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1N**",
+    "package": "SOT-25",
+    "deviceName": "RP130N231B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1O",
+    "package": "SOT-23",
+    "deviceName": "KSC2755",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2755_fairchild.pdf"
+  },
+  {
+    "smdCode": "H1P**",
+    "package": "SOT-25",
+    "deviceName": "RP130N241B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1Q**",
+    "package": "SOT-25",
+    "deviceName": "RP130N251B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1R",
+    "package": "SOT-23",
+    "deviceName": "KSC2755",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2755_fairchild.pdf"
+  },
+  {
+    "smdCode": "H1R**",
+    "package": "SOT-25",
+    "deviceName": "RP130N261B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1S**",
+    "package": "SOT-25",
+    "deviceName": "RP130N271B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1T**",
+    "package": "SOT-25",
+    "deviceName": "RP130N281B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1U**",
+    "package": "SOT-25",
+    "deviceName": "RP130N281B5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1V**",
+    "package": "SOT-25",
+    "deviceName": "RP130N291B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1W",
+    "package": "SOT-23",
+    "deviceName": "BCW69",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw69%2C_bcw70_20040206_nxp.pdf"
+  },
+  {
+    "smdCode": "H1W**",
+    "package": "SOT-25",
+    "deviceName": "RP130N301B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1X**",
+    "package": "SOT-25",
+    "deviceName": "RP130N311B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1Y",
+    "package": "SOT-23",
+    "deviceName": "KSC2755",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2755_fairchild.pdf"
+  },
+  {
+    "smdCode": "H1Y**",
+    "package": "SOT-25",
+    "deviceName": "RP130N321B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1Z**",
+    "package": "SOT-25",
+    "deviceName": "RP130N331B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "H1p",
+    "package": "SOT-23",
+    "deviceName": "BCW69",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw69%2C_bcw70_20040206_nxp.pdf"
+  },
+  {
+    "smdCode": "H1t",
+    "package": "SOT-23",
+    "deviceName": "BCW69",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw69%2C_bcw70_20040206_nxp.pdf"
+  }
+]

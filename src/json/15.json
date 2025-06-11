@@ -1,0 +1,242 @@
+[
+  {
+    "smdCode": "15",
+    "package": "SOT-23",
+    "deviceName": "DTA124ECA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124eca%2C_dta124ee%2C_dta124eka%2C_dta124esa%2C_dta124eua_rohm.pdf"
+  },
+  {
+    "smdCode": "15",
+    "package": "SOT-416",
+    "deviceName": "DTA124EE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124eca%2C_dta124ee%2C_dta124eka%2C_dta124esa%2C_dta124eua_rohm.pdf"
+  },
+  {
+    "smdCode": "15",
+    "package": "SOT-490",
+    "deviceName": "DTA124EEB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124eeb_rohm.pdf"
+  },
+  {
+    "smdCode": "15",
+    "package": "SOT-346",
+    "deviceName": "DTA124EKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124eca%2C_dta124ee%2C_dta124eka%2C_dta124esa%2C_dta124eua_rohm.pdf"
+  },
+  {
+    "smdCode": "15",
+    "package": "VMT3",
+    "deviceName": "DTA124EM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124ee%2C_dta124eka%2C_dta124em%2C_dta124esa%2C_dta124eua_rohm.pdf"
+  },
+  {
+    "smdCode": "15",
+    "package": "SOT-323",
+    "deviceName": "DTA124EUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124eca%2C_dta124ee%2C_dta124eka%2C_dta124esa%2C_dta124eua_rohm.pdf"
+  },
+  {
+    "smdCode": "15",
+    "package": "UMT3F",
+    "deviceName": "DTA124EUB",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124eub_rohm.pdf"
+  },
+  {
+    "smdCode": "15",
+    "package": "SOT-23",
+    "deviceName": "MMBD1505",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1501%2C_mmbd1503%2C_mmbd1504%2C_mmbd1505_fairchild.pdf"
+  },
+  {
+    "smdCode": "15",
+    "package": "SOT-23",
+    "deviceName": "PSOT15",
+    "manufacturer": "Protek",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  },
+  {
+    "smdCode": "15",
+    "package": "SOD-323",
+    "deviceName": "UDZS11B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "15",
+    "package": "SOT-23",
+    "deviceName": "ZD15-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "15",
+    "package": "SOD-323",
+    "deviceName": "ZD15-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "150",
+    "package": "SOT-23",
+    "deviceName": "KTY82/150",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "150N03LD",
+    "package": "TDSON-8",
+    "deviceName": "BSC150N03LD G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc150n03ldg_infineon.pdf"
+  },
+  {
+    "smdCode": "151",
+    "package": "SOT-23",
+    "deviceName": "KTY82/151",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "1524AM",
+    "package": "SOIC-24",
+    "deviceName": "ICS1524AM",
+    "manufacturer": "ICS (Now IDT)",
+    "data": "Clock source",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/c/ics1524a_ics.pdf"
+  },
+  {
+    "smdCode": "1526GLF",
+    "package": "TSSOP-16",
+    "deviceName": "ICS1526GLF",
+    "manufacturer": "IDT",
+    "data": "Video clock synthesizer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/c/ics1526glf_ics.pdf"
+  },
+  {
+    "smdCode": "1527G1LF",
+    "package": "TSSOP-16",
+    "deviceName": "ICS1527G-110LF",
+    "manufacturer": "ICS (Now IDT)",
+    "data": "Video clock synthesizer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/c/ics1527g_ics.pdf"
+  },
+  {
+    "smdCode": "1527G2LF",
+    "package": "TSSOP-16",
+    "deviceName": "ICS1527G-60LF",
+    "manufacturer": "ICS (Now IDT)",
+    "data": "Video clock synthesizer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/c/ics1527g_ics.pdf"
+  },
+  {
+    "smdCode": "152N10NS",
+    "package": "TDSON-8",
+    "deviceName": "BSC152N10NSF G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc152n10nsfg_infineon.pdf"
+  },
+  {
+    "smdCode": "1589A",
+    "package": "DFN-10 3x3",
+    "deviceName": "NCP1589AMNTWG",
+    "manufacturer": "ON",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1589a%2C_ncp1589b_r0_on.pdf"
+  },
+  {
+    "smdCode": "1589B",
+    "package": "DFN-10 3x3",
+    "deviceName": "NCP1589BMNTWG",
+    "manufacturer": "ON",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1589a%2C_ncp1589b_r0_on.pdf"
+  },
+  {
+    "smdCode": "159N10LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC159N10LSF G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc159n10lsfg_infineon.pdf"
+  },
+  {
+    "smdCode": "15A",
+    "package": "SMB",
+    "deviceName": "1.5SMC15AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "15A",
+    "package": "SOT-346",
+    "deviceName": "PZM15NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "15C",
+    "package": "SOT-23",
+    "deviceName": "PSOT15C",
+    "manufacturer": "Protek",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  },
+  {
+    "smdCode": "15T",
+    "package": "SOT-23",
+    "deviceName": "TK71515AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "15V",
+    "package": "SOT-26",
+    "deviceName": "SMS15T1",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/sms05t1%2C_sms12t1%2C_sms15t1%2C_sms24t1_on.pdf"
+  },
+  {
+    "smdCode": "15W",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA43V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  },
+  {
+    "smdCode": "15Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C15",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  }
+]

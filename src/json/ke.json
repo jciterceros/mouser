@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "KE",
+    "package": "SMB",
+    "deviceName": "1SMB5.0AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smbxxat3_on.pdf"
+  },
+  {
+    "smdCode": "KE",
+    "package": "SOD-323F",
+    "deviceName": "PZU13B3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "KE",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q521B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "KE",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ5.0A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "KE",
+    "package": "SMB",
+    "deviceName": "SMBJ5.0A",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "KE**",
+    "package": "SOT-323",
+    "deviceName": "Si1300BDL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1300bdl_vishay.pdf"
+  },
+  {
+    "smdCode": "KE-",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A16",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "KE-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818E-18PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "KEJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB6.8A",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "KEL11",
+    "package": "SO-8",
+    "deviceName": "100EL11M",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/0/100el11m_fairchild.pdf"
+  },
+  {
+    "smdCode": "KEL1648",
+    "package": "CASE 965",
+    "deviceName": "MC100EL1648",
+    "manufacturer": "ON",
+    "data": "Voltage controlled oscillator amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc100el1648_on.pdf"
+  },
+  {
+    "smdCode": "KEP",
+    "package": "DO-214AA",
+    "deviceName": "TPSMB6.8A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tpsmb6.8-tpsmb43a_r06_vishey.pdf"
+  },
+  {
+    "smdCode": "KEW",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A16",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "KEp",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A16",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "KEt",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A16",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "Ke",
+    "package": "SOT-23",
+    "deviceName": "BD49L25G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

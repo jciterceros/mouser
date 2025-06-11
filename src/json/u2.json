@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "U2",
+    "package": "U-DFN2018-6",
+    "deviceName": "AP2281-1FMG",
+    "manufacturer": "Diodes",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2281_r7-2_diodes.pdf"
+  },
+  {
+    "smdCode": "U2",
+    "package": "SOT-23",
+    "deviceName": "BCX20",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx20_fairchild.pdf"
+  },
+  {
+    "smdCode": "U2",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C27",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "U2",
+    "package": "SOD-323F",
+    "deviceName": "CZRF2V4B-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "U2*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B332NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "U2**",
+    "package": "SOT-25",
+    "deviceName": "TC74A2-5.0VCT",
+    "manufacturer": "Microchip",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc74_microchip.pdf"
+  },
+  {
+    "smdCode": "U2***",
+    "package": "SOT-26",
+    "deviceName": "AP2281-1WG",
+    "manufacturer": "Diodes",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2281_r7-2_diodes.pdf"
+  },
+  {
+    "smdCode": "U21",
+    "package": "SOT-25",
+    "deviceName": "QS5U21",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u21_rohm.pdf"
+  },
+  {
+    "smdCode": "U22",
+    "package": "SOT-26",
+    "deviceName": "QS6U22",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs6u22_rohm.pdf"
+  },
+  {
+    "smdCode": "U23",
+    "package": "SOT-25",
+    "deviceName": "QS5U23",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u23_rohm.pdf"
+  },
+  {
+    "smdCode": "U24",
+    "package": "SOT-26",
+    "deviceName": "QS6U24",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs6u24_rohm.pdf"
+  },
+  {
+    "smdCode": "U26",
+    "package": "SOT-25",
+    "deviceName": "QS5U26",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u26_rohm.pdf"
+  },
+  {
+    "smdCode": "U27",
+    "package": "SOT-25",
+    "deviceName": "QS5U27",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u27_rohm.pdf"
+  },
+  {
+    "smdCode": "U28",
+    "package": "SOT-25",
+    "deviceName": "QS5U28",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET + Schottky barrier diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qs5u28_rohm.pdf"
+  }
+]

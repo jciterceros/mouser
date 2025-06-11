@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "V0",
+    "package": "SOT-23",
+    "deviceName": "TZT2V4CW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "V0**",
+    "package": "SOT-25",
+    "deviceName": "TC74A0-3.3VCT",
+    "manufacturer": "Microchip",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc74_microchip.pdf"
+  },
+  {
+    "smdCode": "V0-***",
+    "package": "SOT-25",
+    "deviceName": "RT9271PB",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9271_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "V00",
+    "package": "SOT-753",
+    "deviceName": "74LVC1G00GV",
+    "manufacturer": "NXP",
+    "data": "NAND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g00_nxp.pdf"
+  },
+  {
+    "smdCode": "V02",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "Calogic Corporation",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_calogic.pdf"
+  },
+  {
+    "smdCode": "V08",
+    "package": "SOT-753",
+    "deviceName": "74LVC1G08GV",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g08_r10_nxp.pdf"
+  },
+  {
+    "smdCode": "V0=***",
+    "package": "SOT-25",
+    "deviceName": "RT9271GB",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9271_r07_richtek.pdf"
+  }
+]

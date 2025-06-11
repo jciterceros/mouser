@@ -1,0 +1,154 @@
+[
+  {
+    "smdCode": "E1",
+    "package": "SOD-523F",
+    "deviceName": "1N4148WT",
+    "manufacturer": "Fairchild",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/n/1n914bwt%2C_1n4148wt%2C_1n4448wt_fairchild.pdf"
+  },
+  {
+    "smdCode": "E1",
+    "package": "SOT-23",
+    "deviceName": "BFS17",
+    "manufacturer": "Vishay",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs17%2C_bfs17r%2C_bfs17w_vishay.pdf"
+  },
+  {
+    "smdCode": "E1",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B20",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "E1",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "E1",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5231",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "E1",
+    "package": "SOT-346",
+    "deviceName": "PDTD113EK",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtd113ek%2C_pdtd113es%2C_pdtd113et_nxp.pdf"
+  },
+  {
+    "smdCode": "E1*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-JSPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "E1**",
+    "package": "SOT-26",
+    "deviceName": "TC1072-2.5VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "E1-***",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9011-PPPQWB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "E11",
+    "package": "SOT-416",
+    "deviceName": "DTA113ZE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta113ze%2C_dta113zka%2C_dta113zsa%2C_dta113zua_rohm.pdf"
+  },
+  {
+    "smdCode": "E11",
+    "package": "SOT-346",
+    "deviceName": "DTA113ZKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta113ze%2C_dta113zka%2C_dta113zsa%2C_dta113zua_rohm.pdf"
+  },
+  {
+    "smdCode": "E15",
+    "package": "SOT-25",
+    "deviceName": "SP6200EM5-1-5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "E166",
+    "package": "MSOP-8",
+    "deviceName": "CM1216-06MR",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1216_on.pdf"
+  },
+  {
+    "smdCode": "E166",
+    "package": "SO-8",
+    "deviceName": "CM1216-06SM",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1216_on.pdf"
+  },
+  {
+    "smdCode": "E168",
+    "package": "MSOP-10",
+    "deviceName": "CM1216-08MR",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cm1216_on.pdf"
+  },
+  {
+    "smdCode": "E18",
+    "package": "SOT-25",
+    "deviceName": "SP6200EM5-1-8",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "E1O",
+    "package": "SOT-23",
+    "deviceName": "KSC2859",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2859_fairchild.pdf"
+  },
+  {
+    "smdCode": "E1Y",
+    "package": "SOT-23",
+    "deviceName": "KSC2859",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2859_fairchild.pdf"
+  },
+  {
+    "smdCode": "E1p",
+    "package": "SOT-23",
+    "deviceName": "BFS17",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs17_philips.pdf"
+  }
+]

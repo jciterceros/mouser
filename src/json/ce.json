@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "CE",
+    "package": "SOT-353",
+    "deviceName": "74AHCT1G08GW",
+    "manufacturer": "NXP",
+    "data": "AND gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74ahc1g08%2C_74ahct1g08_r7_nxp.pdf"
+  },
+  {
+    "smdCode": "CE",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5261B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "CE",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q341A",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "CE",
+    "package": "SMA",
+    "deviceName": "SMAJ26A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "CE",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ26A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "CE",
+    "package": "SMB",
+    "deviceName": "SMBJ26CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "CE*",
+    "package": "VDFN-6 2x2",
+    "deviceName": "RT8010-18PQV",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8010%2C_rt8010a_richtek.pdf"
+  },
+  {
+    "smdCode": "CE**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US34D1-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "CE**",
+    "package": "SOT-363",
+    "deviceName": "Si1972DH",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1972dh_vishay.pdf"
+  },
+  {
+    "smdCode": "CE-***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-30PVL",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "CE-***",
+    "package": "SOT-25",
+    "deviceName": "RT9169-33PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "CE=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-FGGJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "CEP",
+    "package": "SOT-89",
+    "deviceName": "2SC4505",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4505_rohm.pdf"
+  },
+  {
+    "smdCode": "CEQ",
+    "package": "SOT-89",
+    "deviceName": "2SC4505",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4505_rohm.pdf"
+  },
+  {
+    "smdCode": "Ce",
+    "package": "SOT-25",
+    "deviceName": "BD48E55G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ce",
+    "package": "SOT-23",
+    "deviceName": "BD48K55G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

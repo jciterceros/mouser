@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "JA",
+    "package": "TDFN-8 2x2",
+    "deviceName": "AX2012Z8",
+    "manufacturer": "Axelite",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax2012_axelite.pdf"
+  },
+  {
+    "smdCode": "JA",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "Taitron",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70_taitron.pdf"
+  },
+  {
+    "smdCode": "JA",
+    "package": "SOT-23",
+    "deviceName": "BAV70",
+    "manufacturer": "Panjit",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bal99%2C_bav70%2C_bav99%2C_baw56_panjit.pdf"
+  },
+  {
+    "smdCode": "JA",
+    "package": "SOT-23",
+    "deviceName": "BAV74",
+    "manufacturer": "Fairchild",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav70%2C_bav74_fairchild.pdf"
+  },
+  {
+    "smdCode": "JA",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q401B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "JA***",
+    "package": "SOT-26",
+    "deviceName": "AX2012CT",
+    "manufacturer": "Axelite",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax2012_axelite.pdf"
+  },
+  {
+    "smdCode": "JA-",
+    "package": "SOT-23",
+    "deviceName": "BAV74",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav74_nxp.pdf"
+  },
+  {
+    "smdCode": "JA-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-12PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JA-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-34PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JA=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-25GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "JAD_",
+    "package": "SOT-25",
+    "deviceName": "TS5A1066",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts5a1066_ti.pdf"
+  },
+  {
+    "smdCode": "JAW",
+    "package": "SOT-23",
+    "deviceName": "BAV74",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav74_nxp.pdf"
+  },
+  {
+    "smdCode": "JAp",
+    "package": "SOT-23",
+    "deviceName": "BAV74",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav74_nxp.pdf"
+  },
+  {
+    "smdCode": "JAt",
+    "package": "SOT-23",
+    "deviceName": "BAV74",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav74_nxp.pdf"
+  }
+]

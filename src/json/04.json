@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "04",
+    "package": "SOT-23",
+    "deviceName": "DTC114TCA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114tca_dtc114te_dtc114tka_dtc114tsa_dtc114tua_rohm.pdf"
+  },
+  {
+    "smdCode": "04",
+    "package": "SOT-23",
+    "deviceName": "DTC114TCA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114tca_dtc143tca_dtc144tca_galaxy.pdf"
+  },
+  {
+    "smdCode": "04",
+    "package": "SOT-416",
+    "deviceName": "DTC114TE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114tca_dtc114te_dtc114tka_dtc114tsa_dtc114tua_rohm.pdf"
+  },
+  {
+    "smdCode": "04",
+    "package": "SOT-490",
+    "deviceName": "DTC114TEB",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114teb_rohm.pdf"
+  },
+  {
+    "smdCode": "04",
+    "package": "SOT-346",
+    "deviceName": "DTC114TKA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114tca_dtc114te_dtc114tka_dtc114tsa_dtc114tua_rohm.pdf"
+  },
+  {
+    "smdCode": "04",
+    "package": "SOT-323",
+    "deviceName": "DTC114TUA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114tca_dtc114te_dtc114tka_dtc114tsa_dtc114tua_rohm.pdf"
+  },
+  {
+    "smdCode": "04",
+    "package": "SOT-323",
+    "deviceName": "DTC114TUA",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114tua_dtc143tua_dtc144tua_galaxy.pdf"
+  },
+  {
+    "smdCode": "04",
+    "package": "SOT-23",
+    "deviceName": "GF2304",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/f/gf2304_general.pdf"
+  },
+  {
+    "smdCode": "04*",
+    "package": "WDFN-8 2x3",
+    "deviceName": "RT9526GQWA",
+    "manufacturer": "Richtek",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9526_r01_richtek.pdf"
+  },
+  {
+    "smdCode": "042N03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC042N03LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc042n03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "042N03MS",
+    "package": "TDSON-8",
+    "deviceName": "BSC042N03MS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc042n03msg_infineon.pdf"
+  },
+  {
+    "smdCode": "047N08NS",
+    "package": "TDSON-8",
+    "deviceName": "BSC047N08NS3 G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc047n08ns3g_infineon.pdf"
+  }
+]

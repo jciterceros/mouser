@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "8B",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5227",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "8B",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5227B",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "8B",
+    "package": "SOT-323",
+    "deviceName": "MUN5212",
+    "manufacturer": "WEITRON",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/u/mun5211-mun5216%2C_mun5230-mun5237_weitron.pdf"
+  },
+  {
+    "smdCode": "8B",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ2562",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  },
+  {
+    "smdCode": "8B**",
+    "package": "SOT-89",
+    "deviceName": "NJM78L03A",
+    "manufacturer": "JRC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/j/njm78l02a-njm78l24a_jrc.pdf"
+  },
+  {
+    "smdCode": "8BA",
+    "package": "SOT-23",
+    "deviceName": "BC847AMTF",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc846%2C_bc847%2C_bc848%2C_bc849%2C_bc850_fairchild.pdf"
+  },
+  {
+    "smdCode": "8BB",
+    "package": "SOT-23",
+    "deviceName": "BC847BMTF",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc846%2C_bc847%2C_bc848%2C_bc849%2C_bc850_fairchild.pdf"
+  },
+  {
+    "smdCode": "8BC",
+    "package": "SOT-23",
+    "deviceName": "BC847CMTF",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc846%2C_bc847%2C_bc848%2C_bc849%2C_bc850_fairchild.pdf"
+  },
+  {
+    "smdCode": "8BC",
+    "package": "DFN-8 2x2",
+    "deviceName": "ISL6208BCRZ",
+    "manufacturer": "Intersil",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6208%2C_isl6208b_20140714_intersil.pdf"
+  },
+  {
+    "smdCode": "8BI",
+    "package": "DFN-8 2x2",
+    "deviceName": "ISL6208BIRZ",
+    "manufacturer": "Intersil",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl6208%2C_isl6208b_20140714_intersil.pdf"
+  }
+]

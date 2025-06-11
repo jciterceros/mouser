@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "OT",
+    "package": "SMF",
+    "deviceName": "SMF18A-M",
+    "manufacturer": "Vishay",
+    "data": "ESD Protection Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smf5v0a-m-smf51a-m_vishay.pdf"
+  },
+  {
+    "smdCode": "OTI006888G",
+    "package": "LQFP-48 7x7",
+    "deviceName": "OTi-6888",
+    "manufacturer": "OTi",
+    "data": "USB Host with MP3 Interface Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/o/t/oti-6888_oti.pdf"
+  },
+  {
+    "smdCode": "OTI006888G",
+    "package": "LQFP-64 10x10",
+    "deviceName": "OTi-6888",
+    "manufacturer": "OTi",
+    "data": "USB Host with MP3 Interface Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/o/t/oti-6888_oti.pdf"
+  }
+]

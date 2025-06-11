@@ -1,0 +1,506 @@
+[
+  {
+    "smdCode": "XE",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B11",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XE",
+    "package": "SOT-23",
+    "deviceName": "BZX99-C6V8",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx99_philips.pdf"
+  },
+  {
+    "smdCode": "XE",
+    "package": "SOD-323",
+    "deviceName": "PZU20B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "XE",
+    "package": "2-2H1A",
+    "deviceName": "RN1105F",
+    "manufacturer": "Toshiba",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn1101f-rn1106f_toshiba.pdf"
+  },
+  {
+    "smdCode": "XE",
+    "package": "SMA",
+    "deviceName": "SMAJ12CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "XE-***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-2HPB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "XE=***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-2HGB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "XEAR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX180",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEAS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X180",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEAT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X180",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEAV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X180",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEBR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX190",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEBS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X190",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEBT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X190",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEBV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X190",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XECR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX200",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XECS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X200",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XECT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X200",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XECV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X200",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEDR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX210",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEDS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X210",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEDT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X210",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEDV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X210",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEER",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX220",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEES",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X220",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEET",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X220",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEEV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X220",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEFR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX230",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEFS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X230",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEFT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X230",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEFV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X230",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEGR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX240",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEGS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X240",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEGT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X240",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEGV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X240",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEHR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX250",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEHS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X250",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEHT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X250",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEHV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X250",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEIR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX260",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEIS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X260",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEIT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X260",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEIV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X260",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEJR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX270",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEJS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X270",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEJT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X270",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEJV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X270",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEKR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX280",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEKS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X280",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEKT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X280",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEKV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X280",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XELR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX290",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XELS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X290",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XELT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X290",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XELV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X290",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEMR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX300",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEMS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X300",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEMT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X300",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XEMV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X300",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XENR",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST8RX310",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XENS",
+    "package": "SOT-89",
+    "deviceName": "YB1230ST89X310",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XENT",
+    "package": "SOT-25",
+    "deviceName": "YB1230ST25X310",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  },
+  {
+    "smdCode": "XENV",
+    "package": "SOT-23",
+    "deviceName": "YB1230ST23X310",
+    "manufacturer": "Yobon",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/y/b/yb1230_r1.6_yobon.pdf"
+  }
+]

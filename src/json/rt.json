@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "RT",
+    "package": "SMA",
+    "deviceName": "1SMA18AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "RT",
+    "package": "SOT-23",
+    "deviceName": "MCP810T-315",
+    "manufacturer": "Microchip",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mcp809%2C_mcp810_microchip.pdf"
+  },
+  {
+    "smdCode": "RT",
+    "package": "SOD-323",
+    "deviceName": "PZU6.8B2A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "RT",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K281A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "RT",
+    "package": "SMA",
+    "deviceName": "SMAJ78A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "RT-***",
+    "package": "SOT-25",
+    "deviceName": "RT9170-33PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9170_richtek.pdf"
+  },
+  {
+    "smdCode": "RTAD-",
+    "package": "TO-92",
+    "deviceName": "RT9161-33PZL",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "RTB4-",
+    "package": "TO-92",
+    "deviceName": "RT9161-30PZL",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "RTC0-",
+    "package": "TO-92",
+    "deviceName": "RT9161-50PZL",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "RTFB-",
+    "package": "TO-92",
+    "deviceName": "RT9166A-25PZ",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  }
+]

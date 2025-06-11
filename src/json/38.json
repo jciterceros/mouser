@@ -1,0 +1,538 @@
+[
+  {
+    "smdCode": "380",
+    "package": "SOT-23",
+    "deviceName": "ZXSC380FH",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxsc380_zetex.pdf"
+  },
+  {
+    "smdCode": "381",
+    "package": "SOT-23",
+    "deviceName": "ZXLD381",
+    "manufacturer": "Diodes",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxld381_diodes.pdf"
+  },
+  {
+    "smdCode": "382H05",
+    "package": "DFN-8 3x3",
+    "deviceName": "NCP382HMN05A-ATXG",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382H10",
+    "package": "DFN-8 3x3",
+    "deviceName": "NCP382HMN10A-ATXG",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382H15",
+    "package": "DFN-8 3x3",
+    "deviceName": "NCP382HMN15A-ATXG",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382H20",
+    "package": "DFN-8 3x3",
+    "deviceName": "NCP382HMN20A-ATXG",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382L05",
+    "package": "DFN-8 3x3",
+    "deviceName": "NCP382LMN05A-ATXG",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382L10",
+    "package": "DFN-8 3x3",
+    "deviceName": "NCP382LMN10A-ATXG",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382L15",
+    "package": "DFN-8 3x3",
+    "deviceName": "NCP382LMN15A-ATXG",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382L20",
+    "package": "DFN-8 3x3",
+    "deviceName": "NCP382LMN20A-ATXG",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382H05",
+    "package": "SO-8",
+    "deviceName": "NCP382HD05AA-R2G",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382H10",
+    "package": "SO-8",
+    "deviceName": "NCP382HD10AA-R2G",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382H15",
+    "package": "SO-8",
+    "deviceName": "NCP382HD15AA-R2G",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382L05",
+    "package": "SO-8",
+    "deviceName": "NCP382LD05AA-R2G",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382L10",
+    "package": "SO-8",
+    "deviceName": "NCP382LD10AA-R2G",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "382L15",
+    "package": "SO-8",
+    "deviceName": "NCP382LD15AA-R2G",
+    "manufacturer": "ON",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp382_r8_on.pdf"
+  },
+  {
+    "smdCode": "3844",
+    "package": "SO-8",
+    "deviceName": "UC3844",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/c/uc2844%2C_uc2845%2C_uc3844%2C_uc3845_on.pdf"
+  },
+  {
+    "smdCode": "3845",
+    "package": "SO-8",
+    "deviceName": "UC3845",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/c/uc2844%2C_uc2845%2C_uc3844%2C_uc3845_on.pdf"
+  },
+  {
+    "smdCode": "3878",
+    "package": "SSOP-24",
+    "deviceName": "MB3878",
+    "manufacturer": "Fujitsu",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/b/mb3878_fujitsu.pdf"
+  },
+  {
+    "smdCode": "3887",
+    "package": "SSOP-24",
+    "deviceName": "MB3887",
+    "manufacturer": "Fujitsu",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/b/mb3887_fujitsu.pdf"
+  },
+  {
+    "smdCode": "389*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-15A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "389*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-15B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38A*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-16A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38A*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-16B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38B*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-17A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38B*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-17B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38C*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-18A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38C*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-18B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38D*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-19A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38D*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-19B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38E*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-20A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38E*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-20B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38F*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-21A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38F*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-21B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38G*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-22A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38G*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-22B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38H*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-23A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38H*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-23B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38I*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-24A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38I*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-24B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38J*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-25A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38J*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-25B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38K*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-26A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38K*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-26B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38L*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-27A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38L*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-27B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38M*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-28A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38M*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-28B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38N*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-29A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38N*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-29B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38O*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-30A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38O*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-30B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38P*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-31A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38P*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-31B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38Q*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-32A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38Q*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-32B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38R*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-33A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38R*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-33B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38S*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-34A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38S*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-34B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38T",
+    "package": "SOT-23",
+    "deviceName": "TK71538AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "38T*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-35A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38T*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-35B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38U*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-43A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38U*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-43B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38V*",
+    "package": "SOT-23",
+    "deviceName": "APL5308-45A",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  },
+  {
+    "smdCode": "38V*",
+    "package": "SOT-25",
+    "deviceName": "APL5308-45B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5308%2C_apl5309_anpec.pdf"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "smdCode": "BM",
+    "package": "U-DFN2020-6",
+    "deviceName": "AP2552AFDC",
+    "manufacturer": "Diodes",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2552%2C_ap2553%2C_ap2552a%2C_ap2553a_r10-2_diodes.pdf"
+  },
+  {
+    "smdCode": "BM",
+    "package": "SOT-89",
+    "deviceName": "BCX55-16",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx54%2C_bcx55%2C_bcx56_ra_galaxy.pdf"
+  },
+  {
+    "smdCode": "BM",
+    "package": "SOT-89",
+    "deviceName": "BCX5516TA",
+    "manufacturer": "Diodes",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx54%2C_bcx55%2C_bcx56_diodes.pdf"
+  },
+  {
+    "smdCode": "BM",
+    "package": "SOT-25",
+    "deviceName": "BD4731G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd47xx_series_r007_rohm.pdf"
+  },
+  {
+    "smdCode": "BM",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C13",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "BM",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5250B",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5261b_semtech.pdf"
+  },
+  {
+    "smdCode": "BM",
+    "package": "SMA",
+    "deviceName": "SMAJ15A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "BM",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ15A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "BM",
+    "package": "SMB",
+    "deviceName": "SMBJ15CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "BM",
+    "package": "SOD-323",
+    "deviceName": "UDZ15B",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udz5v1b-udz15b_diodes.pdf"
+  },
+  {
+    "smdCode": "BM*",
+    "package": "SOT-353",
+    "deviceName": "74AHCT1G125DCK",
+    "manufacturer": "Texas Instruments",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74ahct1g125_ti.pdf"
+  },
+  {
+    "smdCode": "BM*",
+    "package": "SOT-553",
+    "deviceName": "74AHCT1G125DRL",
+    "manufacturer": "Texas Instruments",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74ahct1g125_ti.pdf"
+  },
+  {
+    "smdCode": "BM*",
+    "package": "WDFN-6 1.6x1.6",
+    "deviceName": "RT9011-GKGQWC",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BM*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-SQPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "BM*",
+    "package": "SOT-353",
+    "deviceName": "SN74AHCT1G125DCK",
+    "manufacturer": "Texas Instruments",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74ahct1g125_ti.pdf"
+  },
+  {
+    "smdCode": "BM*",
+    "package": "SOT-553",
+    "deviceName": "SN74AHCT1G125DRL",
+    "manufacturer": "Texas Instruments",
+    "data": "Buffer",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74ahct1g125_ti.pdf"
+  },
+  {
+    "smdCode": "BM***",
+    "package": "SOT-26",
+    "deviceName": "AP2552AW6",
+    "manufacturer": "Diodes",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2552%2C_ap2553%2C_ap2552a%2C_ap2553a_r10-2_diodes.pdf"
+  },
+  {
+    "smdCode": "BM***",
+    "package": "SOT-26",
+    "deviceName": "SY8101CEBC",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8101_silergy.pdf"
+  },
+  {
+    "smdCode": "BM-**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9018B-12PQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9018a%2C_rt9018b_r09_richtek.pdf"
+  },
+  {
+    "smdCode": "BM-***",
+    "package": "SOT-23",
+    "deviceName": "RT9169-32PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "BMF",
+    "package": "TDFN-8 3x3",
+    "deviceName": "MAX5054AATA/V+",
+    "manufacturer": "Maxim",
+    "data": "MOSFET Driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max5054-max5057_r3_maxim.pdf"
+  },
+  {
+    "smdCode": "BMS",
+    "package": "SOT-346",
+    "deviceName": "2SC4713K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4713k%2C_2sc4774_rohm.pdf"
+  },
+  {
+    "smdCode": "BMS",
+    "package": "SOT-323",
+    "deviceName": "2SC4774",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4713k%2C_2sc4774_rohm.pdf"
+  },
+  {
+    "smdCode": "Bm",
+    "package": "SOT-25",
+    "deviceName": "BD48E46G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Bm",
+    "package": "SOT-23",
+    "deviceName": "BD48K46G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

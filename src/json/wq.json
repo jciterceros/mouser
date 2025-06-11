@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "WQ",
+    "package": "SOT-23",
+    "deviceName": "2SK322",
+    "manufacturer": "Hitachi",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk322_hitachi.pdf"
+  },
+  {
+    "smdCode": "WQ",
+    "package": "SOD-123",
+    "deviceName": "BZT52C30",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "WQ",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WQ",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K481D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "WQ***",
+    "package": "SOT-23",
+    "deviceName": "AX5505R32",
+    "manufacturer": "Axelite",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax5505_r1.1_axelite.pdf"
+  },
+  {
+    "smdCode": "WQ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9818A-25PB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "WP",
+    "package": "SOT-23",
+    "deviceName": "2SK322",
+    "manufacturer": "Hitachi",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk322_hitachi.pdf"
+  },
+  {
+    "smdCode": "WP",
+    "package": "X2-DFN0808-4",
+    "deviceName": "74LVC1G14FS3",
+    "manufacturer": "Diodes",
+    "data": "Schmitt-Trigger Inverter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g14_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "WP",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C22",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WP",
+    "package": "SOD-123",
+    "deviceName": "BZT52C27",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "WP",
+    "package": "SOD-110",
+    "deviceName": "BZX284-B2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx284_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WP",
+    "package": "SOT-23",
+    "deviceName": "BZX84C22",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "WP",
+    "package": "SOT-23",
+    "deviceName": "BZX84C22-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WP",
+    "package": "SOD-323",
+    "deviceName": "PZU13BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WP",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K471D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "WP",
+    "package": "SMA",
+    "deviceName": "SMAJ7.5CA",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "WP***",
+    "package": "SOT-23",
+    "deviceName": "AX5505R31",
+    "manufacturer": "Axelite",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax5505_r1.1_axelite.pdf"
+  },
+  {
+    "smdCode": "WP-***",
+    "package": "SOT-25",
+    "deviceName": "RT9818A-23PB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "WP1*",
+    "package": "SOT-23",
+    "deviceName": "WPM3401",
+    "manufacturer": "Jestek",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/w/p/wpm3401_jestek.pdf"
+  },
+  {
+    "smdCode": "WP1*",
+    "package": "SOT-23",
+    "deviceName": "WPM3401",
+    "manufacturer": "Willsemi",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/w/p/wpm3401_willsemi.pdf"
+  }
+]

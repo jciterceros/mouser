@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "4D",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z2V7",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "4D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA94",
+    "manufacturer": "Diotec",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta94_20150512_diotec.pdf"
+  },
+  {
+    "smdCode": "4D",
+    "package": "SOT-23",
+    "deviceName": "MMBTA94",
+    "manufacturer": "Secos",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta94_rb_secos.pdf"
+  },
+  {
+    "smdCode": "4DG",
+    "package": "SOT-23",
+    "deviceName": "MMBTA94G",
+    "manufacturer": "UTC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbta94_20141030_utc.pdf"
+  }
+]

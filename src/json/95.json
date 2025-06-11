@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "95",
+    "package": "SOT-416",
+    "deviceName": "DTA124TE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124te%2C_dta124tka%2C_dta124tm%2C_dta124tsa%2C_dta124tua_rohm.pdf"
+  },
+  {
+    "smdCode": "95",
+    "package": "SOT-346",
+    "deviceName": "DTA124TKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124te%2C_dta124tka%2C_dta124tm%2C_dta124tsa%2C_dta124tua_rohm.pdf"
+  },
+  {
+    "smdCode": "95",
+    "package": "VMT3",
+    "deviceName": "DTA124TM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124te%2C_dta124tka%2C_dta124tm%2C_dta124tsa%2C_dta124tua_rohm.pdf"
+  },
+  {
+    "smdCode": "95",
+    "package": "SOT-323",
+    "deviceName": "DTA124TUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124te%2C_dta124tka%2C_dta124tm%2C_dta124tsa%2C_dta124tua_rohm.pdf"
+  },
+  {
+    "smdCode": "95",
+    "package": "Flip Chip-9",
+    "deviceName": "TS4995EIJT",
+    "manufacturer": "STMicroelectronics",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts4995eijt_st.pdf"
+  },
+  {
+    "smdCode": "95",
+    "package": "SOD-323",
+    "deviceName": "UDZS24B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "95375M",
+    "package": "SON-8 3,5x4,5",
+    "deviceName": "CSD95375Q4M",
+    "manufacturer": "Texas Instruments",
+    "data": "NexFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/s/csd95375q4m_ra_ti.pdf"
+  },
+  {
+    "smdCode": "95831HRTZ",
+    "package": "TQFN-48 6x6",
+    "deviceName": "ISL95831HRTZ",
+    "manufacturer": "Intersil",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl95831_intersil.pdf"
+  },
+  {
+    "smdCode": "95831IRTZ",
+    "package": "TQFN-48 6x6",
+    "deviceName": "ISL95831IRTZ",
+    "manufacturer": "Intersil",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl95831_intersil.pdf"
+  },
+  {
+    "smdCode": "95836HRTZ",
+    "package": "TQFN-40 5x5",
+    "deviceName": "ISL95836HRTZ",
+    "manufacturer": "Intersil",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl95836_intersil.pdf"
+  },
+  {
+    "smdCode": "95836IRTZ",
+    "package": "TQFN-40 5x5",
+    "deviceName": "ISL95836IRTZ",
+    "manufacturer": "Intersil",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl95836_intersil.pdf"
+  },
+  {
+    "smdCode": "95839HRTZ",
+    "package": "TQFN-40 5x5",
+    "deviceName": "ISL95839HRTZ",
+    "manufacturer": "Intersil",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/s/isl95839_20130509_intersil.pdf"
+  }
+]

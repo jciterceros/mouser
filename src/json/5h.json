@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "5H",
+    "package": "SOD-123F",
+    "deviceName": "MM1Z16",
+    "manufacturer": "Semtech",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm1z2v0-mm1z75_r0.1_semtech.pdf"
+  },
+  {
+    "smdCode": "5H",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z12V",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "5H",
+    "package": "SOT-23",
+    "deviceName": "MMBD4148A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd4148a%2C_mmbd4148ca%2C_mmbd4148cc%2C_mmbd4148se_galaxy.pdf"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "01",
+    "package": "SOT-363",
+    "deviceName": "FDG6301N",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdg6301n_fairchild.pdf"
+  },
+  {
+    "smdCode": "01",
+    "package": "SOT-23",
+    "deviceName": "SSTPAD100",
+    "manufacturer": "Siliconix (Now Vishay)",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/p/jpad5_jpad50_pad1_pad5_pad50_sstpad5_sstpad100_siliconix.pdf"
+  },
+  {
+    "smdCode": "01**",
+    "package": "SOT-323",
+    "deviceName": "STP7401S32RG",
+    "manufacturer": "Stanson",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stp7401_stanson.pdf"
+  },
+  {
+    "smdCode": "010*",
+    "package": "SOT-23",
+    "deviceName": "MT2301",
+    "manufacturer": "Mos-Tech",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt2301_mos-tech.pdf"
+  },
+  {
+    "smdCode": "014N03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC014N03LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc014n03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "014N03MS",
+    "package": "TDSON-8",
+    "deviceName": "BSC014N03MS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc014n03msg_infineon.pdf"
+  },
+  {
+    "smdCode": "016N03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC016N03LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc016n03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "016N03MS",
+    "package": "TDSON-8",
+    "deviceName": "BSC016N03MS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc016n03msg_infineon.pdf"
+  },
+  {
+    "smdCode": "016N04LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC016N04LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc016n04lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "016b*",
+    "package": "SOT-25",
+    "deviceName": "EC49016X-F",
+    "manufacturer": "E-CMOS",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/c/ec49016_20060518_ecmos.pdf"
+  },
+  {
+    "smdCode": "017**",
+    "package": "SOT-26",
+    "deviceName": "SE9017",
+    "manufacturer": "Seaward",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/e/se9017_20090416_seaward.pdf"
+  },
+  {
+    "smdCode": "017N04NS",
+    "package": "TDSON-8",
+    "deviceName": "BSC017N04NS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc017n04nsg_infineon.pdf"
+  },
+  {
+    "smdCode": "018N04LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC018N04LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc018n04lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "019N02KS",
+    "package": "TDSON-8",
+    "deviceName": "BSC019N02KS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc019n02ksg_infineon.pdf"
+  },
+  {
+    "smdCode": "019N04NS",
+    "package": "TDSON-8",
+    "deviceName": "BSC019N04NS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc019n04nsg_infineon.pdf"
+  }
+]

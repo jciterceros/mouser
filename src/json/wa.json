@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "WA",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "KEC",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_kec.pdf"
+  },
+  {
+    "smdCode": "WA",
+    "package": "SOD-123",
+    "deviceName": "BZT52-C5V6",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52-c2v4_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WA",
+    "package": "SOD-123",
+    "deviceName": "BZT52C6V2",
+    "manufacturer": "Diodes",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52c2v0-bzt52c51_r37-2_diodes.pdf"
+  },
+  {
+    "smdCode": "WA",
+    "package": "SOT-23",
+    "deviceName": "BZX84C5V6",
+    "manufacturer": "Taitron",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt2v4aw-tzt51aw%2C_tzt2v4cw-tzt51cw%2C_bzx84c2c4-bzx84c75_20130830_taitron.pdf"
+  },
+  {
+    "smdCode": "WA",
+    "package": "SOT-23",
+    "deviceName": "BZX84C5V6-AU",
+    "manufacturer": "Panjit",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84c2v4-au_series_r03_panjit.pdf"
+  },
+  {
+    "smdCode": "WA",
+    "package": "SOD-323",
+    "deviceName": "PZU10BA/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WA",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K341D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "WA-***",
+    "package": "SOT-25",
+    "deviceName": "RT9818A-22PB",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "WA1",
+    "package": "SOT-23",
+    "deviceName": "BZX84-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "WAB",
+    "package": "SOT-143B",
+    "deviceName": "BAW101",
+    "manufacturer": "NXP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/baw101_nxp.pdf"
+  },
+  {
+    "smdCode": "WAB",
+    "package": "SOT-23",
+    "deviceName": "PDTA115ET",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "WAF",
+    "package": "MLF-8 2x2",
+    "deviceName": "MIC3291-18YML",
+    "manufacturer": "Micrel",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic3291_201010_micrel.pdf"
+  },
+  {
+    "smdCode": "WAM**",
+    "package": "SOT-26",
+    "deviceName": "AAT1217ICA-3.3-T1",
+    "manufacturer": "AAT",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/a/aat1217_analogic.pdf"
+  },
+  {
+    "smdCode": "Wa***",
+    "package": "SOT-23",
+    "deviceName": "AX5505R42",
+    "manufacturer": "Axelite",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/x/ax5505_r1.1_axelite.pdf"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "***4990",
+    "package": "Flip Chip-9",
+    "deviceName": "TS4990",
+    "manufacturer": "STMicroelectronics",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts4990_st.pdf"
+  },
+  {
+    "smdCode": "***C6*",
+    "package": "WCSP (DSBGA)",
+    "deviceName": "SN74LVC1G66YZP",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/n/sn74lvc1g66_ti.pdf"
+  },
+  {
+    "smdCode": "**130",
+    "package": "SOT-26",
+    "deviceName": "LD7530MGL",
+    "manufacturer": "Leadtrend",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/d/ld7530m%2C_ld7530n_leadtrend.pdf"
+  },
+  {
+    "smdCode": "**130",
+    "package": "SOT-26",
+    "deviceName": "LD7530MPL",
+    "manufacturer": "Leadtrend",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/d/ld7530m%2C_ld7530n_leadtrend.pdf"
+  },
+  {
+    "smdCode": "**230",
+    "package": "SOT-26",
+    "deviceName": "LD7530NGL",
+    "manufacturer": "Leadtrend",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/d/ld7530m%2C_ld7530n_leadtrend.pdf"
+  },
+  {
+    "smdCode": "**230",
+    "package": "SOT-26",
+    "deviceName": "LD7530NPL",
+    "manufacturer": "Leadtrend",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/d/ld7530m%2C_ld7530n_leadtrend.pdf"
+  },
+  {
+    "smdCode": "**P35",
+    "package": "SOT-26",
+    "deviceName": "LD7535BL",
+    "manufacturer": "Leadtrend",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/d/ld7535%2C_ld7535a_leadtrend.pdf"
+  },
+  {
+    "smdCode": "**P35",
+    "package": "SOT-26",
+    "deviceName": "LD7535GL",
+    "manufacturer": "Leadtrend",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/d/ld7535%2C_ld7535a_leadtrend.pdf"
+  },
+  {
+    "smdCode": "**P35A",
+    "package": "SOT-26",
+    "deviceName": "LD7535ABL",
+    "manufacturer": "Leadtrend",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/d/ld7535%2C_ld7535a_leadtrend.pdf"
+  },
+  {
+    "smdCode": "**P35A",
+    "package": "SOT-26",
+    "deviceName": "LD7535AGL",
+    "manufacturer": "Leadtrend",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/d/ld7535%2C_ld7535a_leadtrend.pdf"
+  },
+  {
+    "smdCode": "**P37",
+    "package": "SOT-26",
+    "deviceName": "LD7537GL",
+    "manufacturer": "Leadtrend",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/d/ld7537_r01a_leadtrend.pdf"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "PC",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q421D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "PC-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C18",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PCW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C18",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PCZI",
+    "package": "SOT-23",
+    "deviceName": "TPS3809J25DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Supply voltage supervisor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps3809i50%2C_tps3809j25%2C_tps3809k33%2C_tps3809l30_ti.pdf"
+  },
+  {
+    "smdCode": "PCp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C18",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PCt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C18",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Pc",
+    "package": "SOT-25",
+    "deviceName": "BD52E55G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  },
+  {
+    "smdCode": "pC0",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A13",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pC1",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A3V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pC2",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A20",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pC3",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pC4",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A39",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pC5",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A43",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "pC6",
+    "package": "SOT-23",
+    "deviceName": "BZX84-A51",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

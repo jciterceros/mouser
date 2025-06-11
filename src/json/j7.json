@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "J7 **",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8207MZQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8207l%2C_rt8207m_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "J7-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-45PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "J7-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819A-27PVL",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "J7=**",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8207MGQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8207l%2C_rt8207m_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "J7A",
+    "package": "SOT-23",
+    "deviceName": "ZC836A",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J7B",
+    "package": "SOT-23",
+    "deviceName": "ZC836B",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  },
+  {
+    "smdCode": "J7S",
+    "package": "SOT-23",
+    "deviceName": "ZC836",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/c/zc830-zc836_zetex.pdf"
+  }
+]

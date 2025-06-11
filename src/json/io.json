@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "IO",
+    "package": "SOT-23",
+    "deviceName": "KTA1298",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta1298_galaxy.pdf"
+  },
+  {
+    "smdCode": "IO",
+    "package": "SOT-23",
+    "deviceName": "KTA1298",
+    "manufacturer": "KEC",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta1298_kec.pdf"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "6R",
+    "package": "SOT-23",
+    "deviceName": "MMBFJ112",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/1/j111%2C_j112%2C_j113%2C_mmbfj111%2C_mmbfj112%2C_mmbfj113_fairchild.pdf"
+  },
+  {
+    "smdCode": "6R",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ259B",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  }
+]

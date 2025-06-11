@@ -1,0 +1,202 @@
+[
+  {
+    "smdCode": "L1",
+    "package": "SOT-23",
+    "deviceName": "BSS65",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss65%2C_bss65r_zetex.pdf"
+  },
+  {
+    "smdCode": "L1",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B5V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "L1",
+    "package": "SOT-25",
+    "deviceName": "SP6641BEK-3.3",
+    "manufacturer": "Sipex",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6641a%2C_sp6641b_sipex.pdf"
+  },
+  {
+    "smdCode": "L1",
+    "package": "SOT-23",
+    "deviceName": "SST511",
+    "manufacturer": "Siliconix (Now Vishay)",
+    "data": "Current regulator diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst502-sst511_siliconix.pdf"
+  },
+  {
+    "smdCode": "L1 *",
+    "package": "SOT-353",
+    "deviceName": "NL17SZ00DFT2",
+    "manufacturer": "ON",
+    "data": "Single 2-Input NAND Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/l/nl17sz00_on.pdf"
+  },
+  {
+    "smdCode": "L1 *",
+    "package": "SOT-553",
+    "deviceName": "NL17SZ00XV5T",
+    "manufacturer": "ON",
+    "data": "Single 2-Input NAND Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/l/nl17sz00_on.pdf"
+  },
+  {
+    "smdCode": "L1***",
+    "package": "SOT-23",
+    "deviceName": "Si2301BDS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2301bds_vishay.pdf"
+  },
+  {
+    "smdCode": "L1-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-36PXL",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "L1-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819E-23PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "L10",
+    "package": "SOT-753",
+    "deviceName": "FML10",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor + diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fml10_rohm.pdf"
+  },
+  {
+    "smdCode": "L10",
+    "package": "SOT-25",
+    "deviceName": "QSL10",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor + diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qsl10_rohm.pdf"
+  },
+  {
+    "smdCode": "L10",
+    "package": "SOT-353",
+    "deviceName": "UML1N",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor + diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/m/uml1n_rohm.pdf"
+  },
+  {
+    "smdCode": "L10",
+    "package": "SOT-23",
+    "deviceName": "ZLLS1000",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/l/zlls1000_zetex.pdf"
+  },
+  {
+    "smdCode": "L100",
+    "package": "SOT-26",
+    "deviceName": "AL5801W6",
+    "manufacturer": "Diodes",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/l/al5801_r3-2_diodes.pdf"
+  },
+  {
+    "smdCode": "L102",
+    "package": "SOT-26",
+    "deviceName": "AL5802",
+    "manufacturer": "Diodes",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/l/al5802_r9-2_diodes.pdf"
+  },
+  {
+    "smdCode": "L11",
+    "package": "SOT-25",
+    "deviceName": "QSL11",
+    "manufacturer": "ROHM",
+    "data": "PNP transistor + diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qsl11_rohm.pdf"
+  },
+  {
+    "smdCode": "L1117DG",
+    "package": "TO-252-3",
+    "deviceName": "ELM1117DG",
+    "manufacturer": "ELM",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm1117xg_elm.pdf"
+  },
+  {
+    "smdCode": "L1117LG",
+    "package": "SOT-223",
+    "deviceName": "ELM1117LG",
+    "manufacturer": "ELM",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/l/elm1117xg_elm.pdf"
+  },
+  {
+    "smdCode": "L12",
+    "package": "SOT-25",
+    "deviceName": "QSL12",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor + diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/q/s/qsl12_rohm.pdf"
+  },
+  {
+    "smdCode": "L12",
+    "package": "SOT-23",
+    "deviceName": "SL12T1",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/l/sl05t1%2C_sl12t1%2C_sl15t1%2C_sl24t1_on.pdf"
+  },
+  {
+    "smdCode": "L12A",
+    "package": "TDFN-6 2x2",
+    "deviceName": "APL3512AQB",
+    "manufacturer": "Anpec",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl3512_ra.6_anpec.pdf"
+  },
+  {
+    "smdCode": "L12B",
+    "package": "TDFN-6 2x2",
+    "deviceName": "APL3512BQB",
+    "manufacturer": "Anpec",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl3512_ra.6_anpec.pdf"
+  },
+  {
+    "smdCode": "L15",
+    "package": "SOT-23",
+    "deviceName": "SL15T1",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/l/sl05t1%2C_sl12t1%2C_sl15t1%2C_sl24t1_on.pdf"
+  },
+  {
+    "smdCode": "L1=",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-36GXL",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "L1B",
+    "package": "SOT-26",
+    "deviceName": "ADP3330ART-2.5",
+    "manufacturer": "Analog Devices",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adp3330_analog.pdf"
+  }
+]

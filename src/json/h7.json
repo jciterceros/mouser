@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "H7",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C11",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "H7",
+    "package": "SOD-323F",
+    "deviceName": "PZU4.7B2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "H7***",
+    "package": "SOT-23",
+    "deviceName": "Si2367DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2367ds_vishay.pdf"
+  },
+  {
+    "smdCode": "H7-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-24PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

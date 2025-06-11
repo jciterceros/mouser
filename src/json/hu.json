@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "HU",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C75",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "HU",
+    "package": "SOD-323F",
+    "deviceName": "PZU5.1B3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "HU**",
+    "package": "SOT-26",
+    "deviceName": "MCP1623",
+    "manufacturer": "Microchip",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mcp1623_mcp1624_20100504_microchip.pdf"
+  },
+  {
+    "smdCode": "HU-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818F-36PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "HU=**",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8510GQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8510_r03_richtek.pdf"
+  }
+]

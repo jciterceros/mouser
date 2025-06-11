@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "EX",
+    "package": "SOD-323",
+    "deviceName": "PZU9.1B3A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "EX**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US50D4-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "EX=***",
+    "package": "SOT-26",
+    "deviceName": "RT9526GE",
+    "manufacturer": "Richtek",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9526_r01_richtek.pdf"
+  }
+]

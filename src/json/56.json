@@ -1,0 +1,170 @@
+[
+  {
+    "smdCode": "56",
+    "package": "SOT-323",
+    "deviceName": "FSD273TA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Varactor Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/s/fsd273ta%2C_zmdc953ta%2C_zv950v2ta%2C_zv952v2ta%2C_zv953v2ta_zetex.pdf"
+  },
+  {
+    "smdCode": "56",
+    "package": "SOT-523F",
+    "deviceName": "MM5Z4V3",
+    "manufacturer": "Fairchild",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mm5z2v4-mmz5z75v_r1.0_fairchild.pdf"
+  },
+  {
+    "smdCode": "56",
+    "package": "SOT-553",
+    "deviceName": "NZQA5V6XV5T1G",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/z/nzqa5v6xv5t1%2C_nzqa6v2xv5t1%2C_nzqa6v8xv5t1_on.pdf"
+  },
+  {
+    "smdCode": "56",
+    "package": "SOT-346",
+    "deviceName": "PDTC115EK",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "56 **",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT8299ZQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8299_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "56**",
+    "package": "SOT-26",
+    "deviceName": "STN3456",
+    "manufacturer": "Stanson",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stn3456_stanson.pdf"
+  },
+  {
+    "smdCode": "56-",
+    "package": "SOT-23",
+    "deviceName": "BSR19",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr19%2C_bsr19a_philips.pdf"
+  },
+  {
+    "smdCode": "5601",
+    "package": "TQFN-16 3x3",
+    "deviceName": "G5601",
+    "manufacturer": "GMT",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5601_gmt.pdf"
+  },
+  {
+    "smdCode": "5601A",
+    "package": "TQFN-16 3x3",
+    "deviceName": "G5601A",
+    "manufacturer": "GMT",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5601a_gmt.pdf"
+  },
+  {
+    "smdCode": "5616",
+    "package": "TQFN-24 4x4",
+    "deviceName": "G5616R51U",
+    "manufacturer": "GMT",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5616_gmt.pdf"
+  },
+  {
+    "smdCode": "5616",
+    "package": "TQFN-20 3x3",
+    "deviceName": "G5616RZ1U",
+    "manufacturer": "GMT",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/5/g5616_gmt.pdf"
+  },
+  {
+    "smdCode": "5630",
+    "package": "SOT-23",
+    "deviceName": "FDN5630",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/d/fdn5630_fairchild.pdf"
+  },
+  {
+    "smdCode": "56=**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT8299GQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8299_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "56A",
+    "package": "SMB",
+    "deviceName": "1.5SMC56AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "56R*",
+    "package": "SOT-25",
+    "deviceName": "APL5156-33B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5156_ra.6_anpec.pdf"
+  },
+  {
+    "smdCode": "56W",
+    "package": "SOT-23",
+    "deviceName": "BSR19",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr19%2C_bsr19a_philips.pdf"
+  },
+  {
+    "smdCode": "56Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C56",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "56Z*",
+    "package": "SOT-25",
+    "deviceName": "APL5156-50B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5156_ra.6_anpec.pdf"
+  },
+  {
+    "smdCode": "56p",
+    "package": "SOT-23",
+    "deviceName": "BSR19",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr19%2C_bsr19a_philips.pdf"
+  },
+  {
+    "smdCode": "56s",
+    "package": "SOT-23",
+    "deviceName": "BAT17-06",
+    "manufacturer": "Infineon",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat17_series_infineon.pdf"
+  },
+  {
+    "smdCode": "56t",
+    "package": "SOT-23",
+    "deviceName": "BSR19",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr19%2C_bsr19a_philips.pdf"
+  }
+]

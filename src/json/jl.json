@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "JL-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-15PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JL-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-35PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "Jl-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818D-27PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "jl**",
+    "package": "SC-70-4",
+    "deviceName": "PT7M6101NLC4E",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  },
+  {
+    "smdCode": "jl**",
+    "package": "TO-94",
+    "deviceName": "PT7M6101NLNE",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  },
+  {
+    "smdCode": "jl**",
+    "package": "SOT-25",
+    "deviceName": "PT7M6101NLTAE",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  }
+]

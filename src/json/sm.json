@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "SM",
+    "package": "SMB",
+    "deviceName": "1SMA33AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "SM",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "SM",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K451A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "SM",
+    "package": "TSMT3",
+    "deviceName": "RSR015P03",
+    "manufacturer": "ROHM",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/s/rsr015p03_rohm.pdf"
+  },
+  {
+    "smdCode": "SM",
+    "package": "SMA",
+    "deviceName": "SMAJ150A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  }
+]

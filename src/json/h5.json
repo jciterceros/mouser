@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "H5",
+    "package": "SOT-23",
+    "deviceName": "BCW70R",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw69%2C_bcw69r%2C_bcw70%2C_bcw70r_zetex.pdf"
+  },
+  {
+    "smdCode": "H5",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "H5",
+    "package": "SOT-26",
+    "deviceName": "IMH5A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/m/imh5a%2C_umh5n_rohm.pdf"
+  },
+  {
+    "smdCode": "H5",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5245",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "H5",
+    "package": "SOD-323F",
+    "deviceName": "PZU3.9B2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "H5",
+    "package": "SOT-23",
+    "deviceName": "SST5485",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5484%2C_2n5485%2C_2n5486%2C_sst5484%2C_sst5485%2C_sst5486_vishay.pdf"
+  },
+  {
+    "smdCode": "H5",
+    "package": "SOT-363",
+    "deviceName": "UMH5N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/m/imh5a%2C_umh5n_rohm.pdf"
+  },
+  {
+    "smdCode": "H5*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9293AGQWA",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9293_richtek.pdf"
+  },
+  {
+    "smdCode": "H5-***",
+    "package": "SOT-23",
+    "deviceName": "RT9198-27PV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "H5O",
+    "package": "SOT-23",
+    "deviceName": "KSC2223",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2223_fairchild.pdf"
+  },
+  {
+    "smdCode": "H5R",
+    "package": "SOT-23",
+    "deviceName": "KSC2223",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2223_fairchild.pdf"
+  },
+  {
+    "smdCode": "H5Y",
+    "package": "SOT-23",
+    "deviceName": "KSC2223",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc2223_fairchild.pdf"
+  }
+]

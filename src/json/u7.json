@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "U7",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "U7",
+    "package": "SOD-323F",
+    "deviceName": "CZRF3V9B-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "U7*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B382NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "U7**",
+    "package": "SOT-25",
+    "deviceName": "TC74A7-5.0VCT",
+    "manufacturer": "Microchip",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc74_microchip.pdf"
+  },
+  {
+    "smdCode": "U7-",
+    "package": "SOT-23",
+    "deviceName": "BSR13",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr13%2C_bsr14_nxp.pdf"
+  },
+  {
+    "smdCode": "U7W",
+    "package": "SOT-23",
+    "deviceName": "BSR13",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr13%2C_bsr14_nxp.pdf"
+  },
+  {
+    "smdCode": "U7p",
+    "package": "SOT-23",
+    "deviceName": "BSR13",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr13%2C_bsr14_nxp.pdf"
+  },
+  {
+    "smdCode": "U7t",
+    "package": "SOT-23",
+    "deviceName": "BSR13",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsr13%2C_bsr14_nxp.pdf"
+  }
+]

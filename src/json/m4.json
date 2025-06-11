@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "M4",
+    "package": "SOT-323",
+    "deviceName": "2SA1611",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1611_galaxy.pdf"
+  },
+  {
+    "smdCode": "M4",
+    "package": "SOT-23",
+    "deviceName": "2SA812",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa812_galaxy.pdf"
+  },
+  {
+    "smdCode": "M4",
+    "package": "SOT-23",
+    "deviceName": "2SA812",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa812_tip.pdf"
+  },
+  {
+    "smdCode": "M4",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B18",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "M4",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5259",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "M43",
+    "package": "SOT-416",
+    "deviceName": "DTD743XE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd743xe%2C_dtd743xm_rohm.pdf"
+  },
+  {
+    "smdCode": "M43",
+    "package": "VMT3",
+    "deviceName": "DTD743XM",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd743xe%2C_dtd743xm_rohm.pdf"
+  },
+  {
+    "smdCode": "M4=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-15GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "M4A",
+    "package": "SOT-23",
+    "deviceName": "MMBT4401",
+    "manufacturer": "Panjit",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt4401_panjit.pdf"
+  },
+  {
+    "smdCode": "M4F",
+    "package": "SOT-323",
+    "deviceName": "ADM1815-10AKSZ",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M4F",
+    "package": "SOT-23",
+    "deviceName": "ADM1815-10ARTZ",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M4T",
+    "package": "SOT-323",
+    "deviceName": "ADM1818-5AKSZ",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M4T",
+    "package": "SOT-23",
+    "deviceName": "ADM1818-5ARTZ",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M4Y",
+    "package": "SOT-323",
+    "deviceName": "ADM1810-5AKSZ",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M4Y",
+    "package": "SOT-23",
+    "deviceName": "ADM1810-5ARTZ",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M4Z",
+    "package": "SOT-323",
+    "deviceName": "ADM1810-10AKSZ",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  },
+  {
+    "smdCode": "M4Z",
+    "package": "SOT-23",
+    "deviceName": "ADM1810-10ARTZ",
+    "manufacturer": "Analog Devices",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1810-adm1813%2C_adm1815-adm1818_analog.pdf"
+  }
+]

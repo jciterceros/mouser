@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "79**",
+    "package": "ADFN-6 1.5x1.5",
+    "deviceName": "G709A3U",
+    "manufacturer": "GMT",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/7/g709_g710_r2.1_gmt.pdf"
+  },
+  {
+    "smdCode": "79N03S",
+    "package": "TDSON-8",
+    "deviceName": "BSC079N03S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc079n03sg_infineon.pdf"
+  }
+]

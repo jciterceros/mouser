@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "TH",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "TH",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K181B5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TH*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B172NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "TH-***",
+    "package": "SOT-25",
+    "deviceName": "RT9261B-32PB",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261b_richtek.pdf"
+  }
+]

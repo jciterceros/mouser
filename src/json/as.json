@@ -1,0 +1,154 @@
+[
+  {
+    "smdCode": "AS",
+    "package": "SOT-89",
+    "deviceName": "2SB766",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sb766_galaxy.pdf"
+  },
+  {
+    "smdCode": "AS",
+    "package": "SOT-323",
+    "deviceName": "MIC803-46D2VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AS",
+    "package": "SOT-23",
+    "deviceName": "MIC803-46D2VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AS*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9012-FMPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9012_richtek.pdf"
+  },
+  {
+    "smdCode": "AS**",
+    "package": "SOT-23",
+    "deviceName": "AO3423L",
+    "manufacturer": "Alpha & Omega",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/ao3423_r5_ao.pdf"
+  },
+  {
+    "smdCode": "AS***",
+    "package": "SSOT-26",
+    "deviceName": "SY8009BEBC",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8009a%2C_sy8009b_r1.0_silergy.pdf"
+  },
+  {
+    "smdCode": "AS-",
+    "package": "SOT-89",
+    "deviceName": "RT9161-22PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "AS-**",
+    "package": "VDFN-10 3x3",
+    "deviceName": "RT9013-CIPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "AS-**",
+    "package": "SOT-323",
+    "deviceName": "RT9818C-13PU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AS-***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-SSPJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AS-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-50PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "AS-***",
+    "package": "SOT-353",
+    "deviceName": "RT9193T-33PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9193t_richtek.pdf"
+  },
+  {
+    "smdCode": "AS-***",
+    "package": "SOT-343",
+    "deviceName": "RT9819E-43PY",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "AS=***",
+    "package": "SOT-26",
+    "deviceName": "RT9011-SSGJ6",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AS=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-50GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "ASG",
+    "package": "SOT-23",
+    "deviceName": "KTA1504",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta1504_galaxy.pdf"
+  },
+  {
+    "smdCode": "ASO",
+    "package": "SOT-23",
+    "deviceName": "KTA1504",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta1504_galaxy.pdf"
+  },
+  {
+    "smdCode": "ASY",
+    "package": "SOT-23",
+    "deviceName": "KTA1504",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta1504_galaxy.pdf"
+  },
+  {
+    "smdCode": "ASs",
+    "package": "SOT-23",
+    "deviceName": "BAT18-05",
+    "manufacturer": "Infineon",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat18_series_19991007_infineon.pdf"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "-K3",
+    "package": "SOT-23",
+    "deviceName": "BSH111",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsh111_r02_philips.pdf"
+  }
+]

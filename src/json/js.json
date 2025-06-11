@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "JS",
+    "package": "SOD-123",
+    "deviceName": "MMSD103",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsd103_galaxy.pdf"
+  },
+  {
+    "smdCode": "JS *",
+    "package": "SOT-23",
+    "deviceName": "BAS21LT1",
+    "manufacturer": "ON",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas19lt%2C_bas20lt%2C_bas21lt_on.pdf"
+  },
+  {
+    "smdCode": "JS-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-28PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JS-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-42PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JS=",
+    "package": "SOT-89",
+    "deviceName": "RT9166-28GXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JS=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818C-42GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JSA_",
+    "package": "SOT-25",
+    "deviceName": "TS5A4594DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts5a4594_ti.pdf"
+  },
+  {
+    "smdCode": "JSD_",
+    "package": "SOT-25",
+    "deviceName": "TS5A4597DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts5a4597_ti.pdf"
+  },
+  {
+    "smdCode": "JS_",
+    "package": "SOT-353",
+    "deviceName": "TS5A4594DCKR",
+    "manufacturer": "Texas Instruments",
+    "data": "Analog switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts5a4594_ti.pdf"
+  }
+]

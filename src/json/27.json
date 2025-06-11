@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "27",
+    "package": "SOT-523",
+    "deviceName": "2N7002KTB",
+    "manufacturer": "Panjit",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002ktb_panjit.pdf"
+  },
+  {
+    "smdCode": "27",
+    "package": "SOT-23",
+    "deviceName": "ZD27-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "27",
+    "package": "SOD-323",
+    "deviceName": "ZD27-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "27-",
+    "package": "SOT-23",
+    "deviceName": "BF747",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf747_philips.pdf"
+  },
+  {
+    "smdCode": "2727MTC",
+    "package": "TSSOP-14",
+    "deviceName": "LM2727MTC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2727_lm2737_rd_ti.pdf"
+  },
+  {
+    "smdCode": "2737MTC",
+    "package": "TSSOP-14",
+    "deviceName": "LM2737MTC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm2727_lm2737_rd_ti.pdf"
+  },
+  {
+    "smdCode": "27=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8813CGQW",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8813c_r02_richtek.pdf"
+  },
+  {
+    "smdCode": "27A",
+    "package": "SMB",
+    "deviceName": "1.5SMC27AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "27N03S",
+    "package": "TDSON-8",
+    "deviceName": "BSC027N03S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc027n03sg_infineon.pdf"
+  },
+  {
+    "smdCode": "27T",
+    "package": "SOT-23",
+    "deviceName": "TK71527AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "27W",
+    "package": "SOT-23",
+    "deviceName": "BF747",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf747_philips.pdf"
+  },
+  {
+    "smdCode": "27Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C27",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "27p",
+    "package": "SOT-23",
+    "deviceName": "BF747",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf747_philips.pdf"
+  },
+  {
+    "smdCode": "27t",
+    "package": "SOT-23",
+    "deviceName": "BF747",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf747_philips.pdf"
+  }
+]

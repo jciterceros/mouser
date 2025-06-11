@@ -1,0 +1,178 @@
+[
+  {
+    "smdCode": "PH",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q471D",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "PH-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C33",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PHFI",
+    "package": "SOT-25",
+    "deviceName": "TPS72116DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps72101%2C_tps72115%2C_tps72116%2C_tps72118_ti.pdf"
+  },
+  {
+    "smdCode": "PHHE",
+    "package": "SOT-25",
+    "deviceName": "TPS79318DBVREP",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps793xx-ep_series_rb_ti.pdf"
+  },
+  {
+    "smdCode": "PHHI",
+    "package": "SOT-25",
+    "deviceName": "TPS73018DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps730_rj_ti.pdf"
+  },
+  {
+    "smdCode": "PHIE",
+    "package": "SOT-25",
+    "deviceName": "TPS793285DBVREP",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps793xx-ep_series_rb_ti.pdf"
+  },
+  {
+    "smdCode": "PHII",
+    "package": "SOT-25",
+    "deviceName": "TPS730285DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps730_rj_ti.pdf"
+  },
+  {
+    "smdCode": "PHJE",
+    "package": "SOT-25",
+    "deviceName": "TPS793475DBVREP",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps793xx-ep_series_rb_ti.pdf"
+  },
+  {
+    "smdCode": "PHKI",
+    "package": "SOT-25",
+    "deviceName": "TPS62200DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62200%2C_tps62201%2C_tps62202%2C_tps62203%2C_tps62204%2C_tps62205%2C_tps62207%2C_tps62208_ti.pdf"
+  },
+  {
+    "smdCode": "PHLI",
+    "package": "SOT-25",
+    "deviceName": "TPS62201DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62200%2C_tps62201%2C_tps62202%2C_tps62203%2C_tps62204%2C_tps62205%2C_tps62207%2C_tps62208_ti.pdf"
+  },
+  {
+    "smdCode": "PHMI",
+    "package": "SOT-25",
+    "deviceName": "TPS62202DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62200%2C_tps62201%2C_tps62202%2C_tps62203%2C_tps62204%2C_tps62205%2C_tps62207%2C_tps62208_ti.pdf"
+  },
+  {
+    "smdCode": "PHNI",
+    "package": "SOT-25",
+    "deviceName": "TPS62203DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62200%2C_tps62201%2C_tps62202%2C_tps62203%2C_tps62204%2C_tps62205%2C_tps62207%2C_tps62208_ti.pdf"
+  },
+  {
+    "smdCode": "PHOI",
+    "package": "SOT-25",
+    "deviceName": "TPS61040DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61040%2C_tps61041_rh_ti.pdf"
+  },
+  {
+    "smdCode": "PHPI",
+    "package": "SOT-25",
+    "deviceName": "TPS61041DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps61040%2C_tps61041_rh_ti.pdf"
+  },
+  {
+    "smdCode": "PHSI",
+    "package": "SOT-25",
+    "deviceName": "TPS62204DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62200%2C_tps62201%2C_tps62202%2C_tps62203%2C_tps62204%2C_tps62205%2C_tps62207%2C_tps62208_ti.pdf"
+  },
+  {
+    "smdCode": "PHTI",
+    "package": "SOT-25",
+    "deviceName": "TPS62205DBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62200%2C_tps62201%2C_tps62202%2C_tps62203%2C_tps62204%2C_tps62205%2C_tps62207%2C_tps62208_ti.pdf"
+  },
+  {
+    "smdCode": "PHUE",
+    "package": "SOT-25",
+    "deviceName": "TPS793333DBVREP",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps793xx-ep_series_rb_ti.pdf"
+  },
+  {
+    "smdCode": "PHUI",
+    "package": "SOT-25",
+    "deviceName": "TPS73033DBVR",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps730_rj_ti.pdf"
+  },
+  {
+    "smdCode": "PHW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C33",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PHp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C33",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "PHt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C33",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "Ph",
+    "package": "SOT-25",
+    "deviceName": "BD52E60G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

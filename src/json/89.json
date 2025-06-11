@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "89",
+    "package": "SOT-23",
+    "deviceName": "MMBD1705",
+    "manufacturer": "Fairchild",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1701%2C_mmbd1703%2C_mmbd1704%2C_mmbd1705_fairchild.pdf"
+  },
+  {
+    "smdCode": "89**",
+    "package": "SOT-89",
+    "deviceName": "AFP8989S89RG",
+    "manufacturer": "Alpha-MOS",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/f/afp8989_alpha-mos.pdf"
+  },
+  {
+    "smdCode": "8901MP",
+    "package": "ESOP-8",
+    "deviceName": "APE8901MP",
+    "manufacturer": "Apec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ape8901_20090625_apec.pdf"
+  },
+  {
+    "smdCode": "89=**",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8532GQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8532_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "89A",
+    "package": "SOT-23",
+    "deviceName": "MMBD1705A",
+    "manufacturer": "Fairchild",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd1701%2C_mmbd1703%2C_mmbd1704%2C_mmbd1705_fairchild.pdf"
+  }
+]

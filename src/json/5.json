@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "5",
+    "package": "DSBGA-5",
+    "deviceName": "LP2985AITL",
+    "manufacturer": "Texas Instruments",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp2985-n_rx_ti.pdf"
+  },
+  {
+    "smdCode": "5",
+    "package": "SOD-323",
+    "deviceName": "RB751V-40",
+    "manufacturer": "GME",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb751v-40_gme.pdf"
+  },
+  {
+    "smdCode": "5",
+    "package": "SOD-323",
+    "deviceName": "RB751V-40",
+    "manufacturer": "TS",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb751v-40_ts.pdf"
+  },
+  {
+    "smdCode": "5",
+    "package": "SOD-323",
+    "deviceName": "RB751V-40",
+    "manufacturer": "Liteon",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb751v-40_liteon.pdf"
+  }
+]

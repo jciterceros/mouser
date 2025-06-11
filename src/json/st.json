@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "ST",
+    "package": "SMA",
+    "deviceName": "1SMA43AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "ST",
+    "package": "SOT-23",
+    "deviceName": "2SA1036KPT",
+    "manufacturer": "Chenmko",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1036kpt_chenmko.pdf"
+  },
+  {
+    "smdCode": "ST",
+    "package": "SOT-23",
+    "deviceName": "2SC2405",
+    "manufacturer": "Panasonic",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2405%2C_2sc2406_panasonic.pdf"
+  },
+  {
+    "smdCode": "ST",
+    "package": "SOT-323",
+    "deviceName": "2SC3929",
+    "manufacturer": "Panasonic",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3929%2C_2sc3929a_panasonic.pdf"
+  },
+  {
+    "smdCode": "ST",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "ST",
+    "package": "SMA",
+    "deviceName": "SMAJ180A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "ST433A",
+    "package": "TO-92-4",
+    "deviceName": "ST8433AT",
+    "manufacturer": "Stanson",
+    "data": "Voltage and Current Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st8433_stanson.pdf"
+  },
+  {
+    "smdCode": "ST433B",
+    "package": "TO-92-4",
+    "deviceName": "ST8433BT",
+    "manufacturer": "Stanson",
+    "data": "Voltage and Current Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st8433_stanson.pdf"
+  },
+  {
+    "smdCode": "STD1",
+    "package": "SOT-23",
+    "deviceName": "STR2N2VH5",
+    "manufacturer": "STMicroelectronics",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str2n2vh5%2C_stt5n2vh5_st.pdf"
+  },
+  {
+    "smdCode": "STD1",
+    "package": "SOT-26",
+    "deviceName": "STT5N2VH5",
+    "manufacturer": "STMicroelectronics",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/str2n2vh5%2C_stt5n2vh5_st.pdf"
+  },
+  {
+    "smdCode": "STEB",
+    "package": "VSSOP-8",
+    "deviceName": "LM3489QMM",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3489%2C_lm3489-q1_rb_ti.pdf"
+  },
+  {
+    "smdCode": "STP2",
+    "package": "SOT-26",
+    "deviceName": "STT3PF20V",
+    "manufacturer": "STMicroelectronics",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/stt3pf20v_st.pdf"
+  },
+  {
+    "smdCode": "STs",
+    "package": "SOT-23",
+    "deviceName": "BSS139",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss139_infineon.pdf"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "smdCode": "AT",
+    "package": "SOT-323",
+    "deviceName": "MIC803-46D3VC3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AT",
+    "package": "SOT-23",
+    "deviceName": "MIC803-46D3VM3",
+    "manufacturer": "Micrel",
+    "data": "Microprocessor Reset Circuits",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic803_r1.2_micrel.pdf"
+  },
+  {
+    "smdCode": "AT",
+    "package": "SMA",
+    "deviceName": "SMAJ8.5A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "AT",
+    "package": "DO-214AA",
+    "deviceName": "SMBJ8.5A",
+    "manufacturer": "Vishay",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj188a_vishay.pdf"
+  },
+  {
+    "smdCode": "AT",
+    "package": "SMB",
+    "deviceName": "SMBJ8.5CA",
+    "manufacturer": "Diodes",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smbj5.0a-smbj170a_diodes.pdf"
+  },
+  {
+    "smdCode": "AT*",
+    "package": "VDFN-8 2x2",
+    "deviceName": "RT9011-JMPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "AT****",
+    "package": "SOT-25",
+    "deviceName": "KB4312A-GRE",
+    "manufacturer": "Kingbor",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/b/kb4312_r3.2_kingbor.pdf"
+  },
+  {
+    "smdCode": "AT-**",
+    "package": "VQFN-16 3x3",
+    "deviceName": "RT8805PQV",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8805_richtek.pdf"
+  },
+  {
+    "smdCode": "AT-**",
+    "package": "VDFN-10 3x3",
+    "deviceName": "RT9014-GSPQV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "AT-***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-2HPU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AT-***",
+    "package": "SOT-343",
+    "deviceName": "RT9198A-44PY",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "AT1",
+    "package": "SOT-89",
+    "deviceName": "BST39",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bst39%2C_bst40_galaxy.pdf"
+  },
+  {
+    "smdCode": "AT2",
+    "package": "SOT-89",
+    "deviceName": "BST40",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bst39%2C_bst40_galaxy.pdf"
+  },
+  {
+    "smdCode": "AT=**",
+    "package": "VQFN-16 3x3",
+    "deviceName": "RT8805GQV",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8805_richtek.pdf"
+  },
+  {
+    "smdCode": "AT=**",
+    "package": "SOT-323",
+    "deviceName": "RT9818C-27GU3",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "AT=***",
+    "package": "SOT-343",
+    "deviceName": "RT9198A-44GY",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  },
+  {
+    "smdCode": "ATC**",
+    "package": "SOT-25",
+    "deviceName": "TS1909CX527",
+    "manufacturer": "TS",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts1909_ts.pdf"
+  },
+  {
+    "smdCode": "ATF**",
+    "package": "SOT-25",
+    "deviceName": "TS1909CX530",
+    "manufacturer": "TS",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts1909_ts.pdf"
+  },
+  {
+    "smdCode": "ATI**",
+    "package": "SOT-25",
+    "deviceName": "TS1909CX533",
+    "manufacturer": "TS",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts1909_ts.pdf"
+  },
+  {
+    "smdCode": "ATP",
+    "package": "SOT-28",
+    "deviceName": "OPA2374AIDCN",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/o/p/opa373%2C_opa374%2C_opa2373%2C_opa2374%2C_opa4374_re_ti.pdf"
+  },
+  {
+    "smdCode": "ATZ**",
+    "package": "SOT-25",
+    "deviceName": "TS1909CX550",
+    "manufacturer": "TS",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts1909_ts.pdf"
+  },
+  {
+    "smdCode": "ATs",
+    "package": "SOT-23",
+    "deviceName": "BAT18-06",
+    "manufacturer": "Infineon",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat18_series_19991007_infineon.pdf"
+  },
+  {
+    "smdCode": "ATs",
+    "package": "SOT-343",
+    "deviceName": "BFP540",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfp540_infineon.pdf"
+  }
+]

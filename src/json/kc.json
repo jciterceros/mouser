@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "KC",
+    "package": "SOD-323F",
+    "deviceName": "PZU11B3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "KC",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q121B5",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "KC-***",
+    "package": "SOT-23",
+    "deviceName": "RT9161A-50PV",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9161%2C_rt9161a_richtek.pdf"
+  },
+  {
+    "smdCode": "KCA",
+    "package": "SOT-363",
+    "deviceName": "BAV756DW",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav756dw_galaxy.pdf"
+  },
+  {
+    "smdCode": "Kc",
+    "package": "SOT-23",
+    "deviceName": "BD49L23G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

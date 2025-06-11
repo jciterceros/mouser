@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "JT-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-30PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JT-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-42PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "JT-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-33PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JTs",
+    "package": "SOT-143",
+    "deviceName": "BAS28",
+    "manufacturer": "Infineon",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas28%2C_bas28w_infineon.pdf"
+  },
+  {
+    "smdCode": "JTs",
+    "package": "SOT-343",
+    "deviceName": "BAS28W",
+    "manufacturer": "Infineon",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas28%2C_bas28w_infineon.pdf"
+  }
+]

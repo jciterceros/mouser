@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "JP",
+    "package": "SOD-323",
+    "deviceName": "CMDZ4L3",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmdz1l8-cmdz47l_central.pdf"
+  },
+  {
+    "smdCode": "JP *",
+    "package": "SOT-23",
+    "deviceName": "BAS19LT1",
+    "manufacturer": "ON",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas19lt%2C_bas20lt%2C_bas21lt_on.pdf"
+  },
+  {
+    "smdCode": "JP-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-18PXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JP-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818D-29PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "JP=",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-18GXL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JP=**",
+    "package": "WQFN-24 3x3",
+    "deviceName": "RT9396GQW",
+    "manufacturer": "Richtek",
+    "data": "Power Management IC",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9396_richtek.pdf"
+  },
+  {
+    "smdCode": "JP=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-38GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "jp**",
+    "package": "SC-70-4",
+    "deviceName": "PT7M6101CLC4E",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  },
+  {
+    "smdCode": "jp**",
+    "package": "TO-94",
+    "deviceName": "PT7M6101CLNE",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  },
+  {
+    "smdCode": "jp**",
+    "package": "SOT-25",
+    "deviceName": "PT7M6101CLTAE",
+    "manufacturer": "Pericom",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/t/pt7m6101%2C_pt7m6102_pericom.pdf"
+  }
+]

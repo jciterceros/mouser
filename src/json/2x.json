@@ -1,0 +1,122 @@
+[
+  {
+    "smdCode": "2X",
+    "package": "SOT-23",
+    "deviceName": "KST4401",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst4401_fairchild.pdf"
+  },
+  {
+    "smdCode": "2X",
+    "package": "SOT-23",
+    "deviceName": "MMBT4401",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n4401%2C_mmbt4401_fairchild.pdf"
+  },
+  {
+    "smdCode": "2X",
+    "package": "SOT-23",
+    "deviceName": "MMBT4401",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt4401_galaxy.pdf"
+  },
+  {
+    "smdCode": "2XA*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4000M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2XB*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4025M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2XC*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4050M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2XD*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4075M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2XE*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4100M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2XF*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4125M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2XH*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4150M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2XK*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4175M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2XL*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4200M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2XM*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4225M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2XN*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4250M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  },
+  {
+    "smdCode": "2XP*",
+    "package": "SOT-25",
+    "deviceName": "AP4054X4275M",
+    "manufacturer": "Chipown",
+    "data": "Battery charger",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4054_chipown.pdf"
+  }
+]

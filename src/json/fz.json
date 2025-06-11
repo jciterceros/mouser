@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "FZ",
+    "package": "SOT-346",
+    "deviceName": "2SD2657K",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2657k_rohm.pdf"
+  },
+  {
+    "smdCode": "FZ",
+    "package": "SOT-89",
+    "deviceName": "2SD2662",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sd2662_rohm.pdf"
+  },
+  {
+    "smdCode": "FZ*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9293CGQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9293_richtek.pdf"
+  },
+  {
+    "smdCode": "FZ**",
+    "package": "SOT-26",
+    "deviceName": "TC1073-2.8VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "FZ-***",
+    "package": "SOT-23",
+    "deviceName": "RT9819C-44PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9819_richtek.pdf"
+  },
+  {
+    "smdCode": "FZ=**",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9715EGQW",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  }
+]

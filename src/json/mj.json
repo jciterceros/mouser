@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "MJ",
+    "package": "X2-DFN1409-6",
+    "deviceName": "74LVC1G32FX4-7",
+    "manufacturer": "Diodes",
+    "data": "OR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g32_r8-2_diodes.pdf"
+  },
+  {
+    "smdCode": "MJ",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q281D5",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "MJ=***",
+    "package": "SOT-23",
+    "deviceName": "RT9166A-18PVL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "MJD31C",
+    "package": "SOT-428",
+    "deviceName": "MJD31CTF",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/j/mjd31c_fairchild.pdf"
+  },
+  {
+    "smdCode": "MJD31C-I",
+    "package": "IPAK",
+    "deviceName": "MJD31CITU",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/j/mjd31c_fairchild.pdf"
+  }
+]

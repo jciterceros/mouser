@@ -1,0 +1,162 @@
+[
+  {
+    "smdCode": "KB",
+    "package": "SOD-123",
+    "deviceName": "KDZ4.7B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/d/kdz3.6b-kdz36b_rohm.pdf"
+  },
+  {
+    "smdCode": "KB",
+    "package": "SOD-323F",
+    "deviceName": "PZU10B3",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "KB**",
+    "package": "SOT-323",
+    "deviceName": "Si1304DL",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1304dl_vishay.pdf"
+  },
+  {
+    "smdCode": "KB-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818B-18PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "KB25",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-2.5YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB27",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-2.7YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB28",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-2.8YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB29",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-2.9YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB2J",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-2.85YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB30",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-3.0YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB31",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-3.1YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB32",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-3.2YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB33",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-3.3YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB36",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-3.6YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB38",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-3.8YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB40",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-4.0YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB50",
+    "package": "SOT-25",
+    "deviceName": "MIC5205-5.0YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "KB=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818B-18GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "KBAA",
+    "package": "SOT-25",
+    "deviceName": "MIC5205YM5",
+    "manufacturer": "Micrel",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic5205_micrel.pdf"
+  },
+  {
+    "smdCode": "Kb",
+    "package": "SOT-23",
+    "deviceName": "BD48L60G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

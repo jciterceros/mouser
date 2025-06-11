@@ -1,0 +1,458 @@
+[
+  {
+    "smdCode": "T1",
+    "package": "SOT-23",
+    "deviceName": "BCX17",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcx17%2C_bcx17r_zetex.pdf"
+  },
+  {
+    "smdCode": "T1",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C6V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "T1",
+    "package": "EMT6",
+    "deviceName": "EMT1",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emt1%2C_imt1a%2C_umt1n_rohm.pdf"
+  },
+  {
+    "smdCode": "T1",
+    "package": "SOT-26",
+    "deviceName": "IMT1A",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emt1%2C_imt1a%2C_umt1n_rohm.pdf"
+  },
+  {
+    "smdCode": "T1",
+    "package": "SOT-363",
+    "deviceName": "UMT1N",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emt1%2C_imt1a%2C_umt1n_rohm.pdf"
+  },
+  {
+    "smdCode": "T10",
+    "package": "SOT-23",
+    "deviceName": "BZX84B4V7LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T10",
+    "package": "SOT-25",
+    "deviceName": "MIC1555YM5",
+    "manufacturer": "Micrel",
+    "data": "RC Timer/Oscillator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic1555%2C_mic1557_r6.1_micrel.pdf"
+  },
+  {
+    "smdCode": "T10",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B4V7LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T100",
+    "package": "SOT-26",
+    "deviceName": "TMP100",
+    "manufacturer": "Texas Instruments",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/m/tmp100%2C_tmp101_ti.pdf"
+  },
+  {
+    "smdCode": "T101",
+    "package": "SOT-26",
+    "deviceName": "TMP101",
+    "manufacturer": "Texas Instruments",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/m/tmp100%2C_tmp101_ti.pdf"
+  },
+  {
+    "smdCode": "T10C",
+    "package": "VSSOP-8",
+    "deviceName": "LM86CIM",
+    "manufacturer": "Texas Instruments",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm86_ti.pdf"
+  },
+  {
+    "smdCode": "T11",
+    "package": "SOT-23",
+    "deviceName": "BZX84B5V1LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T11",
+    "package": "SOT-25",
+    "deviceName": "MIC1557YM5",
+    "manufacturer": "Micrel",
+    "data": "RC Timer/Oscillator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic1555%2C_mic1557_r6.1_micrel.pdf"
+  },
+  {
+    "smdCode": "T11",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B5V1LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T11",
+    "package": "SOT-143",
+    "deviceName": "T11",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/1/t11_galaxy.pdf"
+  },
+  {
+    "smdCode": "T12",
+    "package": "SOT-23",
+    "deviceName": "BZX84B5V6LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T12",
+    "package": "SOT-23",
+    "deviceName": "MIC1555YD5",
+    "manufacturer": "Micrel",
+    "data": "RC Timer/Oscillator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic1555%2C_mic1557_r6.1_micrel.pdf"
+  },
+  {
+    "smdCode": "T12",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B5V6LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T122",
+    "package": "SOT-26",
+    "deviceName": "TMP122AIDBVT",
+    "manufacturer": "Texas Instruments",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/m/tmp122%2C_tmp124_rb_ti.pdf"
+  },
+  {
+    "smdCode": "T124",
+    "package": "SO-8",
+    "deviceName": "TMP124AID",
+    "manufacturer": "Texas Instruments",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/m/tmp122%2C_tmp124_rb_ti.pdf"
+  },
+  {
+    "smdCode": "T13",
+    "package": "MSOP-8",
+    "deviceName": "ADM1032ARMZ-1RL",
+    "manufacturer": "ON",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1032_on.pdf"
+  },
+  {
+    "smdCode": "T13",
+    "package": "SOT-23",
+    "deviceName": "BZX84B6V2LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T13",
+    "package": "SOT-25",
+    "deviceName": "MIC1557YD5",
+    "manufacturer": "Micrel",
+    "data": "RC Timer/Oscillator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic1555%2C_mic1557_r6.1_micrel.pdf"
+  },
+  {
+    "smdCode": "T13",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B6V2LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T14",
+    "package": "SOT-23",
+    "deviceName": "BZX84B6V8LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T14",
+    "package": "UTDFN-10 2x2",
+    "deviceName": "MIC1555YMU",
+    "manufacturer": "Micrel",
+    "data": "RC Timer/Oscillator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/i/mic1555%2C_mic1557_r6.1_micrel.pdf"
+  },
+  {
+    "smdCode": "T14",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B6V8LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T15",
+    "package": "SOT-23",
+    "deviceName": "BZX84B7V5LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T15",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B7V5LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T15**",
+    "package": "SOT-25",
+    "deviceName": "R1162N151D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T16",
+    "package": "SOT-23",
+    "deviceName": "BZX84B8V2LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T16",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B8V2LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T16**",
+    "package": "SOT-25",
+    "deviceName": "R1162N161D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T17",
+    "package": "SOT-23",
+    "deviceName": "BZX84B9V1LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T17",
+    "package": "SOT-26",
+    "deviceName": "IMT17",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/m/imt17_rohm.pdf"
+  },
+  {
+    "smdCode": "T17",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B9V1LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T17**",
+    "package": "SOT-25",
+    "deviceName": "R1162N171D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T18",
+    "package": "SOT-23",
+    "deviceName": "BZX84B12LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T18",
+    "package": "EMT6",
+    "deviceName": "EMT18",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emt18%2C_imt18%2C_umt18n_rohm.pdf"
+  },
+  {
+    "smdCode": "T18",
+    "package": "SOT-26",
+    "deviceName": "IMT18",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emt18%2C_imt18%2C_umt18n_rohm.pdf"
+  },
+  {
+    "smdCode": "T18",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B12LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T18",
+    "package": "SOT-363",
+    "deviceName": "UMT18N",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emt18%2C_imt18%2C_umt18n_rohm.pdf"
+  },
+  {
+    "smdCode": "T18**",
+    "package": "SOT-25",
+    "deviceName": "R1162N181D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T19",
+    "package": "SOT-23",
+    "deviceName": "BZX84B16LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T19",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B16LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T19**",
+    "package": "SOT-25",
+    "deviceName": "R1162N191D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T1C",
+    "package": "MSOP-8",
+    "deviceName": "ADM1032ARMZ-2R",
+    "manufacturer": "ON",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1032_on.pdf"
+  },
+  {
+    "smdCode": "T1I*",
+    "package": "SOT-25",
+    "deviceName": "TL331IDBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl331_ti.pdf"
+  },
+  {
+    "smdCode": "T1J",
+    "package": "MSOP-8",
+    "deviceName": "ADM1032ARMZ-REEL",
+    "manufacturer": "ON",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1032_on.pdf"
+  },
+  {
+    "smdCode": "T1K*",
+    "package": "SOT-25",
+    "deviceName": "TL331KDBV",
+    "manufacturer": "Texas Instruments",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/l/tl331_ti.pdf"
+  },
+  {
+    "smdCode": "t15",
+    "package": "SOT-323",
+    "deviceName": "PDTC115EU",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc115e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "t16",
+    "package": "SOT-23",
+    "deviceName": "PDTC114ET",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc114ee%2C_pdtc114em%2C_pdtc114et%2C_pdtc114eu_nxp.pdf"
+  },
+  {
+    "smdCode": "t17",
+    "package": "SOT-23",
+    "deviceName": "PDTC124ET",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtc124e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "t19",
+    "package": "SOT-23",
+    "deviceName": "PDTA143ZT",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta143ze%2C_pdta143zm%2C_pdta143zt%2C_pdta143zu_nxp.pdf"
+  },
+  {
+    "smdCode": "t1A",
+    "package": "SOT-323",
+    "deviceName": "PMST3904",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmst3904_nxp.pdf"
+  },
+  {
+    "smdCode": "t1D",
+    "package": "SOT-23",
+    "deviceName": "PMBTA42",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbta42_philips.pdf"
+  },
+  {
+    "smdCode": "t1T",
+    "package": "SOT-23",
+    "deviceName": "PDTD123TT",
+    "manufacturer": "NXP",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdtd123tk%2C_pdtd123ts%2C_pdtd123tt_nxp.pdf"
+  }
+]

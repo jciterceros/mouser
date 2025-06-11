@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "R7s",
+    "package": "SOT-23",
+    "deviceName": "BFR106",
+    "manufacturer": "Infineon",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfr106_infineon.pdf"
+  }
+]

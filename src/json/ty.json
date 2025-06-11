@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "TY",
+    "package": "SOT-23",
+    "deviceName": "2SK302",
+    "manufacturer": "Toshiba",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk302_toshiba.pdf"
+  },
+  {
+    "smdCode": "TY",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C20",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "TY",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K321B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "TY*",
+    "package": "SOT-343R",
+    "deviceName": "XC6215B292NR",
+    "manufacturer": "Torex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/c/xc6215_series_torex.pdf"
+  },
+  {
+    "smdCode": "tY1",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B33",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "tY2",
+    "package": "SOT-23",
+    "deviceName": "BZX84-B36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84_series_r6_nxp.pdf"
+  }
+]

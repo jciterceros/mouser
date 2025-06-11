@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "SG",
+    "package": "SMB",
+    "deviceName": "1SMA28AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "SG",
+    "package": "SOT-23",
+    "deviceName": "2SA1162",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1162_galaxy.pdf"
+  },
+  {
+    "smdCode": "SG",
+    "package": "SOT-23",
+    "deviceName": "2SA1162",
+    "manufacturer": "TIP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1162_tip.pdf"
+  },
+  {
+    "smdCode": "SG",
+    "package": "SOT-323",
+    "deviceName": "2SA1586",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1586_galaxy.pdf"
+  },
+  {
+    "smdCode": "SG",
+    "package": "SOT-523",
+    "deviceName": "2SA1832",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1832_galaxy.pdf"
+  },
+  {
+    "smdCode": "SG",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-B22",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "SG",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP130K401A",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "SG",
+    "package": "SMA",
+    "deviceName": "SMAJ120A",
+    "manufacturer": "Littelfuse",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smaj_littelfuse.pdf"
+  },
+  {
+    "smdCode": "SG■",
+    "package": "SOT-323",
+    "deviceName": "KTA2014",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kta2014_galaxy.pdf"
+  }
+]

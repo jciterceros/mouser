@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "0B **",
+    "package": "WQFN-20 3x3",
+    "deviceName": "RT8243CZQW",
+    "manufacturer": "Richtek",
+    "data": "Power-Supply Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8243a%2C_rt8243b%2C_rt8243c_r07_richtek.pdf"
+  },
+  {
+    "smdCode": "0B-***",
+    "package": "SOT-25",
+    "deviceName": "RT9016-30PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9016_richtek.pdf"
+  }
+]

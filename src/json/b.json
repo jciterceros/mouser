@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "B",
+    "package": "SOD-523",
+    "deviceName": "BB555-02V",
+    "manufacturer": "Vishay",
+    "data": "Variable capacitance diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/b/bb535_bb555_20110615_vishay.pdf"
+  },
+  {
+    "smdCode": "B",
+    "package": "DSBGA-5",
+    "deviceName": "LM3671TL-1.8",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "B",
+    "package": "SOD-523",
+    "deviceName": "RB520S-30",
+    "manufacturer": "TIP",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb520s-30_tip.pdf"
+  }
+]

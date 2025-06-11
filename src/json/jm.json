@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "JM-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-18PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JM-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818E-36PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

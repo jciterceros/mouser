@@ -1,0 +1,130 @@
+[
+  {
+    "smdCode": "E4",
+    "package": "SOT-23",
+    "deviceName": "BFS17R",
+    "manufacturer": "Vishay",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfs17%2C_bfs17r%2C_bfs17w_vishay.pdf"
+  },
+  {
+    "smdCode": "E4",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B27",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "E4",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "E4",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5234",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "E4",
+    "package": "DSBGA-5",
+    "deviceName": "TPS73025YZQR",
+    "manufacturer": "Texas Instruments",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps730_rj_ti.pdf"
+  },
+  {
+    "smdCode": "E4*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-GMPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "E4**",
+    "package": "SOT-26",
+    "deviceName": "TC1072-3.3VCH713",
+    "manufacturer": "Microchip",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "E4-**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9014A-GPPQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9014%2C_rt9014a_richtek.pdf"
+  },
+  {
+    "smdCode": "E43C",
+    "package": "SOT-89",
+    "deviceName": "AZ431AR-BTRE1",
+    "manufacturer": "BCD",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az431-b_bcd.pdf"
+  },
+  {
+    "smdCode": "E43D",
+    "package": "SOT-89",
+    "deviceName": "AZ431BR-BTRE1",
+    "manufacturer": "BCD",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az431-b_bcd.pdf"
+  },
+  {
+    "smdCode": "E44G",
+    "package": "SOT-363",
+    "deviceName": "BAT54SDWG-AL6-R",
+    "manufacturer": "UTC",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54sdw_20141113_utc.pdf"
+  },
+  {
+    "smdCode": "E4=**",
+    "package": "WQFN-24 4x4",
+    "deviceName": "RT8561CGQW",
+    "manufacturer": "Richtek",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8561c_richtek.pdf"
+  },
+  {
+    "smdCode": "E4A",
+    "package": "SOT-25",
+    "deviceName": "AZ431AK-BTRE1",
+    "manufacturer": "BCD",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az431-b_bcd.pdf"
+  },
+  {
+    "smdCode": "E4B",
+    "package": "SOT-25",
+    "deviceName": "AZ431BK-BTRE1",
+    "manufacturer": "BCD",
+    "data": "Shunt regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az431-b_bcd.pdf"
+  },
+  {
+    "smdCode": "E4G",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "UTC",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_utc.pdf"
+  },
+  {
+    "smdCode": "E4L",
+    "package": "SOT-23",
+    "deviceName": "BAT54",
+    "manufacturer": "UTC",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_utc.pdf"
+  }
+]

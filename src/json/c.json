@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "C",
+    "package": "DSBGA-5",
+    "deviceName": "LM3671TL-1.2",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm3671%2C_lm3671q_ti.pdf"
+  },
+  {
+    "smdCode": "C",
+    "package": "SOD-323",
+    "deviceName": "RB0540S2",
+    "manufacturer": "CYStech",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/b/rb0540s2_cystek.pdf"
+  },
+  {
+    "smdCode": "C",
+    "package": "SOT-323",
+    "deviceName": "SST200A",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst200%2C_sst200a_vishay.pdf"
+  }
+]

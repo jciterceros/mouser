@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "G6",
+    "package": "SOT-553",
+    "deviceName": "EMG6",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emg6%2C_fmg6a%2C_umg6n_rohm.pdf"
+  },
+  {
+    "smdCode": "G6",
+    "package": "SOT-753",
+    "deviceName": "FMG6A",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emg6%2C_fmg6a%2C_umg6n_rohm.pdf"
+  },
+  {
+    "smdCode": "G6",
+    "package": "SOD-323F",
+    "deviceName": "PZU3.3B",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "G6",
+    "package": "SOT-353",
+    "deviceName": "UMG6N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emg6%2C_fmg6a%2C_umg6n_rohm.pdf"
+  },
+  {
+    "smdCode": "G6**",
+    "package": "SOT-25",
+    "deviceName": "EUP7965-28VIR1",
+    "manufacturer": "Eutech",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/u/eup7965_r1.5_eutech.pdf"
+  },
+  {
+    "smdCode": "G6***",
+    "package": "SOT-25",
+    "deviceName": "TS3410CX5",
+    "manufacturer": "TS",
+    "data": "DC/DC Buck Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts3410_ts.pdf"
+  },
+  {
+    "smdCode": "G6-***",
+    "package": "SOT-23",
+    "deviceName": "RT9166-30PVL",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "G6=***",
+    "package": "SOT-23",
+    "deviceName": "RT9166-30GVL",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "G6G",
+    "package": "SOT-26",
+    "deviceName": "AP4313KTR",
+    "manufacturer": "Diodes",
+    "data": "Voltage and Current Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap4313_r2-2_diodes.pdf"
+  },
+  {
+    "smdCode": "G6S",
+    "package": "SOT-25",
+    "deviceName": "AZV331KTR-G1",
+    "manufacturer": "Diodes",
+    "data": "Comparator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/azv331_r2-0_diodes.pdf"
+  },
+  {
+    "smdCode": "G6s",
+    "package": "SOT-23",
+    "deviceName": "BAR63-06",
+    "manufacturer": "Infineon",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar63_series_infineon.pdf"
+  },
+  {
+    "smdCode": "G6s",
+    "package": "SOT-323",
+    "deviceName": "BAR63-06W",
+    "manufacturer": "Infineon",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar63_series_infineon.pdf"
+  }
+]

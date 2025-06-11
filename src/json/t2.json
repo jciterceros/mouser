@@ -1,0 +1,330 @@
+[
+  {
+    "smdCode": "T2",
+    "package": "SOD-323",
+    "deviceName": "BZX384-C10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "T2",
+    "package": "SMA",
+    "deviceName": "EC31QS04",
+    "manufacturer": "Nihon",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/c/ec31qs04_nihon.pdf"
+  },
+  {
+    "smdCode": "T2",
+    "package": "EMT6",
+    "deviceName": "EMT2",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emt2%2C_imt2a%2C_umt2n_rohm.pdf"
+  },
+  {
+    "smdCode": "T2",
+    "package": "SOT-26",
+    "deviceName": "IMT2A",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emt2%2C_imt2a%2C_umt2n_rohm.pdf"
+  },
+  {
+    "smdCode": "T2",
+    "package": "SOT-363",
+    "deviceName": "UMT2N",
+    "manufacturer": "ROHM",
+    "data": "PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emt2%2C_imt2a%2C_umt2n_rohm.pdf"
+  },
+  {
+    "smdCode": "T2***",
+    "package": "SOT-25",
+    "deviceName": "APX824-46W5",
+    "manufacturer": "Diodes",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apx823%2C_apx824%2C_apx825a_r4-2_diodes.pdf"
+  },
+  {
+    "smdCode": "T20",
+    "package": "SOT-23",
+    "deviceName": "BZX84B18LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T20",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B18LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T20**",
+    "package": "SOT-25",
+    "deviceName": "R1162N201D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T20P06LG",
+    "package": "TO-252",
+    "deviceName": "NTD20P06LG",
+    "manufacturer": "ON",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/t/ntd20p06l%2C_ntdv20p06l_r6_on.pdf"
+  },
+  {
+    "smdCode": "T20P06LG",
+    "package": "TO-252",
+    "deviceName": "NTDV20P06LT4G",
+    "manufacturer": "ON",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/t/ntd20p06l%2C_ntdv20p06l_r6_on.pdf"
+  },
+  {
+    "smdCode": "T21**",
+    "package": "SOT-25",
+    "deviceName": "R1162N211D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T22",
+    "package": "SOT-23",
+    "deviceName": "BZX84B15LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T22",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B15LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T22",
+    "package": "SOT-323",
+    "deviceName": "ZUMT860C",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/u/zumt860b%2C_zumt860c_zetex.pdf"
+  },
+  {
+    "smdCode": "T22**",
+    "package": "SOT-25",
+    "deviceName": "R1162N221D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T23",
+    "package": "SOT-323",
+    "deviceName": "ZUMT817-40",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/u/zumt817-25%2C_zumt817-40_zetex.pdf"
+  },
+  {
+    "smdCode": "T23**",
+    "package": "SOT-25",
+    "deviceName": "R1162N231D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T24",
+    "package": "SOT-23",
+    "deviceName": "BZX84B22LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T24",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B22LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T24",
+    "package": "SOT-323",
+    "deviceName": "ZUMT807-40",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/u/zumt807-25%2C_zumt807-40_zetex.pdf"
+  },
+  {
+    "smdCode": "T24**",
+    "package": "SOT-25",
+    "deviceName": "R1162N241D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T25",
+    "package": "SOT-23",
+    "deviceName": "BZX84B24LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T25",
+    "package": "SOT-23",
+    "deviceName": "SZBZX84B24LT1G",
+    "manufacturer": "ON",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84bxxxlt1g%2C_bzx84cxxxlt1g%2C_szbzx84bxxxlt1g%2C_szbzx84cxxxlt1g_on.pdf"
+  },
+  {
+    "smdCode": "T25**",
+    "package": "SOT-25",
+    "deviceName": "R1162N251D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T26**",
+    "package": "SOT-25",
+    "deviceName": "R1162N261D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T27**",
+    "package": "SOT-25",
+    "deviceName": "R1162N271D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T28**",
+    "package": "SOT-25",
+    "deviceName": "R1162N281D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T29**",
+    "package": "SOT-25",
+    "deviceName": "R1162N291D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/1/r1162x_series_ricoh.pdf"
+  },
+  {
+    "smdCode": "T2B",
+    "package": "SOT-353",
+    "deviceName": "LM20BIM7",
+    "manufacturer": "National",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm20_national.pdf"
+  },
+  {
+    "smdCode": "T2B",
+    "package": "SOT-323",
+    "deviceName": "ZUMT860B",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/u/zumt860b%2C_zumt860c_zetex.pdf"
+  },
+  {
+    "smdCode": "T2C",
+    "package": "SOT-353",
+    "deviceName": "LM20CIM7",
+    "manufacturer": "National",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/m/lm20_national.pdf"
+  },
+  {
+    "smdCode": "t2A",
+    "package": "SOT-323",
+    "deviceName": "PMST3906",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmst3906_nxp.pdf"
+  },
+  {
+    "smdCode": "t2B",
+    "package": "SOT-23",
+    "deviceName": "PMBT2907",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt2907a%2C_pmbt2907a_nxp.pdf"
+  },
+  {
+    "smdCode": "t2D",
+    "package": "SOT-323",
+    "deviceName": "PMSTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmsta92_nxp.pdf"
+  },
+  {
+    "smdCode": "t2D",
+    "package": "SOT-89",
+    "deviceName": "PXTA92",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/x/pxta92_r6_nxp.pdf"
+  },
+  {
+    "smdCode": "t2E",
+    "package": "SOT-23",
+    "deviceName": "2N7002E",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002e_philips.pdf"
+  },
+  {
+    "smdCode": "t2F",
+    "package": "SOT-23",
+    "deviceName": "PMBT2907A",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt2907a%2C_pmbt2907a_nxp.pdf"
+  },
+  {
+    "smdCode": "t2K",
+    "package": "SOT-23",
+    "deviceName": "2N7002K",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002k_philips.pdf"
+  },
+  {
+    "smdCode": "t2L",
+    "package": "SOT-23",
+    "deviceName": "PMBT5401",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt5401_2004.01.21_nxp.pdf"
+  },
+  {
+    "smdCode": "t2X",
+    "package": "SOT-23",
+    "deviceName": "PMBT4401",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/m/pmbt4401_philips.pdf"
+  }
+]

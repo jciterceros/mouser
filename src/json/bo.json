@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "BO**",
+    "package": "SOT-363",
+    "deviceName": "Si1405BDH",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si1405bdh_vishay.pdf"
+  },
+  {
+    "smdCode": "BOQ",
+    "package": "MSOP-10",
+    "deviceName": "VCA820IDGS",
+    "manufacturer": "Texas Instruments",
+    "data": "Variable Gain Amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/v/c/vca820_ti.pdf"
+  }
+]

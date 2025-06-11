@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "2N",
+    "package": "SOT-363",
+    "deviceName": "2N7002DW",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002dw_r1.2_fairchild.pdf"
+  },
+  {
+    "smdCode": "2N",
+    "package": "SOT-323",
+    "deviceName": "2N7002W",
+    "manufacturer": "Fairchild",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002w_fairchild.pdf"
+  },
+  {
+    "smdCode": "2N0612",
+    "package": "TO-263-3",
+    "deviceName": "IPB77N06S2-12",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipb77n06s2-12%2C_ipp77n06s2-12_infineon.pdf"
+  },
+  {
+    "smdCode": "2N0612",
+    "package": "TO-220-3-1",
+    "deviceName": "IPP77N06S2-12",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipb77n06s2-12%2C_ipp77n06s2-12_infineon.pdf"
+  },
+  {
+    "smdCode": "2N06L05",
+    "package": "TO-263-3",
+    "deviceName": "SPB80N06S2L-05",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spb80n06s2l-05%2C_spi80n06s2l-05%2C_spp80n06s2l-05_infineon.pdf"
+  },
+  {
+    "smdCode": "2N06L05",
+    "package": "TO-263-3",
+    "deviceName": "SPI80N06S2L-05",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spb80n06s2l-05%2C_spi80n06s2l-05%2C_spp80n06s2l-05_infineon.pdf"
+  },
+  {
+    "smdCode": "2N06L05",
+    "package": "TO-220-3-1",
+    "deviceName": "SPP80N06S2L-05",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spb80n06s2l-05%2C_spi80n06s2l-05%2C_spp80n06s2l-05_infineon.pdf"
+  },
+  {
+    "smdCode": "2N08L21",
+    "package": "TO-252-3-11",
+    "deviceName": "SPD30N08S2L-21",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/spd30n08s2s-21_infineon.pdf"
+  },
+  {
+    "smdCode": "2N4",
+    "package": "SOT-26",
+    "deviceName": "DMG6968UDM",
+    "manufacturer": "Diodes",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/m/dmg6968udm_r5.2_diodes.pdf"
+  }
+]

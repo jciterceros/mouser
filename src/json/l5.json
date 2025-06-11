@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "L5",
+    "package": "SOT-23",
+    "deviceName": "2SC1623",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1623_galaxy.pdf"
+  },
+  {
+    "smdCode": "L5",
+    "package": "SOT-23",
+    "deviceName": "2SC1623",
+    "manufacturer": "WEITRON",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1623_weitron.pdf"
+  },
+  {
+    "smdCode": "L5",
+    "package": "SOT-323",
+    "deviceName": "2SC1623W",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc1623w_galaxy.pdf"
+  },
+  {
+    "smdCode": "L5",
+    "package": "SOT-23",
+    "deviceName": "BSS65R",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss65%2C_bss65r_zetex.pdf"
+  },
+  {
+    "smdCode": "L5",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B8V2",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "L5",
+    "package": "SOT-23",
+    "deviceName": "SST505",
+    "manufacturer": "Siliconix (Now Vishay)",
+    "data": "Current regulator diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/s/sst502-sst511_siliconix.pdf"
+  },
+  {
+    "smdCode": "L5-",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-15PX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "L5-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818B-31PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "L56*",
+    "package": "SOT-25",
+    "deviceName": "APL5156B",
+    "manufacturer": "Anpec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/apl5156_ra.6_anpec.pdf"
+  },
+  {
+    "smdCode": "L5=",
+    "package": "SOT-89",
+    "deviceName": "RT9166A-15GX",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "L5B",
+    "package": "SOT-26",
+    "deviceName": "ADP3330ART-3.3",
+    "manufacturer": "Analog Devices",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adp3330_analog.pdf"
+  }
+]

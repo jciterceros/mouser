@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "UW",
+    "package": "X2-DFN1010-6",
+    "deviceName": "74LVC1G32FW4-7",
+    "manufacturer": "Diodes",
+    "data": "OR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g32_r8-2_diodes.pdf"
+  },
+  {
+    "smdCode": "UW",
+    "package": "X2-DFN1410-6",
+    "deviceName": "74LVC1G32FZ4-7",
+    "manufacturer": "Diodes",
+    "data": "OR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g32_r8-2_diodes.pdf"
+  },
+  {
+    "smdCode": "UW",
+    "package": "SOD-323F",
+    "deviceName": "BZX84J-C9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx84j_r2_nxp.pdf"
+  },
+  {
+    "smdCode": "UW",
+    "package": "SOD-323F",
+    "deviceName": "CZRF30VB-HF",
+    "manufacturer": "Comchip",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/z/czrf2v4b-hf-czrf39vb-hf_ra_comchip.pdf"
+  },
+  {
+    "smdCode": "UW",
+    "package": "DFN-4 1x1",
+    "deviceName": "RP131K521B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "UW***",
+    "package": "SOT-353",
+    "deviceName": "74LVC1G32SE-7",
+    "manufacturer": "Diodes",
+    "data": "OR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g32_r8-2_diodes.pdf"
+  },
+  {
+    "smdCode": "UW***",
+    "package": "SOT-25",
+    "deviceName": "74LVC1G32W5-7",
+    "manufacturer": "Diodes",
+    "data": "OR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g32_r8-2_diodes.pdf"
+  },
+  {
+    "smdCode": "UW***",
+    "package": "SOT-553",
+    "deviceName": "74LVC1G32Z-7",
+    "manufacturer": "Diodes",
+    "data": "OR Gate",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/7/4/74lvc1g32_r8-2_diodes.pdf"
+  },
+  {
+    "smdCode": "UW-",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C15",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UWW",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C15",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UWp",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C15",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  },
+  {
+    "smdCode": "UWt",
+    "package": "SOT-23",
+    "deviceName": "BZB84-C15",
+    "manufacturer": "NXP",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzb84_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "smdCode": "1R",
+    "package": "SOT-23",
+    "deviceName": "FMMT5089",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt5088%2C_fmmt5089_zetex.pdf"
+  },
+  {
+    "smdCode": "1R",
+    "package": "SOT-23",
+    "deviceName": "KST5089",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst5088%2C_kst5089_fairchild.pdf"
+  },
+  {
+    "smdCode": "1R",
+    "package": "SOT-23",
+    "deviceName": "MMBT5089",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n5088%2C_2n5089%2C_mmbt5088%2C_mmbt5089_fairchild.pdf"
+  },
+  {
+    "smdCode": "1R=***",
+    "package": "SOT-25",
+    "deviceName": "RT9715EGB",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  }
+]

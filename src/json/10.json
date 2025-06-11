@@ -1,0 +1,218 @@
+[
+  {
+    "smdCode": "10",
+    "package": "SOT-23",
+    "deviceName": "ZD10-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "10",
+    "package": "SOD-323",
+    "deviceName": "ZD10-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "10-",
+    "package": "SOT-23",
+    "deviceName": "BAT18",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat18_philips.pdf"
+  },
+  {
+    "smdCode": "1007",
+    "package": "SO-8",
+    "deviceName": "LT1007CS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1007%2C_lt1037_linear.pdf"
+  },
+  {
+    "smdCode": "1007I",
+    "package": "SO-8",
+    "deviceName": "LT1007IS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1007%2C_lt1037_linear.pdf"
+  },
+  {
+    "smdCode": "100N03LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC100N03LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc100n03lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "1013",
+    "package": "SOT-89",
+    "deviceName": "2SA1013",
+    "manufacturer": "JCST",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sa1013_jcst.pdf"
+  },
+  {
+    "smdCode": "1028",
+    "package": "SO-8",
+    "deviceName": "LT1028CS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1028%2C_lt1128_linear.pdf"
+  },
+  {
+    "smdCode": "1032AR",
+    "package": "SO-8",
+    "deviceName": "ADM1032ARZ",
+    "manufacturer": "ON",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/d/adm1032_on.pdf"
+  },
+  {
+    "smdCode": "1037",
+    "package": "SO-8",
+    "deviceName": "LT1037CS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1007%2C_lt1037_linear.pdf"
+  },
+  {
+    "smdCode": "1037I",
+    "package": "SO-8",
+    "deviceName": "LT1037IS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1007%2C_lt1037_linear.pdf"
+  },
+  {
+    "smdCode": "1065Q",
+    "package": "MSOP-8",
+    "deviceName": "AZ1065-06Q",
+    "manufacturer": "Amazing",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az1065-06q_20110618_amazing.pdf"
+  },
+  {
+    "smdCode": "107",
+    "package": "CP5",
+    "deviceName": "FC108",
+    "manufacturer": "Sanyo  (Now Panasonic)",
+    "data": "NPN digital transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/c/fc108_sanyo.pdf"
+  },
+  {
+    "smdCode": "108",
+    "package": "SOT-23",
+    "deviceName": "ZXCT1008",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Current Sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxct1008_zetex.pdf"
+  },
+  {
+    "smdCode": "10A",
+    "package": "SMB",
+    "deviceName": "1.5SMC10AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "10A",
+    "package": "SOT-346",
+    "deviceName": "PZM10NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "10N03L",
+    "package": "TO-263-3",
+    "deviceName": "IPB10N03L",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipb10n03l%2C_ipp10n03l_infineon.pdf"
+  },
+  {
+    "smdCode": "10N03L",
+    "package": "TO-220-3-1",
+    "deviceName": "IPP10N03L",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipb10n03l%2C_ipp10n03l_infineon.pdf"
+  },
+  {
+    "smdCode": "10N03LA",
+    "package": "TO-252-3-11",
+    "deviceName": "IPD10N03LA",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipd10n03la%2C_ipf10n03la%2C_ips10n03la%2C_ipu10n03la_infineon.pdf"
+  },
+  {
+    "smdCode": "10N03LA",
+    "package": "TO-252-3-23",
+    "deviceName": "IPF10N03LA",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipd10n03la%2C_ipf10n03la%2C_ips10n03la%2C_ipu10n03la_infineon.pdf"
+  },
+  {
+    "smdCode": "10N03LA",
+    "package": "TO-251-3-11",
+    "deviceName": "IPS10N03LA",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipd10n03la%2C_ipf10n03la%2C_ips10n03la%2C_ipu10n03la_infineon.pdf"
+  },
+  {
+    "smdCode": "10N03LA",
+    "package": "TO-251-3-21",
+    "deviceName": "IPU10N03LA",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ipd10n03la%2C_ipf10n03la%2C_ips10n03la%2C_ipu10n03la_infineon.pdf"
+  },
+  {
+    "smdCode": "10W",
+    "package": "SOT-23",
+    "deviceName": "BAT18",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat18_philips.pdf"
+  },
+  {
+    "smdCode": "10W",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA27V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  },
+  {
+    "smdCode": "10Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C10",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "10p",
+    "package": "SOT-23",
+    "deviceName": "BAT18",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat18_philips.pdf"
+  },
+  {
+    "smdCode": "10t",
+    "package": "SOT-23",
+    "deviceName": "BAT18",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat18_philips.pdf"
+  }
+]

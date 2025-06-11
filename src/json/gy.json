@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "GY",
+    "package": "SOT-89",
+    "deviceName": "KTC4375",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/ktc4375_galaxy.pdf"
+  },
+  {
+    "smdCode": "GY-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818A-14PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "Gy",
+    "package": "SOT-23",
+    "deviceName": "BD48L44G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "smdCode": "FA",
+    "package": "SOT-143",
+    "deviceName": "BFP81",
+    "manufacturer": "Vishay",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bfp81_vishay.pdf"
+  },
+  {
+    "smdCode": "FA",
+    "package": "SOD-323F",
+    "deviceName": "PZU5.1B1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "FA",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q121B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "FA*",
+    "package": "SOT-23",
+    "deviceName": "HSMP-4820",
+    "manufacturer": "Avago",
+    "data": "PIN diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsmp-382x%2C_482x_avago.pdf"
+  },
+  {
+    "smdCode": "FA*",
+    "package": "SOT-323",
+    "deviceName": "HSMP-482B",
+    "manufacturer": "Avago",
+    "data": "PIN diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsmp-382x%2C_482x_avago.pdf"
+  },
+  {
+    "smdCode": "FA*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-MMGQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "FA**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US47D4-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "FA=**",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9715GGQW",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "FADJ",
+    "package": "SOT-25",
+    "deviceName": "SP6201EM5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "FAO",
+    "package": "SOT-23",
+    "deviceName": "2SC5344",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5344_galaxy.pdf"
+  },
+  {
+    "smdCode": "FAO",
+    "package": "SOT-23",
+    "deviceName": "2SC5344",
+    "manufacturer": "GME",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5344_gme.pdf"
+  },
+  {
+    "smdCode": "FAO",
+    "package": "SOT-23",
+    "deviceName": "2SC5344",
+    "manufacturer": "Secos",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5344_secos.pdf"
+  },
+  {
+    "smdCode": "FAY",
+    "package": "SOT-23",
+    "deviceName": "2SC5344",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5344_galaxy.pdf"
+  },
+  {
+    "smdCode": "FAY",
+    "package": "SOT-23",
+    "deviceName": "2SC5344",
+    "manufacturer": "GME",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5344_gme.pdf"
+  },
+  {
+    "smdCode": "FAY",
+    "package": "SOT-23",
+    "deviceName": "2SC5344",
+    "manufacturer": "Secos",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc5344_secos.pdf"
+  },
+  {
+    "smdCode": "Fa",
+    "package": "SOT-25",
+    "deviceName": "BD49E55G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Fa",
+    "package": "SOT-23",
+    "deviceName": "BD49K55G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

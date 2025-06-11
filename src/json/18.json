@@ -1,0 +1,114 @@
+[
+  {
+    "smdCode": "18",
+    "package": "SOT-23",
+    "deviceName": "ZD18-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "18",
+    "package": "SOD-323",
+    "deviceName": "ZD18-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "18A",
+    "package": "SMB",
+    "deviceName": "1.5SMC18AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "18A",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5221B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "18A",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5221B",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "18B",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5222B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "18C",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5223B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "18C",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5223B",
+    "manufacturer": "Fairchild (Now ON)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5221b-mmbz5257b_fairchild.pdf"
+  },
+  {
+    "smdCode": "18D",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5224B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "18E",
+    "package": "SOT-23",
+    "deviceName": "CMPZ5225B",
+    "manufacturer": "Central",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmpz5221b-cmpz5261b_central.pdf"
+  },
+  {
+    "smdCode": "18E",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5225",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "18F",
+    "package": "SOT-23",
+    "deviceName": "MMBZ5260",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz5225-mmbz5267_vishay.pdf"
+  },
+  {
+    "smdCode": "18T",
+    "package": "SOT-23",
+    "deviceName": "TK71518AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "18Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C18",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  }
+]

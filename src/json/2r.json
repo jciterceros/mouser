@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "2R",
+    "package": "SOT-23",
+    "deviceName": "FMMT5210",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt5209%2C_fmmt5210_zetex.pdf"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "64",
+    "package": "SOT-416",
+    "deviceName": "DTC114YE",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114ye%2C_dtc114yka%2C_dtc114ysa%2C_dtc114yua_rohm.pdf"
+  },
+  {
+    "smdCode": "64",
+    "package": "SOT-346",
+    "deviceName": "DTC114YKA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114ye%2C_dtc114yka%2C_dtc114ysa%2C_dtc114yua_rohm.pdf"
+  },
+  {
+    "smdCode": "64",
+    "package": "SOT-323",
+    "deviceName": "DTC114YUA",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc114ye%2C_dtc114yka%2C_dtc114ysa%2C_dtc114yua_rohm.pdf"
+  },
+  {
+    "smdCode": "64-",
+    "package": "SOT-323",
+    "deviceName": "BAS40-04W",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "6412",
+    "package": "QFN-24 4x4",
+    "deviceName": "LTC6412CUF",
+    "manufacturer": "Linear",
+    "data": "IF Amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/ltc6412_linear.pdf"
+  },
+  {
+    "smdCode": "64AG",
+    "package": "SOT-23",
+    "deviceName": "UT6401G-AE3-R",
+    "manufacturer": "UTC",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/t/ut6401_20150427_utc.pdf"
+  },
+  {
+    "smdCode": "64AG",
+    "package": "SOT-26",
+    "deviceName": "UT6401G-AG6-R",
+    "manufacturer": "UTC",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/t/ut6401_20150427_utc.pdf"
+  },
+  {
+    "smdCode": "64BG",
+    "package": "SOT-23",
+    "deviceName": "UT6402G-AE3-R",
+    "manufacturer": "UTC",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/t/ut6402_20150401_utc.pdf"
+  },
+  {
+    "smdCode": "64BG",
+    "package": "SOT-26",
+    "deviceName": "UT6402G-AG6-R",
+    "manufacturer": "UTC",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/t/ut6402_20150401_utc.pdf"
+  },
+  {
+    "smdCode": "64W",
+    "package": "SOT-323",
+    "deviceName": "BAS40-04W",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "64p",
+    "package": "SOT-323",
+    "deviceName": "BAS40-04W",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  },
+  {
+    "smdCode": "64t",
+    "package": "SOT-323",
+    "deviceName": "BAS40-04W",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/p/1psxxsb4x%2C_bas40_series_nxp.pdf"
+  }
+]

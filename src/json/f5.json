@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "F5",
+    "package": "SOD-323",
+    "deviceName": "1SS370",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss370_galaxy.pdf"
+  },
+  {
+    "smdCode": "F5",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C3V6",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "F5",
+    "package": "EMT6",
+    "deviceName": "EMF5",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor + PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emf5_rohm.pdf"
+  },
+  {
+    "smdCode": "F5",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5240",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "F5",
+    "package": "SOD-323F",
+    "deviceName": "PZU3.3B1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "F5",
+    "package": "SOD-323",
+    "deviceName": "UDZS36B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "F5",
+    "package": "SOT-363",
+    "deviceName": "UMF5N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor + PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/m/umf5n_rohm.pdf"
+  },
+  {
+    "smdCode": "F5*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT8016-15PQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8016_richtek.pdf"
+  },
+  {
+    "smdCode": "F5***",
+    "package": "SOT-26",
+    "deviceName": "LP3382B6F",
+    "manufacturer": "Lowpowersemi",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/p/lp3382_r1.0_lowpowersemi.pdf"
+  },
+  {
+    "smdCode": "F50",
+    "package": "SOT-25",
+    "deviceName": "SP6201EM5-5-0",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  }
+]

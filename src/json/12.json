@@ -1,0 +1,338 @@
+[
+  {
+    "smdCode": "12",
+    "package": "SOT-416",
+    "deviceName": "DTA123EE",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123ee%2C_dta123em%2C_dta123eka%2C_dta123eua_rohm.pdf"
+  },
+  {
+    "smdCode": "12",
+    "package": "SOT-346",
+    "deviceName": "DTA123EKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123ee%2C_dta123em%2C_dta123eka%2C_dta123eua_rohm.pdf"
+  },
+  {
+    "smdCode": "12",
+    "package": "VMT3",
+    "deviceName": "DTA123EM",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123ee%2C_dta123em%2C_dta123eka%2C_dta123eua_rohm.pdf"
+  },
+  {
+    "smdCode": "12",
+    "package": "SOT-323",
+    "deviceName": "DTA123EUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta123ee%2C_dta123em%2C_dta123eka%2C_dta123eua_rohm.pdf"
+  },
+  {
+    "smdCode": "12",
+    "package": "SOT-23",
+    "deviceName": "PSOT12",
+    "manufacturer": "Protek",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  },
+  {
+    "smdCode": "12",
+    "package": "SOT-23",
+    "deviceName": "ZD12-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "12",
+    "package": "SOD-323",
+    "deviceName": "ZD12-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "12-",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_nxp.pdf"
+  },
+  {
+    "smdCode": "120",
+    "package": "SOT-23",
+    "deviceName": "KTY82/120",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "1200P100",
+    "package": "DIP-8",
+    "deviceName": "NCP1200P100G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1200_on.pdf"
+  },
+  {
+    "smdCode": "1200P40",
+    "package": "DIP-8",
+    "deviceName": "NCP1200P40G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1200_on.pdf"
+  },
+  {
+    "smdCode": "1200P60",
+    "package": "DIP-8",
+    "deviceName": "NCP1200P60G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1200_on.pdf"
+  },
+  {
+    "smdCode": "1203P100",
+    "package": "DIP-8",
+    "deviceName": "NCP1203D100G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1203_on.pdf"
+  },
+  {
+    "smdCode": "1203P40",
+    "package": "DIP-8",
+    "deviceName": "NCP1203D40G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1203_on.pdf"
+  },
+  {
+    "smdCode": "1203P60",
+    "package": "DIP-8",
+    "deviceName": "NCP1203D60G",
+    "manufacturer": "ON",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp1203_on.pdf"
+  },
+  {
+    "smdCode": "1206",
+    "package": "SON-10",
+    "deviceName": "TPS51206",
+    "manufacturer": "Texas Instruments",
+    "data": "Bus Termination Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51206_rb_ti.pdf"
+  },
+  {
+    "smdCode": "120N03MS",
+    "package": "TDSON-8",
+    "deviceName": "BSC120N03MS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc120n03msg_infineon.pdf"
+  },
+  {
+    "smdCode": "121",
+    "package": "SOT-23",
+    "deviceName": "KTY82/121",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "122",
+    "package": "SOT-23",
+    "deviceName": "KTY82/122",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "1225",
+    "package": "DIP-8",
+    "deviceName": "LT1225CN8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1225_linear.pdf"
+  },
+  {
+    "smdCode": "1225",
+    "package": "SO-8",
+    "deviceName": "LT1225CS8",
+    "manufacturer": "Linear",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/t/lt1225_linear.pdf"
+  },
+  {
+    "smdCode": "1225B",
+    "package": "QFN-20 3x3",
+    "deviceName": "TPS51225BRUK",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51225%2C_tps51225b%2C_tps51225c_rb_ti.pdf"
+  },
+  {
+    "smdCode": "1225C",
+    "package": "QFN-20 3x3",
+    "deviceName": "TPS51225CRUK",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps51225%2C_tps51225b%2C_tps51225c_rb_ti.pdf"
+  },
+  {
+    "smdCode": "123",
+    "package": "UMT3F",
+    "deviceName": "DTC143ZUB",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc143zub_rohm.pdf"
+  },
+  {
+    "smdCode": "123N08NS",
+    "package": "TDSON-8",
+    "deviceName": "BSC123N08NS3 G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc123n08ns3g_infineon.pdf"
+  },
+  {
+    "smdCode": "123N10LS",
+    "package": "TDSON-8",
+    "deviceName": "BSC123N10LS G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc123n10lsg_infineon.pdf"
+  },
+  {
+    "smdCode": "125G",
+    "package": "SOT-343",
+    "deviceName": "LR9101G-25-AL4-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "125L",
+    "package": "SOT-343",
+    "deviceName": "LR9101L-25-AL4-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "127G",
+    "package": "SOT-343",
+    "deviceName": "LR9101G-27-AL4-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "127L",
+    "package": "SOT-343",
+    "deviceName": "LR9101L-27-AL4-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "1280MP",
+    "package": "ESOP-8",
+    "deviceName": "AP1280MP",
+    "manufacturer": "Apec",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap1280mp_20101105_apec.pdf"
+  },
+  {
+    "smdCode": "128G",
+    "package": "SOT-343",
+    "deviceName": "LR9101G-28-AL4-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "128L",
+    "package": "SOT-343",
+    "deviceName": "LR9101L-28-AL4-R",
+    "manufacturer": "UTC",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/l/r/lr9101_20140812_utc.pdf"
+  },
+  {
+    "smdCode": "12A",
+    "package": "SMB",
+    "deviceName": "1.5SMC12AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "12A",
+    "package": "SOT-346",
+    "deviceName": "PZM12NB2A",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzm-na_series_philips.pdf"
+  },
+  {
+    "smdCode": "12C",
+    "package": "SOT-23",
+    "deviceName": "PSOT12C",
+    "manufacturer": "Protek",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  },
+  {
+    "smdCode": "12V",
+    "package": "SOT-26",
+    "deviceName": "SMS12T1",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/sms05t1%2C_sms12t1%2C_sms15t1%2C_sms24t1_on.pdf"
+  },
+  {
+    "smdCode": "12W",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_nxp.pdf"
+  },
+  {
+    "smdCode": "12W",
+    "package": "SOT-323",
+    "deviceName": "CMSZDA33V",
+    "manufacturer": "Central",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmszda_series_central.pdf"
+  },
+  {
+    "smdCode": "12Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C12",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "12p",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_nxp.pdf"
+  },
+  {
+    "smdCode": "12t",
+    "package": "SOT-23",
+    "deviceName": "2N7002",
+    "manufacturer": "NXP",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n7002_nxp.pdf"
+  }
+]

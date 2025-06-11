@@ -1,0 +1,282 @@
+[
+  {
+    "smdCode": "C3",
+    "package": "SOT-23",
+    "deviceName": "1SS226",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss226_galaxy.pdf"
+  },
+  {
+    "smdCode": "C3",
+    "package": "SOT-23",
+    "deviceName": "1SS226",
+    "manufacturer": "TIP",
+    "data": "Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss226_tip.pdf"
+  },
+  {
+    "smdCode": "C3",
+    "package": "SOT-323",
+    "deviceName": "1SS302",
+    "manufacturer": "Toshiba",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1ss302_toshiba.pdf"
+  },
+  {
+    "smdCode": "C3",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-C56",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C3",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B3V0",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "C3",
+    "package": "SOT-23",
+    "deviceName": "KST4126",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst4126_fairchild.pdf"
+  },
+  {
+    "smdCode": "C3",
+    "package": "SOT-23",
+    "deviceName": "SST113",
+    "manufacturer": "Vishay",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/j/1/j111%2C_j112%2C_j113%2C_sst111%2C_sst112%2C_sst113_vishay.pdf"
+  },
+  {
+    "smdCode": "C3**",
+    "package": "SOT-23",
+    "deviceName": "APS1016ES5-1.8",
+    "manufacturer": "APSemi",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/aps1016_apsemi.pdf"
+  },
+  {
+    "smdCode": "C3-",
+    "package": "SOT-23",
+    "deviceName": "2PD601ART",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601art_r01_nxp.pdf"
+  },
+  {
+    "smdCode": "C3-**",
+    "package": "WDFN-12 3x3",
+    "deviceName": "RT8020BPQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8020_richtek.pdf"
+  },
+  {
+    "smdCode": "C3-***",
+    "package": "SOT-353",
+    "deviceName": "RT9013B-28PU5",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013b_richtek.pdf"
+  },
+  {
+    "smdCode": "C3-***",
+    "package": "SOT-25",
+    "deviceName": "RT9169-30PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "C30",
+    "package": "SOT-563",
+    "deviceName": "CMLDM7003",
+    "manufacturer": "Central",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmldm7003_central.pdf"
+  },
+  {
+    "smdCode": "C300",
+    "package": "SOT-25",
+    "deviceName": "ZXSC300",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxsc300_zetex.pdf"
+  },
+  {
+    "smdCode": "C323TS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTC323TS",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc323tk%2C_dtc323ts%2C_dtc323tu%2C_dtc343tk%2C_dtc343ts_rohm.pdf"
+  },
+  {
+    "smdCode": "C327",
+    "package": "SOT-54",
+    "deviceName": "BC327",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C32716",
+    "package": "SOT-54",
+    "deviceName": "BC327-16",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C32725",
+    "package": "SOT-54",
+    "deviceName": "BC327-25",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C32740",
+    "package": "SOT-54",
+    "deviceName": "BC327-40",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc327%2C_bc807%2C_bc807w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C337",
+    "package": "SOT-54",
+    "deviceName": "BC337",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C33716",
+    "package": "SOT-54",
+    "deviceName": "BC337-16",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C33725",
+    "package": "SOT-54",
+    "deviceName": "BC337-25",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C33740",
+    "package": "SOT-54",
+    "deviceName": "BC337-40",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc337%2C_bc817%2C_bc817w_series_nxp.pdf"
+  },
+  {
+    "smdCode": "C3415S",
+    "package": "SPT / SC-72",
+    "deviceName": "2SC3415S",
+    "manufacturer": "ROHM",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4061k%2C_2sc3415s%2C_2sc4015_rohm.pdf"
+  },
+  {
+    "smdCode": "C343TS",
+    "package": "SPT / SC-72",
+    "deviceName": "DTC343TS",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc323tk%2C_dtc323ts%2C_dtc323tu%2C_dtc343tk%2C_dtc343ts_rohm.pdf"
+  },
+  {
+    "smdCode": "C3615",
+    "package": "TO-92",
+    "deviceName": "2SC3615",
+    "manufacturer": "NEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3615_nec.pdf"
+  },
+  {
+    "smdCode": "C3616",
+    "package": "TO-92",
+    "deviceName": "2SC3616",
+    "manufacturer": "NEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3616_nec.pdf"
+  },
+  {
+    "smdCode": "C3619",
+    "package": "2-8H1A",
+    "deviceName": "2SC3619",
+    "manufacturer": "Toshiba",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc3619_toshiba.pdf"
+  },
+  {
+    "smdCode": "C363ES",
+    "package": "SPT / SC-72",
+    "deviceName": "DTC363ES",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtc363ek%2C_dtc363es%2C_dtc363eu_rohm.pdf"
+  },
+  {
+    "smdCode": "C3=**",
+    "package": "WDFN-12 3x3",
+    "deviceName": "RT8020BGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8020_richtek.pdf"
+  },
+  {
+    "smdCode": "C3G",
+    "package": "SOT-563",
+    "deviceName": "CMLDM7003G",
+    "manufacturer": "Central",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmldm7003_central.pdf"
+  },
+  {
+    "smdCode": "C3J",
+    "package": "SOT-563",
+    "deviceName": "CMLDM7003J",
+    "manufacturer": "Central",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/c/m/cmldm7003_central.pdf"
+  },
+  {
+    "smdCode": "C3W",
+    "package": "SOT-23",
+    "deviceName": "2PD601ART",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601art_r01_nxp.pdf"
+  },
+  {
+    "smdCode": "C3p",
+    "package": "SOT-23",
+    "deviceName": "2PD601ART",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601art_r01_nxp.pdf"
+  },
+  {
+    "smdCode": "C3t",
+    "package": "SOT-23",
+    "deviceName": "2PD601ART",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/p/2pd601art_r01_nxp.pdf"
+  }
+]

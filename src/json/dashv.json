@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "-V0",
+    "package": "SOT-23",
+    "deviceName": "BAV23A",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav23%2C_bav23a%2C_bav23c%2C_bav23s_nxp.pdf"
+  },
+  {
+    "smdCode": "-V3",
+    "package": "SOT-23",
+    "deviceName": "BAT54A",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  },
+  {
+    "smdCode": "-V4",
+    "package": "SOT-23",
+    "deviceName": "BAT54S",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  },
+  {
+    "smdCode": "-V5",
+    "package": "SOT-23",
+    "deviceName": "BAV23S",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav23%2C_bav23a%2C_bav23c%2C_bav23s_nxp.pdf"
+  },
+  {
+    "smdCode": "-V9",
+    "package": "SOT-23",
+    "deviceName": "BAV23C",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav23%2C_bav23a%2C_bav23c%2C_bav23s_nxp.pdf"
+  },
+  {
+    "smdCode": "-VY",
+    "package": "SOT-363",
+    "deviceName": "BSS84AKS",
+    "manufacturer": "NXP",
+    "data": "P-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bss84aks_r1_nxp.pdf"
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "smdCode": "D4",
+    "package": "SOT-883",
+    "deviceName": "BC847AM",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc547%2C_bc847_series_nxp.pdf"
+  },
+  {
+    "smdCode": "D4",
+    "package": "SOT-23",
+    "deviceName": "MMBD4148SE",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbd4148a%2C_mmbd4148ca%2C_mmbd4148cc%2C_mmbd4148se_galaxy.pdf"
+  },
+  {
+    "smdCode": "D4",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5229",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "D4*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-MBPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "D4-***",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9011-FFPQWB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "D4.3",
+    "package": "SOT-23",
+    "deviceName": "TZT4V3AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D4.7",
+    "package": "SOT-23",
+    "deviceName": "TZT4V7AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D41",
+    "package": "SOT-23",
+    "deviceName": "AZ23B2V7-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D41",
+    "package": "SOT-23",
+    "deviceName": "AZ23C2V7-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D42",
+    "package": "SOT-23",
+    "deviceName": "AZ23B3V0-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D42",
+    "package": "SOT-23",
+    "deviceName": "AZ23C3V0-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D43",
+    "package": "SOT-23",
+    "deviceName": "AZ23B3V3-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D43",
+    "package": "SOT-23",
+    "deviceName": "AZ23C3V3-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D43",
+    "package": "SOT-23",
+    "deviceName": "TZT43AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D44",
+    "package": "SOT-23",
+    "deviceName": "AZ23B3V6-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D44",
+    "package": "SOT-23",
+    "deviceName": "AZ23C3V6-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D45",
+    "package": "SOT-23",
+    "deviceName": "AZ23B3V9-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D45",
+    "package": "SOT-23",
+    "deviceName": "AZ23C3V9-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D46",
+    "package": "SOT-23",
+    "deviceName": "AZ23B4V3-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D46",
+    "package": "SOT-23",
+    "deviceName": "AZ23C4V3-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D47",
+    "package": "SOT-23",
+    "deviceName": "AZ23B4V7-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D47",
+    "package": "SOT-23",
+    "deviceName": "AZ23C4V7-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D47",
+    "package": "SOT-23",
+    "deviceName": "TZT47AW",
+    "manufacturer": "Taitron",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/z/tzt3v9aw-tzt47aw%2C_tzt3v3cw-tzt39cw_20070515_taitron.pdf"
+  },
+  {
+    "smdCode": "D48",
+    "package": "SOT-23",
+    "deviceName": "AZ23B5V1-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D48",
+    "package": "SOT-23",
+    "deviceName": "AZ23C5V1-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D480",
+    "package": "TO-252",
+    "deviceName": "AOD480",
+    "manufacturer": "Alpha & Omega",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/o/aod480_ao.pdf"
+  },
+  {
+    "smdCode": "D49",
+    "package": "SOT-23",
+    "deviceName": "AZ23B5V6-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D49",
+    "package": "SOT-23",
+    "deviceName": "AZ23C5V6-G",
+    "manufacturer": "Vishay",
+    "data": "Zener diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az23-g-series_r1.4_vishay.pdf"
+  },
+  {
+    "smdCode": "D4=***",
+    "package": "SOT-353",
+    "deviceName": "RT9198-27GU5R",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9198%2C_rt9198a_richtek.pdf"
+  }
+]

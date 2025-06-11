@@ -1,0 +1,42 @@
+[
+  {
+    "smdCode": "JG",
+    "package": "SOT-23",
+    "deviceName": "BAV99",
+    "manufacturer": "WTE",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99_wte.pdf"
+  },
+  {
+    "smdCode": "JG",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q461B",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "JG-",
+    "package": "SOT-89",
+    "deviceName": "RT9166-12PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "JG-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167A-31PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "JG-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818B-27PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  }
+]

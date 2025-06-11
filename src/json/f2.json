@@ -1,0 +1,146 @@
+[
+  {
+    "smdCode": "F2",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C2V7",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "F2",
+    "package": "SMA",
+    "deviceName": "EC11FS2",
+    "manufacturer": "Nihon",
+    "data": "Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/c/ec11fs2_nihon.pdf"
+  },
+  {
+    "smdCode": "F2",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5237",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "F2",
+    "package": "SOD-323",
+    "deviceName": "UDZS6.8B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "F2*",
+    "package": "SOT-23",
+    "deviceName": "HSMP-3822",
+    "manufacturer": "Avago",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/s/hsmp-382x%2C_482x_avago.pdf"
+  },
+  {
+    "smdCode": "F2**",
+    "package": "SOT-26",
+    "deviceName": "TC1073-2.7VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "F21",
+    "package": "SOT-346",
+    "deviceName": "DTD113EK",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd113ek%2C_dtd113es_rohm.pdf"
+  },
+  {
+    "smdCode": "F22",
+    "package": "SOT-346",
+    "deviceName": "DTD123EK",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd123ek%2C_dtd123es_rohm.pdf"
+  },
+  {
+    "smdCode": "F23",
+    "package": "SOT-23",
+    "deviceName": "DTD143EC",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd143ec%2C_dtd143ek%2C_dtd143es_rohm.pdf"
+  },
+  {
+    "smdCode": "F23",
+    "package": "SOT-346",
+    "deviceName": "DTD143EK",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtd143ec%2C_dtd143ek%2C_dtd143es_rohm.pdf"
+  },
+  {
+    "smdCode": "F25",
+    "package": "SOT-25",
+    "deviceName": "SP6201EM5-2-5",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "F25*",
+    "package": "SOT-23",
+    "deviceName": "WL2805N25",
+    "manufacturer": "Willsemi",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/w/l/wl2805n_wiil.pdf"
+  },
+  {
+    "smdCode": "F27",
+    "package": "SOT-25",
+    "deviceName": "SP6201EM5-2-7",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "F28",
+    "package": "SOT-363",
+    "deviceName": "UMF28N",
+    "manufacturer": "ROHM",
+    "data": "NPN digital transistor + PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/m/umf28n_rohm.pdf"
+  },
+  {
+    "smdCode": "F28*",
+    "package": "SOT-23",
+    "deviceName": "WL2805N28",
+    "manufacturer": "Willsemi",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/w/l/wl2805n_wiil.pdf"
+  },
+  {
+    "smdCode": "F285",
+    "package": "SOT-25",
+    "deviceName": "SP6201EM5-2-85",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "F2=**",
+    "package": "WDFN-10 3x3",
+    "deviceName": "RT9018B-18GQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9018a%2C_rt9018b_r09_richtek.pdf"
+  },
+  {
+    "smdCode": "F2=***",
+    "package": "SOT-26",
+    "deviceName": "R7732LGE",
+    "manufacturer": "Richtek",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/7/r7732_richtek.pdf"
+  }
+]

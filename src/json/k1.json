@@ -1,0 +1,250 @@
+[
+  {
+    "smdCode": "K1",
+    "package": "SOT-23",
+    "deviceName": "BCW71",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bcw71%2C_bcw72_zetex.pdf"
+  },
+  {
+    "smdCode": "K1",
+    "package": "SOD-323",
+    "deviceName": "BZX384-B2V4",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx384_series_nxp.pdf"
+  },
+  {
+    "smdCode": "K1",
+    "package": "EMT6",
+    "deviceName": "EM6K1",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/em6k1_rohm.pdf"
+  },
+  {
+    "smdCode": "K1",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5251",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "K1",
+    "package": "SOT-25",
+    "deviceName": "SP6641AEK-3.3",
+    "manufacturer": "Sipex",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6641a%2C_sp6641b_sipex.pdf"
+  },
+  {
+    "smdCode": "K1",
+    "package": "SOT-353",
+    "deviceName": "UM5K1N",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/m/um5k1n_rohm.pdf"
+  },
+  {
+    "smdCode": "K1",
+    "package": "SOT-363",
+    "deviceName": "UM6K1N",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/m/um6k1n_rohm.pdf"
+  },
+  {
+    "smdCode": "K1***",
+    "package": "SOT-23",
+    "deviceName": "TN2404K",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bs107kl%2C_tn2404k%2C_tn2404kl_vishay.pdf"
+  },
+  {
+    "smdCode": "K1-",
+    "package": "SOT-363",
+    "deviceName": "BAV99S",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99_series_nxp.pdf"
+  },
+  {
+    "smdCode": "K1-",
+    "package": "SOT-89",
+    "deviceName": "RT9170-33PX",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9170_richtek.pdf"
+  },
+  {
+    "smdCode": "K1-***",
+    "package": "SOT-23",
+    "deviceName": "RT9818E-30PV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "K101",
+    "package": "SOT-25",
+    "deviceName": "TS951",
+    "manufacturer": "STMicroelectronics",
+    "data": "Operational amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/s/ts951%2C_ts952%2C_ts954_st.pdf"
+  },
+  {
+    "smdCode": "K13",
+    "package": "SOT-363",
+    "deviceName": "MMDT4413",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN + PNP transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdt4413_galaxy.pdf"
+  },
+  {
+    "smdCode": "K14",
+    "package": "SOT-346",
+    "deviceName": "DTA114GKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114gka%2C_dta114gsa%2C_dta114gua_rohm.pdf"
+  },
+  {
+    "smdCode": "K14",
+    "package": "SOT-323",
+    "deviceName": "DTA114GUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta114gka%2C_dta114gsa%2C_dta114gua_rohm.pdf"
+  },
+  {
+    "smdCode": "K15",
+    "package": "SOT-346",
+    "deviceName": "DTA124GKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta124gka%2C_dta124gsa_rohm.pdf"
+  },
+  {
+    "smdCode": "K1529",
+    "package": "SC-65",
+    "deviceName": "2SK1529",
+    "manufacturer": "Toshiba",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sk1529_toshiba.pdf"
+  },
+  {
+    "smdCode": "K16",
+    "package": "SOT-346",
+    "deviceName": "DTA144GKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta144gka%2C_dta144gua_rohm.pdf"
+  },
+  {
+    "smdCode": "K16",
+    "package": "SOT-323",
+    "deviceName": "DTA144GUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta144gka%2C_dta144gua_rohm.pdf"
+  },
+  {
+    "smdCode": "K1648",
+    "package": "SO-8",
+    "deviceName": "MC100EL1648",
+    "manufacturer": "ON",
+    "data": "Voltage controlled oscillator amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mc100el1648_on.pdf"
+  },
+  {
+    "smdCode": "K19",
+    "package": "SOT-346",
+    "deviceName": "DTA115GKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115gka%2C_dta115gua_rohm.pdf"
+  },
+  {
+    "smdCode": "K19",
+    "package": "SOT-323",
+    "deviceName": "DTA115GUA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta115gka%2C_dta115gua_rohm.pdf"
+  },
+  {
+    "smdCode": "K1=***",
+    "package": "SOT-23",
+    "deviceName": "RT9818E-30GV",
+    "manufacturer": "Richtek",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9818_richtek.pdf"
+  },
+  {
+    "smdCode": "K1N",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "Diodes",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904_diodes.pdf"
+  },
+  {
+    "smdCode": "K1O",
+    "package": "SOT-23",
+    "deviceName": "KSC3265",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc3265_fairchild.pdf"
+  },
+  {
+    "smdCode": "K1P",
+    "package": "SOT-23",
+    "deviceName": "MMBT2222A",
+    "manufacturer": "Diodes",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt2222a_diodes.pdf"
+  },
+  {
+    "smdCode": "K1P",
+    "package": "SOT-363",
+    "deviceName": "MMDT2222A",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistors",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmdt2222a_galaxy.pdf"
+  },
+  {
+    "smdCode": "K1W",
+    "package": "SOT-363",
+    "deviceName": "BAV99S",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99_series_nxp.pdf"
+  },
+  {
+    "smdCode": "K1Y",
+    "package": "SOT-23",
+    "deviceName": "KSC3265",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/ksc3265_fairchild.pdf"
+  },
+  {
+    "smdCode": "K1p",
+    "package": "SOT-363",
+    "deviceName": "BAV99S",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99_series_nxp.pdf"
+  },
+  {
+    "smdCode": "K1t",
+    "package": "SOT-363",
+    "deviceName": "BAV99S",
+    "manufacturer": "NXP",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bav99_series_nxp.pdf"
+  }
+]

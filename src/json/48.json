@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "48",
+    "package": "SOD-523",
+    "deviceName": "1N4448X",
+    "manufacturer": "TIP",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/n/1n4448x_tip.pdf"
+  },
+  {
+    "smdCode": "4800",
+    "package": "SO-8",
+    "deviceName": "Si4800",
+    "manufacturer": "Philips (Now NXP)",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si4800_philips.pdf"
+  },
+  {
+    "smdCode": "4800",
+    "package": "SO-8",
+    "deviceName": "Si4800DY",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si4800dy_vishay.pdf"
+  },
+  {
+    "smdCode": "4800B",
+    "package": "SO-8",
+    "deviceName": "Si4800BDY",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si4800bdy_vishay.pdf"
+  },
+  {
+    "smdCode": "4810",
+    "package": "SO-8",
+    "deviceName": "Si4810DY",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si4810dy_vishay.pdf"
+  },
+  {
+    "smdCode": "4816",
+    "package": "SO-8",
+    "deviceName": "Si4816DY",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si4816dy_vishay.pdf"
+  },
+  {
+    "smdCode": "4816B",
+    "package": "SO-8",
+    "deviceName": "Si4816BDY",
+    "manufacturer": "Vishay",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si4816bdy_vishay.pdf"
+  },
+  {
+    "smdCode": "4835B",
+    "package": "SO-8",
+    "deviceName": "Si4835BDY",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si4835bdy_rd_vishay.pdf"
+  },
+  {
+    "smdCode": "4835N",
+    "package": "SO-8 FL",
+    "deviceName": "NTMFS4835NT1G",
+    "manufacturer": "ON",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/t/ntmfs4835n_r7_on.pdf"
+  },
+  {
+    "smdCode": "4870",
+    "package": "SOT-26",
+    "deviceName": "SD4870TR",
+    "manufacturer": "Silan",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/d/sd4870_r1.3_silan.pdf"
+  },
+  {
+    "smdCode": "48N025S",
+    "package": "TDSON-8",
+    "deviceName": "BSC048N025S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc048n025sg_infineon.pdf"
+  },
+  {
+    "smdCode": "48T",
+    "package": "SOT-23",
+    "deviceName": "TK71548AS",
+    "manufacturer": "Toko",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

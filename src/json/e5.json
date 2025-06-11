@@ -1,0 +1,98 @@
+[
+  {
+    "smdCode": "E5",
+    "package": "SOD-123F",
+    "deviceName": "BZT52H-B30",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzt52h_series_nxp.pdf"
+  },
+  {
+    "smdCode": "E5",
+    "package": "SOD-523",
+    "deviceName": "BZX585-B9V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "E5",
+    "package": "SOD-123",
+    "deviceName": "MMSZ5235",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmsz5225-mmsz5267_r1.9_vishay.pdf"
+  },
+  {
+    "smdCode": "E5",
+    "package": "SOT-883",
+    "deviceName": "PDTA114EM",
+    "manufacturer": "NXP",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta114e_series_nxp.pdf"
+  },
+  {
+    "smdCode": "E5",
+    "package": "SOD-323",
+    "deviceName": "UDZS33B",
+    "manufacturer": "ROHM",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/d/udzs3.6b-udzs36b_rohm.pdf"
+  },
+  {
+    "smdCode": "E5*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9013-1BPQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "E5***",
+    "package": "SOT-23",
+    "deviceName": "Si2335DS",
+    "manufacturer": "Vishay",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/i/si2335ds_vishay.pdf"
+  },
+  {
+    "smdCode": "E5-**",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9715FPQW",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  },
+  {
+    "smdCode": "E5-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-20PB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "E50",
+    "package": "SOT-25",
+    "deviceName": "SP6200EM5-5-0",
+    "manufacturer": "Sipex",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/p/sp6200%2C_sp6201_sipex.pdf"
+  },
+  {
+    "smdCode": "E56",
+    "package": "SOT-346",
+    "deviceName": "DTA144VKA",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dta144vka%2C_dta144vsa_rohm.pdf"
+  },
+  {
+    "smdCode": "E5=**",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9715FGQW",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  }
+]

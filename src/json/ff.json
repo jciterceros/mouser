@@ -1,0 +1,106 @@
+[
+  {
+    "smdCode": "FF",
+    "package": "TSLP-2-1",
+    "deviceName": "BAS40-02L",
+    "manufacturer": "Infineon",
+    "data": "Schottky diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas40_series%2C_bas140_infineon.pdf"
+  },
+  {
+    "smdCode": "FF",
+    "package": "SOT-553",
+    "deviceName": "BD4925FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "FF",
+    "package": "SOT-25",
+    "deviceName": "BD4925G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "FF",
+    "package": "SOD-323F",
+    "deviceName": "PZU8.2B1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "FF",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q171B",
+    "manufacturer": "Ricoh",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "FF **",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8208AZQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8208a%2C_rt8208b_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "FF**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US42D4-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "FF-",
+    "package": "SOT-89",
+    "deviceName": "RT9261B-30PX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261b_richtek.pdf"
+  },
+  {
+    "smdCode": "FF-***",
+    "package": "SOT-25",
+    "deviceName": "RT9261-30PB",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "FF=**",
+    "package": "WQFN-16 3x3",
+    "deviceName": "RT8208AGQW",
+    "manufacturer": "Richtek",
+    "data": "Step-Down Controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt8208a%2C_rt8208b_r04_richtek.pdf"
+  },
+  {
+    "smdCode": "FF=***",
+    "package": "SOT-25",
+    "deviceName": "RT9261-30GB",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "Ff",
+    "package": "SOT-25",
+    "deviceName": "BD49E60G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Ff",
+    "package": "SOT-23",
+    "deviceName": "BD49K60G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  }
+]

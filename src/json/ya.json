@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "YA",
+    "package": "SOD-323",
+    "deviceName": "PZU2.7B1A/DG",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "YA",
+    "package": "2-2H1A",
+    "deviceName": "RN2101F",
+    "manufacturer": "Toshiba",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/n/rn2101f-rn2106f_toshiba.pdf"
+  }
+]

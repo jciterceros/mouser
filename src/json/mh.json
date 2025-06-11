@@ -1,0 +1,66 @@
+[
+  {
+    "smdCode": "MH",
+    "package": "SOT-323",
+    "deviceName": "M1MA141K",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "Switching diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/1/m1ma141k%2C_m1ma142k_galaxy.pdf"
+  },
+  {
+    "smdCode": "MH",
+    "package": "SOT-343R",
+    "deviceName": "NCP4586DSQ28T1G",
+    "manufacturer": "ON",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/c/ncp4586_r5_on.pdf"
+  },
+  {
+    "smdCode": "MH",
+    "package": "SOD-323",
+    "deviceName": "PZU30BA",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MH",
+    "package": "SOT-343R",
+    "deviceName": "RP130Q281D",
+    "manufacturer": "Ricoh",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/p/rp130x-series_ricoh.pdf"
+  },
+  {
+    "smdCode": "MH=***",
+    "package": "SOT-23",
+    "deviceName": "RT9166-33GV",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9166%2C_rt9166a_richtek.pdf"
+  },
+  {
+    "smdCode": "MHJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB56",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "Mh",
+    "package": "SOT-23",
+    "deviceName": "BD49L42G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "Mh",
+    "package": "SOT-25",
+    "deviceName": "BD52E32G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

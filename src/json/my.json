@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "MY",
+    "package": "SOT-89",
+    "deviceName": "2SC2873",
+    "manufacturer": "Toshiba",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc2873_toshiba.pdf"
+  },
+  {
+    "smdCode": "MY",
+    "package": "SOT-25",
+    "deviceName": "NUP4004M5",
+    "manufacturer": "ON",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/n/u/nup4004m5_on.pdf"
+  },
+  {
+    "smdCode": "MY",
+    "package": "SOD-323",
+    "deviceName": "PZU5.1B2A",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxba_series_nxp.pdf"
+  },
+  {
+    "smdCode": "MYJ",
+    "package": "DO-214AA",
+    "deviceName": "P6SMB110",
+    "manufacturer": "TSC",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/6/p6smb6.8-p6smb200a_tsc.pdf"
+  },
+  {
+    "smdCode": "My",
+    "package": "SOT-23",
+    "deviceName": "BD49L48G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "My",
+    "package": "SOT-25",
+    "deviceName": "BD52E38G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

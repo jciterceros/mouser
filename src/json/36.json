@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "36",
+    "package": "SOT-23",
+    "deviceName": "PSOT36",
+    "manufacturer": "Protek",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  },
+  {
+    "smdCode": "36",
+    "package": "SOT-23",
+    "deviceName": "ZD36-AE3",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "36",
+    "package": "SOD-323",
+    "deviceName": "ZD36-CL2",
+    "manufacturer": "UTC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/d/zd2.4-zd36_utc.pdf"
+  },
+  {
+    "smdCode": "3643G",
+    "package": "SOT-26",
+    "deviceName": "AIC3643GG6",
+    "manufacturer": "AiC",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/i/aic3643_r01_aic.pdf"
+  },
+  {
+    "smdCode": "3643K",
+    "package": "SOT-26",
+    "deviceName": "AIC3643GK6",
+    "manufacturer": "AiC",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/i/aic3643_r01_aic.pdf"
+  },
+  {
+    "smdCode": "36A",
+    "package": "SMB",
+    "deviceName": "1.5SMC36AT3",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/_/1_5smcxxat3_on.pdf"
+  },
+  {
+    "smdCode": "36C",
+    "package": "SOT-23",
+    "deviceName": "PSOT36C",
+    "manufacturer": "Protek",
+    "data": "TVS Diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/s/psot03-psot36_protek.pdf"
+  },
+  {
+    "smdCode": "36T",
+    "package": "SOT-23",
+    "deviceName": "TK71536AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "36Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49-C36",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_nxp.pdf"
+  },
+  {
+    "smdCode": "36Y",
+    "package": "SOT-89",
+    "deviceName": "BZV49C36",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzv49_series_zetex.pdf"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "-W1",
+    "package": "SOT-23",
+    "deviceName": "BAT54C",
+    "manufacturer": "NXP",
+    "data": "Schottky diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bat54_series_nxp.pdf"
+  }
+]

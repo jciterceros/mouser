@@ -1,0 +1,250 @@
+[
+  {
+    "smdCode": "21",
+    "package": "SOT-26",
+    "deviceName": "IP4223CZ6",
+    "manufacturer": "NXP",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/p/ip4223cz6_r1_nxp.pdf"
+  },
+  {
+    "smdCode": "21-",
+    "package": "SOT-23",
+    "deviceName": "BF545B",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  },
+  {
+    "smdCode": "210",
+    "package": "SOT-23",
+    "deviceName": "KTY82/210",
+    "manufacturer": "NXP",
+    "data": "Temperature sensor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/t/kty82_nxp.pdf"
+  },
+  {
+    "smdCode": "2114",
+    "package": "SOP-8",
+    "deviceName": "HAT2114R",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/a/hat2114r%2C_hat2114rj_renesas.pdf"
+  },
+  {
+    "smdCode": "2114",
+    "package": "SOP-8",
+    "deviceName": "HAT2114RJ",
+    "manufacturer": "Renesas",
+    "data": "N-Channel MOSFETs",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/h/a/hat2114r%2C_hat2114rj_renesas.pdf"
+  },
+  {
+    "smdCode": "2114",
+    "package": "TSSOP-8",
+    "deviceName": "TPS2114PW",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2114%2C_tps2115_ti.pdf"
+  },
+  {
+    "smdCode": "2114M-1.2G1",
+    "package": "SO-8",
+    "deviceName": "AP2114M-1.2TRG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2114M-1.5G1",
+    "package": "SO-8",
+    "deviceName": "AP2114M-1.5TRG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2114M-1.8G1",
+    "package": "SO-8",
+    "deviceName": "AP2114M-1.8TRG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2114M-2.5G1",
+    "package": "SO-8",
+    "deviceName": "AP2114M-2.5TRG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2114M-3.3G1",
+    "package": "SO-8",
+    "deviceName": "AP2114M-3.3TRG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2114M-ADJG1",
+    "package": "SO-8",
+    "deviceName": "AP2114M-ADJG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2114MP-1.2G1",
+    "package": "SOP-8",
+    "deviceName": "AP2114MP-1.2TRG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2114MP-1.5G1",
+    "package": "SOP-8",
+    "deviceName": "AP2114MP-1.5TRG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2114MP-1.8G1",
+    "package": "SOP-8",
+    "deviceName": "AP2114MP-1.8TRG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2114MP-2.5G1",
+    "package": "SOP-8",
+    "deviceName": "AP2114MP-2.5TRG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2114MP-3.3G1",
+    "package": "SOP-8",
+    "deviceName": "AP2114MP-3.3TRG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2114MP-ADJG1",
+    "package": "SOP-8",
+    "deviceName": "AP2114MP-ADJG1",
+    "manufacturer": "BCD",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/p/ap2114_series_bcd.pdf"
+  },
+  {
+    "smdCode": "2115",
+    "package": "TSSOP-8",
+    "deviceName": "TPS2115PW",
+    "manufacturer": "Texas Instruments",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps2114%2C_tps2115_ti.pdf"
+  },
+  {
+    "smdCode": "212*",
+    "package": "SOT-25",
+    "deviceName": "EMC1212",
+    "manufacturer": "SMSC",
+    "data": "Temperature Monitor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emc1212_r1.1_smsc.pdf"
+  },
+  {
+    "smdCode": "212*",
+    "package": "SOT-23",
+    "deviceName": "XP152A12COMR",
+    "manufacturer": "HT",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/x/p/xp152a12comr_htsemi.pdf"
+  },
+  {
+    "smdCode": "2131",
+    "package": "QON24-P",
+    "deviceName": "TA2131FL",
+    "manufacturer": "Toshiba",
+    "data": "Audio power amplifier",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/a/ta2131fl_toshiba.pdf"
+  },
+  {
+    "smdCode": "214**",
+    "package": "SOT-363",
+    "deviceName": "AZ2115-05C",
+    "manufacturer": "Amazing",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/a/z/az2115-05c_20110618_amazing.pdf"
+  },
+  {
+    "smdCode": "2171A",
+    "package": "SO-8",
+    "deviceName": "OPA2171AID",
+    "manufacturer": "Texas Instruments",
+    "data": "Operational amplifiers",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/o/p/opa171%2C_opa2171%2C_opa4171_ti.pdf"
+  },
+  {
+    "smdCode": "21A",
+    "package": "SOT-23",
+    "deviceName": "BAS21A",
+    "manufacturer": "Taitron",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas21a%2C_bas21c%2C_bas21s_taitron.pdf"
+  },
+  {
+    "smdCode": "21C",
+    "package": "SOT-23",
+    "deviceName": "BAS21C",
+    "manufacturer": "Taitron",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas21a%2C_bas21c%2C_bas21s_taitron.pdf"
+  },
+  {
+    "smdCode": "21S",
+    "package": "SOT-23",
+    "deviceName": "BAS21S",
+    "manufacturer": "Taitron",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bas21a%2C_bas21c%2C_bas21s_taitron.pdf"
+  },
+  {
+    "smdCode": "21T",
+    "package": "SOT-23",
+    "deviceName": "TK71521AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  },
+  {
+    "smdCode": "21W",
+    "package": "SOT-23",
+    "deviceName": "BF545B",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  },
+  {
+    "smdCode": "21p",
+    "package": "SOT-23",
+    "deviceName": "BF545B",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  },
+  {
+    "smdCode": "21t",
+    "package": "SOT-23",
+    "deviceName": "BF545B",
+    "manufacturer": "NXP",
+    "data": "N-Channel JFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/f/bf545a%2C_bf545b%2C_bf545c_r4_nxp.pdf"
+  }
+]

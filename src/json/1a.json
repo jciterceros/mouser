@@ -1,0 +1,346 @@
+[
+  {
+    "smdCode": "1A",
+    "package": "SOT-23",
+    "deviceName": "BC846A",
+    "manufacturer": "General Semiconductor (Now Vishay)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc846-bc849_general.pdf"
+  },
+  {
+    "smdCode": "1A",
+    "package": "SOT-416",
+    "deviceName": "BC846AT",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1A",
+    "package": "UMD3F",
+    "deviceName": "DAN202UM",
+    "manufacturer": "ROHM",
+    "data": "Switching diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/a/dan202um_rohm.pdf"
+  },
+  {
+    "smdCode": "1A",
+    "package": "SOT-23",
+    "deviceName": "FMMT3904",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/m/fmmt3903%2C_fmmt3904_zetex.pdf"
+  },
+  {
+    "smdCode": "1A",
+    "package": "SOT-23",
+    "deviceName": "KST3904",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst3904_fairchild.pdf"
+  },
+  {
+    "smdCode": "1A",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "Fairchild",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n3904%2C_mmbt3904%2C_pzt3904_fairchild.pdf"
+  },
+  {
+    "smdCode": "1A",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "Taitron",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904_rc_taitron.pdf"
+  },
+  {
+    "smdCode": "1A **",
+    "package": "SOT-23",
+    "deviceName": "IRLML2402",
+    "manufacturer": "IRF",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/r/irlml2402_irf.pdf"
+  },
+  {
+    "smdCode": "1A-",
+    "package": "SOT-23",
+    "deviceName": "BC846A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1A-",
+    "package": "SOT-323",
+    "deviceName": "BC846AW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1A1",
+    "package": "SOT-23",
+    "deviceName": "ZXTN25020DFLTA",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxtn25020dfl_zetex.pdf"
+  },
+  {
+    "smdCode": "1A18",
+    "package": "SOT-23",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A18",
+    "package": "SOT-89",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A20",
+    "package": "SOT-23",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A20",
+    "package": "SOT-89",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A25",
+    "package": "SOT-23",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A25",
+    "package": "SOT-89",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A30",
+    "package": "SOT-23",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A30",
+    "package": "SOT-89",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A35",
+    "package": "SOT-23",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A35",
+    "package": "SOT-89",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A4",
+    "package": "SOT-23",
+    "deviceName": "ZXTN25040DFH",
+    "manufacturer": "Zetex (Now Diodes)",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/z/x/zxtn25040dfh_zetex.pdf"
+  },
+  {
+    "smdCode": "1A40",
+    "package": "SOT-23",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A40",
+    "package": "SOT-89",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A45",
+    "package": "SOT-23",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A45",
+    "package": "SOT-89",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A50",
+    "package": "SOT-23",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A50",
+    "package": "SOT-89",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A55",
+    "package": "SOT-23",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A55",
+    "package": "SOT-89",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A60",
+    "package": "SOT-23",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A60",
+    "package": "SOT-89",
+    "deviceName": "MT501",
+    "manufacturer": "Mos-Tech",
+    "data": "LED driver",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/t/mt501_mos-tech.pdf"
+  },
+  {
+    "smdCode": "1A=***",
+    "package": "SOT-25",
+    "deviceName": "RT9169-26GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9169%2C_rt9169h_richtek.pdf"
+  },
+  {
+    "smdCode": "1AM",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "Diodes",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904_diodes_1.pdf"
+  },
+  {
+    "smdCode": "1AM",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904_galaxy.pdf"
+  },
+  {
+    "smdCode": "1AM",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904",
+    "manufacturer": "Taitron",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904_rc_taitron.pdf"
+  },
+  {
+    "smdCode": "1AM",
+    "package": "SOT-23",
+    "deviceName": "MMBT3904LT1",
+    "manufacturer": "ON",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt3904lt1_on.pdf"
+  },
+  {
+    "smdCode": "1AW",
+    "package": "SOT-23",
+    "deviceName": "BC846A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1AW",
+    "package": "SOT-323",
+    "deviceName": "BC846AW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Ap",
+    "package": "SOT-23",
+    "deviceName": "BC846A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1Ap",
+    "package": "SOT-323",
+    "deviceName": "BC846AW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1At",
+    "package": "SOT-23",
+    "deviceName": "BC846A",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  },
+  {
+    "smdCode": "1At",
+    "package": "SOT-323",
+    "deviceName": "BC846AW",
+    "manufacturer": "NXP",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/c/bc546%2C_bc846_series_nxp.pdf"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "smdCode": "6N",
+    "package": "SOD-123FL",
+    "deviceName": "SMZ257F",
+    "manufacturer": "EIC",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smz25xx_eic.pdf"
+  }
+]

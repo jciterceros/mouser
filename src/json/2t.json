@@ -1,0 +1,58 @@
+[
+  {
+    "smdCode": "2T",
+    "package": "SOT-23",
+    "deviceName": "KST4403",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/k/s/kst4403_fairchild.pdf"
+  },
+  {
+    "smdCode": "2T",
+    "package": "SOT-23",
+    "deviceName": "MMBT4403",
+    "manufacturer": "Fairchild",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/n/2n4403%2C_mmbt4403_fairchild.pdf"
+  },
+  {
+    "smdCode": "2T",
+    "package": "SOT-23",
+    "deviceName": "MMBT4403",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbt4403_galaxy.pdf"
+  },
+  {
+    "smdCode": "2T1",
+    "package": "SOT-23",
+    "deviceName": "S9012",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/9/s9012_galaxy.pdf"
+  },
+  {
+    "smdCode": "2T=***",
+    "package": "SOT-25",
+    "deviceName": "RT9013-23GB",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "2TIL",
+    "package": "TSOT-25",
+    "deviceName": "ICS5OSK482TILF",
+    "manufacturer": "IDT",
+    "data": "Clock source",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/c/ics5osk482tilf_idt.pdf"
+  },
+  {
+    "smdCode": "2TY",
+    "package": "SOT-23",
+    "deviceName": "S8550",
+    "manufacturer": "BL Galaxy Electrical",
+    "data": "PNP transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/8/s8550_galaxy.pdf"
+  }
+]

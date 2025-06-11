@@ -1,0 +1,82 @@
+[
+  {
+    "smdCode": "EJ",
+    "package": "SOT-553",
+    "deviceName": "BD4848FVE",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EJ",
+    "package": "SOT-25",
+    "deviceName": "BD4848G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd48xxx_bd49xxx_series_r008_rohm.pdf"
+  },
+  {
+    "smdCode": "EJ",
+    "package": "SOT-23",
+    "deviceName": "MMBZ4717-V",
+    "manufacturer": "Vishay",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/m/mmbz4681-v-mmbz4717-v_vishay.pdf"
+  },
+  {
+    "smdCode": "EJ",
+    "package": "SOT-25",
+    "deviceName": "TPS62229DDC",
+    "manufacturer": "Texas Instruments",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/p/tps62220%2C_tps62221%2C_tps62222%2C_tps62223%2C_tps62224%2C_tps62227%2C_tps62228%2C_tps62229_ti.pdf"
+  },
+  {
+    "smdCode": "EJ*",
+    "package": "WDFN-6 2x2",
+    "deviceName": "RT9013-13PQW",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9013_richtek.pdf"
+  },
+  {
+    "smdCode": "EJ**",
+    "package": "SOT-143",
+    "deviceName": "MAX6314US36D3-T",
+    "manufacturer": "Maxim",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/a/max6314_maxim.pdf"
+  },
+  {
+    "smdCode": "EJ***",
+    "package": "DFN-8 2x2",
+    "deviceName": "SY8805A",
+    "manufacturer": "Silergy",
+    "data": "Step-Down Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/y/sy8805a_silergy.pdf"
+  },
+  {
+    "smdCode": "EJ-",
+    "package": "SOT-89",
+    "deviceName": "RT9261A-33PX",
+    "manufacturer": "Richtek",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9261%2C_rt9261a_richtek.pdf"
+  },
+  {
+    "smdCode": "EJ-***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-33PB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  },
+  {
+    "smdCode": "EJ=***",
+    "package": "SOT-25",
+    "deviceName": "RT9167-33GB",
+    "manufacturer": "Richtek",
+    "data": "Linear Voltage Regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9167%2C_rt9167a_richtek.pdf"
+  }
+]

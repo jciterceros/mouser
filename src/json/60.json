@@ -1,0 +1,26 @@
+[
+  {
+    "smdCode": "60",
+    "package": "SOT-143",
+    "deviceName": "BAR60",
+    "manufacturer": "Siemens",
+    "data": "PIN diodes",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/a/bar60%2C_bar61_siemens.pdf"
+  },
+  {
+    "smdCode": "60*",
+    "package": "SOT-353",
+    "deviceName": "SMF05T1",
+    "manufacturer": "ON",
+    "data": "ESD Protection",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/m/smf05t1_on.pdf"
+  },
+  {
+    "smdCode": "60T",
+    "package": "SOT-23",
+    "deviceName": "TK71560AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

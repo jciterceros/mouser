@@ -1,0 +1,50 @@
+[
+  {
+    "smdCode": "QR",
+    "package": "SMB",
+    "deviceName": "1SMA8.0AT3G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/1/s/1smaxxat3g_on.pdf"
+  },
+  {
+    "smdCode": "QR",
+    "package": "SOT-89",
+    "deviceName": "2SC4536",
+    "manufacturer": "NEC",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4536_nec.pdf"
+  },
+  {
+    "smdCode": "QR",
+    "package": "2-2H1A",
+    "deviceName": "2SC4915",
+    "manufacturer": "Toshiba",
+    "data": "NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/2/s/2sc4915_toshiba.pdf"
+  },
+  {
+    "smdCode": "QR",
+    "package": "SOT-23",
+    "deviceName": "MCP809T-270",
+    "manufacturer": "Microchip",
+    "data": "Microprocessor reset circuit",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/m/c/mcp809%2C_mcp810_microchip.pdf"
+  },
+  {
+    "smdCode": "QR **",
+    "package": "WLCSP-12 1,2x1,6",
+    "deviceName": "FPF2411BUCX_F130",
+    "manufacturer": "Fairchild",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/f/p/fpf2411_r1.7_fairchild.pdf"
+  },
+  {
+    "smdCode": "Qr",
+    "package": "SOT-25",
+    "deviceName": "BD53E41G",
+    "manufacturer": "ROHM",
+    "data": "Voltage Detector",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/d/bd52exxx_bd53exxx_series_r004_rohm.pdf"
+  }
+]

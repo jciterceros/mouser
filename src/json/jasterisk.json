@@ -1,0 +1,18 @@
+[
+  {
+    "smdCode": "J*",
+    "package": "SOD-923",
+    "deviceName": "ESD9R3.3ST5G",
+    "manufacturer": "ON",
+    "data": "TVS Diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/s/esd9r3.3st5g_on.pdf"
+  },
+  {
+    "smdCode": "J****",
+    "package": "SOT-26",
+    "deviceName": "IRF5806PbF",
+    "manufacturer": "IRF",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/i/r/irf5806pbf_irf.pdf"
+  }
+]

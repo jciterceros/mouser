@@ -1,0 +1,74 @@
+[
+  {
+    "smdCode": "37",
+    "package": "SOT-416",
+    "deviceName": "PDTA143ZE",
+    "manufacturer": "NXP",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/d/pdta143ze%2C_pdta143zm%2C_pdta143zt%2C_pdta143zu_nxp.pdf"
+  },
+  {
+    "smdCode": "37**",
+    "package": "SOT-26",
+    "deviceName": "GR8837CG",
+    "manufacturer": "Grenergy",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/r/gr8837_r1.0_grenergy.pdf"
+  },
+  {
+    "smdCode": "37**",
+    "package": "SOT-25",
+    "deviceName": "ST1937S25RG",
+    "manufacturer": "Stanson",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st1937_stanson.pdf"
+  },
+  {
+    "smdCode": "37**",
+    "package": "SOT-353",
+    "deviceName": "ST1937S35RG",
+    "manufacturer": "Stanson",
+    "data": "Step Up Converter",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/s/t/st1937_stanson.pdf"
+  },
+  {
+    "smdCode": "37C**",
+    "package": "SOT-26",
+    "deviceName": "GR8837CCG",
+    "manufacturer": "Grenergy",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/r/gr8837c_rf_grenergy.pdf"
+  },
+  {
+    "smdCode": "37E**",
+    "package": "SOT-26",
+    "deviceName": "GR8837ECG",
+    "manufacturer": "Grenergy",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/r/gr8837e_rc_grenergy.pdf"
+  },
+  {
+    "smdCode": "37N025S",
+    "package": "TDSON-8",
+    "deviceName": "BSC037N025S G",
+    "manufacturer": "Infineon",
+    "data": "N-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/s/bsc037n025sg_infineon.pdf"
+  },
+  {
+    "smdCode": "37R**",
+    "package": "SOT-26",
+    "deviceName": "GR8837RCG",
+    "manufacturer": "Grenergy",
+    "data": "PWM controller",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/g/r/gr8837r_r1.0_grenergy.pdf"
+  },
+  {
+    "smdCode": "37T",
+    "package": "SOT-23",
+    "deviceName": "TK71537AS",
+    "manufacturer": "Toko",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/k/tk715xxas_toko.pdf"
+  }
+]

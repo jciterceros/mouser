@@ -1,0 +1,90 @@
+[
+  {
+    "smdCode": "F9",
+    "package": "SOD-523",
+    "deviceName": "BZX585-C5V1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/b/z/bzx585_series_20040622_nxp.pdf"
+  },
+  {
+    "smdCode": "F9",
+    "package": "EMT6",
+    "deviceName": "EMF9",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emf9_rohm.pdf"
+  },
+  {
+    "smdCode": "F9",
+    "package": "SOD-323F",
+    "deviceName": "PZU4.7B1",
+    "manufacturer": "NXP",
+    "data": "Zener diode",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/p/z/pzuxb_series_nxp.pdf"
+  },
+  {
+    "smdCode": "F9",
+    "package": "SOT-363",
+    "deviceName": "UMF9N",
+    "manufacturer": "ROHM",
+    "data": "N-Channel MOSFET + NPN transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/u/m/umf9n_rohm.pdf"
+  },
+  {
+    "smdCode": "F9*",
+    "package": "WDFN-8 2x2",
+    "deviceName": "RT9011-GKGQW",
+    "manufacturer": "Richtek",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9011_richtek.pdf"
+  },
+  {
+    "smdCode": "F9**",
+    "package": "SOT-26",
+    "deviceName": "TC1073-3.6VCH713",
+    "manufacturer": "Microchip",
+    "data": "LDO regulator",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/t/c/tc1072%2C_tc1073_microchip.pdf"
+  },
+  {
+    "smdCode": "F90P02",
+    "package": "TO-252",
+    "deviceName": "EMF90P02A",
+    "manufacturer": "Excelliancemos",
+    "data": "P-Channel MOSFET",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/e/m/emf90p02a_20121226_excelliancemos.pdf"
+  },
+  {
+    "smdCode": "F92",
+    "package": "SOT-346",
+    "deviceName": "DTB123TK",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb123tk_rohm.pdf"
+  },
+  {
+    "smdCode": "F93",
+    "package": "SOT-346",
+    "deviceName": "DTB143TK",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb143tk_rohm.pdf"
+  },
+  {
+    "smdCode": "F94",
+    "package": "SOT-346",
+    "deviceName": "DTB114TK",
+    "manufacturer": "ROHM",
+    "data": "PNP digital transistor",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/d/t/dtb114tk_rohm.pdf"
+  },
+  {
+    "smdCode": "F9=**",
+    "package": "WDFN-8 3x3",
+    "deviceName": "RT9715AGQW",
+    "manufacturer": "Richtek",
+    "data": "Power Switch",
+    "datasheet": "www.s-manuals.com/pdf/datasheet/r/t/rt9715_richtek.pdf"
+  }
+]
