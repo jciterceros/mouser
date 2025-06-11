@@ -14,10 +14,6 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "resolutions": {
-    "ajv": "8.17.1",
-    "ajv-keywords": "5.1.0"
-  },
   "scripts": {
     "preinstall": "npx npm-force-resolutions",
     "start": "react-scripts start",
